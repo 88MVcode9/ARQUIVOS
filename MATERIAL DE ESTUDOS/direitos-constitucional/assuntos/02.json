@@ -1,0 +1,122 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Direitos Constitucional",
+  "titulo": "Visão Geral",
+  "icone": "⚖️",
+  "descricao": "Panorama essencial dos Direitos Fundamentais na CF/88: conceito, estrutura (Arts. 5º-17), classificação, aplicabilidade imediata, titulares (pessoas humanas e cidadãos) e a proteção indireta aos animais, com dicas e exemplos práticos.",
+  "topicos": [
+    {
+      "titulo": "Direitos Fundamentais — Visão Geral",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito",
+          "texto": "Conjunto de direitos essenciais destinados à proteção da dignidade da pessoa humana, previstos nos **Arts. 5º ao 17** da Constituição Federal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrutura Fundamental (Arts. 5º–17)",
+          "texto": "A CF/88 dedica o Título II (Dos Direitos e Garantias Fundamentais) aos seguintes capítulos:\n\n- **Art. 5º** – Direitos e deveres individuais e coletivos\n- **Arts. 6º a 11** – Direitos sociais\n- **Arts. 12 e 13** – Direitos de nacionalidade\n- **Arts. 14 a 16** – Direitos políticos\n- **Art. 17** – Partidos políticos"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação dos Direitos Fundamentais",
+          "texto": "Os direitos fundamentais se dividem em quatro grandes grupos:",
+          "itens": [
+            "**Direitos individuais e coletivos** – Art. 5º (ex.: vida, liberdade, igualdade, propriedade)",
+            "**Direitos sociais** – Arts. 6º a 11 (ex.: educação, saúde, trabalho, moradia)",
+            "**Direitos de nacionalidade** – Arts. 12 e 13 (quem é brasileiro, naturalização)",
+            "**Direitos políticos** – Arts. 14 a 16 (voto, sufrágio, elegibilidade)",
+            "**Partidos políticos** – Art. 17 (organização e funcionamento)"
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Aplicabilidade Imediata",
+          "texto": "As normas definidoras de direitos fundamentais têm **aplicação imediata** (Art. 5º, §1º). Isso significa que, mesmo sem regulamentação, os direitos já produzem efeitos.\n\nO **Art. 5º é rol exemplificativo** — não exclui outros direitos decorrentes do regime e dos princípios constitucionais (Art. 5º, §2º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Eficácia Vertical e Horizontal",
+          "texto": "Os direitos fundamentais vinculam, em primeiro lugar, o **Estado** (eficácia vertical) – todas as esferas de poder devem respeitá-los.\n\nHá também a **eficácia horizontal** (ou privada): em certas relações entre particulares, os direitos fundamentais também produzem efeitos, especialmente nas relações de poder privado (ex.: empresas, associações), com base na teoria da eficácia direta ou indireta."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Colisão de Direitos e Proporcionalidade",
+          "texto": "Quando dois ou mais direitos fundamentais entram em conflito (ex.: liberdade de expressão x direito à intimidade), utiliza-se a **técnica da ponderação** e o **princípio da proporcionalidade** – avaliando se a restrição a um direito é adequada, necessária e proporcional em sentido estrito para proteger o outro."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Garantias Fundamentais (Remédios Constitucionais)",
+          "texto": "As garantias são mecanismos processuais para proteger os direitos fundamentais. Os principais:\n\n- **Habeas corpus** (Art. 5º, LXVIII) – liberdade de locomoção\n- **Mandado de segurança** (LXIX, LXX) – direito líquido e certo\n- **Mandado de injunção** (LXXI) – falta de norma regulamentadora\n- **Habeas data** (LXXII) – acesso a informações pessoais\n- **Ação popular** (LXXIII) – anular ato lesivo ao patrimônio público"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tratados Internacionais de Direitos Humanos",
+          "texto": "Os tratados e convenções sobre direitos humanos que forem aprovados, em cada Casa do Congresso, por quórum qualificado (3/5), serão equivalentes a **emendas constitucionais** (Art. 5º, §3º).\n\nOs demais tratados têm hierarquia supralegal (inferior à CF, superior à legislação ordinária), conforme entendimento do STF."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Dimensões/Gerações dos Direitos",
+          "texto": "Os direitos fundamentais evoluíram historicamente em dimensões:\n\n- **1ª Dimensão** – direitos civis e políticos (liberdade, propriedade, voto) – Estado abstencionista.\n- **2ª Dimensão** – direitos sociais, econômicos e culturais (educação, saúde, trabalho) – Estado prestacional.\n- **3ª Dimensão** – direitos de solidariedade (meio ambiente, paz, desenvolvimento) – titularidade coletiva.\n- **4ª Dimensão** – direitos decorrentes da globalização e biotecnologia (ex.: proteção de dados, manipulação genética)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Cuidado com a Organização do Estado",
+          "texto": "A **Organização do Estado** (Arts. 18 a 36) **NÃO** está dentro dos Direitos Fundamentais. É assunto do Título III (Organização do Estado), não do Título II.\n\nErro comum de prova: misturar os dois blocos."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – A Metáfora do Prédio",
+          "texto": "Pense na Constituição como um grande prédio:\n\n- **Térreo**: Fundamentos (por que o Brasil existe)\n- **1º Andar**: Direitos Fundamentais (o que VOCÊ tem direito) – **é aqui que estamos!**\n- **2º Andar**: Organização do Estado (como funcionam União, Estados, Municípios)\n\n⚠️ Não confunda os andares — seus direitos pessoais (1º andar) são diferentes de como o país é organizado (2º andar)!"
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Fundamentais — Titulares",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Direitos garantidos (Art. 5º)",
+          "texto": "Todos são iguais perante a lei, garantindo-se:\n\n- **Vida**\n- **Igualdade**\n- **Liberdade**\n- **Segurança**\n- **Propriedade**\n\n🧠 **MNEMÔNICO:** \"VILSP\" — **V**ida, **I**gualdade, **L**iberdade, **S**egurança, **P**ropriedade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem são os Titulares?",
+          "texto": "Toda pessoa que esteja em **território brasileiro**, independentemente de nacionalidade ou residência:\n\n- **Brasileiros** (natos ou naturalizados)\n- **Estrangeiros residentes**\n- **Estrangeiros de passagem** (em trânsito)\n\n⚠️ **Pegadinha clássica**: a banca afirma que estrangeiro não residente não tem direitos fundamentais. **ERRADO.** O Art. 5º, *caput*, garante a \"brasileiros e estrangeiros residentes no País\", mas a doutrina e a jurisprudência (STF) entendem que o termo \"residentes\" é utilizado no sentido de \"pessoas que se encontram no País\", abrangendo também os de passagem. Assim, qualquer pessoa sob jurisdição brasileira, ainda que em trânsito, é titular dos direitos fundamentais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha: Estrangeiros não residentes",
+          "texto": "Muitas provas tentam confundir: \"estrangeiro em trânsito não tem direitos fundamentais\". Isso é **falso**. O STF e a doutrina majoritária garantem os direitos fundamentais a qualquer pessoa, nacional ou estrangeira, que esteja em território nacional, ainda que de passagem."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Turista americano no Brasil",
+          "texto": "Imagine um turista americano no Brasil. Ele não mora aqui (não é residente), mas se for preso injustamente ou agredido pela polícia, tem os mesmos direitos que você! Não importa se é brasileiro ou estrangeiro, se está no Brasil, tem direito à vida, liberdade e tratamento digno. É como um \"seguro universal\" para todo ser humano em território brasileiro."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pessoas Jurídicas são Titulares?",
+          "texto": "**SIM**, mas apenas dos direitos fundamentais compatíveis com sua natureza. Exemplos:\n\n- Direito de propriedade\n- Devido processo legal\n- Liberdade de associação\n- Sigilo bancário (quando aplicável)\n\nNão podem titularizar direitos inerentes à pessoa física (ex.: vida, integridade física). A doutrina fala em **titularidade atípica** ou **direitos fundamentais da pessoa jurídica**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Animais são Titulares?",
+          "texto": "**NÃO.** Animais não são sujeitos de direitos fundamentais. A proteção ocorre indiretamente, por meio da proteção ao meio ambiente (Art. 225 CF).\n\n🧠 **MNEMÔNICO:** \"Animal protege o Ambiente, não é Titular\"."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático – Animais",
+          "texto": "Seu cachorro não pode entrar na Justiça dizendo \"estão violando meus direitos\". Mas se alguém maltratar animais, isso é crime contra o meio ambiente (Art. 225 CF). A proteção existe, mas é indireta — protege a fauna como patrimônio ambiental, não como direito individual do cachorro."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.jpg"
+         }
+      ]
+    }
+  ]
+}
+;

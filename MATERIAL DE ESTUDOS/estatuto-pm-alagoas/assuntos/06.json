@@ -1,0 +1,86 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Justiça e Processo Penal Militar",
+  "icone": "⚖️",
+  "descricao": "Noções essenciais sobre competência, tipificação de crimes militares, distinção entre tempo de paz e tempo de guerra e o procedimento penal militar (sindicância, IPM, instrução e julgamento).",
+  "topicos": [
+    {
+      "titulo": "Competência e Fontes Normativas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Códigos aplicáveis",
+          "texto": "O policial militar, nas hipóteses legais, está sujeito ao Código Penal Militar (CPM) e ao Código de Processo Penal Militar (CPPM). A Justiça Militar estadual (Tribunal de Justiça Militar ou órgão equivalente) é competente para crimes militares propriamente ditos, além de competência subsidiária para crimes comuns praticados por militares em serviço, conforme legislação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tempo de paz x tempo de guerra (art. 9º do CPM)",
+          "texto": "O art. 9º do CPM distingue crime militar em tempo de paz e em tempo de guerra: a tipificação pode variar conforme o momento (ex.: condutas que só são crime em tempo de guerra). É essencial identificar o contexto fático para aplicar corretamente o tipo penal militar."
+        }
+      ]
+    },
+    {
+      "titulo": "Infrações e Exemplos",
+      "cards": [
+        {
+          "tipo": "lista",
+          "titulo": "Infrações militares comuns",
+          "itens": [
+            "Insubordinação",
+            "Desrespeito a superior",
+            "Recusa de obediência",
+            "Abandono de posto",
+            "Porte irregular de arma funcional em serviço irregular",
+            "Ausência injustificada (ausente/deserção)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Fluxo Procedimental (resumo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Etapas principais",
+          "texto": "Sindicância preliminar (quando aplicável) → Instauração de Inquérito Policial Militar (IPM) → Denúncia/atos formais → Instrução (oitiva de testemunhas, produção de provas) → Julgamento por Conselho competente ou Juízo Militar → Recursos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Medidas cautelares",
+          "texto": "Medidas como prisão em flagrante, prisão preventiva e afastamento cautelar podem ser aplicadas em processos penais militares, observando os requisitos constitucionais e processuais (fundamentação, proporcionalidade e prazo)."
+        }
+      ]
+    },
+    {
+      "titulo": "Garantias Processuais do Militar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos do acusado",
+          "texto": "Amplos direitos processuais se aplicam: direito à defesa (advogado), contraditório, ampla defesa, presunção de inocência, acesso aos autos, prazo para apresentação de resposta à acusação e possibilidade de recursos regimentais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Assistência do Ministério Público Militar",
+          "texto": "O Ministério Público Militar (MPM) atua na fiscalização da lei penal militar, promoção da ação penal e acompanhamento do processo, com garantias de independência funcional."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Práticas para Provas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Foco em distinções",
+          "texto": "Questões costumam explorar a diferença entre crime militar em tempo de paz e em tempo de guerra (art. 9º CPM), competência (Justiça Militar vs Justiça comum) e o procedimento: quando cabe sindicância e quando instaura-se IPM. Memorizar o fluxo e as garantias minimiza erros."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/06.png"
+        }
+      ]
+    }
+  ]
+};

@@ -1,0 +1,245 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['09.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Serviços Públicos",
+  "icone": "🏗️",
+  "descricao": "Atividades de interesse coletivo prestadas pelo Estado ou por delegação a particulares, com base na supremacia do interesse público e nos princípios da continuidade, universalidade e eficiência. Abrange conceitos, formas de prestação, concessão, permissão, autorização, classificação, princípios, interrupção, extinção, PPPs, direitos do usuário e agências reguladoras, com atualizações da Lei 14.133/2021.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Fundamentos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Serviços Públicos",
+          "texto": "São atividades de **interesse coletivo** ou de **interesse geral da população**, prestadas diretamente pelo Estado ou por delegação a particulares, fundamentadas no princípio da supremacia do interesse público e visando assegurar bem-estar social, continuidade e universalidade.\n\n**Base legal:** Art. 175 da Constituição Federal, que atribui ao Poder Público o dever de prestá-los, diretamente ou sob regime de concessão ou permissão, sempre mediante licitação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Elementos essenciais",
+          "itens": [
+            "**Interesse coletivo** – atende à coletividade, não a interesses particulares.",
+            "**Supremacia do interesse público** – justifica as prerrogativas estatais.",
+            "**Regime jurídico de direito público** – sujeito a princípios e normas especiais.",
+            "**Continuidade** – não pode ser interrompido sem justa causa.",
+            "**Universalidade** – deve ser acessível a todos, sem discriminação."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Formas de Prestação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prestação Direta",
+          "texto": "Executada pelos próprios órgãos e entidades da Administração Pública (centralizada ou descentralizada). O Estado assume integralmente a execução do serviço, utilizando sua própria estrutura administrativa.\n\n**Exemplo:** Serviço de saúde prestado por hospitais públicos, escolas da rede municipal, fornecimento de água por autarquia municipal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prestação Indireta (Delegação)",
+          "texto": "O Estado transfere a execução do serviço a particulares, mediante concessão, permissão ou autorização. O Estado mantém a **titularidade** do serviço e o poder de **regulamentar e fiscalizar**.\n\n**Exemplo:** Empresa privada que opera o metrô ou a distribuição de energia elétrica mediante concessão."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Atenção!",
+          "texto": "A titularidade do serviço público é **sempre do Estado**, mesmo quando a execução é delegada a particulares. O particular presta o serviço em nome próprio, mas sob fiscalização e regulação estatal."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Outorga vs. Delegação (Descentralização)",
+          "texto": "**Descentralização por Outorga (Legal):** O Estado transfere a **titularidade** e a execução do serviço para outra pessoa jurídica (ex: Autarquias ou Fundações Públicas). É feita por **lei**.\n\n**Descentralização por Delegação (Negocial):** O Estado transfere **apenas a execução** do serviço (ex: Concessionárias e Permissionárias). É feita por **contrato ou ato administrativo**."
+        }
+      ]
+    },
+    {
+      "titulo": "Delegação de Serviços Públicos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Concessão de Serviço Público",
+          "texto": "Forma mais completa e estável de delegação. Realizada por meio de **contrato administrativo**, precedido de licitação na modalidade **concorrência** (ou diálogo competitivo, conforme Lei 14.133/2021). O concessionário presta o serviço em regime de **empresa**, com prazo determinado, utilizando meios próprios e remunerando-se por tarifas ou contraprestação pecuniária.\n\n**Características:** maior investimento, garantias jurídicas robustas, necessidade de licitação em concorrência, prazo determinado (geralmente longo), e possibilidade de prorrogação.\n\n**Exemplo:** Concessão de rodovias federais (pedágio), distribuição de energia elétrica, serviços de saneamento básico, transporte ferroviário de cargas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Permissão de Serviço Público",
+          "texto": "Delegação a título precário, formalizada por **contrato de adesão**, **sempre precedida de licitação** (Art. 175 da CF e Art. 2º, IV da Lei 8.987/95). As modalidades de licitação são as previstas na Lei 14.133/2021 (concorrência ou diálogo competitivo). Caracteriza-se por menor formalidade e maior precariedade, podendo ser revogada a qualquer momento por interesse público.\n\n**Características:** precariedade, prazo indeterminado (ou curto), menor investimento, serviços de menor impacto social.\n\n**Exemplo:** Serviços de transporte público urbano por ônibus em algumas cidades, serviços de táxi, serviços de radiodifusão (em alguns casos).\n\n⚠️ **Atenção!** A permissão **SEMPRE exige licitação**, conforme Art. 175 da CF e Art. 2º, IV da Lei 8.987/95. As antigas modalidades 'convite' e 'tomada de preços' foram extintas pela Lei 14.133/2021."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Autorização de Serviço Público",
+          "texto": "Ato administrativo **unilateral, discricionário e precário**, pelo qual o Estado faculta ao particular a prestação de serviços de interesse público, **sem necessidade de licitação**. É revogável a qualquer momento, sem direito a indenização.\n\n**Características:** ausência de licitação, ato unilateral, precariedade máxima, serviços de caráter simples e eventual.\n\n**Exemplo:** Transporte alternativo de passageiros (vans escolares, transporte complementar), serviço de táxi em algumas localidades, permissionários de feiras livres, serviços de guias turísticos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atualização – Lei 14.133/2021 (Nova Lei de Licitações)",
+          "texto": "A Lei 14.133/2021 revogou a Lei 8.666/93 e a Lei 10.520/02 (pregão) e unificou as regras de licitações e contratos administrativos. Para concessões e permissões, as modalidades admitidas são **concorrência** e **diálogo competitivo**. O pregão, por exemplo, não é mais utilizado para esses fins.\n\n**Impacto:** A exigência de licitação para concessão e permissão permanece, mas os procedimentos são mais modernos, com ênfase em planejamento, transparência e combate à corrupção. A Lei 8.987/95 (Lei de Concessões) continua em vigor, sendo aplicada em conjunto com a Lei 14.133/2021."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação dos Serviços Públicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quanto à Natureza",
+          "texto": "**Próprios do Estado (ou essenciais):** envolvem o exercício do poder de soberania – segurança pública, justiça, diplomacia, defesa nacional. **Não são delegáveis.**\n\n**Industriais ou Econômicos:** podem ser prestados por particulares, mediante delegação – energia, telecomunicações, transporte."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quanto ao Destinatário",
+          "texto": "**Uti Universi:** voltados à coletividade de forma indivisível, sem possibilidade de identificar usuários específicos. São custeados por impostos (taxas ou tarifas simbólicas). **Exemplo:** iluminação pública, conservação de vias públicas.\n\n**Uti Singuli:** individualizáveis e mensuráveis, cada usuário pode ser identificado e paga tarifa diretamente pelo serviço. **Exemplo:** água, energia elétrica, telefonia, transporte coletivo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quanto à Prestação",
+          "texto": "**Próprios:** prestados diretamente pelo Estado (centralizada ou descentralizada) – ex: serviços de saúde em hospitais públicos.\n\n**Delegados:** prestados por concessionários, permissionários ou autorizatários – ex: distribuição de energia."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípios dos Serviços Públicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios fundamentais",
+          "itens": [
+            "**Continuidade** – o serviço não pode ser interrompido sem justa causa (garantia da prestação ininterrupta).",
+            "**Generalidade / Universalidade** – acesso a todos, sem discriminação, em igualdade de condições.",
+            "**Modicidade Tarifária** – preços razoáveis e compatíveis com o poder aquisitivo da população.",
+            "**Eficiência** – otimização de recursos, qualidade, tempestividade e produtividade.",
+            "**Mutabilidade** – o Estado pode alterar unilateralmente as condições do serviço, respeitados os direitos adquiridos e o equilíbrio econômico-financeiro.",
+            "**Transparência** – informações claras e adequadas ao cidadão sobre tarifas, condições, prazos.",
+            "**Segurança e Regularidade** – o serviço deve ser confiável, com padrões mínimos de qualidade.",
+            "**Cortesia ao Usuário** – atendimento educado e respeitoso."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Mnemônico: CGM EM TSC",
+          "texto": "**C**ontinuidade · **G**eneralidade · **M**odicidade · **E**ficiência · **M**utabilidade · **T**ransparência · **S**egurança · **C**ortesia → **CGM EM TSC**\n\nOu, para facilitar: **\"Cada Grande Macaco Engole Muitas Tâmaras, Só Comendo\"** – (C)ontinuidade, (G)eneralidade, (M)odicidade, (E)ficiência, (M)utabilidade, (T)ransparência, (S)egurança, (C)ortesia."
+        }
+      ]
+    },
+    {
+      "titulo": "Interrupção do Serviço Público",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando pode ocorrer",
+          "texto": "A interrupção do serviço público só é admitida em situações excepcionais, sob pena de violação do princípio da continuidade:",
+          "itens": [
+            "**Manutenção programada** – com aviso prévio ao usuário.",
+            "**Inadimplência do usuário** – desde que o serviço seja essencial e a interrupção não afete a vida ou a saúde (ex: água pode ser cortada, energia também, mas há limites).",
+            "**Caso fortuito ou força maior** – eventos imprevisíveis e inevitáveis.",
+            "**Situações de emergência** – risco à segurança ou à saúde pública."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 Cuidado!",
+          "texto": "A interrupção por inadimplência **não pode atingir serviços essenciais** que afetem a vida, a saúde ou a segurança do usuário. Ex: hospitais, bombeiros, fornecimento de água para hidratação básica. A Súmula 480 do STJ já decidiu que o corte de energia elétrica é legítimo, desde que o consumidor seja previamente notificado."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "📌 Nova Pegadinha (Lei nº 14.015/2020)",
+          "texto": "A interrupção do serviço por falta de pagamento **não pode ser iniciada na sexta-feira, no sábado, no domingo, em feriado ou na véspera de feriado** (Art. 6º, § 4º da Lei 8.987/95)."
+        }
+      ]
+    },
+    {
+      "titulo": "Extinção da Concessão e Permissão",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Formas de Extinção",
+          "itens": [
+            "**Advento do termo contratual:** Término normal do prazo do contrato.",
+            "**Encampação:** Retomada do serviço pelo Estado durante o contrato por motivo de interesse público (exige lei autorizativa específica + indenização prévia).",
+            "**Caducidade:** Rescisão decretada pelo Estado por descumprimento contratual/falta grave da concessionária (inexecução total ou parcial).",
+            "**Rescisão:** Pedida pela concessionária na Justiça quando o Estado descumpre o contrato (o particular não pode simplesmente 'parar de prestar o serviço' por conta da continuidade).",
+            "**Anulação:** Extinção por motivo de ilegalidade no contrato ou na licitação.",
+            "**Falência ou Extinção da empresa:** Morte da pessoa jurídica concessionária."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Parcerias Público-Privadas (PPPs) — Lei nº 11.079/2004",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são PPPs",
+          "texto": "Modalidades especiais de concessão, voltadas para projetos de grande vulto e com prazo mínimo de 5 anos (e máximo de 35 anos). Exigem licitação na modalidade concorrência.\n\n**Requisitos:** valor mínimo de R$ 20 milhões (para a União) ou conforme lei estadual/municipal; contrato com prazo entre 5 e 35 anos; obrigatoriedade de constituição de Sociedade de Propósito Específico (SPE) para execução do projeto."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessão Patrocinada",
+          "texto": "Envolve **tarifa paga pelo usuário + contraprestação pecuniária do parceiro público** (subsídio). O Estado complementa o valor para viabilizar o projeto.\n\n**Exemplo:** Rodovias com pedágio onde o valor da tarifa não cobre todos os custos, e o Estado paga uma parte."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessão Administrativa",
+          "texto": "O **próprio Estado é o usuário direto ou indireto** do serviço, e o Estado paga **100% da contraprestação**. Não envolve tarifa paga pelo usuário final.\n\n**Exemplo:** Construção e gestão de presídios, hospitais públicos, ou escolas, onde o governo paga pela operação."
+        }
+      ]
+    },
+    {
+      "titulo": "Agências Reguladoras — Lei nº 9.986/2000",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são e suas funções",
+          "texto": "As agências reguladoras são autarquias especiais, vinculadas à Administração Pública indireta, com a função de regular, controlar e fiscalizar os serviços públicos delegados, garantindo o cumprimento dos contratos e a qualidade do serviço.\n\n**Exemplos:** ANATEL (telecomunicações), ANEEL (energia), ANP (petróleo), ANVISA (vigilância sanitária), ANS (saúde suplementar).\n\n**Principais atribuições:**\n- Editar normas e padrões de qualidade.\n- Fiscalizar concessionárias e permissionárias.\n- Aplicar sanções administrativas.\n- Resolver conflitos entre usuários e prestadores (mediação e arbitragem).\n- Promover audiências públicas para participação social."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos do Usuário (Lei nº 13.460/2017)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quais são os direitos",
+          "texto": "O usuário de serviço público tem direito a:",
+          "itens": [
+            "**Serviço adequado, eficiente e seguro** – conforme padrões de qualidade definidos pela lei e pelo contrato.",
+            "**Informação clara e acessível** – sobre tarifas, prazos, condições de contrato e procedimentos.",
+            "**Reclamação e participação** – direito de reclamar, sugerir e participar de audiências públicas.",
+            "**Indenização por danos** – em caso de prestação inadequada que cause danos materiais ou morais.",
+            "**Tratamento não discriminatório** – vedação a qualquer tipo de preconceito."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Se uma concessionária de energia corta o fornecimento sem aviso prévio e sem justa causa, causando prejuízo a um comércio, o usuário pode reclamar na agência reguladora e, se comprovado o dano, buscar indenização judicial."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Carta de Serviços ao Usuário",
+          "texto": "Documento obrigatório (Art. 7º da Lei 13.460/2017) onde o órgão/entidade informa detalhadamente os serviços prestados, prazos, tempos de espera e padrões de atendimento."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Ouvidorias",
+          "texto": "Órgão responsável por receber sugestões, elogios, reclamações e denúncias dos usuários, garantindo a participação social e o controle da qualidade dos serviços."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Civil do Prestador de Serviço Público",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Responsabilidade objetiva (Art. 37, §6º CF)",
+          "texto": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\n\n**Teoria do risco administrativo:** O Estado (ou o concessionário) responde independentemente de culpa, bastando a comprovação do nexo causal entre o serviço e o dano.\n\n**Súmula 591 do STF:** 'A responsabilidade civil das empresas prestadoras de serviço público é objetiva, em relação aos danos causados a terceiros, decorrentes de sua atividade, podendo ser afastada por caso fortuito ou força maior.'\n\n**Exceção:** Nos casos de danos causados por atos de terceiros (ex: vandalismo) ou por culpa exclusiva da vítima, a responsabilidade é excluída."
+        }
+      ]
+    },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/09.jpg"
+            }
+  ]
+}
+;

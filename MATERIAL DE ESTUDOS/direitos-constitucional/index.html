@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Plataforma de Estudos</title>
+<meta name="color-scheme" content="dark">
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="https://github.com/88MVcode9/IMAGENS/blob/main/favicon/pmal3.png?raw=true">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="overlay" id="overlay"></div>
+
+<!-- Botão flutuante para reabrir o menu quando recolhido -->
+<button class="sidebar-float-toggle" id="sidebar-float-toggle" type="button" aria-label="Abrir menu" title="Abrir menu">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+</button>
+
+<div class="app">
+
+  <!-- ===================== SIDEBAR ===================== -->
+  <div class="sidebar-slot" id="sidebar-slot">
+  <aside class="sidebar" id="sidebar" aria-expanded="true" aria-controls="sidebar">
+    <div class="sidebar__header">
+      <label class="u-checkbox-ninja" id="ninja-toggle" title="Abrir/fechar menu" role="button" aria-label="Alternar menu lateral">
+        <input type="checkbox" id="ninja-checkbox" checked />
+        <div class="ninja-container">
+          <div class="blade" style="--i: 1"></div>
+          <div class="blade" style="--i: 2"></div>
+          <div class="blade" style="--i: 3"></div>
+          <div class="blade" style="--i: 4"></div>
+          <div class="core"></div>
+        </div>
+        <span>MENU</span>
+      </label>
+      <div class="brand">
+        <div class="brand__text">
+          <div class="brand__title" id="subject-name">Carregando…</div>
+          <div class="brand__subtitle">Plataforma de estudos</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="progress-block">
+      <div class="progress-block__labels">
+        <span class="progress-block__title">Progresso geral</span>
+        <span class="progress-block__pct" id="progress-pct">0%</span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+    </div>
+
+    <nav class="nav" id="nav">
+      <div class="nav__eyebrow">Assuntos</div>
+      <div class="nav__rail" id="nav-rail">
+        <div class="nav__indicator" id="nav-indicator"></div>
+        <!-- itens inseridos via JS -->
+      </div>
+    </nav>
+
+    <div class="sidebar__footer">
+      <span id="progress-summary">0 de 0 concluídos</span>
+      <button class="reset-btn" id="reset-btn" type="button">Zerar progresso</button>
+    </div>
+  </aside>
+  </div>
+
+  <!-- ===================== CONTEÚDO ===================== -->
+  <main class="main">
+    <div class="topbar">
+      <button class="hamburger" id="hamburger" aria-label="Abrir menu" type="button">
+        <span></span>
+      </button>
+      <div class="topbar__crumb">
+        <strong id="crumb-subject">Matéria</strong>
+        <span class="sep">/</span>
+        <span class="current" id="crumb-topic">—</span>
+      </div>
+      <div class="topbar__spacer"></div>
+      <button class="done-toggle" id="done-toggle" type="button">
+        <span class="box">
+          <svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+        <span class="label">Marcar como concluído</span>
+      </button>
+    </div>
+
+    <div class="content" id="content">
+      <div class="skeleton"></div>
+      <div class="skeleton"></div>
+      <div class="skeleton"></div>
+    </div>
+  </main>
+
+</div>
+
+<script src="js/app.js"></script>
+<script src="lightbox/lightbox.js"></script>
+</body>
+</html>

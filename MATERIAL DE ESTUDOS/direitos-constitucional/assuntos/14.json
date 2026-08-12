@@ -1,0 +1,393 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['14.json']=
+{
+  "materia": "Direito Constitucional",
+  "titulo": "RESUMO",
+  "descricao": "Resumo completo dos principais tópicos de Direito Constitucional cobrados em concursos, com base na CF/88. Abrange Teoria da Constituição, Direitos Fundamentais (individuais, sociais, políticos, nacionalidade), Organização do Estado (federação, competências, poderes), Administração Pública, Defesa do Estado, Ordem Econômica e Social, e Controle de Constitucionalidade. Inclui atencaos, classificações, jurisprudência do STF, mnemônicos e pegadinhas frequentes.",
+  "topicos": [
+    {
+      "titulo": "Teoria da Constituição e Poder Constituinte",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Classificações das Constituições",
+          "texto": "**Por origem:** Promulgada (assembleia constituinte, ex: CF/88) ou Outorgada (imposta por governante, ex: CF/67).\n**Por forma:** Escrita (texto único, ex: CF/88) ou Costumeira (baseada em costumes, ex: Inglaterra).\n**Por estabilidade:** Rígida (alteração difícil), Semirrígida (mistura, ex: CF/88) ou Flexível (alteração simples).\n**Dogmática:** Normativa (regras gerais) e Programática (diretrizes/metas). A CF/88 é normativa e programática."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Poder Constituinte Originário",
+          "texto": "Cria a primeira Constituição. É **ilimitado, autônomo e incondicionado** (não se submete a normas anteriores). Exemplo: Assembleia Nacional Constituinte de 1988."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Poder Constituinte Derivado",
+          "texto": "Altera a Constituição existente. Divide-se em:\n- **Reformador:** emendas constitucionais (exige 3/5 de cada Casa).\n- **Revisor:** revisão total (não utilizado).\n- **Difusor/Descentralizador:** transfere competências para entes subnacionais.\n\n**Limites:** formais (procedimento), circunstanciais (vedação durante mandato) e materiais (cláusulas pétreas)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Cláusulas Pétreas (Art. 60, §4º)",
+          "texto": "São imutáveis, mesmo por emenda:\n1. Forma federativa de Estado;\n2. Voto direto, secreto, universal e periódico;\n3. Separação dos Poderes;\n4. Direitos e garantias individuais e coletivos.\n\n🧠 Mnemônico: **FEDER** – Federação, Eleição, Direitos, Separação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas",
+          "texto": "❌ CF/88 é rígida → **ERRADO** (é semirrígida).\n❌ CF/88 é apenas normativa → **ERRADO** (também programática).\n❌ Poder Constituinte Derivado é ilimitado → **ERRADO** (limitado por cláusulas pétreas)."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Fundamentais – Visão Geral",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Direitos Fundamentais (Arts. 5º a 17)",
+          "texto": "Conjunto de direitos essenciais à proteção da dignidade humana. Dividem-se em:\n- **Individuais e coletivos** (Art. 5º)\n- **Sociais** (Arts. 6º a 11)\n- **Nacionalidade** (Arts. 12 e 13)\n- **Políticos** (Arts. 14 a 16)\n- **Partidos políticos** (Art. 17)\n\n**Aplicação imediata** (Art. 5º, §1º) e rol **exemplificativo** (§2º)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Eficácia Vertical e Horizontal",
+          "texto": "**Vertical:** vincula o Estado (todos os poderes).\n**Horizontal:** vincula particulares nas relações privadas, especialmente quando há poder privado (ex: empresas)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Teoria das Gerações (Dimensões)",
+          "texto": "1ª Geração (Liberdade): direitos civis e políticos (ex: liberdade de expressão, propriedade).\n2ª Geração (Igualdade): direitos sociais, econômicos e culturais (ex: saúde, educação).\n3ª Geração (Fraternidade/Solidariedade): direitos difusos (ex: meio ambiente, paz).\n4ª Geração: direitos tecnológicos (ex: privacidade digital, proteção de dados).\n5ª Geração: direitos emergentes (ex: patrimônio genético, direito à paz).\n\n🧠 Mnemônico: **LIVRE-IGUAL-SOLIDÁRIO**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Titulares dos Direitos Fundamentais",
+          "texto": "Toda pessoa em território brasileiro (nacionais e estrangeiros, inclusive em trânsito).\nPessoas jurídicas podem ser titulares de direitos compatíveis com sua natureza (ex: propriedade, devido processo).\nAnimais não são titulares, mas são protegidos indiretamente pelo meio ambiente (Art. 225)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "Estrangeiro em trânsito tem direitos fundamentais → **VERDADEIRO** (STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos e Garantias Individuais (Art. 5º)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Direito à Vida (Art. 5º, caput)",
+          "texto": "Dupla dimensão: **negativa** (não ser morto) e **positiva** (vida digna).\n**Exceções:** pena de morte em guerra, aborto legal, anencefalia (STF), legítima defesa e estado de necessidade.\nNão é absoluto, mas a proibição de tortura é absoluta (Art. 5º, III)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direito de Reunião (Art. 5º, XVI)",
+          "texto": "Requisitos: fins pacíficos, sem armas, em locais públicos, com aviso prévio (não autorização).\n**STF (Tema 855):** o aviso pode ser por divulgação pública (redes sociais, cartazes), não exigindo ofício formal."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direito de Associação (Art. 5º, XVII a XXI)",
+          "texto": "Criação livre, vedada interferência estatal. Ninguém é obrigado a associar-se ou manter-se associado.\n**Suspensão:** decisão judicial (pode ser liminar).\n**Dissolução:** decisão judicial com trânsito em julgado.\n**Representação processual:** associação precisa de autorização expressa dos associados para atuar em juízo (exceto MS coletivo, que dispensa)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direito de Propriedade e Desapropriação (Art. 5º, XXII a XXVIII)",
+          "texto": "Desapropriação por necessidade/utilidade pública ou interesse social: indenização **prévia, justa e em dinheiro**.\n**Uso por iminente perigo público:** indenização **ulterior** (se houver dano).\nPequena propriedade rural (trabalhada pela família) é impenhorável para débitos da atividade."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Liberdade de Expressão (Art. 5º, IV, V, IX, X, XIV)",
+          "texto": "Livre manifestação do pensamento, vedado o anonimato. Não há censura prévia.\n**Limites:** discurso de ódio, racismo (inafiançável e imprescritível), calúnia/difamação/injúria.\n**Direito ao esquecimento:** STF decidiu que é incompatível com a CF; não se pode apagar fatos verdadeiros, mas cabe indenização por informações falsas."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Liberdade Religiosa (Art. 5º, VI, VII, VIII) e Estado Laico (Art. 19, I)",
+          "texto": "Estado laico (não tem religião oficial, mas respeita todas).\n**Ensino religioso nas escolas públicas:** facultativo ao aluno; pode ser confessional (STF).\n**Sacrifício de animais em rituais religiosos:** permitido (STF), desde que humanitário."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Sigilo das Comunicações (Art. 5º, XII)",
+          "texto": "Protege correspondência, comunicações telegráficas, de dados e telefônicas.\n**Quebra do sigilo telefônico (interceptação):** só por ordem judicial, para investigação criminal ou instrução processual penal (Lei 9.296/96).\n**CPIs** podem quebrar sigilo de dados telefônicos (extrato), mas **não** podem interceptar (ouvir) conversas.\n**Gravações:** gravação ambiental por um dos interlocutores é lícita; interceptação sem conhecimento é ilícita."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Inviolabilidade Domiciliar (Art. 5º, XI)",
+          "texto": "atencao amplo de 'casa' (inclui quartos de hotel, escritórios, etc.).\n**Entrada sem consentimento:**\n- Dia: flagrante, desastre, socorro, ou **determinação judicial**.\n- Noite: apenas flagrante, desastre ou socorro (**mandado não é permitido à noite**).\n**Lei de Abuso de Autoridade:** crime cumprir mandado entre 21h e 5h, salvo consentimento ou flagrante.\n**Crime permanente:** entrada permitida a qualquer hora, com justa causa (STF)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Garantias Processuais e Prisões",
+          "texto": "**Contraditório e ampla defesa (Art. 5º, LV):** aplicam-se a processos judiciais e administrativos, **não** ao inquérito policial.\n**Mandados de criminalização (Art. 5º, XLII, XLIII, XLIV):** obrigam o legislador a tipificar racismo (imprescritível), tortura, tráfico, terrorismo e crimes hediondos (inafiançáveis e insuscetíveis de graça/anistia).\n**Prisão:** regra geral depende de ordem judicial; exceções: flagrante, transgressão militar e estado de sítio.\n**Prisão civil:** só para inadimplemento de pensão alimentícia (depositário infiel não pode mais, SV 25)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Remédios Constitucionais",
+          "texto": "**Habeas Corpus (HC):** liberdade de locomoção; gratuito, sem advogado.\n**Habeas Data (HD):** acesso/retificação de dados pessoais; exige recusa administrativa prévia.\n**Mandado de Segurança (MS):** direito líquido e certo contra ato de autoridade; prazo de 120 dias.\n**Mandado de Injunção (MI):** falta de norma regulamentadora que inviabilize direito constitucional.\n**Ação Popular:** cidadão (eleitor) para anular ato lesivo ao patrimônio público/moralidade/meio ambiente; isento de custas.\n**Ação Civil Pública (ACP):** protege direitos difusos/coletivos; legitimados: MP, Defensoria, União, Estados, Municípios, associações (1 ano)."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Sociais (Art. 6º)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Rol atualizado",
+          "texto": "Educação, saúde, alimentação (EC 64/2010), trabalho, moradia (EC 26/2000), transporte (EC 90/2015), lazer, segurança, previdência social, proteção à maternidade/infância, assistência aos desamparados e **renda básica familiar** (EC 114/2021).\nSão **cláusulas pétreas** (Art. 60, §4º, IV) e sujeitos ao princípio da **proibição do retrocesso social**."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "\"EDU MORA LA, SAU TRABALHA ALI, ASSISTE PRES TETA COM TRANSPORTE E SEGURANÇA\""
+        }
+      ]
+    },
+    {
+      "titulo": "Direito de Nacionalidade (Art. 12)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Brasileiros natos",
+          "texto": "**Critérios:**\n- Nascidos no Brasil (ius soli), exceto se os pais estiverem a serviço de país estrangeiro.\n- Nascidos no exterior, filho de pai ou mãe brasileiros, se qualquer um estiver a serviço do Brasil (ius sanguinis + serviço).\n- Nascidos no exterior, filhos de brasileiros não a serviço: podem ser registrados em repartição brasileira ou, se maiores, optar pela nacionalidade após residir no Brasil."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Brasileiros naturalizados",
+          "texto": "Estrangeiros em geral: 4 anos de residência + idoneidade moral.\nOriginários de países de língua portuguesa: 1 ano + idoneidade.\n**Reduções:** 3 anos (filho/cônjuge brasileiro), 2 anos (profissão/bens), 1 ano (recomendação).\n**Português equiparado (Art. 12, §1º):** se requerer a igualdade de direitos civis (com reciprocidade), adquire quase-totalidade dos direitos, exceto cargos privativos de nato."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Cargos privativos de brasileiro nato (Art. 12, §3º)",
+          "texto": "Presidente/Vice, Presidente da Câmara, Presidente do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas, Ministro da Defesa.\n🧠 Mnemônico: **PVPSCDM**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Perda da nacionalidade (Art. 12, §4º)",
+          "texto": "Cancelamento da naturalização por atividade nociva (sentença judicial) ou aquisição voluntária de outra nacionalidade (exceto se for por reconhecimento de nacionalidade originária ou imposição de naturalização).\nA reaquisição é possível (Lei 13.445/17) mediante requerimento."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Extradição (Art. 5º, LI e LII)",
+          "texto": "Brasileiro **nato**: jamais extraditado.\nBrasileiro **naturalizado**: não é extraditado, exceto por crime comum antes da naturalização ou por tráfico de drogas (a qualquer tempo).\nEstrangeiro: pode ser extraditado, exceto por crime político ou de opinião."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Políticos (Art. 14 a 17)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Soberania popular e voto",
+          "texto": "**Sufrágio universal** e voto direto, secreto, universal e periódico (cláusula pétrea).\n**Alistamento:** obrigatório para maiores de 18 e menores de 70; facultativo para analfabetos, maiores de 70 e jovens de 16 a 18.\n**Inalistáveis:** estrangeiros e conscritos (durante serviço militar)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Democracia direta",
+          "texto": "**Plebiscito** (consulta prévia), **referendo** (consulta posterior) e **iniciativa popular** (1% do eleitorado nacional, distribuído em 5 Estados com 0,3% em cada)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Condições de elegibilidade (Art. 14, §3º)",
+          "texto": "Nacionalidade brasileira, pleno exercício dos direitos políticos, alistamento eleitoral, domicílio na circunscrição, filiação partidária e idade mínima.\n**Idades:** 35 anos (Presidente, Senador), 30 (Governador), 21 (Deputado, Prefeito), 18 (Vereador).\n**Reeleição:** apenas um período subsequente para Executivo (Presidente, Governador, Prefeito)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Inelegibilidades",
+          "texto": "**Absolutas:** estrangeiros, conscritos, analfabetos.\n**Relativas:** parentesco (cônjuge/parente até 2º grau do titular, SV 18), falta de desincompatibilização (renúncia até 6 meses antes), condenações (Lei da Ficha Limpa – 8 anos de inelegibilidade)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Perda e suspensão de direitos políticos (Art. 15)",
+          "texto": "**Perda:** cancelamento da naturalização e recusa de obrigação a todos imposta (escusa de consciência).\n**Suspensão:** incapacidade civil absoluta, condenação criminal transitada em julgado, improbidade administrativa.\n**Vedação:** cassação de direitos políticos (não é admitida)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Partidos políticos (Art. 17)",
+          "texto": "Livres, com caráter nacional, vedado recebimento de recursos estrangeiros e organização paramilitar.\n**Cláusula de barreira:** acesso ao fundo partidário e tempo de TV exige 3% dos votos ou 15 deputados em 1/3 dos Estados (progressivo).\n**Coligações:** permitidas apenas nas eleições majoritárias (vedadas nas proporcionais).\n**Federações:** união nacional e duradoura (mínimo 4 anos).\n**Fidelidade partidária:** aplica-se a cargos proporcionais (deputados, vereadores), não aos majoritários."
+        }
+      ]
+    },
+    {
+      "titulo": "Organização do Estado (Arts. 18 a 36)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Forma de Estado, Governo, Sistema e Regime",
+          "texto": "**Estado:** Federação (indissolúvel).\n**Governo:** República (eletividade, temporalidade).\n**Sistema:** Presidencialismo (Presidente é Chefe de Estado e Governo).\n**Regime:** Democracia (poder emana do povo, direta ou indiretamente)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Separação dos Poderes (Art. 2º)",
+          "texto": "Legislativo, Executivo e Judiciário, independentes e harmônicos, com sistema de freios e contrapesos.\n**Funções típicas e atípicas:** cada Poder exerce função principal e também funções secundárias (ex: Legislativo julga impeachment; Executivo edita medidas provisórias; Judiciário administra seus tribunais)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Entes federativos (Art. 18)",
+          "texto": "União (soberania externa), Estados, DF e Municípios (autonomia).\n**Criação de Estados:** plebiscito da população, oitiva das Assembleias, lei complementar.\n**Criação de Municípios:** suspensa por falta de lei complementar federal (STF).\n**DF:** não pode ser dividido em Municípios; acumula competências estaduais e municipais; regido por Lei Orgânica.\n**Territórios Federais:** não são entes autônomos; atualmente inexistentes."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Intervenção (Arts. 34-36)",
+          "texto": "**Intervenção Federal:** nos Estados/DF, por decreto do Presidente, com autorização do Congresso (exceto em guerra ou comoção grave).\n**Intervenção Estadual:** nos Municípios, por decreto do Governador, nos casos do Art. 35 (ex: não pagamento de dívida, não aplicação em educação/saúde)."
+        }
+      ]
+    },
+    {
+      "titulo": "Competências dos Entes (Arts. 21 a 30)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Classificação",
+          "texto": "**Exclusiva (Art. 21):** só União, não delegável (ex: emissão de moeda, relações exteriores).\n**Privativa (Art. 22):** só União, mas delegável por lei complementar (ex: direito civil, penal, trânsito).\n**Comum (Art. 23):** todos os entes, natureza administrativa (ex: proteger meio ambiente, combater pobreza).\n**Concorrente (Art. 24):** União, Estados e DF (não Municípios) – União fixa normas gerais; Estados suplementam.\n**Municipal (Art. 30):** interesse local, suplementação, tributos, ensino fundamental, saúde, ordenamento territorial."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônicos",
+          "texto": "**EPCC** – Exclusiva, Privativa, Comum, Concorrente.\n**PUFET** – Penitenciário, Urbanístico, Financeiro, Econômico, Tributário (incisos I a V do Art. 24)."
+        }
+      ]
+    },
+    {
+      "titulo": "Administração Pública (Art. 37)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Princípios (LIMPE)",
+          "texto": "**Legalidade** (agente só faz o que a lei permite), **Impessoalidade** (vedação a favorecimentos), **Moralidade** (ética e probidade), **Publicidade** (transparência), **Eficiência** (qualidade e rapidez) – incluído pela EC 19/98.\nAplica-se a todos os Poderes e entes, direta e indiretamente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Regras gerais",
+          "texto": "**Concurso público:** regra para provimento de cargos/empregos; exceção: cargos em comissão (direção, chefia, assessoramento).\n**Validade:** até 2 anos, prorrogável uma vez por igual período.\n**Função de confiança:** só para servidor efetivo.\n**Acumulação de cargos:** vedada, exceto: dois de professor, um professor + um técnico/científico, dois de saúde (compatibilidade de horários).\n**Teto remuneratório:** STF (nacional); subtetos: Governador (estadual), Prefeito (municipal).\n**Contratação temporária:** para excepcional interesse público, com lei específica."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Nepotismo (SV 13)",
+          "texto": "Vedada a nomeação de cônjuge, companheiro ou parente até 3º grau (incluindo afinidade) para cargo em comissão ou função gratificada na administração direta e indireta, exceto se o parente já for servidor efetivo e não houver subordinação.\nCargos políticos (ex: Ministro, Secretário) não são alcançados."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Administração Direta e Indireta",
+          "texto": "**Direta:** órgãos da estrutura estatal (sem personalidade jurídica própria).\n**Indireta:** entidades com personalidade jurídica: Autarquias (direito público), Empresas Públicas e Sociedades de Economia Mista (direito privado, capital majoritariamente público), Fundações Públicas (direito público ou privado).\n🧠 Mnemônico: **FASE** – Fundações, Autarquias, Sociedades de Economia Mista, Empresas Públicas."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direito de greve dos servidores",
+          "texto": "Servidores civis: direito de greve (Lei 7.783/89, aplicada por decisão do STF).\nMilitares estaduais e federais: **vedação absoluta** (STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Defesa do Estado e das Instituições (Título V)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Estado de Defesa (Art. 136)",
+          "texto": "Medida para crise local e temporária, por até 30 dias (prorrogável por mais 30). Decretado pelo Presidente, após ouvir Conselhos. Comunicação ao Congresso em 24h; Congresso aprecia em 5 dias. Permite restrições a reunião, sigilo de correspondência e ocupação de bens."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Estado de Sítio (Arts. 137-139)",
+          "texto": "Medida mais grave: comoção nacional (até 30 dias, prorrogável) ou guerra (por todo o período). Exige autorização do Congresso. Permite restrições mais severas, como detenção em locais especiais, restrição à liberdade de imprensa, mas **veda** a suspensão do HC e a incomunicabilidade do preso."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Segurança Pública (Art. 144)",
+          "texto": "Órgãos: Polícia Federal (chefiada por delegado de carreira), Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis (judiciária), Polícias Militares (ostensiva), Corpos de Bombeiros Militares, Polícia Penal (EC 104/2019) e Guardas Municipais (integram o SUSP, segundo STF).\n**PM** não investiga; **PC** investiga."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Forças Armadas (Art. 142)",
+          "texto": "Marinha, Exército e Aeronáutica. Finalidades: defesa da Pátria, garantia dos poderes constitucionais e da lei e da ordem (GLO), por iniciativa de qualquer Poder.\n**Vedações aos militares:** greve, sindicalização, filiação partidária (na ativa).\n**Elegibilidade:** menos de 10 anos de serviço: afastamento; mais de 10 anos: agregação; se eleito, vai para inatividade.\n**Competência do Júri:** crimes dolosos contra a vida de civis cometidos por militares são julgados pelo Tribunal do Júri (não pela Justiça Militar)."
+        }
+      ]
+    },
+    {
+      "titulo": "Símbolos Nacionais (Art. 13)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Símbolos oficiais",
+          "texto": "Bandeira, Hino, Armas e Selo Nacional.\n**Idioma oficial:** português (Art. 13, §1º).\n**Uso da Bandeira:** hoje é permitido em vestuário e propaganda comercial, desde que com respeito (Lei 12.157/2009).\n**Hasteamento noturno:** exige iluminação.\n**Hino Nacional:** execução obrigatória em cerimônias oficiais e semanalmente nas escolas de ensino fundamental (Lei 12.031/2009)."
+        }
+      ]
+    },
+    {
+      "titulo": "Ordem Econômica e Financeira (Arts. 170 a 192)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Princípios (Art. 170)",
+          "texto": "Livre iniciativa e concorrência, valorização do trabalho, função social da propriedade, defesa do consumidor, redução das desigualdades regionais, tratamento favorecido para empresas de pequeno porte.\nA economia deve subordinar-se aos direitos sociais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Economia popular e solidária",
+          "texto": "Inclui cooperativas e economia de trabalho associado, com base na democracia e autogestão.\nO terceiro setor (ONGs) também integra esse campo."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Orçamento e dívida pública",
+          "texto": "Orçamento anual, com princípios de anualidade, especificidade, publicidade e equilíbrio.\nDívida pública exige autorização legal e obedece a limites (LRF).\n**Tributos:** competência da União (IR, IPI, IOF), Estados (ICMS, IPVA, ITCMD) e Municípios (ISS, IPTU, ITBI)."
+        }
+      ]
+    },
+    {
+      "titulo": "Ordem Social (Arts. 193 a 215)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Direitos sociais",
+          "texto": "Saúde (SUS universal), educação (ensino fundamental obrigatório), trabalho (salário mínimo, férias), cultura, esporte, transporte, meio ambiente equilibrado (direito coletivo).\nPrincípios do meio ambiente: prevenção, precaução e responsabilidade compartilhada."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle de Constitucionalidade",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Classificação",
+          "texto": "**Concentrado (abstrato):** análise de normas isoladas, perante o STF (ADI, ADC, ADPF, ADO).\n**Difuso (concreto):** qualquer juiz, em caso concreto (incidental).\n**Preventivo:** CCJ e veto presidencial.\n**Repressivo:** ações judiciais e controle político (impeachment, CPI)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Ações diretas",
+          "texto": "**ADI:** ataca lei/ato normativo por inconstitucionalidade.\n**ADC:** declara constitucionalidade de norma (legitimados: mesmos da ADI).\n**ADPF:** ataca ato concreto que descumpre preceito fundamental.\n**ADO:** omissão do Legislativo em regulamentar matéria constitucional.\nLegitimados (Art. 102): Presidente, Mesas do Senado e Câmara, Procurador-Geral da República, partido com representação no Congresso, Conselho Federal da OAB, entidade de classe de âmbito nacional, Estados/DF/Municípios."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Veto presidencial",
+          "texto": "**Veto político (parcial):** apenas alguns artigos; derrubado por maioria absoluta.\n**Veto jurídico (total):** por inconstitucionalidade; derrubado por 3/5.\nA derrubada de veto é sempre por voto nominal (aberto)."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Legislativo e Processo Legislativo (Arts. 48 a 66)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Estrutura",
+          "texto": "Bicameral: Câmara dos Deputados (representação proporcional, 513 membros, mandato de 4 anos) e Senado Federal (representação igualitária: 3 por Estado/DF, 81 membros, mandato de 8 anos, sem reeleição).\n**Presidentes:** eleitos entre os pares, para 2 anos, com reeleição permitida uma vez."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Iniciativa (Art. 61)",
+          "texto": "Geral: Presidente, parlamentares, cidadãos (iniciativa popular: 1% do eleitorado nacional em 5 Estados com 0,3% cada).\n**Privativa:** certas matérias (ex: leis orçamentárias, criação de cargos) só podem ser iniciadas pelo Presidente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Tramitação e quóruns",
+          "texto": "Processo ordinário: apresentação, comissões, discussão e votação (3 leituras), sanção/veto.\n**Quóruns:** maioria simples (50%+1) para leis ordinárias; 2/3 para emendas constitucionais; 3/5 para tratados internacionais e veto jurídico.\n**Sanção:** 30 dias para sancionar ou vetar; se não se manifestar, sanção tácita."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Executivo e Judiciário (Arts. 84 a 109)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Poder Executivo",
+          "texto": "Presidente da República: Chefe de Estado e de Governo. Atribuições principais: sancionar/vetar leis, editar medidas provisórias, comandar as Forças Armadas, nomear ministros do STF (com aprovação do Senado).\nVice-Presidente: eleito na mesma chapa, substitui o Presidente em caso de impedimento."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Poder Judiciário",
+          "texto": "**STF:** corte constitucional, 11 ministros, julga ADI, ADC, ADPF, ADO, recursos constitucionais.\n**STJ:** tribunal de recursos em matéria não constitucional (direito comum), 16 ministros.\n**TRFs (4 regiões):** crimes federais.\n**TJs (1 por Estado/DF):** crimes estaduais.\n**Justiças Especiais:** TSE (eleitoral), TST (trabalhista), TJM (militar)."
+        }
+      ]
+    }
+  ]
+};

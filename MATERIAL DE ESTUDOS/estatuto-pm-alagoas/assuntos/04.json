@@ -1,0 +1,358 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Dc-Estadual nº 37.042/1996 — Regulamento Disciplinar da Polícia Militar de Alagoas (RDPMAL)",
+  "icone": "📋",
+  "descricao": "Regulamento que estabelece o sistema disciplinar da Polícia Militar de Alagoas, definindo transgressões, penas, critérios de aplicação, competência para julgamento e recursos. Aplica-se a todos os militares estaduais da ativa, em serviço ou de folga. Visa manter a hierarquia, a disciplina e a eficiência operacional da Corporação. Prevê desde advertências até a exclusão do serviço ativo, com observância das atenuantes, agravantes e do devido processo administrativo disciplinar.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o RDPMAL",
+          "texto": "O Regulamento Disciplinar da Polícia Militar de Alagoas, instituído pelo Decreto Estadual nº 37.042/1996, é o código de conduta e de punições da Corporação. Estabelece as transgressões disciplinares (atos que violam deveres éticos, funcionais ou que causam desprestígio à PM) e as respectivas sanções, aplicáveis tanto em serviço quanto na folga. O objetivo é preservar a hierarquia e a disciplina, pilares da instituição militar."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Esquecer a farda completa numa instrução é transgressão média → advertência. Dormir em serviço armado é transgressão grave → pode gerar detenção ou prisão administrativa. Discutir com superior na frente de civis é transgressão gravíssima — lesa a hierarquia e a imagem da PM, podendo levar à exclusão da Corporação."
+        }
+      ]
+    },
+    {
+      "titulo": "Transgressão Disciplinar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Definição",
+          "texto": "Transgressão disciplinar é toda ação ou omissão que viole os deveres éticos, profissionais ou funcionais do policial militar, ou que cause desprestígio à Corporação. Pode ser cometida em serviço ou fora dele, sendo apurada em procedimento administrativo disciplinar."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Transgressões",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Graus de transgressão",
+          "texto": "As transgressões são classificadas em três níveis, conforme a gravidade e a repercussão:",
+          "itens": [
+            "🟡 **Leve** — menor impacto disciplinar, geralmente punida com advertência ou repreensão;",
+            "🟠 **Média** — impacto intermediário, pode resultar em detenção ou prisão administrativa curta;",
+            "🔴 **Grave** — maior repercussão, podendo gerar punições severas, como prisão administrativa prolongada, exclusão ou licenciamento a bem da disciplina."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Punições Disciplinares (ordem crescente)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de penas",
+          "texto": "As punições previstas no RDPMAL, em ordem crescente de severidade, são:",
+          "itens": [
+            "1. **Advertência verbal:** bronca oficial, aplicada em particular, sem registro em assentamentos;",
+            "2. **Repreensão:** registro escrito da falta nos assentamentos funcionais;",
+            "3. **Detenção:** o militar permanece em local apropriado, mesmo fora do expediente, sem prejuízo do serviço (normalmente de 1 a 10 dias);",
+            "4. **Prisão administrativa:** isolamento em local apropriado, podendo perder folgas e ter restrições de comunicação (de 1 a 30 dias, conforme a gravidade);",
+            "5. **Exclusão ou Licenciamento:** para Praças sem estabilidade (comportamento classificado como \"mau\") ou expulsão de Oficiais, mediante processo administrativo disciplinar."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Diferença entre detenção e prisão administrativa",
+          "texto": "A detenção é menos gravosa, não exige isolamento total e permite que o militar continue trabalhando normalmente. A prisão administrativa é mais severa, com isolamento e perda de folgas, sendo aplicada em transgressões graves."
+        }
+      ]
+    },
+    {
+      "titulo": "Circunstâncias Atenuantes",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fatores que reduzem a pena",
+          "texto": "O RDPMAL prevê atenuantes que podem diminuir a punição, tais como:",
+          "itens": [
+            "Confissão espontânea da transgressão;",
+            "Bom comportamento anterior e relevantes serviços prestados;",
+            "Ter cometido a falta sob coação ou em defesa de direito próprio ou de outrem;",
+            "Falta de prática no serviço (para recém-incorporados);",
+            "Baixo grau de instrução ou de compreensão do dever violado."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Circunstâncias Agravantes",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fatores que aumentam a pena",
+          "texto": "As agravantes previstas no regulamento incluem:",
+          "itens": [
+            "Reincidência específica (nova transgressão no prazo de 1 ano);",
+            "Concurso de duas ou mais pessoas para a prática da falta;",
+            "Abuso de autoridade hierárquica ou funcional sobre subordinado;",
+            "Prática da falta em presença de tropa, público ou local de grande circulação;",
+            "Ação premeditada;",
+            "Prática da transgressão durante execução de serviço de policiamento ostensivo;",
+            "Dano à imagem da Corporação ou à fé pública."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Competência para Aplicação de Punições",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Autoridades competentes",
+          "texto": "A aplicação das penas disciplinares obedece à hierarquia, conforme o posto/graduação do infrator e do julgador:",
+          "itens": [
+            "**Comandante-Geral da PMAL:** competente para aplicar todas as punições previstas, incluindo a exclusão ou licenciamento a bem da disciplina;",
+            "**Comandantes de Unidade (Coronéis ou Tenentes-Coronéis):** podem aplicar advertência, repreensão, detenção e prisão administrativa;",
+            "**Oficiais Subalternos e Intermediários (Tenentes e Capitães):** limitam-se às punições de menor gravidade (advertência, repreensão e detenção de curta duração), conforme delegação interna."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Recursos Disciplinares",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo e procedimento",
+          "texto": "O policial militar que se julgar injustiçado pode recorrer da decisão disciplinar, observando-se:",
+          "itens": [
+            "**Prazo:** contado da ciência da punição ou da publicação em boletim interno (geralmente 5 dias úteis);",
+            "**Recurso:** pedido de reconsideração (endereçado à autoridade que aplicou a pena) ou recurso hierárquico (para autoridade superior);",
+            "**Efeito:** o recurso, em regra, não suspende a execução da pena, salvo decisão fundamentada em contrário."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Praças x Oficiais — Distinção",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Consequências diferenciadas",
+          "texto": "O RDPMAL e a legislação correlata tratam de forma distinta as punições para Oficiais e Praças:",
+          "itens": [
+            "**Para Oficiais:** a punição mais grave é a perda do posto e patente, mediante processo judicial militar (Conselho de Justificação) ou administrativo, com ampla defesa;",
+            "**Para Praças:** a exclusão ou licenciamento a bem da disciplina pode ser aplicada por ato do Comandante-Geral, após processo administrativo disciplinar, especialmente para praças sem estabilidade (menos de 10 anos de serviço).",
+            "**Praças estáveis (mais de 10 anos):** a exclusão depende de decisão em Conselho de Disciplina, com direito à ampla defesa."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Prisão Administrativa (Natureza e Limites)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "A prisão administrativa prevista no RDPMAL tem natureza estritamente disciplinar, distinta da prisão penal comum:",
+          "itens": [
+            "Finalidade de preservar a ordem interna e a disciplina, não sendo pena criminal;",
+            "Não gera reincidência penal nem maus antecedentes criminais;",
+            "Duração máxima prevista no regulamento (em regra, até 30 dias, salvo disposição especial);",
+            "Deve ser aplicada com observância dos princípios do contraditório e da ampla defesa, ainda que de forma sumária."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dc-Estadual nº 37.042/1996 — Imagem",
+      "cards": [
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/4.1.png"
+        }
+      ]
+    },
+
+//===========================================================================================================================================================================
+
+//===========================================================================================================================================================================
+   
+{
+      "titulo": "Dc-Estadual nº 15.346/2003 — Regulamento Disciplinar da Polícia Militar de Alagoas (RDPMAL)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Comunicação Disciplinar e Parte Disciplinar",
+          "texto": "**Comunicação Disciplinar**\nInstrumento pelo qual qualquer pessoa (subordinado, superior ou terceiro) leva ao conhecimento da autoridade competente a ocorrência de uma possível transgressão disciplinar. Características:\n- Deve ser escrita, assinada e identificada (salvo anônima, se houver elementos mínimos para apuração);\n- Deve conter relato claro, objetivo e circunstanciado dos fatos.\n\nRegra: a autoridade que tomar conhecimento de uma transgressão tem o dever funcional de comunicar imediatamente à autoridade competente. A omissão também gera responsabilidade disciplinar.\n\n**Parte Disciplinar**\nDocumento oficial elaborado por policial militar para comunicar formalmente uma transgressão disciplinar verificada durante o serviço. Deve conter:\n- Descrição objetiva dos fatos;\n- Linguagem clara e precisa;\n- Circunstâncias da ocorrência.\n\nPrazo: deve ser encaminhada em até 2 (dois) dias úteis, salvo previsão diversa. Quem presencia e deixa de elaborar a parte também pode responder disciplinarmente."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Diferença essencial (pegadinha da banca)",
+          "tabela": {
+            "colunas": ["Critério", "Parte Disciplinar", "Comunicação Disciplinar"],
+            "linhas": [
+              ["Quem elabora", "Superior hierárquico", "Subordinado ou qualquer pessoa"],
+              ["Destinatário", "Autoridade competente (para registrar infração de subordinado)", "Autoridade competente (para comunicar infração de superior)"],
+              ["Fluxo", "Superior → Subordinado (registro da falta)", "Subordinado → Superior (denúncia contra superior)"],
+              ["Prazo", "2 dias úteis", "2 dias úteis"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Transgressão Disciplinar — Classificação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito de transgressão",
+          "texto": "Transgressão disciplinar é toda ação ou omissão contrária aos deveres militares, às obrigações funcionais, às normas disciplinares ou aos regulamentos da Corporação. Uma mesma conduta pode configurar transgressão disciplinar, infração administrativa, contravenção penal ou crime, sendo as responsabilidades independentes e cumuláveis."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Classificação por gravidade",
+          "tabela": {
+            "colunas": ["Natureza", "Penas Possíveis", "Exemplos"],
+            "linhas": [
+              ["Leve", "Advertência, Repreensão", "Descuido no uniforme, pequeno atraso sem justificativa, falta de atenção em formatura."],
+              ["Média", "Detenção, Prisão disciplinar", "Desobediência a ordem verbal sem grave prejuízo, uso indevido de viatura."],
+              ["Grave", "Prisão disciplinar, Reclusão disciplinar, Exclusão do serviço ativo", "Deserção, embriaguez em serviço, corrupção, desacato a superior, prática de crime doloso."]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Critérios de classificação",
+          "texto": "A classificação leva em conta a natureza da infração, as circunstâncias, os antecedentes do transgressor, a repercussão do ato e o prejuízo causado à instituição."
+        }
+      ]
+    },
+    {
+      "titulo": "Circunstâncias Atenuantes e Agravantes",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Atenuantes — fatores que reduzem a pena",
+          "texto": "São circunstâncias que diminuem a gravidade da infração e podem reduzir a punição aplicada:\n- Bons antecedentes;\n- Confissão espontânea;\n- Procurar reduzir ou evitar as consequências;\n- Agir de boa-fé;\n- Coação irresistível;\n- Estrito cumprimento do dever;\n- Falta de prática no serviço (inexperiência funcional) — especialmente para recém-incorporados;\n- Relevante valor moral ou profissional."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agravantes — fatores que aumentam a pena",
+          "texto": "São circunstâncias que elevam a gravidade da infração e podem aumentar a punição:\n- Reincidência;\n- Maus antecedentes;\n- Dolo ou má-fé;\n- Abuso de autoridade ou de confiança;\n- Aproveitamento da fragilidade da vítima;\n- Obtenção de vantagem;\n- Motivo torpe ou fútil."
+        }
+      ]
+    },
+    {
+      "titulo": "Causas de Justificação e Isenção de Punição",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de justificação (excluem a transgressão)",
+          "texto": "Quando presentes, o ato é lícito e não há transgressão disciplinar:\n- Legítima defesa (própria ou de terceiro);\n- Estado de necessidade;\n- Estrito cumprimento do dever legal;\n- Exercício regular de direito;\n- Coação moral irresistível;\n- Obediência à ordem legal de autoridade competente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Isenção de punição (discricionária, fundamentada)",
+          "texto": "A autoridade poderá deixar de aplicar a punição quando:\n- A infração for de pequena gravidade;\n- O militar possuir bons antecedentes;\n- As circunstâncias demonstrarem reduzida reprovabilidade;\n- Houver recomendação de benevolência.\n\nÉ um ato discricionário, mas deve ser sempre fundamentado."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Diferença que a banca cobra",
+          "texto": "📌 **Justificação** → exclui a transgressão (fato lícito).\n📌 **Isenção** → a transgressão existe, mas a autoridade decide não punir (discricionariedade motivada)."
+        }
+      ]
+    },
+    {
+      "titulo": "Punições Disciplinares e Competência",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Ordem crescente das punições",
+          "texto": "1. Advertência;\n2. Repreensão;\n3. Detenção;\n4. Prisão disciplinar;\n5. Reclusão disciplinar;\n6. Exclusão do serviço ativo (medida extrema, aplicada nos casos mais graves)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competência para aplicar punições",
+          "texto": "- **Comandante-Geral:** todas as punições, inclusive exclusão;\n- **Comandante de Unidade:** até 20 dias de prisão administrativa;\n- **Comandante de Subunidade:** até 10 dias;\n- **Comandante de Pelotão:** até 5 dias (advertência e repreensão)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Aplicação da punição",
+          "texto": "A autoridade competente analisa:\n- Gravidade da infração;\n- Circunstâncias agravantes e atenuantes;\n- Antecedentes do militar;\n- Consequências do ato.\n\nPrincípio: a pena é pessoal — nunca poderá ser aplicada a terceiros."
+        }
+      ]
+    },
+    {
+      "titulo": "Processo Disciplinar — Princípios e Prazos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios do processo disciplinar",
+          "texto": "O processo disciplinar deve observar:\n- Legalidade;\n- Tipicidade;\n- Contraditório e ampla defesa;\n- Razoabilidade e proporcionalidade;\n- Verdade real;\n- Publicidade dos atos (quando cabível);\n- Atuação oficial da Administração."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prescrição da pretensão punitiva disciplinar",
+          "texto": "O prazo prescricional começa da data do fato ou da cessação da permanência:\n- **1 ano** para transgressões leves;\n- **2 anos** para transgressões médias;\n- **3 anos** para transgressões graves.\n\nA instauração do processo disciplinar ou a notificação do militar interrompe a prescrição."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Recursos disciplinares",
+          "texto": "Cabem recursos contra decisões disciplinares:\n- Recurso hierárquico (à autoridade imediatamente superior);\n- Recurso ao Conselho de Disciplina (quando cabível);\n- Pedido de reconsideração.\nO efeito suspensivo somente existe quando previsto expressamente no RDPMAL."
+        }
+      ]
+    },
+    {
+      "titulo": "Comportamento, Recompensas e Deserção",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação disciplinar (comportamento)",
+          "texto": "Todo policial militar possui classificação disciplinar:\n- **Excepcional** – acima da média;\n- **Bom** – dentro da média;\n- **Mau** – abaixo da média.\n\nO comportamento influencia promoções, licenças, cursos, designações, funções, agregações e outras situações administrativas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Recompensas",
+          "texto": "Reconhecimentos pelos bons serviços prestados, podendo consistir em:\n- Elogio;\n- Louvor;\n- Medalhas;\n- Menção honrosa;\n- Dispensa do serviço (usufruída integral ou parcialmente).\n\nTodas devem ser registradas no assentamento individual do militar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ausente, Desertor, Desaparecido e Extraviado",
+          "texto": "**Ausente:** afasta-se do serviço ou da sede sem autorização dentro do prazo legal (início da contagem).\n\n**Desertor:** ausência injustificada que ultrapassa o prazo legal (ex.: 8 dias consecutivos).\n- Sem estabilidade: exclusão direta;\n- Com estabilidade: agregado por até 6 meses; após, exclusão.\n\n**Desaparecido:** paradeiro desconhecido, sem confirmação de deserção (aguardam-se informações).\n\n**Extraviado:** após cerca de 30 dias desaparecido, passa a essa situação administrativa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Exemplo prático (CEBRASPE)",
+          "texto": "O militar deveria assumir o serviço em 21/07 às 07h. No dia seguinte (22/07 às 07h01) já é considerado **ausente**. Após 8 dias consecutivos de ausência, passa à condição de **desertor**. Deserção é crime militar (art. 187 do CPM)."
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimentos Apuratórios",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Investigação Preliminar, Sindicância e PADS",
+          "texto": "Quando ocorre uma infração, a Administração deve investigar os fatos:\n- **Investigação Preliminar:** fase inicial, célere, para verificar indícios de irregularidade;\n- **Sindicância:** investigação mais completa, apura fatos e responsabilidades, podendo culminar em penalidade;\n- **PADS (Processo Administrativo Disciplinar Simplificado):** rito utilizado para aplicar sanções, garantindo contraditório e ampla defesa. É usado para infrações que não exigem processo comum mais complexo.\n\nA escolha do procedimento depende da gravidade da infração e da necessidade de apuração aprofundada."
+        }
+      ]
+    },
+    {
+      "titulo": "Licenciamento e Gravidade da Violação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Licenciamento das praças",
+          "texto": "A gravidade da violação dos deveres e das obrigações militares pode ensejar o **licenciamento das praças**, conforme previsto na legislação disciplinar, especialmente quando o militar demonstra incompatibilidade com a vida militar."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/4.2.png"
+        }
+      ]
+    }
+  ]
+};

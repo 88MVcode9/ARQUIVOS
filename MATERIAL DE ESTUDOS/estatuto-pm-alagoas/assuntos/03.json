@@ -1,0 +1,415 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Lei Estadual nº 5.346/1992 — Estatuto dos Policiais Militares de Alagoas",
+  "icone": "📘",
+  "descricao": "Lei que institui o Estatuto dos Policiais Militares do Estado de Alagoas, regulando a situação, deveres, direitos, prerrogativas, carreira, hierarquia, disciplina e regime jurídico dos servidores militares estaduais. Dispõe sobre o ingresso, promoções, licenças, afastamentos, conselhos disciplinares, exclusão do serviço ativo, inatividade e demais aspectos funcionais. Complementada pela Lei Estadual nº 6.514/2004, que estabelece critérios e condições para promoção e acesso na hierarquia militar.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o Estatuto da PMAL",
+          "texto": "O Estatuto dos Policiais Militares de Alagoas é a Lei Estadual nº 5.346, de 26 de maio de 1992. Seu objetivo é regular a situação, deveres, direitos e prerrogativas dos policiais militares do Estado. A Polícia Militar de Alagoas é uma instituição permanente, organizada com base na hierarquia e disciplina, subordinada administrativa e operacionalmente ao Governador do Estado, incumbida da polícia ostensiva e da preservação da ordem pública."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um Sargento determina que você revista um veículo. Você obedece (disciplina) seguindo a técnica (dever funcional). Se a situação for injusta, o correto é obedecer e, depois, representar contra a ordem ilegal — nunca desobedecer abertamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Hierarquia e Disciplina",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Hierarquia",
+          "texto": "A hierarquia é a ordenação da autoridade nos diferentes níveis dentro da estrutura policial militar. É a escala de comando da Corporação — Soldado, Cabo, Sargento, Oficial — e constitui a base da PM."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Disciplina",
+          "texto": "Disciplina é a rigorosa observância e acatamento integral das leis, regulamentos, normas e dispositivos que fundamentam a Organização Policial Militar. É o pilar fundamental da instituição."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Gatilho mental",
+          "texto": "📌 **Hierarquia** = organização da autoridade.\n📌 **Disciplina** = cumprimento das normas."
+        }
+      ]
+    },
+    {
+      "titulo": "Ingresso na PMAL (Art. 7º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos para ingresso",
+          "texto": "O ingresso na Polícia Militar de Alagoas é facultado a todos os brasileiros, sem distinção de raça, sexo, cor ou credo religioso, mediante aprovação em concurso público, desde que observadas as seguintes condições:",
+          "itens": [
+            "Grau de instrução: nível médio ou superior;",
+            "Idade: dentro dos limites estabelecidos (ex.: Aspirante a Oficial e Cadete: 18 a 40 anos);",
+            "Altura mínima: 1,65m (masculino) e 1,60m (feminino);",
+            "Aptidão física e intelectual comprovada;",
+            "Sanidade física e mental;",
+            "Idoneidade moral;",
+            "Não exercer atividades prejudiciais à Segurança Nacional."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Observação",
+          "texto": "A carreira de Oficial é privativa de brasileiro nato. Os limites de idade podem ser alterados por lei."
+        }
+      ]
+    },
+    {
+      "titulo": "Cargo e Função",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Conceitos",
+          "texto": "**Cargo:** o posto ou graduação (ex.: Soldado PM).\n\n**Função:** o exercício do cargo, através do conjunto dos direitos, obrigações e atribuições do policial militar em sua atividade profissional específica."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos do Policial Militar (Art. 30)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos e prerrogativas",
+          "texto": "Os direitos e prerrogativas dos Policiais Militares são constituídos pelas honras, dignidade e distinção devida aos graus hierárquicos e cargos exercidos. Incluem:",
+          "itens": [
+            "Salário, férias e licenças (saúde, maternidade, prêmio);",
+            "Promoções na carreira;",
+            "Uso de insígnias do cargo;",
+            "Prisão especial (sala de Estado-Maior) antes de condenação definitiva;",
+            "Uso de arma de fogo conforme previsto em lei."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Deveres do Policial Militar (Art. 31)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Deveres e obrigações",
+          "texto": "São deveres dos Policiais Militares aqueles emanados de vínculos racionais e morais que os ligam à comunidade e à segurança. Incluem:",
+          "itens": [
+            "Frequentar o expediente regularmente;",
+            "Zelar pela farda e equipamento;",
+            "Tratar o público com respeito;",
+            "Residir no local da unidade (salvo autorização);",
+            "Manter boa conduta dentro e fora do quartel."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Responsabilidade do militar",
+          "texto": "O policial militar responde integralmente pelas decisões que tomar, pelas ordens que emitir e pelos atos que praticar. No cumprimento de ordens recebidas, o executante responde pelas omissões, erros e excessos que cometer (ordem manifestamente ilegal não deve ser cumprida)."
+        }
+      ]
+    },
+    {
+      "titulo": "Promoções (Lei nº 6.514/2004)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Critérios e condições",
+          "texto": "A Lei Estadual nº 6.514, de 23 de setembro de 2004, estabelece os critérios e as condições que asseguram aos militares estaduais da ativa o acesso à hierarquia militar, mediante promoção:",
+          "itens": [
+            "**Promoção por merecimento:** avaliação intelectual e acompanhamento da vida profissional;",
+            "**Promoção por ato de bravura:** ocorre mesmo que não exista vaga, permanecendo o militar como excedente;",
+            "**Promoção por invalidez permanente:** reconhecimento do Estado ao militar em decorrência de acidente de serviço."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Praças e Oficiais",
+          "texto": "A lei aplica-se a Soldados, Cabos, Subtenentes, Oficiais e ao Corpo de Bombeiros Militar."
+        }
+      ]
+    },
+    {
+      "titulo": "Inatividade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Reserva remunerada e reforma",
+          "texto": "A inatividade (passagem para a reserva remunerada ou reforma) ocorre por:",
+          "itens": [
+            "**Idade limite:** transferência ex-officio aos 70 anos para reserva remunerada e 72 anos para reforma (Lei nº 14.751/2023, art. 38, caput; EC nº 103/2019);",
+            "**Tempo de serviço:** 35 anos para oficial QOEM e 42 anos para oficial QOE;",
+            "**Invalidez:** por acidente de serviço ou doença."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Contagem de tempo",
+          "texto": "O tempo de serviço prestado à iniciativa privada não pode ser computado para fins de promoção, sendo contado exclusivamente para fins de inatividade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Reserva x Reforma",
+          "texto": "**Reserva Remunerada:** decorre do tempo de serviço; permanência vinculada à Corporação; pode ser convocado.\n\n**Reforma:** decorre de incapacidade definitiva ou outras hipóteses legais; vínculo funcional encerrado para convocação; não retorna ao serviço ativo."
+        }
+      ]
+    },
+    {
+      "titulo": "Afastamentos e Licenças",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Afastamentos temporários",
+          "texto": "São considerados afastamentos temporários do serviço:\n- Férias: até 30 dias;\n- Núpcias (casamento): 8 dias;\n- Luto: 8 dias;\n- Instalação: até 5 dias;\n- Trânsito: 24 ou 48 horas, conforme o caso."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licenças previstas",
+          "texto": "O Estatuto prevê as seguintes licenças:\n- Especial (3 meses a cada 5 anos de serviço);\n- Para tratar de interesse particular (sem remuneração, até 2 anos, só para estáveis);\n- Para tratamento de saúde;\n- Para acompanhar pessoa da família;\n- Gestante (licença-maternidade);\n- Paternidade;\n- Por núpcias;\n- Por luto."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ausente, Desertor e Desaparecido",
+          "texto": "**Ausente:** PM que deixa de comparecer à OM ou se afasta sem autorização por mais de 24h e menos de 8 dias consecutivos.\n\n**Desertor:** PM que permanece ausente por mais de 8 dias consecutivos (crime militar).\n\n**Desaparecido (extraviado):** PM cujo paradeiro é ignorado por mais de 8 dias em razão de naufrágio, sinistro aéreo, catástrofe ou outro acidente oficialmente reconhecido."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Agregação — Conceito",
+          "texto": "Agregação é a situação em que o policial militar da ativa deixa de ocupar vaga na escala hierárquica, permanecendo sem número, para exercer cargo ou função comissionada, eletiva ou temporária. O agregado mantém o vínculo com a Corporação, mas fica desvinculado do quadro de efetivos. A agregação é sempre temporária e revogável, podendo ser concedida ou revogada pela autoridade competente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Hipóteses de Agregação",
+          "texto": "A agregação ocorre nas seguintes hipóteses:",
+          "itens": [
+            "**Exercer cargo ou função comissionada ou eletiva:** quando o PM é nomeado para cargo comissionado ou concorre a cargo eletivo;",
+            "**Exercer mandato eletivo:** quando o PM é eleito para cargo político (deputado, vereador, etc.);",
+            "**Licença para tratar de interesse particular (prazo superior a 6 meses):** afastamento por interesse particular que exceda o prazo legal e ocasione agregação;",
+            "**Férias ou licença gozadas no exterior sem autorização ou por prazo prolongado:** quando o afastamento não autorizado do país inviabiliza o exercício do cargo;",
+            "**Prisão preventiva ou prisão em flagrante que impeça o exercício das funções:** afastamento enquanto perdurar a situação processual que impeça o exercício;",
+            "**Deserção (após o prazo legal aplicável, ex.: 8 dias para praças):** quando configurada a deserção nos termos do Estatuto e do RDPMAL;",
+            "**Exercer missão especial:** quando designado para missão de natureza especial ou internacional;",
+            "**Exercer atividade acadêmica:** quando afastado para cursar graduação, pós-graduação ou outros estudos superiores;",
+            "**Exercer função de natureza temporária:** quando designado para atividade temporária fora da estrutura militar;",
+            "**Ser afastado para concorrer a cargo eletivo:** quando autorizado a se candidatar a cargo político-eleitoral."
+          ]
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Reversão — Conceito",
+          "texto": "Reversão é o retorno do policial militar agregado à ativa, à sua vaga na escala hierárquica, após cessar o motivo que deu origem à agregação. O PM agregado que retorna à ativa recupera seu posto, patente e direitos, podendo ser readaptado às necessidades da Corporação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Hipóteses de Reversão",
+          "texto": "A reversão ocorre nas seguintes hipóteses:",
+          "itens": [
+            "**Cessa o cargo ou função comissionada:** quando o PM deixa de exercer o cargo comissionado ou função temporária;",
+            "**Cessa o mandato eletivo:** quando o mandato político do PM chega ao fim;",
+            "**Cessa a missão especial:** quando a missão de natureza especial ou internacional termina;",
+            "**Cessa a atividade acadêmica:** quando o curso ou estudo superior é concluído ou interrompido;",
+            "**Cessa o afastamento para concorrência:** quando o processo eleitoral ou concurso é finalizado;",
+            "**Decisão da autoridade competente:** quando o Comandante-Geral determina a reversão por motivo de serviço."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Efeitos da Agregação e Reversão",
+          "texto": "Durante a agregação, o PM mantém o vínculo com a Corporação, mas não ocupa vaga na escala hierárquica. O tempo de serviço é contado normalmente para fins de inatividade. Na reversão, o PM retorna à ativa com o mesmo posto e patente, podendo ser readaptado às necessidades da Corporação. A agregação não gera perda de vantagens ou direitos, mas pode afetar a progressão hierárquica."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Conselho de Justificação x Conselho de Disciplina — Composição e Prazos",
+          "texto": "Composição e prazos procedimentais:",
+          "itens": [
+            "**Composição:** os Conselhos são, em regra, compostos por oficiais de posto superior ao do investigado (para Oficiais) e por oficiais da graduação imediatamente superior ou composição prevista em regulamento para Praças; deve observar-se a vedação de participação de membros que mantenham vínculo direto ou interesse no processo;",
+            "**Prazos usuais:** prazo inicial de 30 (trinta) dias para conclusão dos trabalhos do Conselho (instrução e relatório), prorrogáveis por igual período mediante justificativa fundamentada e decisão da autoridade competente;",
+            "**Fase de defesa:** prazo para notificação do acusado e apresentação de defesa prévia (p.ex. 10 a 15 dias, conforme norma local), produção de provas e oitiva de testemunhas;",
+            "**Decisão e recursos:** após o relatório, o Conselho emite proposta de decisão, submetida à autoridade competente; existem prazos regimentais para interposição de recursos internos, previstos no Estatuto e no RDPMAL."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conselhos e Processo Disciplinar",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Conselho de Justificação x Conselho de Disciplina",
+          "tabela": {
+            "colunas": ["Critério", "Conselho de Justificação", "Conselho de Disciplina"],
+            "linhas": [
+              ["Destinado a", "Oficiais", "Praças estáveis"],
+              ["Composição", "Presidido pelo Comandante-Geral ou representante; composto por oficiais-gerais e oficiais do quadro", "Presidido pelo Comandante-Geral ou representante; composto por oficiais e praças"],
+              ["Natureza", "Inquérito remetido ao TJE (processo judicial militar)", "Processo administrativo disciplinar interno"],
+              ["Prazo", "90 dias, prorrogáveis por igual período", "60 dias, prorrogáveis por igual período"],
+              ["Objetivo", "Perda do posto e patente", "Exclusão ou licenciamento a bem da disciplina"]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Punições disciplinares",
+          "texto": "Toda punição disciplinar deve ser publicada em boletim. A ausência de publicação pode acarretar a nulidade do ato. A advertência é a punição mais branda."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Comunicação disciplinar",
+          "texto": "Quando um superior praticar transgressão que ofenda a honra ou a dignidade do subordinado, caberá comunicação disciplinar, a ser apresentada em até 2 dias úteis."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Circunstâncias atenuantes e agravantes",
+          "texto": "No julgamento da transgressão disciplinar, devem ser consideradas todas as circunstâncias agravantes e atenuantes previstas na legislação (ex.: falta de prática no serviço é atenuante)."
+        }
+      ]
+    },
+    {
+      "titulo": "Exclusão do Serviço Ativo e Licenciamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Exclusão para Oficiais",
+          "texto": "Oficiais podem ser excluídos por:\n- Demissão;\n- Licenciamento;\n- Perda do posto e da patente (mediante julgamento no TJE);\n- Reforma."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exclusão para Praças",
+          "texto": "Praças podem ser excluídas por:\n- Licenciamento;\n- Exclusão do serviço ativo;\n- Reforma."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licenciamento a bem da disciplina",
+          "texto": "O PM com 5 anos de serviço, classificado no mau comportamento, que venha a praticar nova transgressão disciplinar poderá ser licenciado a bem da disciplina, desde que atendidos os requisitos legais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cancelamento do registro de punição",
+          "texto": "O PM poderá requerer o cancelamento do registro da punição disciplinar após o prazo legal, desde que não tenha sofrido nova punição no período."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/3.1.png"
+        }
+      ]
+    },
+    
+//===========================================================================================================================================================================
+
+//===========================================================================================================================================================================
+  
+{
+      "titulo": "Remuneração, Vantagens e Indenizações",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Remuneração básica e complementar",
+          "texto": "O policial militar recebe remuneração básica, definida por lei federal (teto do servidor público), complementada por gratificações e adicionais específicos da carreira militar. A remuneração é fixa e mensal, com reajustes anuais conforme legislação vigente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Gratificações e adicionais",
+          "texto": "As gratificações e adicionais previstos para os policiais militares incluem:",
+          "itens": [
+            "**Gratificação de tempo de serviço (GTS):** proporcional ao tempo de serviço, com teto de 100%;",
+            "**Gratificação hierárquica:** referente ao posto ou graduação exercido;",
+            "**Adicional de periculosidade:** por exposição a riscos comuns à vida (100% do salário mínimo, conforme Lei 8.112/1990);",
+            "**Adicional de insalubridade:** por condições ambientais nocivas (conforme NR-15 e legislação específica);",
+            "**Adicional noturno:** por trabalho em regime de plantão noturno;",
+            "**Adicional de frequência:** por serviço em regime de 24h ou 12h;",
+            "**Gratificação de disponibilidade:** paga aos militares em reserva remunerada que estejam disponíveis para convocação."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vantagens não remunerais",
+          "texto": "Além da remuneração, o PM goza de vantagens não remunerais, tais como:",
+          "itens": [
+            "**Alimentação:** fornecimento de refeições em quartel ou bolsa de alimentação;",
+            "**Moradia:** fornecimento de moradia oficial ou adicional de moradia (100% do salário mínimo, conforme Lei 8.112/1990);",
+            "**Transporte:** transporte gratuito em viaturas oficiais ou passagens regulares;",
+            "**Farda e equipamentos:** fornecimento de farda, equipamentos de proteção e armamento;",
+            "**Saúde:** atendimento médico e odontológico no sistema de saúde da PM ou convênio privado;",
+            "**Previdência:** contribuição ao regime de previdência do servidor público militar (RPM)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Indenizações",
+          "texto": "As indenizações são pagas para compensar prejuízos ou custos não orçamentários do serviço:",
+          "itens": [
+            "**Indenização por acidente de trabalho:** quando o PM sofre acidente em serviço, com cobertura do INSS e/ou do sistema de previdência militar;",
+            "**Indenização por doença ocupacional:** para enfermidades contraídas em razão do serviço;",
+            "**Indenização por danos morais:** em casos de responsabilização civil ou penal da Corporação;",
+            "**Auxílio-alimentação e auxílio-transporte:** indenizações fixas para custeio de despesas com alimentação e locomoção;"
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Peculiaridades da remuneração",
+          "texto": "⚠️ A remuneração do PM não é considerada renda comum para fins de imposto de renda, sendo isenta parcialmente (até o teto). ⚠️ O adicional de periculosidade e insalubridade são pagos conforme legislação federal, não estadual. ⚠️ Militares em agregação ou afastados mantêm direito à remuneração básica, salvo se afastados sem remuneração (licença sem remuneração)."
+        }
+      ]
+    },
+    {
+      "titulo": "Justiça e Processo Penal Militar",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Competência da Justiça Militar",
+          "texto": "A Justiça Militar é o Poder Judiciário especializado em julgar crimes militares. No Brasil, cada Estado possui seu Tribunal de Justiça Militar (TJM), criado pela Constituição Federal (art. 122). A competência da Justiça Militar estende-se aos crimes definidos na legislação militar, cometidos por militares submetidos ao regime disciplinar especial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Crimes submetidos à Jurisdição Militar",
+          "texto": "A Jurisdição Militar compreende os seguintes tipos de crimes:",
+          "itens": [
+            "**Crimes de competência exclusiva da Jurisdição Militar (art. 122, § 2º, I, da CF):** deserção, desobediência, desacato, embriaguez em serviço, entre outros (CPM, arts. 176 a 199);",
+            "**Crimes de competência concorrente (art. 122, § 2º, II, da CF):** crimes comuns cometidos por militares em serviço ou por motivo do serviço, como homicídio, furto, etc.;",
+            "**Crimes de ação pública decidida:** quando o Ministério Público Military (MPM) decide propor a ação (ex.: deserção, desobediência);",
+            "**Crimes de ação pública ofensiva:** quando a ação penal depende de representação (ex.: desacato, embriaguez em serviço)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrutura do Processo Penal Militar",
+          "texto": "O processo penal militar segue a estrutura do Código de Processo Penal (CPP), com adaptações específicas. As fases principais são:",
+          "itens": [
+            "**Inquérito Policial Militar (IPM):** fase de investigação, conduzida por oficial de justiça ou delegado de justiça militar;",
+            "**Representação do MPM:** o Ministério Público Military propõe a ação penal, salvo crimes de ação pública ofensiva;",
+            "**Ação Penal Militar (APM):** instrumento judicial que inicia o processo, com petição inicial;",
+            "**Instrução criminal:** fase de produção de provas, com audiências de instrução e julgamento;",
+            "**Julgamento:** realizado por corte de justiça militar (desembargador militar) ou tribunal de origem (juiz de primeiro grau militar)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos do acusado no Processo Penal Militar",
+          "texto": "O acusado no processo penal militar tem os mesmos direitos constitucionais e processuais do processo penal comum, incluindo:",
+          "itens": [
+            "**Ampla defesa:** direito de se defender com assistência judiciária gratuita, se necessário;",
+            "**Contraditório:** direito de conhecer a acusação e contestá-la;",
+            "**Presunção de inocência:** até sentença em grau definitivo;",
+            "**Lealdade processual:** o acusado não pode ser obrigado a prestar depoimento;",
+            "**Recursos:** apelação, embargos de declaração, habeas corpus e ação rescisória."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Diferenças entre Justiça Militar e Justiça Comum",
+          "texto": "⚠️ A Justiça Militar julga apenas crimes militares (CPM) e crimes comuns cometidos por militares em serviço. ⚠️ O Ministério Público é o MPM (não o MP comum). ⚠️ Os juízes são do quadro da Justiça Militar estadual. ⚠️ A tramitação segue o CPP, mas com prazos e formalidades específicas. ⚠️ A sentença pode ser revisada pelo TJM (Tribunal de Justiça Militar)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/3.2.png"
+        }
+      ]
+    }
+  ]
+};

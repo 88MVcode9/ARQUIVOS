@@ -1,0 +1,157 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['10.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Intervenção do Estado na Propriedade Privada",
+  "icone": "🏠",
+  "descricao": "Formas de intervenção do Estado na propriedade privada: desapropriação (fases, competência, indenização), servidão administrativa, limitação administrativa, requisição administrativa e ocupação temporária.",
+  "topicos": [
+    {
+      "titulo": "Conceito Geral",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Intervenção na Propriedade Privada",
+          "texto": "A intervenção do Estado na propriedade privada é a atuação do Poder Público sobre bens e direitos de terceiros, com base na **supremacia do interesse público**. Diferente da propriedade pública, a propriedade privada é **inviolável**, podendo sofrer apenas as **formas de intervenção previstas em lei**.\n\n**Base legal:** Art. 182 da CF/88 (propriedade privada) e Art. 186 (usucapião). A intervenção é sempre **mediante indenização**, salvo exceções constitucionais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios da Intervenção",
+          "itens": [
+            "**Supremacia do interesse público** — o bem coletivo prevalece sobre o individual.",
+            "**Indenização** — o proprietário deve ser compensado pelo prejuízo.",
+            "**Legalidade** — a intervenção só pode ocorrer com base em lei.",
+            "**Proporcionalidade** — a intervenção deve ser proporcional ao interesse público."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Desapropriação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Desapropriação?",
+          "texto": "É a **extinção do direito de propriedade** do particulado em favor do Estado, mediante **indenização prévia, justa e em dinheiro**. A desapropriação é a forma mais grave de intervenção na propriedade privada, pois afeta o direito de propriedade de forma definitiva.\n\n**Base legal:** Art. 182, §2º, da CF/88 e Lei 13.844/2019 (Lei Geral de Desapropriação)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fases da Desapropriação",
+          "itens": [
+            "**1. Expropriação (ato estatal):** O Estado declara a utilidade pública e determina a desapropriação.",
+            "**2. Indiva (avaliação):** O Estado fixa o valor da indenização por meio de perícia judicial ou administrativa.",
+            "**3. Pagamento:** O Estado paga a indenização ao proprietário.",
+            "**4. Averiguação:** O Estado verifica a efetividade do pagamento.",
+            "**5. Escritura pública:** Formalização da transferência da propriedade para o Estado."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competência Legislatativa",
+          "texto": "A **competência para desapropiar é da União**, em todos os casos. Os Estados e Municípios só podem desapropiar mediante **autorização da União** (Art. 182, §2º, CF/88).\n\n**Exceções:** A União pode desapropiar diretamente para:\n- **Reforma agrária** (Art. 183, §2º, CF);\n- **Urbanismo** (Art. 185, §2º, CF);\n- **Expansão de vias e transporte** (Art. 182, §2º, CF);\n- **Segurança nacional** (Art. 182, §2º, CF);\n- **Conservação do meio ambiente** (Art. 182, §2º, CF);\n- **Títulos da dívida pública em reforma agrária ou urbana** (exceção à regra do pagamento em dinheiro)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Indenização",
+          "texto": "**Princípio:** A indenização deve ser **prévia, justa e em dinheiro** (Art. 182, §2º, CF).\n\n**Valor:** Corresponde ao **valor de mercado** do bem, atualizado monetariamente até o momento do pagamento.\n\n**Exceções ao pagamento em dinheiro:**\n- **Reforma agrária** — pode ser pago em títulos da dívida pública;\n- **Urbanismo** — pode ser pago em títulos ou em obras de interesse coletivo;\n- **Projeto de interesse social** — pode ser pago em títulos da dívida pública."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Exceções Constitucionais",
+          "texto": "A regra do **indenização prévia, justa e em dinheiro** admite exceções para:\n\n1. **Títulos da dívida pública** — em reforma agrária ou urbana;\n2. **Obras de interesse coletivo** — em urbanismo;\n3. **Projeto de interesse social** — em reforma agrária;\n4. **Adquisição de imóvel para construção de infraestrutura** — pode ser pago em títulos."
+        }
+      ]
+    },
+    {
+      "titulo": "Servidão Administrativa",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "É a **limitação do uso da propriedade privada** para passagem, serviço ou utilidade pública, sem extinguir a propriedade. O proprietário continua sendo dono do bem, mas deve permitir o uso público em determinada área.\n\n**Exemplo:** Passagem de cabeceio de estrada, dutos de energia, linhas de transmissão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "itens": [
+            "**Não extingue a propriedade** — o proprietário continua dono do bem.",
+            "**É onerosa** — o Estado paga indenização por uso.",
+            "**É limitada no tempo** — pode ser temporária ou definitiva.",
+            "**É passível de usucapião** — se o uso for contínuo e ininterrupto por 5 anos (Art. 187, CC).",
+            "**Exige lei de criação** — a servidão só pode ser criada por lei."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Limitação Administrativa",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "É a **restrição do exercício do direito de propriedade** para proteger interesses públicos específicos, sem criar servidão nem extinguir a propriedade. O proprietário pode continuar usando o bem, mas com restrições.\n\n**Exemplo:** Zona de proteção ambiental, área de risco, corredores ecológicos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "itens": [
+            "**Não extingue a propriedade** — o proprietário continua dono.",
+            "**Não cria servidão** — não há passagem ou uso específico.",
+            "**É gratuita** — o Estado não paga indenização.",
+            "**É temporária** — pode ser revogada quando o interesse público cessar.",
+            "**Exige lei de criação** — a limitação só pode ser criada por lei."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Requisição Administrativa",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "É a **ocupação temporária de bem privado** pelo Estado, mediante **indenização**, para atender a necessidade pública urgente. Diferente da desapropriação, a requisição **não extingue a propriedade** — é apenas uma ocupação temporária.\n\n**Exemplo:** Ocupação de imóvel para construção de obra pública, requisição de terreno para posto de saúde temporário."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos",
+          "itens": [
+            "**Utilidade pública ou interesse público** — justifica a requisição.",
+            "**Urgência** — a ocupação é temporária e urgente.",
+            "**Indenização** — o proprietário deve ser compensado.",
+            "**Lei de autorização** — exige base legal específica.",
+            "**Prazo determinado** — a ocupação tem duração limitada."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Ocupação Temporária",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "É a **ocupação temporária de bem privado** pelo Estado, sem indenização, para atender a situações de emergência ou interesse público coletivo. Diferente da requisição, a ocupação temporária **não exige indenização** em alguns casos.\n\n**Exemplo:** Ocupação de imóvel para construção de obra de emergência, ocupação de área para contenção de enchente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferença entre Requisição e Ocupação Temporária",
+          "texto": "**Requisição Administrativa:** ocupação temporária **mediante indenização**. **Ocupação Temporária:** ocupação temporária **sem indenização** (em casos de emergência ou interesse público coletivo)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Bizu das Formas de Intervenção",
+          "texto": "**Desapropriação** = extinção da propriedade + indenização em dinheiro.  \n**Servidão** = uso passivo do bem + indenização.  \
+**Limitação** = restrição de uso + sem indenização.  \
+**Requisição** = ocupação temporária + indenização.  \
+**Ocupação temporária** = ocupação temporária + sem indenização (em casos de emergência)."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/10.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

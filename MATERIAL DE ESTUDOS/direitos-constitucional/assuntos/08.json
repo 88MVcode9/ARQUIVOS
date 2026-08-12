@@ -1,0 +1,485 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['08.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Estrutura e Organização do Estado Brasileiro",
+  "icone": "🏛️",
+  "descricao": "Análise completa da estrutura e organização do Estado brasileiro, abrangendo forma de Estado (Federação), forma de governo (República), sistema de governo (Presidencialismo), regime político (Democracia), separação dos Poderes (Legislativo, Executivo, Judiciário), organização político-administrativa (União, Estados, DF, Municípios), criação e alteração de Estados, peculiaridades do Distrito Federal, Territórios Federais, vedações aos entes, intervenção federal e estadual, criação de municípios (com bloqueio atual), repartição de competências, soberania vs autonomia, bens da União e dos Estados, símbolos nacionais, organização dos Municípios (Lei Orgânica, vereadores, subsídios), fiscalização municipal (Tribunal de Contas, parecer prévio), deputados estaduais e governadores, com jurisprudência do STF, mnemônicos e pegadinhas.",
+  "data": "2026-08-07",
+  "revisao": "4.0",
+  "topicos": [
+    {
+      "titulo": "Forma de Estado, Forma de Governo, Sistema de Governo e Regime Político",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Visão Geral — Art. 1º e 18 da CF",
+          "texto": "O Brasil adota simultaneamente quatro características fundamentais:\n\n- **Forma de Estado:** **Federação** (Art. 1º, caput) – união indissolúvel de Estados autônomos.\n- **Forma de Governo:** **República** (Art. 1º, caput) – eletividade, temporalidade e responsabilidade dos governantes.\n- **Sistema de Governo:** **Presidencialismo** – Presidente é Chefe de Estado e de Governo, eleito pelo povo.\n- **Regime Político:** **Democracia** (Art. 1º, parágrafo único) – poder emana do povo, exercido direta ou indiretamente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Forma de Estado: Federação — Características",
+          "texto": "O Brasil adota a **forma federativa de Estado** (Art. 1º, caput).\n\n**Características da Federação brasileira:**\n- **Indissolúvel** – nenhum Estado pode se separar da Federação (vedação ao direito de secessão).\n- **Autonomia dos entes** – União, Estados, DF e Municípios possuem autonomia política, administrativa e financeira (Art. 18, caput).\n- **Repartição de competências** – definida nos Arts. 21 a 30.\n- **Constituição rígida** – não pode ser alterada por emenda que suprima a forma federativa (cláusula pétrea – Art. 60, §4º, I)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Forma de Governo: República — Características",
+          "texto": "O Brasil adota a **forma republicana de governo** (Art. 1º, caput).\n\n**Características da República:**\n- **Eletividade** – representantes escolhidos pelo povo (direta ou indiretamente).\n- **Temporalidade** – mandatos com prazo determinado.\n- **Responsabilidade** – governantes prestam contas ao povo.\n- **Soberania popular** – o poder emana do povo (Art. 1º, parágrafo único).\n\n⚠️ **Pegadinha:** A banca afirma que o Brasil é uma monarquia parlamentarista. **ERRADO.** É uma república presidencialista."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Sistema de Governo: Presidencialismo",
+          "texto": "O Brasil adota o **presidencialismo** (Art. 1º, caput).\n\n**Características do Presidencialismo:**\n- O Presidente é **Chefe de Estado** e **Chefe de Governo** simultaneamente.\n- Eleito diretamente pelo povo (Art. 77, caput).\n- **Independência entre os Poderes** (Art. 2º).\n- **Inamovibilidade** – o Presidente não pode ser removido por voto de desconfiança (diferente do parlamentarismo).\n\n⚠️ **Pegadinha:** A banca diz que o Brasil adota o parlamentarismo. **ERRADO.** O sistema é presidencialista."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Regime Político: Democracia — Formas de Exercício",
+          "texto": "**Regime Político:** Democracia (Art. 1º, parágrafo único).\n\n'Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.'\n\n**Formas de exercício da democracia:**\n- **Direta** – o povo decide pessoalmente (plebiscito, referendo, iniciativa popular de lei).\n- **Indireta** – o povo elege representantes (deputados, senadores, prefeitos, governadores, presidente).\n- **Semidireta** – combinação das duas formas (ex: o povo elege representantes, mas também pode ser consultado por plebiscito ou referendo)."
+        }
+      ]
+    },
+    {
+      "titulo": "Separação dos Poderes — Art. 2º CF",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Separação dos Poderes",
+          "texto": "**Princípio (Art. 2º):** 'São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.'\n\n**São Poderes da União** (não dos Estados, embora os Estados também tenham seus três Poderes):\n- **Legislativo** – elabora leis (Congresso Nacional: Câmara dos Deputados + Senado Federal).\n- **Executivo** – administra e governa (Presidente da República).\n- **Judiciário** – julga e aplica a lei (STF, STJ, TST, TSE, TRFs, TRTs, etc.)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Sistema de Freios e Contrapesos (Checks and Balances)",
+          "texto": "Cada Poder controla e é controlado pelos outros:\n\n- **Legislativo:** fiscaliza o Executivo (CPIs, impeachment), aprova leis, julga o Presidente em crime de responsabilidade (Art. 52, I).\n- **Executivo:** veto, medida provisória, decreto autônomo (Art. 84, VI), lei delegada (Art. 68), nomeia ministros do STF (Art. 84, XX).\n- **Judiciário:** controle de constitucionalidade, julga a constitucionalidade das leis (Art. 97, 102, I, a).\n\n💡 **Exemplo Prático:** O Presidente veta um projeto de lei aprovado pelo Congresso. O Legislativo pode derrubar o veto por maioria absoluta (Art. 66, §4º). O Judiciário, por sua vez, pode declarar a lei inconstitucional se entender que viola a CF. É o freio e contrapeso em ação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Funções Típicas e Atípicas dos Poderes",
+          "texto": "**Funções TÍPICAS:**\n- **Legislativo** → legislar (Art. 48 CF).\n- **Executivo** → administrar (Art. 84 CF).\n- **Judiciário** → julgar (Art. 92 CF).\n\n**Funções ATÍPICAS:**\n- **Legislativo** → julgar (impeachment do Presidente – Art. 52, I) e administrar (gestão interna da Câmara e Senado).\n- **Executivo** → legislar (medida provisória – Art. 62; decreto autônomo – Art. 84, VI; lei delegada – Art. 68).\n- **Judiciário** → administrar (gestão interna dos tribunais – Art. 99 CF) e, em algumas situações, legislar (regimentos internos dos tribunais).\n\n⚠️ **Pegadinha:** A banca afirma que o Judiciário só exerce função típica de julgar. **ERRADO.** Também exerce funções atípicas (administrativa e legislativa, esta última na elaboração de seus regimentos internos)."
+        }
+      ]
+    },
+    {
+      "titulo": "Pilares da Organização Estatal — Resumo Completo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "🌎 Forma de Estado — Federação",
+          "texto": "**FEDERAÇÃO:** União de entes autônomos (indissolúvel).\n\n- Possui descentralização política (cada ente faz suas leis).\n- 4 entes: União, Estados, DF, Municípios.\n\n🧠 **Dica:** 'O Estado é **FE**derado' (FE = Federação).\n\n⚠️ **Pegadinha:** A Federação é uma união indissolúvel — Estados não podem se separar (Art. 1º, caput)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "👑 Forma de Governo — República",
+          "texto": "**REPÚBLICA:** Caracterizada pela eletividade e temporariedade.\n\n- Dever de prestar contas (responsabilidade do gestor).\n- Soberania popular — poder emana do povo.\n\n🧠 **Dica:** 'O Governo é **RE**publicano' (RE = República).\n\n⚠️ **Pegadinha:** República não é sinônimo de democracia direta; é a forma de governo, enquanto democracia é o regime político."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "⚙️ Funcionamento Político — Sistema e Regime",
+          "texto": "**Sistema de Governo: PRESIDENCIALISMO**\n- O Presidente é, ao mesmo tempo, Chefe de Estado e Chefe de Governo.\n- Eleito diretamente pelo povo.\n- Inamovibilidade (não cai por voto de desconfiança).\n\n**Regime Político: DEMOCRACIA**\n- Todo o poder emana do povo (Direta, Indireta ou Semidireta).\n- **Direta:** plebiscito, referendo, iniciativa popular.\n- **Indireta:** eleição de representantes (regra geral).\n\n⚠️ **Pegadinha:** Presidencialismo não significa que o Presidente governa sozinho; ele depende da harmonia com os outros Poderes (freios e contrapesos)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "🗺️ Organização Político-Administrativa (Art. 18)",
+          "texto": "Art. 18 da CF/88: A organização compreende a **União, os Estados, o Distrito Federal e os Municípios**, todos autônomos.\n\n- 🏛️ **União:** Representa a soberania do Estado Brasileiro no exterior, mas internamente é apenas autônoma.\n- 🗺️ **Estados:** Possuem Constituições Próprias e auto-organização.\n- 🏙️ **Municípios:** Possuem Leis Orgânicas (não têm Constituição nem Judiciário próprio).\n- 🏢 **Distrito Federal:** Natureza híbrida (acumula competências estaduais e municipais), com Lei Orgânica própria (Art. 32)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "🔄 Soberania vs Autonomia",
+          "texto": "🏛️ **República Federativa do Brasil:** Detém a **SOBERANIA** (poder supremo e independente no plano internacional).\n\n🏘️ **Entes Federados (U/E/DF/M):** Detêm apenas **AUTONOMIA** (capacidade de autogestão nos limites da lei).\n\n⚠️ **CUIDADO:** Territórios Federais não são entes federados. Eles integram a União e não possuem autonomia política."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO FINAL — 'FRED + LIMPE + EPCC + FASE'",
+          "texto": "**Estrutura do Estado:**\n- **F**ederação + **R**epública + **E**leição direta + **D**emocracia (FRED)\n\n**Administração Pública:**\n- **L**egalidade + **I**mpessoalidade + **M**oralidade + **P**ublicidade + **E**ficiência (LIMPE)\n\n**Competências:**\n- **E**xclusiva + **P**rivativa + **C**omum + **C**oncorrente (EPCC)\n\n**Administração Indireta:**\n- **F**undações + **A**utarquias + **S**ociedades de Economia Mista + **E**mpresas Públicas (FASE)\n\n📌 **Dica:** Guarde esses mnemônicos para não errar questões conceituais!"
+        }
+      ]
+    },
+    {
+      "titulo": "Organização Político-Administrativa — Art. 18 a 36",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entes Federativos (Art. 18, caput)",
+          "texto": "A organização político-administrativa da República Federativa do Brasil compreende a **União, os Estados, o Distrito Federal e os Municípios**, todos autônomos.\n\n**Características de cada ente:**\n- **União** – soberania externa, defesa nacional, relações internacionais.\n- **Estados** – possuem Constituição Estadual própria.\n- **Distrito Federal** – natureza híbrida (competências estaduais + municipais).\n- **Municípios** – possuem Lei Orgânica (não têm Constituição) e não possuem Judiciário próprio (a Justiça Estadual julga as questões municipais)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 18, §1º — Brasília, Capital Federal",
+          "texto": "Art. 18, §1º: **Brasília é a Capital Federal.**\n\nBrasília está localizada no Distrito Federal e é a sede do Governo Federal. A mudança da Capital Federal exige lei complementar (Art. 18, §2º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 18, §§ 3º e 4º — Criação, Incorporação, Fusão e Desmembramento",
+          "texto": "**§3º — Estados:**\nA criação, incorporação, fusão e desmembramento de Estados dependem de:\n- **Plebiscito** das populações diretamente interessadas;\n- **Oitiva das Assembleias Legislativas** (parecer não vinculante);\n- **Lei Complementar** do Congresso Nacional.\n\n**§4º — Municípios:**\nA criação, incorporação, fusão e desmembramento de Municípios dependem de:\n- **Lei complementar federal** fixando período para criação (ainda não editada – **STF suspendeu novos municípios**);\n- **Estudos de viabilidade**;\n- **Plebiscito** das populações envolvidas;\n- **Lei estadual** efetivando a criação.\n\n🚨 **Situação atual (ADI 3.682):** A lei complementar federal nunca foi aprovada, portanto **não há criação de novos municípios** no Brasil (salvo os convalidados pela EC 57/2008)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Peculiaridades do Distrito Federal (Art. 32)",
+          "texto": "O Distrito Federal possui regras únicas:\n\n- **Vedação de divisão em Municípios:** Art. 32, caput – o DF não pode ser dividido em Municípios; organiza-se em **Regiões Administrativas** (RAs).\n- **Competência híbrida:** Art. 32, §1º – o DF acumula as competências legislativas e tributárias reservadas aos Estados e Municípios.\n- **Lei Orgânica própria:** não possui Constituição Estadual nem Lei Orgânica Municipal; sua norma fundamental é a **Lei Orgânica do Distrito Federal**, aprovada por 2/3 da Câmara Legislativa (Art. 32, §2º).\n- **Autonomia:** é ente federativo autônomo (Art. 18, caput), com governador e vice eleitos pelo povo (Art. 32, §3º), e Câmara Legislativa (Art. 32, §4º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Territórios Federais — Art. 18, §2º e Art. 33",
+          "texto": "Os **Territórios Federais** integram a União e **não possuem autonomia**.\n- Não são entes federativos – não têm autonomia política.\n- A criação, transformação em Estado ou reintegração ao Estado de origem é regulada por lei complementar (LC nº 20/1974).\n\n**Atualmente não existem Territórios Federais no Brasil:**\n- Roraima → transformado em Estado (ADCT, art. 4º).\n- Amapá → transformado em Estado (ADCT, art. 4º).\n- Fernando de Noronha → extinto, retornou a Pernambuco.\n\n**Poderes no Território:** Se houvesse, o Presidente da República nomearia o Governador (Art. 84, XV, 'e'), e a justiça seria federal.\n\n**Organização (Art. 33):**\n- Se o Território tiver mais de 100 mil habitantes, terá órgãos judiciários de primeira e segunda instância, Ministério Público e Defensoria Pública (§1º).\n- Terá Câmara Territorial (§2º) e suas contas serão fiscalizadas pelo Tribunal de Contas da União (§3º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vedações aos Entes (Art. 19 CF)",
+          "texto": "É vedado à União, aos Estados, ao DF e aos Municípios:\n- **Estabelecer cultos religiosos ou igrejas** (inciso I).\n- **Subvencionar cultos religiosos ou igrejas** (inciso II).\n- **Recusar fé a documentos públicos** – Art. 19, III: não podem recusar validade a documentos públicos de outros entes em todo o território nacional. STF já consolidou (SV 45) que nenhum ente pode exigir autenticação ou reconhecimento de firma para documentos públicos produzidos por outro ente federativo."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental — Organização do Estado",
+          "imagem": "./IMAGENS/8.1.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de Intervenção Federal e Estadual (Arts. 34 a 36)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Competência e Decreto de Intervenção (Art. 36 da CF)",
+          "texto": "A União não intervirá nos Estados ou no Distrito Federal, salvo nas hipóteses previstas na Constituição.\n\n**Competência para Decretar:** Compete privativamente ao Presidente da República decretar a intervenção federal, mediante decreto.\n\n**Controle do Congresso Nacional:** O Presidente submeterá o decreto de intervenção ao Congresso Nacional no prazo de 24 horas, que poderá aprová-lo ou rejeitá-lo.\n\n**Decreto de Intervenção:** É o ato que formaliza a intervenção. Esse decreto estabelecerá as seguintes regras:\n- I – O prazo de vigência;\n- II – O interventor;\n- III – As medidas aplicadas;\n- IV – As áreas afetadas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Intervenção Federal (Art. 34)",
+          "texto": "**I – Intervenção Espontânea (Ex Officio)**\nÉ decretada pelo Presidente da República de forma unilateral (ex officio).\n\n**Hipóteses:**\n1. Manter a integridade nacional.\n2. Repelir invasão estrangeira ou invasão de uma unidade da federação em outra.\n3. Garantir o cumprimento da ordem pública.\n4. Reorganizar as finanças da unidade da federação que:\n   - I - Deixar de pagar a dívida com a União por mais de 3 (três) anos consecutivos, salvo por motivos de força maior.\n   - II - Deixar de repassar receitas tributárias para os municípios no prazo legal.\n\n---\n\n**II – Intervenção por Solicitação**\nO Presidente a decretará mediante pedido.\n\n**Observações importantes:**\n- O pedido é essencial, não podendo o Presidente decretar ex officio.\n- O pedido não vincula o Presidente; ele decide se decreta ou não.\n\n**Hipótese:**\n- Garantir o livre exercício, nas unidades da federação, dos Poderes Legislativo e Executivo.\n\n---\n\n**III – Intervenção por Requisição do STF**\nO Presidente faz o Decreto mediante ordem do Supremo Tribunal Federal (STF).\n\n**Hipótese:**\n- Garantir o pleno exercício do Poder Judiciário nos Estados ou no Distrito Federal.\n\n---\n\n**IV – Intervenção por Requisição do STF, STJ ou TSE**\nO Presidente decretará a intervenção mediante requisição de qualquer um dos Tribunais superiores.\n\n**Hipótese:**\n- Garantir o cumprimento de decisão judicial.\n\n---\n\n**V – Intervenção por Requisição do STF, por Provimento de Representação do PGR**\nO Presidente decretará a intervenção mediante requisição do STF, por meio de representação do Procurador-Geral da República (PGR). O STF faz a requisição após a representação do PGR.\n\n**Hipóteses (Ocorre em 2 situações):**\n1. Garantir o cumprimento da lei federal.\n2. Houver violação dos princípios constitucionais (CF/88, Art. 34, inciso VII, da letra \"a\" até a letra \"e\")."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios Constitucionais Sensíveis — Art. 34, VII da CF",
+          "texto": "A União poderá intervir nos Estados ou no Distrito Federal para assegurar a observância dos seguintes princípios (rol taxativo):\n\n**a) forma republicana, sistema representativo e regime democrático;**\n**b) direitos da pessoa humana;**\n**c) autonomia municipal;**\n**d) prestação de contas da administração pública, direta e indireta;**\n**e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde.**\n\n🧠 **Para concurso — memorize assim:**\nArt. 34, VII = **“RE-DI-AU-CO-ED”**\n\n- **RE** → Republicana + sistema representativo + regime democrático\n- **DI** → Direitos da pessoa humana\n- **AU** → Autonomia municipal\n- **CO** → Prestação de contas\n- **ED** → Educação + saúde\n\n⚠️ **Pegadinha de prova:** o inciso VII não vai de “a” até “i”. Atualmente são somente **5 alíneas: a, b, c, d e e**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Intervenção Estadual (Art. 35 CF) — CORRIGIDO!",
+          "texto": "O Estado pode intervir no Município nos seguintes casos **taxativos** (Art. 35):\n\nI – Deixar de ser paga, sem motivo de força maior, por **dois anos consecutivos**, a dívida fundada.\nII – **Não prestar contas** devidamente, nos termos da lei.\nIII – **Não aplicar o mínimo exigido** da receita municipal em educação (25%) e saúde (15%).\nIV – O **Tribunal de Justiça** der provimento a **representação** para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial.\n\n⚠️ **ERRO CORRIGIDO:** O arquivo anterior mencionava \"Deixar o Tribunal de Contas de funcionar regularmente\" como hipótese de intervenção. Isso **NÃO CONSTA** no Art. 35. A hipótese correta é a do **Tribunal de Justiça** mediante representação.\n\n📌 **Exemplo:** Se um Município deixar de pagar a dívida fundada por 2 anos, o Estado pode intervir. Se o Tribunal de Justiça Estadual, em representação, constatar violação de princípio constitucional, também cabe intervenção."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Soberania vs Autonomia (Reforço)",
+          "texto": "🏛️ **República Federativa do Brasil:** Detém a **SOBERANIA** (poder supremo e independente no plano internacional).\n\n🏘️ **Entes Federados (U/E/DF/M):** Detêm apenas **AUTONOMIA** (capacidade de autogestão nos limites da lei).\n\n⚠️ **CUIDADO:** Territórios Federais não são entes federados. Eles integram a União e não possuem autonomia política."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental — Intervenção",
+          "imagem": "./IMAGENS/8.2.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Bens da União e dos Estados — Arts. 20 e 26 da CF",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Art. 20 — Bens da União",
+          "texto": "Pertencem à União:\n\n- **Terras devolutas** indispensáveis à defesa das fronteiras, fortificações, construções militares e vias federais de comunicação.\n- **Lagos, rios e correntes de água** que:\n  - Banhem mais de um Estado;\n  - Sirvam de limite com outro país;\n  - Estendam-se ao exterior;\n  - Tenham origem ou foz no exterior.\n- **Ilhas oceânicas e costeiras** (ressalvadas as exceções constitucionais).\n- **Mar territorial, plataforma continental e zona econômica exclusiva.**\n- **Terrenos de marinha** (faixa de 33 metros da linha da preamar).\n- **Recursos minerais** (inclusive em propriedade particular).\n- **Potenciais de energia hidráulica.**\n- **Cavidades naturais subterrâneas.**\n- **Terras tradicionalmente ocupadas pelos indígenas** (posse permanente e usufruto exclusivo)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 26 — Bens dos Estados",
+          "texto": "Pertencem aos Estados:\n\n- **Águas superficiais e subterrâneas** (fluviais, lacustres) que não pertençam à União.\n- **Ilhas fluviais e lacustres** que não pertençam à União.\n- **Terras devolutas** (regra geral) — salvo as exceções do Art. 20, I (defesa de fronteiras, fortificações, etc.)."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Titularidade das Ilhas",
+          "tabela": {
+            "colunas": ["Tipo de Ilha", "Regra (Titular)", "Exceção"],
+            "linhas": [
+              ["Ilhas fluviais (em rios)", "Estados", "União, se em zona de fronteira"],
+              ["Ilhas lacustres (em lagos)", "Estados", "União, se em zona de fronteira"],
+              ["Ilhas oceânicas (no oceano)", "União", "-"],
+              ["Ilhas costeiras (próximas ao litoral)", "União", "Sede de Município; áreas afetadas ao serviço público"]
+            ]
+          }
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Titularidade dos Rios e Lagos",
+          "tabela": {
+            "colunas": ["Critério", "Titular"],
+            "linhas": [
+              ["Rio que passa apenas em um Estado", "Estado"],
+              ["Rio que banha mais de um Estado", "União"],
+              ["Rio que faz fronteira internacional", "União"],
+              ["Rio que tem origem no exterior", "União"],
+              ["Rio que deságua no exterior", "União"],
+              ["Lago localizado em um único Estado", "Estado"],
+              ["Lago que banha mais de um Estado", "União"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Terras Devolutas — Regra e Exceção",
+          "texto": "**Regra:** As terras devolutas pertencem aos Estados.\n\n**Exceção (Art. 20, II):** Pertencem à União quando forem indispensáveis para:\n- Defesa das fronteiras;\n- Fortificações;\n- Construções militares;\n- Vias federais de comunicação;\n- Preservação ambiental definida em lei.\n\n⚠️ **Pegadinha:** A banca troca a regra — sempre lembre: regra = Estado; exceção = União."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Pegadinhas sobre Bens",
+          "texto": "📌 **Recursos minerais e potenciais de energia hidráulica** pertencem à União (mesmo em propriedade particular).\n📌 **Terras indígenas** pertencem à União (os povos indígenas possuem posse permanente e usufruto exclusivo).\n📌 **Ilhas fluviais** = Estados (regra); **ilhas oceânicas** = União (regra).\n📌 **Rios que banham mais de um Estado** = União; **rios que passam em apenas um Estado** = Estado."
+        }
+      ]
+    },
+    {
+      "titulo": "Competências dos Entes Federativos — Arts. 21 a 30",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Visão Geral da Repartição de Competências",
+          "texto": "A Constituição Federal distribui as competências entre os entes federativos (União, Estados, Distrito Federal e Municípios) para evitar conflitos e garantir eficiência na prestação de serviços públicos.\n\n**Princípios norteadores:**\n- **Predominância do interesse:** União (interesse geral/nacional), Estados (interesse regional), Municípios (interesse local), DF (interesse regional e local).\n- **Enumeração dos poderes:** A União tem competências enumeradas taxativamente (Arts. 21 e 22), enquanto os Estados e Municípios possuem competências remanescentes ou implícitas (Art. 25, caput: competências não vedadas pela CF).\n\n**Classificação das competências:**\n- **Exclusiva** (Art. 21) – indelegável.\n- **Privativa** (Art. 22) – delegável por lei complementar.\n- **Comum** (Art. 23) – administrativa, exercida por todos.\n- **Concorrente** (Art. 24) – legislativa, entre União, Estados e DF.\n- **Municipal** (Art. 30) – interesse local e suplementação.\n\n🧠 **Mnemônico:** 'EPCC' – Exclusiva, Privativa, Comum, Concorrente."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competência Exclusiva da União — Art. 21 (Material/Administrativa)",
+          "texto": "**Competência Exclusiva:** somente a União pode exercer. **Não pode ser delegada** a nenhum outro ente.\n\n**Principais hipóteses (resumo):**\n- Relações internacionais, guerra, defesa nacional.\n- Estado de sítio, defesa e intervenção federal.\n- Moeda e sistema financeiro.\n- Serviços postais, telecomunicações, radiodifusão, energia elétrica.\n- Portos, polícia federal, justiça especializada.\n- Anistia, calamidades públicas, recursos hídricos, áreas protegidas.\n- Organização da Defensoria Pública e AGU.\n\n⚠️ **Pegadinha:** A banca pergunta se a União pode delegar a competência exclusiva – **NÃO**. Só a privativa pode ser delegada."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competência Privativa da União — Art. 22 (Legislativa)",
+          "texto": "**Competência Privativa:** somente a União pode legislar, mas **pode delegar** por lei complementar aos Estados (Art. 22, parágrafo único).\n\n**Principais hipóteses (resumo):**\n- Direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho.\n- Desapropriação, requisições, fronteiras, seguridade social.\n- Forças Armadas e polícias militares.\n- Crédito, câmbio, comércio exterior, transportes, trânsito.\n- Mineração, telecomunicações, radiodifusão.\n- Registro público, propriedade intelectual, licitações.\n- Normas gerais de direito financeiro, tributário e orçamentário.\n- Proteção à infância, urbanismo, meio ambiente, agrário.\n\n🧠 **Mnemônico:** 'Desapropriação, Fronteiras, Seguridade, Forças, Crédito, Comércio, Mineração...' – a pegadinha principal é a possibilidade de **delegação por lei complementar**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competência Comum — Art. 23 (Administrativa)",
+          "texto": "**Competência Comum:** todos os entes (União, Estados, DF e Municípios) podem exercer simultaneamente. É uma competência **administrativa/executiva** (não legislativa).\n\n**Principais hipóteses (resumo):**\n- Guarda da Constituição, leis e instituições.\n- Ordem pública e segurança.\n- Patrimônio histórico, cultural, artístico e paisagístico.\n- Combate à pobreza e marginalização.\n- Acesso à cultura, educação, ciência.\n- Proteção ao meio ambiente, florestas, fauna e flora.\n- Fomento agropecuário e abastecimento alimentar.\n- Habitação, combate à violência e criminalidade.\n- Fiscalização de concessões de recursos naturais.\n\n⚠️ **Pegadinha:** A competência comum é administrativa, não legislativa. Se a banca disser que é competência comum legislar, está errado."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competência Concorrente — Art. 24 (Legislativa)",
+          "texto": "**Competência Concorrente:** União, Estados e DF legislam sobre o mesmo tema (não inclui Municípios). A União fixa diretrizes gerais; Estados e DF legislam de forma suplementar.\n\n**Principais hipóteses (resumo):**\n- Direito Tributário, Financeiro, Penitenciário, Econômico e Urbanístico (mnemônico: **PUFET**).\n- Orçamento, comércio, custas, profissões, produção e consumo.\n- Previdência social, saúde, educação, cultura, desporto.\n- Assistência jurídica, proteção à infância e juventude, assistência social.\n- Direito processual penal e civil (normas gerais).\n- Telecomunicações, energia, mineração, recursos hídricos.\n- Meio ambiente, patrimônio histórico, proteção ao consumidor.\n- Responsabilidade por danos ambientais, consumeristas e a bens culturais.\n\n**Regras de aplicação:**\n- A União edita **normas gerais** (Art. 24, §1º).\n- Os Estados e DF suplementam, no que couber, a legislação federal (Art. 24, §2º).\n- Inexistindo lei federal, os Estados e DF podem legislar plenamente, mas a superveniência de lei federal **suspende** a eficácia da lei estadual naquilo que for contrário (Art. 24, §3º e §4º) — **não revoga nem anula**.\n\n🧠 **Mnemônico:** 'PUFET' – Penitenciário, Urbanístico, Financeiro, Econômico, Tributário."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competências dos Estados (Arts. 25 a 28)",
+          "texto": "Os Estados têm competências que não lhes são vedadas pela CF (Art. 25, caput) – são as chamadas **competências remanescentes**.\n\n**Art. 25, §1º:** Os Estados podem legislar sobre questões regionais.\n\n**Art. 25, §2º:** Cabe aos Estados explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado (competência própria, vedada à União, salvo exceções).\n\n**Art. 25, §3º:** Os Estados podem instituir regiões metropolitanas, aglomerações urbanas e microrregiões, para integrar serviços públicos comuns, mediante lei complementar.\n\n**Art. 26:** Inclui os bens dos Estados (águas, ilhas fluviais/lacustres, terras devolutas).\n\n**Art. 27:** Número de deputados estaduais (triplo dos federais, com limite de 36 + excedente) e regras de composição da Assembleia Legislativa.\n\n**Art. 28:** Eleição do Governador e Vice-Governador (sistema majoritário, dois turnos).\n\n⚠️ **Pegadinha:** A exploração de gás canalizado é competência estadual (Art. 25, §2º) – não confundir com o gás natural que é da União (Art. 21, XII)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competências dos Municípios — Art. 30",
+          "texto": "Os Municípios possuem competências próprias, independentes dos outros entes (Art. 30):\n\nI – Legislar sobre assuntos de **interesse local**.\nII – Suplementar a legislação federal e a estadual no que couber.\nIII – Instituir e arrecadar os tributos de sua competência (IPTU, ISS, ITBI, taxas), bem como aplicar suas rendas.\nIV – Criar, organizar e suprimir distritos, observada a legislação estadual.\nV – Organizar e prestar os serviços públicos de **interesse local**, como transporte coletivo, limpeza urbana, iluminação pública, etc.\nVI – Manter, com a cooperação técnica e financeira da União e do Estado, programas de educação infantil e de ensino fundamental.\nVII – Prestar, com a cooperação técnica e financeira da União e do Estado, serviços de saúde pública.\nVIII – Promover a ordenação territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.\nIX – Promover a proteção do patrimônio histórico-cultural local, observada a legislação federal e estadual.\n\n📖 **Exemplo:** O Município pode proibir estacionamento em determinada rua (interesse local), mas não pode legislar sobre normas gerais de trânsito (competência da União)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Competências do Distrito Federal — Art. 32",
+          "texto": "O DF possui natureza híbrida: **acumula competências de Estado e de Município**.\n\n**Características especiais:**\n- Possui Legislativo próprio (Câmara Legislativa do DF).\n- Possui Governador eleito diretamente.\n- **Vedada a divisão em Municípios** (Art. 32, § 1º).\n- A área do DF será desmembrada do Estado de origem (Goiás).\n- Sua organização e funcionamento serão regulados por **lei orgânica** (não Constituição), aprovada por maioria absoluta da Câmara Legislativa.\n- Competências estaduais e municipais acumuladas: o DF pode legislar sobre interesse local (art. 30) e também sobre questões regionais (art. 25).\n\n⚠️ **Pegadinha:** O DF não pode ser dividido em Municípios, mas pode criar regiões administrativas (que não são Municípios)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'EPCC'** – Exclusiva (só União – não delega), Privativa (só União – delega por LC), Comum (todos juntos – administrativa), Concorrente (União + Estados/DF – legislativa).\n- **'PUFET'** – Penitenciário, Urbanístico, Financeiro, Econômico, Tributário (incisos I a V do Art. 24).\n- **Competência exclusiva:** Art. 21 – não delegável.\n- **Competência privativa:** Art. 22 – delegável por lei complementar.\n- **Competência comum:** Art. 23 – todos os entes, execução.\n- **Competência concorrente:** Art. 24 – União dá normas gerais; Estados e DF suplementam.\n- **Municípios:** Art. 30 – interesse local, suplementação, serviços locais, tributos, ensino fundamental, saúde, ordenamento territorial.\n- **DF:** Art. 32 – híbrido, não pode ter Municípios, regido por lei orgânica."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'Estado pode emitir moeda.' → **ERRADO** (exclusiva da União – Art. 21, VII).\n❌ 'Competência exclusiva pode ser delegada.' → **ERRADO** (não pode; só a privativa pode – Art. 22, parágrafo único).\n❌ 'Delegação da competência privativa é por lei ordinária.' → **ERRADO** (exige lei complementar).\n❌ 'Na competência comum, só a União pode agir.' → **ERRADO** (todos os entes agem simultaneamente).\n❌ 'Municípios participam da competência concorrente.' → **ERRADO** (só União, Estados e DF).\n❌ 'O DF pode ser dividido em Municípios.' → **ERRADO** (vedado, Art. 32, §1º).\n❌ 'A competência para legislar sobre gás canalizado é da União.' → **ERRADO** (é estadual – Art. 25, §2º).\n❌ 'O Município possui Constituição.' → **ERRADO** (possui Lei Orgânica).\n❌ 'Ilhas fluviais pertencem à União (regra).' → **ERRADO** (regra = Estados).\n❌ 'Terras devolutas pertencem à União (regra).' → **ERRADO** (regra = Estados)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Competência exclusiva (Art. 21): só União, não delegável.\n✅ Competência privativa (Art. 22): só União, delegável por LC.\n✅ Competência comum (Art. 23): todos os entes, natureza administrativa.\n✅ Competência concorrente (Art. 24): União + Estados/DF, natureza legislativa; União fixa diretrizes, Estados suplementam.\n✅ Municípios (Art. 30): interesse local, suplementação, serviços locais, tributos próprios, ensino fundamental, saúde, ordenamento territorial.\n✅ DF (Art. 32): híbrido, não divide em Municípios, lei orgânica.\n✅ Estados (Art. 25-28): competências remanescentes, gás canalizado, regiões metropolitanas, bens estaduais, eleição de Governador.\n✅ Bens: União (fronteiras, ilhas oceânicas, rios que banham mais de um Estado, recursos minerais, energia hidráulica, terras indígenas, terrenos de marinha); Estados (águas, ilhas fluviais/lacustres, terras devolutas)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático – Conflito de Competências",
+          "texto": "Imagine que o Município X crie uma lei proibindo a circulação de caminhões em determinada via para reduzir acidentes. A União tem competência privativa para legislar sobre trânsito (Art. 22, XI). O Município pode suplementar a legislação federal em aspectos locais (Art. 30, II), desde que não contrarie as normas gerais. Se a lei municipal for mais restritiva, pode ser válida, mas se contrariar o Código de Trânsito Brasileiro, será inconstitucional."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental — Competências",
+          "imagem": "./IMAGENS/8.3.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Organização dos Municípios — Art. 29 da CF",
+      "icone": "🏙️",
+      "descricao": "Estrutura constitucional dos Municípios: Lei Orgânica, eleição de Prefeito, Vice-Prefeito e Vereadores, mandatos, subsídios, número de vereadores, inviolabilidade, incompatibilidades e fiscalização das contas municipais.",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei Orgânica do Município (Art. 29, caput)",
+          "texto": "O Município é regido por **Lei Orgânica**, votada em **dois turnos**, com **intervalo mínimo de 10 dias** entre eles, e aprovada por **2/3 (dois terços) dos membros da Câmara Municipal**.\n\nA Lei Orgânica deve obedecer aos princípios da Constituição Federal e da Constituição Estadual.\n\n📌 **Exemplo:** A Lei Orgânica de São Paulo foi aprovada com 2/3 dos vereadores, após dois turnos de votação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Eleição de Prefeito, Vice-Prefeito e Vereadores (Art. 29, I a IV)",
+          "texto": "**Art. 29, I:** Eleição do Prefeito, Vice-Prefeito e Vereadores, para mandato de **4 (quatro) anos**, mediante pleito direto e simultâneo realizado em todo o país.\n\n**Art. 29, II:** Eleição do Prefeito e Vice-Prefeito: se o Município tiver **mais de 200.000 eleitores**, haverá **segundo turno** se nenhum candidato obtiver maioria absoluta dos votos válidos (exceto se houver disposição em contrário na Lei Orgânica).\n\n**Art. 29, III:** Posse do Prefeito e Vice-Prefeito em **1º de janeiro** do ano seguinte à eleição.\n\n**Art. 29, IV:** Número de Vereadores proporcional à população do Município, conforme limites estabelecidos na CF/88 (atualmente, mínimo de 9 e máximo de 55 vereadores).\n\n⚠️ **Pegadinha:** O segundo turno para Prefeito só ocorre em municípios com mais de 200 mil eleitores. A banca adora trocar esse número."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Subsídios dos Vereadores (Art. 29, VI e VII)",
+          "texto": "**Art. 29, VI:** O subsídio dos Vereadores será fixado pela Câmara Municipal em cada legislatura para a subsequente, observado o que dispõe a lei.\n\n**Art. 29, VII:** O subsídio dos Vereadores não pode ultrapassar **75% (setenta e cinco por cento)** do subsídio dos Deputados Estaduais (ou, se não houver, o limite é de 75% do subsídio dos Deputados Federais).\n\n**Art. 29, VIII:** O total da despesa com a remuneração dos Vereadores não pode ultrapassar **5% (cinco por cento)** da receita do Município.\n\n📌 **Dica:** Os subsídios são fixados para a legislatura seguinte; isso evita aumentos no meio do mandato que beneficiem os próprios vereadores."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inviolabilidade dos Vereadores (Art. 29, IX)",
+          "texto": "**Art. 29, IX:** Os Vereadores são invioláveis por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município.\n\n**Art. 29, X:** Não podem ser presos, salvo em flagrante de crime inafiançável; nesse caso, a prisão será comunicada à Câmara em até 24 horas.\n\n**Art. 29, XI:** Não são obrigados a testemunhar sobre informações recebidas em razão do exercício do mandato.\n\n⚠️ **Pegadinha:** A inviolabilidade dos vereadores é restrita ao âmbito do Município e ao exercício do mandato – diferente da imunidade dos deputados federais, que é mais ampla."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Incompatibilidades e Perda do Mandato (Art. 29, XII e XIII)",
+          "texto": "**Art. 29, XII:** O Vereador não pode:\n- Firmar ou manter contrato com o Município, suas autarquias, empresas públicas, sociedades de economia mista ou fundações;\n- Aceitar cargo, função ou emprego remunerado na administração municipal;\n- Patrocinar causa em que haja interesse do Município.\n\n**Art. 29, XIII:** Perde o mandato o Vereador que:\n- Deixar de comparecer, sem justa causa, a 1/3 das sessões ordinárias;\n- Proceder de modo incompatível com a dignidade do cargo;\n- For condenado a pena privativa de liberdade por crime doloso, após trânsito em julgado.\n\n📌 **Exemplo:** Um vereador que falta a mais de 1/3 das sessões sem justificativa pode ter o mandato cassado pela Câmara."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Organização dos Municípios",
+          "imagem": "./IMAGENS/8.4.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Fiscalização dos Municípios — Art. 31 da CF",
+      "icone": "🔍",
+      "descricao": "Controle externo da gestão municipal: fiscalização contábil, financeira, orçamentária, operacional e patrimonial; atuação do Tribunal de Contas; parecer prévio sobre as contas do Prefeito; prazo e regras para rejeição; legitimidade para questionar.",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fiscalização pelo Poder Legislativo Municipal (Art. 31, caput)",
+          "texto": "Art. 31, caput: A fiscalização do Município será exercida pelo **Poder Legislativo Municipal**, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal.\n\n**Controle externo:** exercido pela Câmara Municipal, com auxílio do Tribunal de Contas do Estado (ou do Município, se houver).\n\n**Controle interno:** exercido por órgãos próprios da administração municipal (ex.: controladoria geral)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Auxílio do Tribunal de Contas (Art. 31, §1º)",
+          "texto": "Art. 31, §1º: O controle externo da Câmara Municipal será exercido com o auxílio do **Tribunal de Contas do Estado** (ou do Município, se existir, ou do Tribunal de Contas dos Municípios, onde houver).\n\nO Tribunal de Contas do Estado emite **parecer prévio** sobre as contas que o Prefeito deve prestar anualmente, no prazo de **60 (sessenta) dias** contados da abertura das contas.\n\n📌 **Dica:** O parecer prévio é um documento opinativo, mas a Câmara só pode rejeitá-lo por **2/3 (dois terços)** dos votos dos vereadores (Art. 31, §2º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Parecer Prévio e Prazo (Art. 31, §1º, in fine)",
+          "texto": "O Prefeito deve prestar contas anualmente, no prazo de **60 (sessenta) dias** após a abertura do exercício financeiro (art. 31, §1º, última parte).\n\n**Prazo:** A Câmara Municipal tem **60 dias** para julgar as contas, contados do recebimento do parecer prévio do Tribunal de Contas.\n\nSe a Câmara não julgar as contas no prazo, elas serão consideradas **aprovadas** (efeito do silêncio – salvo se a Lei Orgânica do Município dispuser de forma diversa)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Rejeição do Parecer Prévio — Maioria Qualificada (Art. 31, §2º)",
+          "texto": "Art. 31, §2º: A rejeição do parecer prévio do Tribunal de Contas, para que produza efeitos, depende de **2/3 (dois terços) dos membros da Câmara Municipal**.\n\n**Regra:** O parecer prévio é aprovado por maioria simples, mas a rejeição exige quórum qualificado (2/3). Essa é uma pegadinha clássica em provas.\n\n**Efeito:** Se a Câmara rejeitar o parecer do Tribunal de Contas e aprovar as contas do Prefeito, a decisão da Câmara prevalece, mas pode ser questionada judicialmente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Legitimidade para Questionar Contas (Art. 31, §3º)",
+          "texto": "Art. 31, §3º: As contas do Município ficarão, durante **60 (sessenta) dias**, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questioná-las pela forma prevista na Lei Orgânica.\n\n**Legitimidade:** Qualquer cidadão pode questionar as contas municipais, mas a Lei Orgânica deve regulamentar o procedimento.\n\n⚠️ **Pegadinha:** O contribuinte não tem ação direta para anular as contas, mas pode provocar o Ministério Público ou a Câmara para que fiscalize."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Fiscalização Municipal",
+          "imagem": "./IMAGENS/8.5.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Estados — Deputados Estaduais e Governador (Arts. 27 e 28)",
+      "icone": "🏛️",
+      "descricao": "Composição da Assembleia Legislativa (Deputados Estaduais), regras de subsídios, imunidades, duração do mandato; eleição do Governador e Vice-Governador, segundo turno, posse e regras de sucessão.",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Deputados Estaduais — Número e Composição (Art. 27, caput)",
+          "texto": "Art. 27, caput: O número de Deputados Estaduais corresponde ao **triplo da representação do Estado na Câmara dos Deputados**.\n\n**Regra:**\n- Se o número de Deputados Federais for **até 12**, o número de Deputados Estaduais será **3 vezes o número de Federais**.\n- Se o número de Deputados Federais **exceder 12**, o número de Deputados Estaduais será **36 + (número de Federais - 12)**.\n\n**Exemplos:**\n- Estado com 8 Deputados Federais → 8 × 3 = 24 Deputados Estaduais.\n- Estado com 15 Deputados Federais → 36 + (15 - 12) = 36 + 3 = 39 Deputados Estaduais.\n\n**Limite máximo:** O número de Deputados Estaduais é o triplo dos Federais, com a fórmula acima. Não há teto fixo de 36; o limite é o número de Federais.\n\n⚠️ **Pegadinha:** A banca costuma cobrar o cálculo: se o Estado tiver 18 Federais, quantos Estaduais? Resposta: 36 + (18 - 12) = 42."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Subsídio, Imunidades e Mandato (Art. 27, §1º e §2º)",
+          "texto": "**Art. 27, §1º:** O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembleia Legislativa, observados os limites fixados na CF e na lei.\n\n**Art. 27, §2º:** Aos Deputados Estaduais aplicam-se as **mesmas imunidades** dos Deputados Federais, nos termos do Art. 53 da CF.\n\n**Mandato:** 4 (quatro) anos.\n\n**Subsídio:** não pode exceder 75% do subsídio dos Deputados Federais (Art. 27, §2º, in fine, alterado pela EC 19/1998).\n\n⚠️ **Pegadinha:** A imunidade dos Deputados Estaduais é idêntica à dos Federais, mas para os Vereadores é mais restrita (Art. 29, IX)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Governador e Vice-Governador (Art. 28)",
+          "texto": "Art. 28: A eleição do Governador e Vice-Governador de Estado, para mandato de **4 (quatro) anos**, será realizada em **dois turnos** se nenhum candidato obtiver maioria absoluta dos votos válidos no primeiro turno.\n\n**Regras:**\n- **Primeiro turno:** ocorre no 1º domingo de outubro do ano anterior ao término do mandato.\n- **Segundo turno:** ocorre no último domingo de outubro, se necessário.\n- **Posse:** em **6 de janeiro** do ano seguinte à eleição.\n\n**Perda do cargo:** aplicam-se as mesmas regras de perda de mandato previstas para o Presidente da República (crime de responsabilidade, improbidade administrativa, etc.), conforme a Constituição Estadual.\n\n📌 **Exemplo:** Se um Governador comete crime de responsabilidade, pode ser julgado pelo Tribunal de Justiça ou por Tribunal Especial, conforme a Constituição Estadual."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Estados",
+          "imagem": "./IMAGENS/8.6.jpg"
+        }
+      ]
+    },
+    
+    {
+      "titulo": "Símbolos Nacionais e Identidade Nacional — Art. 13 da CF",
+      "icone": "🇧🇷",
+      "descricao": "Análise dos símbolos nacionais da República Federativa do Brasil (Art. 13 da CF/88), abrangendo Bandeira, Hino Nacional, Armas Nacionais e Selo Nacional, além do idioma oficial (português), regras de tratamento, vedações e permissões (Lei 12.157/2009), símbolos dos entes subnacionais, hasteamento, descarte de bandeiras inservíveis, obrigatoriedade do Hino nas escolas, e jurisprudência do STF.",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Símbolos Nacionais — Art. 13, caput",
+          "texto": "Art. 13, caput: 'A bandeira, o hino, as armas e o selo nacional são os símbolos da República Federativa do Brasil.'\n\n**São eles:**\n- 🏳️ **Bandeira Nacional** – verde e amarela, com o losango azul e a esfera celeste.\n- 🎵 **Hino Nacional** – letra de Joaquim Osório Duque Estrada e música de Francisco Manuel da Silva.\n- 🛡️ **Armas Nacionais** – o brasão da República.\n- 📜 **Selo Nacional** – usado em documentos oficiais.\n\n📖 **Para Leigos:** Os símbolos nacionais são como a 'identidade visual' do Brasil – representam nossa história, cultura e soberania. Eles são protegidos por lei e devem ser tratados com respeito."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Idioma Oficial — Art. 13, § 1º",
+          "texto": "Art. 13, § 1º: **'A língua portuguesa é o idioma oficial da República Federativa do Brasil.'**\n\n**Implicações:**\n- Todo documento público, lei, decisão judicial e ato oficial deve ser redigido em português.\n- O ensino da língua portuguesa é obrigatório em todos os níveis (Art. 210, caput).\n- As relações com a administração pública (petições, requerimentos) devem ser em português.\n\n**Línguas indígenas:**\n- Não são oficiais, mas são reconhecidas como patrimônio cultural imaterial (Art. 231, §2º) e têm proteção legal (Lei 11.645/2008).\n- O Brasil aderiu à Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas, mas o português continua sendo o único idioma oficial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Outras Disposições (Art. 13, § 2º e § 3º)",
+          "texto": "Art. 13, § 2º: 'Os símbolos nacionais devem ser tratados com respeito. É vedado seu uso para fins comerciais sem autorização.'\n\n**ATUALIZAÇÃO (Lei 12.157/2009):** A Lei 5.700/1971 foi alterada e **hoje é permitido** o uso da Bandeira Nacional em vestuário, estampas, objetos de uso pessoal e ornamentações, bem como em propaganda comercial, **desde que com o devido respeito** e sem descaracterização do símbolo. **Não há mais necessidade de autorização prévia** para uso comercial, mas o uso desrespeitoso (ex.: como pano de chão, em peças íntimas, ou rasgado) continua proibido e pode gerar penalidades."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Símbolos dos Estados, DF e Municípios — Art. 13, § 2º da CF",
+          "texto": "Art. 13, § 2º: 'Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.'\n\n**Regras:**\n- A criação de símbolos subnacionais (bandeira, hino, brasão) é **facultativa**, não obrigatória.\n- Em solenidades oficiais, a Bandeira Nacional ocupa lugar de honra (posição central ou à direita do observador, quando com outras bandeiras).\n- Não há hierarquia desrespeitosa, mas a Bandeira Nacional deve prevalecer em eventos oficiais.\n\n📖 **Exemplo:** A bandeira do Estado de São Paulo pode ser hasteada ao lado da Nacional, mas a Nacional deve ficar à direita (lado de honra) ou no centro. Em eventos internacionais, a Bandeira Nacional ocupa o centro e as demais em ordem alfabética."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bandeira Nacional — Características e Normas",
+          "texto": "**Bandeira Nacional:** adotada em 19 de novembro de 1889 (Decreto nº 4, de 19/11/1889).\n\n**Características:**\n- Retângulo verde (florestas) com um losango amarelo (riquezas minerais).\n- No centro, um círculo azul (céu) com a constelação do Cruzeiro do Sul e a frase 'Ordem e Progresso' (positivismo de Augusto Comte).\n- As estrelas representam os 26 Estados da Federação e o Distrito Federal – cada estrela corresponde a uma unidade da Federação, com tamanhos e posições baseados no céu do Rio de Janeiro às 20h30 do dia 15 de novembro de 1889.\n\n**Normas (Lei 5.700/1971 com alterações):**\n- Dimensões: modulares, devendo manter as proporções oficiais (largura 14:20 em relação ao comprimento).\n- A Bandeira deve ser confeccionada em tecido e com cores oficiais (verde, amarelo, azul, branco)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regras Específicas de Hasteamento da Bandeira",
+          "texto": "**Hasteamento noturno:** A Bandeira pode permanecer hasteada à noite, **desde que esteja iluminada**.\n\n**Posição de destaque:** Quando hasteada com outras bandeiras (de Estados, Municípios ou países), a Bandeira Nacional deve:\n- Ocupar a **posição central** ou **à direita do observador** (quando em número ímpar, a central; em número par, a primeira à direita).\n- Não pode ser menor nem ficar abaixo das demais.\n\n**Meio-mastro (luto oficial):** A Bandeira é hasteada a meio-mastro em sinal de luto oficial (ex.: falecimento de Presidente, Governador, ou em datas de tragédia nacional), por determinação do Presidente da República ou por lei.\n\n**Dia da Bandeira (19 de novembro):** Comemora-se a adoção da Bandeira; é comum haver solenidades cívicas e hasteamento solene.\n\n**Descarte de bandeiras inservíveis:** Bandeiras que não podem mais ser usadas (rasgadas, desbotadas) devem ser **incineradas** em cerimônia especial, preferencialmente no dia 19 de novembro, por unidades militares ou corporações, em ato solene."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Hino Nacional — Regras e Obrigatoriedade",
+          "texto": "**Hino Nacional:** letra de Joaquim Osório Duque Estrada e música de Francisco Manuel da Silva.\n\n**Características:**\n- Melodia adotada em 1831; letra oficializada em 1922 (Decreto nº 15.671).\n- Execução obrigatória em cerimônias cívicas e solenidades oficiais.\n- Durante a execução, deve-se ficar de pé, respeitosamente, sem vaias ou manifestações desrespeitosas.\n\n**Regras:**\n- É vedada qualquer adaptação ou descaracterização da melodia ou letra (ex.: versões com ritmos diferentes, alteração de palavras).\n- O STF já decidiu que a execução do Hino em eventos esportivos é obrigatória, desde que em conformidade com a lei – não há direito a se recusar a ficar de pé por motivo de consciência (o STF entende que o respeito ao Hino é um dever cívico, e a recusa pode ser punida disciplinarmente em estabelecimentos públicos, mas não criminalmente).\n- **Nas escolas:** a Lei 12.031/2009 exige sua execução semanal nas escolas de ensino fundamental, promovendo o civismo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Armas Nacionais (Brasão)",
+          "texto": "**Armas Nacionais (Brasão):** adotadas em 19 de novembro de 1889 (Decreto nº 4).\n\n**Características:**\n- Esfera azul com a constelação do Cruzeiro do Sul, ladeada por ramos de café e tabaco (produtos agrícolas).\n- Contém a frase 'República Federativa do Brasil' e a data '15 de novembro de 1889' (Proclamação da República).\n\n**Normas:**\n- Utilizado em documentos oficiais, moedas, cédulas, e brasões de órgãos públicos.\n- Seu uso por particulares é restrito – a Lei 5.700/1971 permite apenas com autorização do órgão competente (ex.: para fins acadêmicos, históricos ou institucionais).\n- A reprodução indevida ou descaracterização pode configurar crime de falsificação de símbolo nacional (Art. 296 do Código Penal)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Selo Nacional",
+          "texto": "**Selo Nacional:** utilizado em documentos oficiais para autenticação e legitimação.\n\n**Características:**\n- Adotado em 19 de novembro de 1889 (Decreto nº 4).\n- Contém a inscrição 'República Federativa do Brasil' e o desenho das armas nacionais.\n\n**Uso:**\n- Empregado em atos do Poder Executivo, publicações oficiais, e documentos que exigem fé pública.\n- Sua falsificação ou uso indevido constitui crime (Art. 293 do Código Penal: falsificação de selo público)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei nº 5.700/1971 — Normas sobre Símbolos Nacionais",
+          "texto": "A Lei nº 5.700/1971 (com alterações da Lei 12.157/2009) estabelece:\n\n**Regras gerais:**\n- Os símbolos nacionais devem ser usados com respeito e dignidade.\n- A bandeira deve ser hasteada em edifícios públicos; se permanecer à noite, deve estar iluminada.\n- A execução do Hino Nacional deve ser em cerimônias cívicas e oficiais; não pode ser adaptado.\n- As armas nacionais e o selo só podem ser usados por órgãos públicos; particulares precisam de autorização para uso (exceto a bandeira, que teve regras flexibilizadas).\n\n**Penalidades:**\n- O desrespeito aos símbolos nacionais (ultraje) é contravenção penal (Art. 13 do Decreto-Lei 2.848/1940) e pode gerar multa ou detenção.\n- A Lei 5.700/1971 prevê multas para uso indevido ou descaracterização, além de medidas administrativas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Obrigatoriedade do Hino nas Escolas — Lei 12.031/2009",
+          "texto": "A Lei nº 12.031/2009 alterou a Lei 5.700/1971 e estabeleceu que:\n\n- O Hino Nacional deve ser executado nas **escolas públicas e privadas de ensino fundamental**, **pelo menos uma vez por semana**.\n- A execução deve ocorrer em ambiente respeitoso, com os alunos em posição de respeito.\n- A lei busca fortalecer o civismo e o reconhecimento dos símbolos nacionais desde a infância.\n\n⚠️ **Pegadinha:** A banca pergunta se o Hino Nacional é obrigatório nas escolas de ensino médio. Não, a lei fala apenas em ensino fundamental."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'BHAS'** – Bandeira, Hino, Armas, Selo.\n- **'SHAB'** – Selo, Hino, Armas, Bandeira.\n- **Símbolos nacionais:** 4 itens (Art. 13, caput).\n- **Idioma oficial:** português (Art. 13, § 1º).\n- **Lei regulamentadora:** Lei 5.700/1971 (alterada pela Lei 12.157/2009).\n- **Uso da bandeira hoje:** permitido em vestuário e comércio (com respeito).\n- **Hasteamento noturno:** exige iluminação.\n- **Bandeiras inservíveis:** incineradas por unidades militares em cerimônia solene (preferencialmente no Dia da Bandeira)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas (Atualizadas)",
+          "texto": "❌ 'O Brasil tem vários idiomas oficiais, incluindo línguas indígenas.' → **ERRADO** (só o português é oficial).\n❌ 'A bandeira não pode ser usada como roupa.' → **ERRADO** (hoje é permitido, com respeito – Lei 12.157/2009).\n❌ 'O uso comercial da bandeira exige autorização.' → **ERRADO** (não exige mais, desde que respeitoso).\n❌ 'A bandeira pode ser usada como pano de mesa.' → **ERRADO** (vedado pela Lei 5.700/1971).\n❌ 'O Hino Nacional pode ser adaptado para ritmos modernos em eventos culturais.' → **ERRADO** (vedada qualquer alteração).\n❌ 'O Hino Nacional é obrigatório apenas nas escolas públicas.' → **ERRADO** (obrigatório em públicas e privadas, ensino fundamental).\n❌ 'A bandeira pode ser hasteada à noite sem iluminação.' → **ERRADO** (exige iluminação)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Símbolos nacionais: Bandeira, Hino, Armas, Selo (Art. 13, caput).\n✅ Idioma oficial: português (Art. 13, § 1º).\n✅ Lei regulamentadora: Lei 5.700/1971 (alterada pela Lei 12.157/2009).\n✅ Bandeira: verde e amarela, losango azul, esfera celeste, 'Ordem e Progresso'.\n✅ Uso comercial e vestuário: permitido com respeito (Lei 12.157/2009).\n✅ Hasteamento noturno: exige iluminação.\n✅ Posição de destaque: central ou à direita do observador.\n✅ Dia da Bandeira: 19 de novembro.\n✅ Hino: execução obrigatória em cerimônias oficiais e semanal no ensino fundamental.\n✅ Descarte de bandeiras: incineração em cerimônia solene.\n✅ Ultraje aos símbolos: contravenção penal – multa ou detenção."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático – Caso do Hino em Estádio",
+          "texto": "Em 2023, o STF decidiu que torcedores que se recusam a ficar de pé durante a execução do Hino Nacional em estádios de futebol podem ser punidos administrativamente (ex.: exclusão do estádio), mas não criminalmente. A obrigação de respeito é dever cívico, mas a penalidade deve ser proporcional e não pode violar a liberdade de expressão. A execução do Hino em eventos esportivos é obrigatória por lei, e a posição de respeito é recomendada."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Símbolos Nacionais",
+          "imagem": "./IMAGENS/8.7.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

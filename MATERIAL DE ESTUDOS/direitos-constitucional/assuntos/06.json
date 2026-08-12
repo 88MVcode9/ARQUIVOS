@@ -1,0 +1,162 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Direito de Nacionalidade",
+  "icone": "🪪",
+  "descricao": "Análise aprofundada do direito de nacionalidade (Art. 12 da CF/88), abrangendo conceitos, espécies (nato e naturalizado), critérios de aquisição (ius soli e ius sanguinis), naturalização, situação especial dos portugueses, igualdade e distinções entre natos e naturalizados, cargos exclusivos, perda e reaquisição da nacionalidade, e regras de extradição, com jurisprudência do STF, mnemônicos, pegadinhas e exemplos práticos.",
+  "data": "2026-07-27",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Conceitos Iniciais e Distinções Fundamentais",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Nacionalidade, Naturalidade e Cidadania",
+          "texto": "**Nacionalidade:** vínculo jurídico-político que liga o indivíduo ao Estado, gerando direitos e deveres recíprocos.\n\n**Naturalidade:** lugar onde a pessoa nasceu (município ou país).\n\n**Cidadania:** direito de participar da vida política do país (votar e ser votado).\n\n📖 **Para Leigos:** Nacionalidade é 'de que país você é'. Naturalidade é 'onde você nasceu'. Cidadania é 'se você pode votar'.\n\n🧠 **MNEMÔNICO:** 'Nacionalidade = Nação / Naturalidade = Nasceu / Cidadania = Cédula (voto)'"
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Espécies de Nacionalidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Nacionalidade Primária (Nato) e Secundária (Naturalizado)",
+          "texto": "**Primária (Nato):** adquirida ao nascer (ou por opção, no caso de registro tardio). É originária e definitiva, salvo hipóteses de perda.\n\n**Secundária (Naturalizado):** adquirida depois do nascimento, por processo voluntário de naturalização.\n\n**Diferença essencial:** o nato é brasileiro por origem; o naturalizado tornou-se brasileiro por ato de vontade.\n\n🧠 **MNEMÔNICO:** 'Nato = Nasceu brasileiro / Naturalizado = Virou brasileiro'"
+        }
+      ]
+    },
+    {
+      "titulo": "Aquisição da Nacionalidade Primária (Brasileiro Nato) — Art. 12, I",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Critérios Alternativos (Ius Soli e Ius Sanguinis)",
+          "texto": "São brasileiros natos (Art. 12, I, 'a', 'b' e 'c'):\n\n| Critério | Regra |\n|----------|-------|\n| **Ius Soli** (Território) | Nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país (Art. 12, I, 'a'). |\n| **Ius Sanguinis + Serviço** (Sangue + Serviço) | Filhos de pai ou mãe brasileira, nascidos no estrangeiro, desde que qualquer um deles esteja a serviço da República Federativa do Brasil. |\n| **Ius Sanguinis + Opção** (Sangue + Registro/Opção) | Filhos de pai ou mãe brasileira, nascidos no estrangeiro, que não estejam a serviço do Brasil: podem ser registrados em repartição brasileira (consulado) ou, se maiores, optar pela nacionalidade após residir no Brasil e fazer a opção confirmatória (Art. 12, I, 'c'). |"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Casos Práticos",
+          "texto": "✅ **Exemplo 1:** João nasceu em São Paulo. Seus pais são franceses (não estavam a serviço da França). João é brasileiro nato (ius soli).\n\n✅ **Exemplo 2:** Maria, filha de diplomata brasileiro, nasceu na França. Maria é brasileira nata (ius sanguinis + serviço).\n\n✅ **Exemplo 3:** Pedro, filho de brasileiros, nasceu nos EUA (pais não estavam a serviço). Pedro só será brasileiro nato se vier morar no Brasil e optar pela nacionalidade.\n\n⚠️ **Pegadinha:** A banca afirma que todo filho de brasileiro nascido no exterior é brasileiro nato. **ERRADO.** Só é nato se estiver a serviço do Brasil; caso contrário, depende de registro ou opção confirmatória posterior."
+        }
+      ]
+    },
+    {
+      "titulo": "Aquisição da Nacionalidade Secundária (Naturalização) — Art. 12, II",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regras Gerais da Naturalização",
+          "texto": "Art. 12, II: 'São brasileiros naturalizados os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral.'\n\n**Regras por origem:**\n- **Originários de países de língua portuguesa:** 1 ano ininterrupto + idoneidade moral.\n- **Estrangeiros em geral:** 4 anos ininterruptos + idoneidade moral + pedido.\n\n🧠 **MNEMÔNICO:** 'Portugueses = 1 ano / Estrangeiros = 4 anos'"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Reduções de Prazo para Estrangeiros em Geral",
+          "texto": "A Lei de Migração (Lei 13.445/17, art. 65) prevê reduções do prazo de 4 anos:\n\n| Prazo | Requisito |\n|-------|-----------|\n| **3 anos** | Ter filho brasileiro ou cônjuge/companheiro brasileiro. |\n| **2 anos** | Ter encontrado profissão ou bens suficientes à manutenção. |\n| **1 ano** | Ser recomendado por bom comportamento (ato discricionário do Ministério da Justiça). |\n\n**Formas de naturalização:**\n- **Ordinária:** 4 anos (ou os prazos reduzidos: 3, 2 ou 1 ano, conforme os requisitos).\n- **Especial:** para portugueses (1 ano) e para estrangeiros que prestaram serviços relevantes ao Brasil (naturalização extraordinária, por ato discricionário do Presidente da República)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Frequentes",
+          "texto": "❌ 'Naturalização é automática após o prazo.' → **ERRADO.** A naturalização exige pedido formal e processo administrativo.\n❌ 'O prazo para portugueses é de 2 anos.' → **ERRADO.** É 1 ano ininterrupto.\n❌ 'A redução de prazo é automática.' → **ERRADO.** Depende do preenchimento dos requisitos e do pedido do interessado."
+        }
+      ]
+    },
+    {
+      "titulo": "Situação Especial dos Portugueses (Serviço Oficial) — Art. 12, §1º",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Quase-Nacionalidade (Estatuto de Igualdade)",
+          "texto": "Art. 12, §1º: 'Aos portugueses com residência permanente no Brasil, se houver reciprocidade em favor de brasileiros em Portugal, será atribuída a nacionalidade brasileira, desde que requeiram a igualdade de direitos civis.'\n\n**O que isso significa?**\n- O português que requerer a igualdade de direitos civis adquire o **status de brasileiro naturalizado** (quase-nacionalidade).\n- **Efeito:** adquire todos os direitos do brasileiro nato, **exceto os cargos privativos de brasileiro nato (art. 12, §3º)**. Além disso, não está sujeito à perda por cancelamento da naturalização (inciso I), mas pode perder por aquisição voluntária de outra nacionalidade (inciso II)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha",
+          "texto": "A banca afirma que o português com residência permanente adquire automaticamente a nacionalidade brasileira. **ERRADO.** É necessário **requerer** a igualdade de direitos civis (não é automático).\n\n**Reciprocidade (detalhe crucial):** A atribuição da nacionalidade depende da existência de reciprocidade em favor de brasileiros em Portugal. **Atualmente, Portugal reconhece os direitos civis dos brasileiros**, o que significa que a reciprocidade **existe hoje** — mas o português ainda precisa fazer o **pedido formal** para adquirir a nacionalidade brasileira.\n\n**Quase-totalidade dos direitos:** O português equiparado adquire **quase todos** os direitos do brasileiro nato, **exceto os cargos exclusivos de nato** (Art. 12, §3º: Presidente, Vice-Presidente, Presidente da Câmara, Presidente do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas, Ministro de Estado da Defesa).\n\nOutra pegadinha: 'O português adquire todos os direitos do nato, inclusive os cargos exclusivos.' → **ERRADO.** Excluídos os cargos do §3º."
+        }
+      ]
+    },
+    {
+      "titulo": "Igualdade e Distinções entre Nato e Naturalizado — Art. 12, §2º",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regra e Exceções",
+          "texto": "**Regra:** Art. 12, §2º — 'A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição.'\n\n**Exceções (onde há diferença constitucional):**\n1. **Cargos exclusivos de nato** (Art. 12, §3º).\n2. **Extradição** (Art. 5º, LI e LII): nato jamais é extraditado; naturalizado tem regras especiais.\n3. **Perda da nacionalidade:** naturalizado pode perder por cancelamento da naturalização por atividade nociva (Art. 12, §4º, I); nato pode perder apenas por aquisição voluntária de outra nacionalidade (inciso II)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos",
+          "texto": "João é naturalizado; Maria é nata. Ambos podem votar, trabalhar, estudar. Mas se João cometer um crime grave antes da naturalização, ele pode ser extraditado (em alguns casos), enquanto Maria jamais será. João também não pode ser Presidente da República; Maria pode."
+        }
+      ]
+    },
+    {
+      "titulo": "Cargos Exclusivos de Brasileiro Nato — Art. 12, §3º",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rol Taxativo",
+          "texto": "Art. 12, §3º: 'São privativos de brasileiro nato os cargos:\n\nI - de Presidente e Vice-Presidente da República;\nII - de Presidente da Câmara dos Deputados;\nIII - de Presidente do Senado Federal;\nIV - de Ministro do Supremo Tribunal Federal;\nV - da carreira diplomática;\nVI - de oficial das Forças Armadas;\nVII - de Ministro de Estado da Defesa.'\n\n🧠 **MNEMÔNICO:** 'PVPSCDM' — **P**residente, **V**ice, **P**residente da Câmara, **S**enado (Presidente do), **S**TF (Ministro do), **C**arreira diplomática, **D**efesa (Ministro de Estado da), **M**ilitares (Oficiais das Forças Armadas)."
+        }
+      ]
+    },
+    {
+      "titulo": "Perda da Nacionalidade — Art. 12, §4º",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Hipóteses Taxativas",
+          "texto": "Art. 12, §4º: 'Será declarada a perda da nacionalidade do brasileiro que:\n\nI - tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional;\nII - adquirir outra nacionalidade, salvo nos casos:\n    a) de reconhecimento de nacionalidade originária pela lei estrangeira;\n    b) de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro, como condição para permanência em seu território.'"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha Clássica",
+          "texto": "❌ 'Brasileiro que adquire outra nacionalidade sempre perde a brasileira.' → **ERRADO.** Só perde se for por vontade própria (exceto as exceções legais).\n❌ 'A perda da nacionalidade por sentença judicial é automática.' → **ERRADO.** Depende de sentença judicial transitada em julgado e atividade nociva comprovada."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático",
+          "texto": "✅ **Caso 1:** Pedro, brasileiro nato, vai morar nos EUA e decide se tornar americano 'por vontade própria'. Ele perde a nacionalidade brasileira (inciso II).\n\n❌ **Caso 2:** Maria, brasileira nata, nasceu no Brasil mas seus pais eram franceses. Ela vai à França e pede o reconhecimento da nacionalidade francesa originária. Ela NÃO perde a brasileira (exceção 'a').\n\n❌ **Caso 3:** João, brasileiro, vai trabalhar na Alemanha. A lei alemã exige que ele se naturalize alemão para permanecer no país. Ele se naturaliza por imposição da lei estrangeira. NÃO perde a brasileira (exceção 'b')."
+        }
+      ]
+    },
+    {
+      "titulo": "Reaquisição da Nacionalidade — Art. 33 da Lei 13.445/17",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos e Efeitos",
+          "texto": "O brasileiro que perdeu a nacionalidade por aquisição voluntária de outra (inciso II) pode readquiri-la.\n\n**Requisitos (Lei de Migração, art. 33):**\n- Residir no Brasil.\n- Requerer a reaquisição perante o Ministério da Justiça.\n\n**Efeitos:**\n- A reaquisição é ato administrativo (não depende de ação judicial).\n- O interessado readquire a nacionalidade brasileira, podendo ser nato ou naturalizado, conforme a origem.\n\n📖 **Para Leigos:** Se você virou cidadão de outro país e perdeu a brasileira, pode pedir de volta quando voltar a morar no Brasil, mas precisa fazer o pedido formalmente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha",
+          "texto": "A banca afirma que a reaquisição da nacionalidade é automática com o retorno ao Brasil. **ERRADO.** É necessário pedir formalmente.\n\nOutra pegadinha: 'A reaquisição é possível em todos os casos de perda.' → **ERRADO.** Só para a perda por aquisição voluntária (inciso II). No cancelamento por atividade nociva (inciso I), a reaquisição não é possível."
+        }
+      ]
+    },
+    {
+      "titulo": "Extradição — Art. 5º, LI e LII",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regras por Situação",
+          "texto": "Art. 5º, LI: 'Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.'\n\nArt. 5º, LII: 'Não será concedida extradição de estrangeiro por crime político ou de opinião.'\n\n**Resumo por situação:**\n\n| Situação | Regra |\n|----------|-------|\n| **Brasileiro Nato** | JAMAIS será extraditado. Sem exceção, mesmo que seja por crime hediondo ou tráfico. |\n| **Brasileiro Naturalizado** | Regra geral: NÃO pode ser extraditado. Exceções: (1) crime comum praticado antes da naturalização; (2) comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins (independentemente da data). |\n| **Estrangeiro** | Pode ser extraditado, exceto por crime político ou de opinião (garantia constitucional). |"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha Clássica",
+          "texto": "A banca diz que brasileiro nato pode ser extraditado por crime hediondo. **ERRADO.** Nato JAMAIS é extraditado, qualquer que seja o crime. Trata-se de **cláusula pétrea** (Art. 60, §4º, I) — é uma regra inalienável que protege a soberania nacional.\n\n**Detalhe crucial sobre o naturalizado:** O brasileiro naturalizado pode ser extraditado **apenas em duas hipóteses estritas**:\n1. **Crime comum cometido ANTES da naturalização** (requer tratado de extradição);\n2. **Comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins** (a qualquer tempo — antes ou depois da naturalização).\n\nOutra pegadinha: 'O naturalizado pode ser extraditado por qualquer crime cometido antes da naturalização.' → **ERRADO.** A regra é que NÃO pode (art. 5º, LI), salvo crime comum (requer tratado) e tráfico ilícito de entorpecentes e drogas afins (independentemente de tratado).\n\n📖 **Para Leigos:** Nato é blindado: nunca sai do Brasil por extradição (cláusula pétrea). Naturalizado: regra geral também não sai por crimes cometidos após a naturalização, mas pode ser extraditado por crimes cometidos antes (comuns) ou por tráfico."
+                },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/06.jpg"
+             }
+      ]
+    }
+  ]
+}
+;

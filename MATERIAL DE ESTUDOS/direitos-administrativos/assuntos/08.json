@@ -1,0 +1,195 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['08.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Bens Públicos",
+  "icone": "🏢",
+  "descricao": "Bens pertencentes a entes estatais para atendimento do interesse público. Classificação, atributos, afetação, desafetação e formas de utilização por particulares, com jurisprudência atualizada.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Base Legal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Bens Públicos",
+          "texto": "São bens pertencentes a **entes estatais** (União, Estados, Distrito Federal e Municípios) para atendimento do interesse público. Incidem normas especiais, diferentes das que regem bens privados.\n\n**Base legal:** Arts. 98 a 103 do Código Civil.\n\n**Art. 98 CC:** \"São bens públicos os do domínio nacional pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem.\"\n\n**Classificação legal (Art. 99 CC):**\n- I – os de uso comum do povo;\n- II – os de uso especial;\n- III – os dominicais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens de Empresas Públicas e Sociedades de Economia Mista",
+          "texto": "**Doutrina majoritária:** são bens privados (Art. 98 CC/2002), pois as EP e SEM possuem personalidade de direito privado.\n\n**STF:** bens das SEM são privados, inconfundíveis com os do Estado.\n\n**Atenção:** Devem prestar contas ao Tribunal de Contas, possuindo natureza administrativa híbrida. Quando prestadoras de serviços públicos, aplica-se regime jurídico misto (público para a atividade-fim, privado para os bens). Porém, se estiverem afetados a serviço público, gozam de alguns atributos (ex: impenhorabilidade)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Aquisição de Bens Públicos pelo Estado",
+          "texto": "O Estado pode adquirir bens de duas formas:\n\n**Formas Originárias:** Usucapião em favor do Estado (o Estado pode usucapir bem de particular, mas o particular não pode usucapir bem do Estado), desapropriação, perdimento/confisco, herança jacente (quando o particular morre sem herdeiros).\n\n**Formas Derivadas:** Compra e venda, doação, permuta, dação em pagamento.\n\n⚠️ **Pegadinha:** O Estado pode usucapir bem particular, mas o particular nunca usucapirá bem público (Súmula 340 STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação por Destinação (Art. 99 CC)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "1. Bens de Uso Comum do Povo",
+          "texto": "Destinados ao uso coletivo e gratuito da população, como praças, ruas, praias, rios navegáveis e mares.\n\n**Características:** uso gratuito (pode ser remunerado por lei, ex.: pedágio, estacionamento rotativo). O povo é o beneficiário direto.\n\n**Exemplo:** Ruas, parques públicos, praias.\n\n**Regime:** Inalienáveis enquanto afetados; não admitem usucapião; podem ser utilizados por particulares mediante permissão ou autorização."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "2. Bens de Uso Especial",
+          "texto": "Afetados ao uso da Administração Pública, como imóveis de repartições, escolas públicas, quartéis, hospitais públicos e fóruns.\n\n**Características:** Não podem ser alienados enquanto afetados. Beneficiários são os usuários do serviço e os servidores.\n\n**Exemplo:** Palácio do Governo, prédio da Prefeitura, delegacia de polícia.\n\n**Regime:** Inalienáveis enquanto afetados; sujeitos a desafetação para alienação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "3. Bens Dominicais (ou Dominiais)",
+          "texto": "Bens sem destinação pública definida, que não estão afetados a nenhum uso público específico.\n\n**Características:** Podem ser alienados para obtenção de renda, observados os requisitos legais. A Administração é a beneficiária direta.\n\n**Exemplo:** Terras devolutas, imóveis inservíveis, prédios desativados, móveis antigos fora de uso.\n\n**Regime:** Inalienáveis? Não, podem ser alienados se observados os requisitos (avaliação, licitação, autorização legislativa para imóveis)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "Lembre da ordem de afetação: **Comum** (povo) → **Especial** (Administração) → **Dominicais** (sem uso)."
+        }
+      ]
+    },
+    {
+      "titulo": "Atributos dos Bens Públicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Inalienabilidade Relativa",
+          "texto": "Regra geral: os bens públicos são inalienáveis (não podem ser vendidos).\n\n**Exceção:** bens dominicais que tenham sido **desafetados** podem ser alienados, desde que observados:\n- Interesse público devidamente justificado.\n- Avaliação prévia do bem.\n- Licitação na modalidade concorrência ou leilão.\n- Autorização legislativa (para imóveis – Art. 17, Lei 8.666/93, e Art. 44, Lei 14.133/2021)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Impenhorabilidade",
+          "texto": "Bens públicos **não podem ser penhorados** para pagamento de dívidas da Administração, ainda que decorrentes de execuções judiciais.\n\n**STJ:** posição pela impenhorabilidade absoluta, aplicando-se inclusive a autarquias e fundações públicas.\n\n**Exceção:** bens de empresas públicas e sociedades de economia mista (regime privado) podem ser penhorados, salvo se afetados a serviço público (ex: bens essenciais à prestação do serviço)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Imprescritibilidade",
+          "texto": "Bens públicos **não se perdem por usucapião**, ainda que sejam dominicais. O particular nunca adquire a propriedade de bem público por posse prolongada.\n\n**Súmula 340 STF:** \"Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião.\"\n\n**Base constitucional:** Arts. 183, §3º e 191, § único da CF/88 confirmam essa vedação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inonerabilidade (Proibição de Oneração)",
+          "texto": "Bens públicos **não podem ser dados em garantia real** de dívidas, ou seja, não podem sofrer hipoteca, penhor ou anticrese. Este é o quarto atributo, além dos três clássicos (inalienabilidade, impenhorabilidade e imprescritibilidade)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Resumo dos Atributos",
+          "texto": "**Inalienabilidade** = não pode vender (salvo desafetação).  \n**Impenhorabilidade** = não pode ser tomado para pagar dívida.  \n**Imprescritibilidade** = não se perde pelo tempo (não cabe usucapião).  \n**Inonerabilidade** = não pode ser dado em garantia."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação por Titularidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens Federais (União) – Art. 20 CF",
+          "texto": "Bens de segurança nacional, proteção econômica e interesse público nacional.\n\n**Exemplos:**\n- Terras devolutas da União.\n- Mar territorial, rios e lagos federais.\n- Ilhas oceânicas e costeiras (exceto as que contenham sede de Município).\n- Recursos minerais (inclusive petróleo).\n- Terrenos de marinha e seus acrescidos.\n- Potenciais de energia hidráulica.\n- Sítios arqueológicos e pré-históricos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Terrenos de Marinha e Reservados",
+          "texto": "**Terrenos de Marinha (União):** Faixa de 33 metros da linha do preamar médio de 1831. Não se confundem com as praias (bens de uso comum do povo), mas a faixa de terra imediatamente atrás pertence à União. Os terrenos de marinha são bens dominicais da União, e sua ocupação depende de autorização ou concessão (com pagamento de foro e laudêmio).\n\n**Terrenos Reservados ou Marginais (Estados):** Faixa de terra às margens dos rios navegáveis e estaduais (margens de rios federais pertencem à União). A faixa é de 15 metros (para rios não navegáveis) ou 30 metros (para navegáveis), conforme legislação estadual."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens Estaduais e Distritais – Art. 26 CF",
+          "texto": "**Exemplos:**\n- Águas superficiais e subterrâneas (que não sejam da União).\n- Ilhas fluviais e lacustres (que não pertençam à União).\n- Terras devolutas estaduais.\n- Rios estaduais (ex: rios que nascem e deságuam no mesmo Estado).\n- Parques estaduais e unidades de conservação estaduais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens Municipais – Art. 30 CF",
+          "texto": "**Exemplos:**\n- Ruas, praças, jardins, parques municipais.\n- Edifícios de repartições municipais (prefeituras, escolas, postos de saúde).\n- Bens de interesse local (ex: mercados municipais, matadouros).\n- Terrenos municipais devolutos."
+        }
+      ]
+    },
+    {
+      "titulo": "Afetação e Desafetação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Afetação",
+          "texto": "É a atribuição de destinação específica ao bem público. Pode ser:\n- **Explícita:** por lei, ato administrativo ou registro em cartório.\n- **Implícita (de fato):** pelo uso efetivo do Poder Público (ex: prédio ocupado por repartição).\n\nEnquanto afetado, o bem é inalienável e goza de todos os atributos públicos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Desafetação",
+          "texto": "É a mudança da destinação do bem, que migra para a categoria de bem dominical, permitindo sua alienação.\n\n**Requisito:** o STJ exige ato formal de desafetação (não basta abandono tácito ou desuso). A Súmula 619 do STJ trata da ocupação irregular, mas a desafetação tácita não é admitida para alienação de imóveis.\n\n**Exemplo:** Um prédio público desativado (aeroporto antigo) ou computadores inservíveis em depósito são bens desafetados (dominicais) – desde que haja ato formal."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Desafetação Tácita – Cuidado!",
+          "texto": "O simples desuso, abandono ou destruição de um prédio por incêndio **não gera desafetação automática** para fins de alienação. Para alienar o imóvel, exige-se **ato formal** declarando a mudança para a categoria de bem dominical. A desafetação tácita não é admitida para transferência de propriedade.\n\n**Jurisprudência:** STJ – REsp 1.234.567/DF (exemplo)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos para Alienação de Bens Dominicais",
+          "texto": "Para vender bem público dominical (imóvel), a Administração deve cumprir:\n- **Autorização legislativa** (ex: lei municipal, estadual ou federal).\n- **Avaliação prévia** do bem.\n- **Licitação** na modalidade concorrência (ou leilão, para bens móveis ou imóveis de menor vulto).\n- **Justificativa de interesse público.**\n\nPara bens móveis, a licitação pode ser na modalidade leilão, e a autorização legislativa nem sempre é exigida (depende do valor e da natureza).\n\n⚠️ **Pegadinha:** A alienação de bem imóvel público **sempre exige autorização legislativa** (Art. 17, Lei 8.666/93 e Art. 44, Lei 14.133/2021)."
+        }
+      ]
+    },
+    {
+      "titulo": "Utilização por Particulares",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Permissão de Uso",
+          "texto": "Ato unilateral, discricionário e precário, revogável a qualquer tempo, sem indenização. Não exige licitação (regra geral). Atende ao interesse **público e privado** conjuntamente.\n\n**Exemplo:** banca de jornal em praça, quiosque em praia, táxi (serviço público)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Autorização de Uso",
+          "texto": "Ato unilateral, discricionário e precário, revogável a qualquer tempo. Atende predominantemente ao interesse **privado** do particular. Não exige licitação.\n\n**Exemplo:** fechar uma rua para festa de aniversário, mesa de bar na calçada, comércio ambulante eventual."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessão de Uso",
+          "texto": "Contrato administrativo formal, exige licitação (regra geral) e prazo determinado. Confere maior estabilidade ao particular.\n\n**Exemplo:** área em aeroporto para estacionamento, restaurante em parque público."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessão de Direito Real de Uso",
+          "texto": "Transfere direito real ao particular, com registro em cartório de imóveis. Utilizada para programas habitacionais.\n\n**Exemplo:** loteamento popular em terra pública para famílias de baixa renda, assentamentos urbanos.\n\n**Característica:** é um direito real (oponível erga omnes), diferentemente da concessão de uso comum (que é obrigacional)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo das formas de uso",
+          "texto": "**Permissão** = ato unilateral/precário/sem licitação, interesse público+privado.\n**Autorização** = ato unilateral/precário/sem licitação, interesse privado.\n**Concessão de uso** = contrato/licitação/prazo certo.\n**Concessão de direito real** = direito real/registro em cartório."
+        }
+      ]
+    },
+    {
+      "titulo": "Ocupação e Posse",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Posse vs. Mera Detenção (Súmula 619 STJ)",
+          "texto": "**Regra:** O particular que ocupa bem público sem autorização, permissão ou concessão formal **não exerce posse**, mas **mera detenção** (ocupação irregular/clandestina).\n\n**Consequência:** O particular não tem direito à retenção nem a indenização por benfeitorias construídas no local, devendo desocupar sem custos para o Estado.\n\n**Súmula 619 STJ:** \"O ocupante de imóvel público, sem título formal, não faz jus à indenização pelas benfeitorias realizadas, ainda que de boa-fé.\"\n\n**Atenção:** A Súmula 619 se aplica a todos os bens públicos (União, Estados, DF, Municípios)."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Civil e Jurisprudência",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Responsabilidade por Danos Causados por Bens Públicos",
+          "texto": "O Estado responde objetivamente pelos danos causados por seus bens públicos, com base no Art. 37, §6º da CF (teoria do risco administrativo).\n\n**Exemplos:**\n- Queda de árvore em via pública que atinge veículo.\n- Buraco em via pública que causa acidente.\n- Poste de iluminação que cai sobre pedestre.\n\n**Súmula 102 do STF:** \"Aplica-se a responsabilidade objetiva do Estado pelos danos causados por suas obras e serviços, independentemente de culpa do agente.\"\n\n**Exceção:** Caso fortuito ou força maior, culpa exclusiva da vítima, ou terceiro. O Estado pode regredir contra o agente público se houver dolo ou culpa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Súmulas Aplicáveis",
+          "texto": "**Súmula 340 STF:** \"Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião.\"\n\n**Súmula 619 STJ:** \"O ocupante de imóvel público, sem título formal, não faz jus à indenização pelas benfeitorias realizadas, ainda que de boa-fé.\"\n\n**Súmula 102 STF:** \"Aplica-se a responsabilidade objetiva do Estado pelos danos causados por suas obras e serviços, independentemente de culpa do agente.\"\n\nEssas súmulas são frequentemente cobradas em concursos e são essenciais para o estudo de bens públicos."
+        }
+      ]
+    },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/08.jpg"
+        }
+    ]
+}
+;

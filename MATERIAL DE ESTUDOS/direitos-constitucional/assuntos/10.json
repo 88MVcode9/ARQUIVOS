@@ -1,0 +1,152 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['10.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Administração Pública — Art. 37 CF",
+  "icone": "🏢",
+  "descricao": "Análise completa da Administração Pública (Art. 37 da CF/88), abrangendo princípios (LIMPE), regras de acesso a cargos, concurso público (validade, direito subjetivo à nomeação), acumulação de cargos, vedações (vinculação remuneratória, efeito cascata, acumulação de proventos), administração direta e indireta (FASE), teto remuneratório e subtetos, nepotismo (SV 13 e exceções), direito de greve dos servidores (STF), com exemplos práticos, mnemônicos, jurisprudência do STF e pegadinhas das bancas.",
+  "data": "2026-07-27",
+  "revisao": "2.0",
+  "topicos": [
+    {
+      "titulo": "Abrangência e Princípios do Art. 37",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Abrangência do Art. 37, caput",
+          "texto": "Art. 37, caput: 'A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.'\n\n**Abrangência:**\n- **Todos os Poderes:** Executivo, Legislativo e Judiciário.\n- **Todos os entes:** União, Estados, DF e Municípios.\n- **Ambas as administrações:** Direta e Indireta.\n\n⚠️ **Pegadinha:** A banca diz que o Art. 37 só se aplica ao Poder Executivo. **ERRADO** – aplica-se a todos os Poderes."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Legalidade",
+          "texto": "**Legalidade:** O agente público só pode fazer o que a lei permite (legalidade estrita).\n\n📖 **Para Leigos:** O agente público é como um motorista de ônibus escolar: ele só pode fazer o que está no manual e na rota definida. Se sair do caminho sem autorização, comete infração. Já o cidadão comum é como um motorista particular: pode ir aonde quiser, desde que não viole as leis de trânsito.\n\n💡 **Exemplo Prático:** Um fiscal de postura municipal só pode autuar um comerciante se houver lei municipal que proíba determinada conduta. Se não houver lei, não pode agir, mesmo que ache que aquilo é 'errado'."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Impessoalidade",
+          "texto": "**Impessoalidade:** Proibido favorecer amigos ou perseguir inimigos. Os atos administrativos são atribuídos à Administração, não ao agente que os pratica.\n\n📖 **Para Leigos:** A impessoalidade é como a regra do professor na prova: ele não pode dar nota maior para o filho dele ou nota menor para quem ele não gosta. Todos devem ser tratados igualmente, com base em critérios objetivos.\n\n**Regras específicas:**\n- Vedada a promoção pessoal em obras públicas ou campanhas – o mérito é da Administração, não do agente.\n- As nomeações devem ser impessoais, baseadas em concurso ou em critérios objetivos.\n- A Administração não pode praticar atos que favoreçam ou prejudiquem pessoas específicas sem justificativa legal.\n\n⚠️ **Pegadinha:** A banca diz que impessoalidade é apenas a vedação ao nepotismo – **ERRADO**, é mais amplo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Moralidade",
+          "texto": "**Moralidade:** Exige ética, honestidade, probidade, boa-fé e lealdade. Vai além da legalidade: um ato pode ser legal, mas imoral.\n\n📖 **Para Leigos:** A moralidade é como o jogador de futebol que não comete falta (é legal), mas simula um pênalti para ganhar vantagem — isso é imoral. Mesmo sem violar a regra escrita, viola o espírito do jogo.\n\n💡 **Exemplo Prático:** Um servidor público usa o carro oficial para ir à praia no fim de semana. Isso não é crime (se não houver desvio de finalidade explícito), mas é imoral e viola o princípio da moralidade."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Publicidade",
+          "texto": "**Publicidade:** Transparência e acesso à informação. Os atos administrativos devem ser divulgados para fiscalização pública.\n\n📖 **Para Leigos:** A publicidade é como o cardápio exposto na parede do restaurante: todos podem ver o que está sendo oferecido e quanto custa. Na Administração, todos devem poder ver o que o governo faz, quanto gasta e com quem contrata.\n\n💡 **Exemplo Prático:** Toda nomeação de servidor deve ser publicada no Diário Oficial para que a sociedade tome conhecimento. Isso permite controle e fiscalização."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípio da Eficiência",
+          "texto": "**Eficiência:** Incluída pela EC nº 19/1998 (Reforma Administrativa). Garantir que a Administração preste serviços com qualidade, rapidez, economia e bons resultados.\n\n📖 **Para Leigos:** A eficiência é como um restaurante fast-food: não adianta ter comida boa se demora 2 horas para servir. A Administração deve prestar serviços de forma rápida, econômica e com qualidade.\n\n💡 **Exemplo Prático:** A digitalização de processos em um cartório reduz o tempo de espera do cidadão e economiza papel, melhorando a eficiência do serviço público."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO LIMPE",
+          "texto": "- **L**egalidade\n- **I**mpessoalidade\n- **M**oralidade\n- **P**ublicidade\n- **E**ficiência\n\n📌 **Dica:** Decore a ordem: LIMPE.\n\n⚠️ **Pegadinha:** A banca pergunta qual princípio foi incluído pela EC 19/1998. **EFICIÊNCIA.**"
+        }
+      ]
+    },
+    {
+      "titulo": "Regras Gerais do Art. 37",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Acesso a Cargos Públicos e Concurso",
+          "texto": "**Acesso aos cargos públicos (Art. 37, I):**\n- Brasileiros que preencham os requisitos legais.\n- Estrangeiros, na forma da lei (Art. 37, I – possibilidade, mas precisa de lei específica).\n\n**Concurso público (Art. 37, II):**\n- A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos.\n- **Exceção:** cargos em comissão de livre nomeação e exoneração (direção, chefia, assessoramento) – estes não exigem concurso.\n\n**Validade do concurso:**\n- Prazo de até 2 anos, prorrogável uma única vez por igual período (Art. 37, III).\n\n**Direito à nomeação:**\n- Os aprovados dentro do número de vagas previsto no edital têm **direito subjetivo à nomeação** (STF – Súmula 15/STF? Na verdade é entendimento consolidado: o candidato aprovado dentro das vagas tem direito líquido e certo à nomeação, desde que dentro do prazo de validade).\n- Os aprovados em cadastro de reserva têm **mera expectativa de direito**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Remuneração e Teto Remuneratório",
+          "texto": "**Igualdade de remuneração (Art. 37, III):**\n- Para cargo de igual atribuição, a remuneração será igual, independentemente da natureza jurídica da pessoa jurídica a que pertença o cargo.\n\n**Teto remuneratório (Art. 37, XI – EC 19/1998):**\n- **Teto nacional:** subsídio dos Ministros do STF (atualmente R$ 46.366,19).\n- **Subteto municipal:** subsídio do Prefeito.\n- **Subteto estadual/DF:**\n  - Executivo: Governador.\n  - Legislativo: Deputados Estaduais/Distritais.\n  - Judiciário: Presidente do Tribunal de Justiça (ou o subsídio dos desembargadores).\n\n**Regra de subteto:** O teto nacional é o STF. Para os demais Poderes e entes, o teto será o subsídio do respectivo chefe do Poder (ex.: no Executivo municipal, o teto é o subsídio do Prefeito).\n\n⚠️ **Pegadinha:** O subteto municipal é o subsídio do **Prefeito**, não o do Presidente da República."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cargos em Comissão e Funções de Confiança",
+          "texto": "**Cargos em comissão (Art. 37, V):**\n- Reservados a funções de direção, chefia e assessoramento.\n- São de livre nomeação e exoneração (não exigem concurso).\n- As funções de confiança devem ser ocupadas por servidores efetivos de carreira.\n\n⚠️ **Pegadinha:** A banca diz que um cargo em comissão pode ser ocupado por qualquer pessoa, sem critérios. **ERRADO.** A lei pode exigir requisitos mínimos (ex: formação superior).\n\n⚠️ **Pegadinha:** A banca diz que função de confiança pode ser ocupada por qualquer pessoa. **ERRADO** – só por servidor efetivo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Acumulação de Cargos Públicos",
+          "texto": "**Regra geral:** Vedada a acumulação remunerada de cargos públicos (Art. 37, XVI).\n\n**Exceções permitidas:**\n- Dois cargos de **professor** (Art. 37, XVI, a).\n- Um cargo de **professor** com outro **técnico ou científico** (Art. 37, XVI, b).\n- Dois cargos de **profissional de saúde** (Art. 37, XVI, c) – com profissões regulamentadas (médico, dentista, enfermeiro, etc.).\n\n**Vedações adicionais:**\n- Acumulação de empregos em empresas públicas ou sociedades de economia mista **não é permitida**, salvo se houver compatibilidade de horários e a atividade for privativa do servidor.\n- A acumulação de proventos de aposentadoria com remuneração de cargo público é proibida, salvo exceções (Art. 37, §10 e §11).\n\n⚠️ **Pegadinha:** A banca diz que é permitido acumular dois cargos de médico – **CORRETO**, desde que haja compatibilidade de horários."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vedações Remuneratórias Específicas",
+          "texto": "**Vedação de vinculação/equiparação (Art. 37, XIII):**\n- É proibida a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público.\n- Exemplo: não se pode atrelar o reajuste de uma carreira ao aumento de outra (\"o salário do fiscal subirá automaticamente se o do auditor subir\").\n\n**Proibição de 'efeito repique' ou 'cascata' (Art. 37, XIV):**\n- Os acréscimos pecuniários percebidos por servidor não serão computados nem acumulados para fins de concessão de acréscimos ulteriores (ex.: a gratificação não pode gerar outra gratificação).\n\n**Acumulação de proventos (Art. 37, §10 e §11):**\n- É vedada a percepção simultânea de proventos de aposentadoria e remuneração de cargo público, exceto:\n  - Cargos acumuláveis na ativa (professor, técnico/científico, saúde).\n  - Proventos de aposentadoria com remuneração de cargo em comissão (declarado de livre nomeação/exoneração) – desde que haja compatibilidade de horários.\n\n⚠️ **Pegadinha:** A banca diz que a acumulação de proventos com cargo em comissão é sempre vedada – **ERRADO** – é permitida se compatível."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Contratação Temporária (Art. 37, IX)",
+          "texto": "**Contratação temporária:** É permitida a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.\n\n**Requisitos:**\n- Lei específica definindo os casos e prazos.\n- Processo seletivo simplificado (não exige concurso público, mas deve ser objetivo).\n- Prazo determinado (não pode ser perpetuada).\n\n💡 **Exemplo Prático:** A contratação de professores temporários para cobrir licenças-maternidade ou a contratação de profissionais para campanhas de vacinação emergenciais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direito de Greve dos Servidores Públicos (Art. 37, VII)",
+          "texto": "**Art. 37, VII:** O direito de greve dos servidores públicos civis será exercido nos termos e nos limites definidos em lei específica.\n\n**Norma de eficácia limitada:** A lei específica nunca foi editada pelo Congresso Nacional.\n\n**Jurisprudência do STF (MI 670/712):**\n- Na falta de lei específica, o STF determinou a aplicação da **Lei de Greve do setor privado (Lei nº 7.783/1989)** aos servidores públicos civis.\n\n**Vedação absoluta de greve (STF – RE 785.317):**\n- **Policiais militares e bombeiros militares** não têm direito de greve – o STF entende que a greve nesses serviços é incompatível com a segurança pública (princípio da continuidade do serviço essencial).\n- Para os servidores civis, a greve é permitida, mas deve respeitar a continuidade dos serviços essenciais (ex.: saúde, educação, segurança).\n\n⚠️ **Pegadinha:** A banca diz que o direito de greve dos servidores públicos é absoluto – **ERRADO** – há restrições para serviços essenciais e vedação total para policiais militares."
+        }
+      ]
+    },
+    {
+      "titulo": "Administração Direta e Indireta",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Administração Direta",
+          "texto": "**Administração Direta:** Órgãos que integram a estrutura política dos entes. Não possuem vontade própria; são o próprio Estado agindo.\n\n**Características:**\n- Ministérios, Secretarias e órgãos auxiliares.\n- **Sem personalidade jurídica:** são apenas centros de competência.\n- Atuam em nome do ente federativo (União, Estados, DF, Municípios).\n- Custeadas diretamente pelo orçamento público.\n- **Vínculo de hierarquia** — obedecem ordens superiores.\n- **Responsabilidade:** o ente responde pelos atos de seus agentes (Art. 37, §6º)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Administração Indireta",
+          "texto": "**Administração Indireta:** Entidades criadas para a descentralização. O Estado cria 'outra pessoa' para tarefas específicas.\n\n**Características:**\n- **Com personalidade jurídica:** possuem CNPJ e patrimônio próprios.\n- Possuem autonomia administrativa e financeira.\n- **Vínculo:** não há hierarquia, apenas supervisão (tutela ministerial).\n- Podem ser autossustentáveis (arrecadam próprias receitas).\n\n🧠 **MNEMÔNICO 'FASE':**\n- **F**undaçõe**s** (públicas)\n- **A**utarquias\n- **S**ociedades de Economia Mista\n- **E**mpresas Públicas"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferenças entre Autarquias, Empresas Públicas, SEM e Fundações",
+          "texto": "| **Característica** | **Autarquia** | **Empresa Pública** | **Sociedade de Economia Mista** | **Fundação Pública** |\n|---------------------|---------------|---------------------|---------------------------------|----------------------|\n| **Natureza jurídica** | Direito público | Direito privado | Direito privado | Pode ser pública ou privada |\n| **Criação** | Lei específica (direta) | Lei específica (autorização) | Lei específica (autorização) | Lei específica (autorização) |\n| **Patrimônio** | Público | Misto (público + privado, mas maioria do capital é pública) | Misto (público + privado, mas maioria do capital é pública) | Público (quando pública) |\n| **Finalidade** | Serviços públicos típicos (ex: INSS, ANVISA) | Atividade econômica ou serviço público (ex: Correios, Caixa) | Atividade econômica ou serviço público (ex: Petrobras, Banco do Brasil) | Serviços de interesse social (ex: FUNAI) |\n| **Exemplo** | INSS, ANVISA, INCRA | Correios, Caixa Econômica Federal | Petrobras, Banco do Brasil | FUNAI, Fundação Palmares |"
+        }
+      ]
+    },
+    {
+      "titulo": "Nepotismo e Súmula Vinculante 13",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Súmula Vinculante nº 13 – Nepotismo",
+          "texto": "**SV 13 (STF):** 'A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança, ou, ainda, de função gratificada na administração pública direta e indireta, em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.'\n\n**Exceções:**\n- Cargos políticos (ex.: Ministro, Secretário) – não se aplica.\n- Quando o parente já é servidor efetivo e ocupa cargo em comissão (desde que não seja subordinado ao parente).\n- Caso de nomeação de parente para cargo de confiança, desde que não haja subordinação direta.\n\n📖 **Exemplo:** O Prefeito não pode nomear seu irmão para ser Secretário Municipal de Obras (cargo em comissão) – viola a SV 13. Mas pode nomear seu primo para ser motorista? Não, se for cargo em comissão, também viola.\n\n⚠️ **Pegadinha:** A banca diz que o nepotismo se aplica a todos os cargos, inclusive políticos – **ERRADO** – os cargos políticos (ex.: Ministros, Secretários) não são alcançados, pois são escolhas políticas.\n\n⚠️ **Pegadinha:** A banca diz que o parente pode ocupar cargo em comissão se não for subordinado ao parente nomeante – **CORRETO** – isso é exceção.\n\n⚠️ **Pegadinha:** A banca diz que o nepotismo só se aplica a parentes até o segundo grau – **ERRADO** – a SV 13 fala em terceiro grau."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **LIMPE** – Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência.\n- **FASE** – Fundações, Autarquias, Sociedades de Economia Mista, Empresas Públicas.\n- **Art. 37 abrange:** todos os Poderes (Executivo, Legislativo, Judiciário) + todos os entes (U/E/DF/M) + Direta e Indireta.\n- **Concurso público:** exceto cargos em comissão (direção, chefia, assessoramento).\n- **Validade do concurso:** até 2 anos, prorrogação única por igual período.\n- **Direito à nomeação:** dentro das vagas tem direito subjetivo; cadastro reserva tem mera expectativa.\n- **Função de confiança:** só para servidor efetivo.\n- **Acumulação:** só professor (2), professor + técnico, saúde (2).\n- **Nepotismo:** SV 13 – vedação até 3º grau (inclui afinidade).\n- **Greve de servidor:** permitida (Lei 7.783/1989), mas policiais militares não têm direito.\n- **Teto:** STF (nacional), subtetos: Governador (estadual), Prefeito (municipal)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas (Atualizadas)",
+          "texto": "❌ 'Art. 37 só se aplica ao Poder Executivo.' → **ERRADO** (aplica-se a todos os Poderes).\n❌ 'Art. 37 só vale para a Administração Direta.' → **ERRADO** (também para a Indireta).\n❌ 'O particular e o agente público têm a mesma legalidade.' → **ERRADO** (agente: legalidade estrita; particular: liberdade).\n❌ 'Impessoalidade é só nepotismo.' → **ERRADO** (é mais ampla: favorecimento, perseguição, etc.).\n❌ 'Nepotismo se aplica a cargos políticos.' → **ERRADO** (exceção: cargos políticos).\n❌ 'O direito de greve dos servidores públicos é ilimitado.' → **ERRADO** (há restrições para serviços essenciais e vedação para policiais militares).\n❌ 'A acumulação de dois cargos de saúde é vedada.' → **ERRADO** (é permitida, com compatibilidade de horários).\n❌ 'O subteto municipal é o STF.' → **ERRADO** (é o Prefeito).\n❌ 'A nomeação de parente até 2º grau é vedada.' → **ERRADO** (é até 3º grau, SV 13)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Princípios (LIMPE): Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência.\n✅ Abrangência: todos os Poderes, todos os entes, Administração Direta e Indireta.\n✅ Concurso público: regra; exceção: cargos em comissão (direção, chefia, assessoramento).\n✅ Validade do concurso: até 2 anos, prorrogável uma única vez por igual período.\n✅ Direito à nomeação: aprovados dentro das vagas (STF).\n✅ Funções de confiança: só para servidores efetivos.\n✅ Acumulação: apenas nas exceções constitucionais (professor, professor+técnico, saúde).\n✅ Teto remuneratório: STF (nacional); subtetos: Governador (estadual) e Prefeito (municipal).\n✅ Nepotismo: SV 13 – vedação até 3º grau, com exceções (cargos políticos e sem subordinação).\n✅ Greve: servidores civis podem (Lei 7.783/1989); policiais militares não.\n✅ Contratação temporária: lei específica, processo seletivo simplificado, prazo determinado."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático – Acumulação de Cargos",
+          "texto": "Um médico pode acumular um cargo de médico em um hospital público com outro cargo de médico em uma clínica municipal? **Sim**, desde que haja compatibilidade de horários e ambos sejam cargos de saúde (exceção do Art. 37, XVI, c). Mas ele não pode acumular com um cargo de professor, a menos que seja professor de universidade (aí entra a exceção de professor + técnico/científico, se a medicina for considerada área técnica)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/10.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

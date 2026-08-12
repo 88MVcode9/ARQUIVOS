@@ -1,0 +1,115 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Direitos Constitucional",
+  "titulo": "Teoria das Gerações",
+  "icone": "📜",
+  "descricao": "Evolução histórica e classificação doutrinária dos direitos fundamentais em gerações (1ª a 5ª), com base no lema da Revolução Francesa (Liberdade, Igualdade, Fraternidade), características, exemplos práticos e dicas para prova.",
+  "topicos": [
+    {
+      "titulo": "Evolução Histórica e Classificação Doutrinária",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Sequência do Lema da Revolução Francesa",
+          "texto": "A doutrina clássica (Karel Vašák) organiza os direitos fundamentais em gerações (ou dimensões) que seguem a ordem do lema revolucionário:\n\n**Liberdade (1ª) → Igualdade (2ª) → Fraternidade (3ª)**"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Regras de convivência conquistadas",
+          "texto": "Imagine que os direitos fundamentais são como 'regras de convivência' que a sociedade conquistou ao longo do tempo:\n\n- **1ª geração** – surgiu quando as pessoas queriam proteção contra o rei/poderoso: 'não me prenda sem motivo'.\n- **2ª geração** – veio quando o povo percebeu que só liberdade não bastava: precisava de escola, hospital e emprego.\n- **3ª geração** – surgiu quando vimos que somos todos vizinhos no mesmo planeta: precisamos cuidar do meio ambiente e da paz mundial."
+        }
+      ]
+    },
+    {
+      "titulo": "1ª Geração — Direitos Civis e Políticos (Liberdade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "**Valor-fonte**: Liberdade\n**Característica**: Direitos **negativos** – exigem **abstenção** do Estado (não interferência).\n**Período**: Final do século XVII e século XIX (revoluções liberais).\n**Exemplos**: liberdade de expressão, reunião, associação, pensamento, igualdade perante a lei, direito de propriedade, segurança, devido processo legal, direito ao voto."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo do dia a dia",
+          "texto": "Você pode falar o que pensa (liberdade de expressão), se reunir com amigos (liberdade de reunião), criar uma associação de bairro (liberdade de associação), votar nas eleições (direito ao voto) e ter sua casa protegida (direito de propriedade) — tudo isso sem o Estado te impedir."
+        }
+      ]
+    },
+    {
+      "titulo": "2ª Geração — Direitos Sociais, Econômicos e Culturais (Igualdade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "**Valor-fonte**: Igualdade\n**Característica**: Direitos **positivos** – exigem **ação positiva** do Estado (prestações).\n**Período**: Século XX (pós-Revolução Industrial e 2ª Guerra Mundial).\n**Exemplos**: educação, saúde, trabalho, moradia, alimentação, cultura, lazer, meio ambiente saudável, previdência social."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo do dia a dia",
+          "texto": "Seu filho tem direito a estudar na escola pública (educação), quando você fica doente vai ao SUS (saúde), você tem direito ao emprego com carteira assinada (trabalho), pode se aposentar (previdência) e ter uma casa digna (moradia). O Estado **DEVE fornecer** isso, não só permitir — é obrigação dele!"
+        }
+      ]
+    },
+    {
+      "titulo": "3ª Geração — Direitos de Solidariedade/Fraternidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "**Valor-fonte**: Solidariedade / Fraternidade\n**Característica**: Direitos **difusos e coletivos** – transcendem fronteiras nacionais.\n**Período**: Final do século XX.\n**Exemplos**: direito ao desenvolvimento, direito à paz (Bonavides classifica como 5ª geração), direito ao meio ambiente, direito de propriedade comum da humanidade, direito de comunicação, direitos do consumidor."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo do dia a dia",
+          "texto": "Você tem direito a respirar ar limpo (meio ambiente), o Brasil não pode poluir o Rio de Janeiro sem prejudicar outros países (meio ambiente é de todos), você pode reclamar quando compra um produto estragado (direito do consumidor), e o mundo quer a paz entre nações (direito à paz). São direitos que transcendem fronteiras — todos os povos precisam cooperar!"
+        }
+      ]
+    },
+    {
+      "titulo": "4ª Geração — Direitos Tecnológicos (em desenvolvimento)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "**Conceito em discussão**: não há consenso doutrinário.\n**Paulo Bonavides** aponta: democracia, informação, pluralismo.\n**Norberto Bobbio** menciona: engenharia genética.\n**Exemplos**: direito à privacidade digital, acesso à internet, proteção de dados pessoais, inteligência artificial justa, robótica ética."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo do dia a dia",
+          "texto": "Ninguém pode vazar suas fotos íntimas na internet (privacidade digital), você tem direito a usar a internet (acesso à internet), empresas não podem vender seus dados pessoais sem permissão (proteção de dados), e inteligência artificial não pode discriminar você (IA justa). São direitos novos para lidar com a era digital!"
+        }
+      ]
+    },
+    {
+      "titulo": "5ª Geração — Direitos Emergentes",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Características",
+          "texto": "**Conceito em discussão**: proposto por algumas correntes doutrinárias.\n**Objetivo**: proteção do patrimônio genético humano, identidade cultural, democratização das comunicações.\n**Destaque**: Direito à paz (segundo Bonavides, que considera a paz como 5ª geração)."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas e Mnemônicos",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO: 'LIVRE-IGUAL-SOLIDÁRIO'",
+          "texto": "Para lembrar a ordem das três primeiras gerações:\n\n- **1ª** → **Liberdade** (direitos civis/políticos)\n- **2ª** → **Igualdade** (direitos sociais/econômicos)\n- **3ª** → **Solidariedade** (direitos difusos/coletivos)\n\nAs gerações **NÃO se substituem**; são **cumulativas e complementares**."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Sobre a terminologia: 'gerações' ou 'dimensões'?",
+          "texto": "Embora a expressão 'gerações' seja consagrada, muitos doutrinadores preferem 'dimensões' para evitar a ideia de que uma substitui a outra. O importante é saber que elas se somam."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+            "imagem": "./IMAGENS/03.jpg"
+     }
+      ]
+    }
+  ]
+}
+;

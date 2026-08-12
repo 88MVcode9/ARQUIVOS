@@ -1,0 +1,132 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['12.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Controle de Constitucionalidade",
+  "icone": "⚖️",
+  "descricao": "Análise completa do Controle de Constitucionalidade na CF/88, abrangendo os dois grandes ramos (Concentração x Difusão), os dois tipos (Preventivo x Repressivo), as quatro ações constitucionais (ADI, ADC, ADPF, ADO), o controle pelo CCJ e pelo veto presidencial, com requisitos, prazos, efeitos e pegadinhas de prova.",
+  "data": "2026-07-27",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Visão Geral — Classificação do Controle de Constitucionalidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Controle de Constitucionalidade?",
+          "texto": "É o mecanismo pelo qual a ordem constitucional é preservada, garantindo que nenhuma norma jurídica (lei, decreto, etc.) viole a Constituição Federal.\n\n**Dois grandes ramos:**\n1. **Controle Concentrado (Abstract):** análise de normas isoladas, sem necessidade de um caso concreto. É 'preventivo' — evita que a norma vaze.\n2. **Controle Difuso (Concrete):** análise de normas no contexto de um caso concreto (um processo judicial). É 'repressivo' — corrige a aplicação da norma em situações específicas.\n\n🧠 **MNEMÔNICO:** 'Concentrado = Concreto? NÃO! Concentrado = Abstract (isolado). Difuso = Concrete (caso real).'"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação por Órgão e Momento",
+          "texto": "**Controle Preventivo (pré-execução):**\n- **CCJ (Comissão de Constituição e Justiça):** analisa projetos de lei em fase de tramitação legislativa, verificando se não violam a Constituição.\n- **Veto presidencial:** o Presidente pode vetar um projeto de lei por considerá-lo inconstitucional.\n\n**Controle Repressivo (pós-execução):**\n- **Judicial:** ações diretas (ADI, ADC, ADPF, ADO) e ações indiretas (habeas corpus, mandado de segurança, etc.).\n- **Político:** o Congresso Nacional pode declarar a inconstitucionalidade de atos do Poder Executivo por meio de processos de impeachment ou outros mecanismos.\n\n🧠 **MNEMÔNICO:** 'Preventivo = antes (CCJ, veto) / Repressivo = depois (ações judiciais, político).'"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha Clássica",
+          "texto": "A banca afirma que o Controle Difuso é feito apenas pelo STF. **ERRADO.** O Controle Difuso é exercido por **todos os órgãos jurisdicionados** (STF, STJ, Tribunais Regionais Federais, Tribunais de Justiça, etc.) quando aplicam a Constituição em casos concretos.\n\nOutra pegadinha: 'ADI é controle difuso.' → **ERRADO.** ADI é controle **concentrado** (abstract), pois não depende de um caso concreto."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Concentrado (Abstract) — Ações Diretas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "As Quatro Ações Constitucionais",
+          "texto": "O Controle Concentrado é exercido por meio de ações diretas perante o STF:\n\n- **ADI (Ação Direta de Inconstitucionalidade):** ataca **leis ou atos normativos** que contrariam a Constituição.\n- **ADC (Ação Declaratória de Constitucionalidade):** pede ao STF que **declare a constitucionalidade** de uma norma (quando há dúvida sobre sua validade).\n- **ADPF (Arguição de Descumprimento de Preceito Fundamental):** ataca **atos concretos** que descumprem um preceito fundamental (situação fática concreta, não norma abstrata).\n- **ADO (Ação Direta de Inconstitucionalidade por Omissão):** ataca a **omissão do Poder Legislativo** em legislar sobre matéria que a Constituição determina que seja regulada por lei.\n\n🧠 **MNEMÔNICO:** 'ADICIONA' — **A**DI, **D**ADC, **I**ADPF, **C**ADO, **I**Omissão, **O**missão, **N**ormas, **A**tos, **S**TF."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "ADI — Ação Direta de Inconstitucionalidade",
+          "texto": "**Objetivo:** declarar a inconstitucionalidade de lei ou ato normativo.\n\n**Legitimidade ativa (quem pode propor):**\n- **Presidente da República** (Art. 102, I, a);\n- **Mesa do Senado Federal** (Art. 102, I, b);\n- **Mesa da Câmara dos Deputados** (Art. 102, I, c);\n- **Ministério Público Federal** (Art. 102, I, d);\n- **Partido político com representação no Congresso Nacional** (Art. 102, I, e);\n- **União, Estados, DF e Municípios** (Art. 102, I, f);\n- **Cidadãos (1/3 dos deputados + 1/3 dos senadores)** (Art. 102, I, g — ação coletiva de 1/3 + 1/3).\n\n**Requisitos:**\n- **Reclamação de constitucionalidade** (necessidade de demonstrar a violação à CF);\n- **Interesse de oferecer a ação** (legitimidade ativa);\n- **Matéria juridicamente relevante** (não pode ser mera repetição de julgado).\n\n**Prazo:** não há prazo legal, mas a ação deve ser apreciada com celeridade (Art. 102, §1º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "ADC — Ação Declaratória de Constitucionalidade",
+          "texto": "**Objetivo:** pedir ao STF que declare a **constitucionalidade** de uma norma jurídica quando haja dúvida sobre sua validade.\n\n**Legitimidade ativa (quem pode propor):**\n- **Presidente da República** (Art. 102, II, a);\n- **Mesa do Senado Federal** (Art. 102, II, b);\n- **Mesa da Câmara dos Deputados** (Art. 102, II, c);\n- **Ministério Público Federal** (Art. 102, II, d);\n- **Partido político com representação no Congresso Nacional** (Art. 102, II, e);\n- **União, Estados, DF e Municípios** (Art. 102, II, f);\n- **Cidadãos (1/3 dos deputados + 1/3 dos senadores)** (Art. 102, II, g).\n\n**Diferença da ADI:** enquanto a ADI ataca a norma, a ADC **confirma** a norma. É um mecanismo de segurança jurídica.\n\n⚠️ **Pegadinha:** A banca afirma que ADC é para atacar normas. **ERRADO.** ADC é para **declarar a constitucionalidade** (confirmação), não inconstitucionalidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "ADPF — Arguição de Descumprimento de Preceito Fundamental",
+          "texto": "**Objetivo:** pedir ao STF que **pare um ato concreto** que descumpre um preceito fundamental da Constituição.\n\n**Diferenças-chave:**\n- **ADPF:** ataca **ato concreto** (situação fática real, não norma abstrata). Ex: um decreto que proíbe manifestação política.\n- **ADI:** ataca **norma abstrata** (lei, decreto normativo). Ex: uma lei que proíbe manifestação política.\n\n**Legitimidade ativa (quem pode propor):**\n- **Presidente da República** (Art. 102, III, a);\n- **Mesa do Senado Federal** (Art. 102, III, b);\n- **Mesa da Câmara dos Deputados** (Art. 102, III, c);\n- **Ministério Público Federal** (Art. 102, III, d);\n- **Partido político com representação no Congresso Nacional** (Art. 102, III, e);\n- **União, Estados, DF e Municípios** (Art. 102, III, f);\n- **Cidadãos (1/3 dos deputados + 1/3 dos senadores)** (Art. 102, III, g).\n\n⚠️ **Pegadinha:** A banca afirma que ADPF é para atacar normas abstratas. **ERRADO.** ADPF é para atos **concretos** que descumprem preceitos fundamentais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "ADO — Ação Direta de Inconstitucionalidade por Omissão",
+          "texto": "**Objetivo:** declarar a inconstitucionalidade da **omissão do Poder Legislativo** em legislar sobre matéria que a Constituição determina que seja regulada por lei.\n\n**Exemplo clássico:** A Constituição determina que a lei regulamente a posse de arma de fogo (Art. 22, XVII, da CF). Se o Congresso Nacional não aprovar nenhuma lei sobre o tema, alguém pode propor uma ADO pedindo ao STF para declarar que a omissão é inconstitucional.\n\n**Legitimidade ativa:** as mesmas da ADI (Art. 102, I).\n\n⚠️ **Pegadinha:** A banca afirma que ADO é para atacar atos do Executivo. **ERRADO.** ADO é para atacar a **omissão do Legislativo** em legislar sobre matéria constitucionalmente regulada."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Diferências entre as Ações",
+          "texto": "**Tabela comparativa:**\n\n| Ação | Ataca | Natureza | Legitimidade |\n|------|-------|----------|-------------|\n| **ADI** | Norma abstrata | Inconstitucionalidade | Art. 102, I |\n| **ADC** | Norma abstrata | Constitucionalidade | Art. 102, II |\n| **ADPF** | Ato concreto | Descumprimento de preceito fundamental | Art. 102, III |\n| **ADO** | Omissão do Legislativo | Inconstitucionalidade por omissão | Art. 102, I |\n\n🧠 **MNEMÔNICO:** 'ADI ataca, ADC afirma, ADPF para atos concretos, ADO para omissão.'"
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Preventivo — CCJ e Veto Presidencial",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Comissão de Constituição e Justiça (CCJ)",
+          "texto": "A **CCJ** é uma comissão temporária do Congresso Nacional, composta por 33 membros (11 da Câmara, 11 do Senado, 11 da Fazenda Ribeira — não, na verdade, 11 da Câmara, 11 do Senado e 11 da Fazenda).\n\n**Função:** analisar projetos de lei em fase de tramitação para verificar se são **constitucionalmente compatíveis**. A CCJ pode:\n- Aprovar o projeto (se for constitucional);\n- Rejeitar o projeto (se violar a Constituição);\n- Devolver com observações.\n\n**Prazo:** a CCJ tem 30 dias para se manifestar sobre projetos de lei que lhe sejam submetidos.\n\n⚠️ **Pegadinha:** A banca afirma que a CCJ pode vetar projetos de lei. **ERRADO.** A CCJ apenas se manifesta; o veto é do Presidente da República."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Veto Presidencial — Político e Jurídico",
+          "texto": "O Presidente da República pode vetoar um projeto de lei aprovado pelo Congresso Nacional (Art. 66, §1º).\n\n**Dois tipos de veto:**\n\n1. **Veto político (ou parcial):** o Presidente veta apenas **alguns artigos ou parágrafos** do projeto, mantendo os demais. O Congresso pode derrubar esse veto por **maioria absoluta** (Art. 66, §4º).\n\n2. **Veto jurídico (ou total):** o Presidente veta **todo o projeto** por considerá-lo inconstitucional. O CongressNacional pode derrubar esse veto por **3/5** dos votos de cada Casa (Art. 66, §4º, parágrafo único).\n\n**Derrubada de veto:**\n- **Voto aberto (nominal):** hoje é obrigatório (Lei 13.105/2015, art. 10, §1º — a derrubada de veto é sempre nominal e por maioria absoluta do Congresso Nacional).\n- **Prazo:** 30 dias para a Câmara e 30 dias para o Senado (Art. 66, §4º).\n\n⚠️ **Pegadinha:** A banca afirma que a derrubada de veto pode ser por voto secreto. **ERRADO.** Hoje é sempre **nominal** (voto aberto) e por **maioria absoluta**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha: Veto e Derrubada",
+          "texto": "❌ 'O veto presidencial pode ser derrubado por maioria simples.' → **ERRADO.** Exige **maioria absoluta** (ou 3/5 para veto jurídico).\n❌ 'A derrubada de veto pode ser por voto secreto.' → **ERRADO.** É sempre **nominal** (voto aberto).\n❌ 'O Presidente pode vetar parcialmente por inconstitucionalidade.' → **ERRADO.** Veto parcial é sempre **político**; voto total por inconstitucionalidade é **jurídico**."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Repressivo — Judicial e Político",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Controle Judicial (Difuso)",
+          "texto": "O **Controle Difuso** é exercido por **todos os juízes** (não apenas o STF) quando aplicam a Constituição em casos concretos.\n\n**Como funciona:**\n- O juiz, ao julgar um caso, verifica se a lei aplicada é constitucional.\n- Se houver dúvida, o juiz pode **suspender a aplicação** da norma e, em alguns casos, **elevar a questão ao STF** (recurso especial ou agravo de recado).\n- O STF, ao receber a questão, pode **reconhecer a inconstitucionalidade** da norma, que passa a ser nula para todos os efeitos.\n\n**Exemplo:** Um juiz estadual julga um caso de usucapião e verifica que a lei estadual que regulamenta o prazo de usucapião viola a Constituição. Ele pode suspender a aplicação da lei e elevar a questão ao STF.\n\n⚠️ **Pegadinha:** A banca afirma que apenas o STF pode declarar inconstitucionalidade. **ERRADO.** Qualquer juiz pode, no exercício do controle difuso."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Político",
+          "texto": "O **Controle Político** é exercido pelo Congresso Nacional sobre os atos do Poder Executivo.\n\n**Instrumentos:**\n- **Processo de Impeachment (Art. 86):** o Congresso pode processar o Presidente da República, Governadores e outros oficiais por crimes de responsabilidade.\n- **CPI (Comissão Parlamentar de Inquérito):** investiga atos de improbidade ou corrupção.\n- **Fiscalização orçamentária:** o Congresso aprova e fiscaliza o orçamento público.\n\n**Diferença do Controle Judicial:**\n- O Controle Político é **político** (baseado na vontade parlamentar), não jurídico.\n- O Controle Judicial é **jurídico** (baseado no direito).\n\n⚠️ **Pegadinha:** A banca afirma que o impeachment é um processo penal. **ERRADO.** É um processo **político** (crime de responsabilidade), não penal."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – O Jogo de Xadrez",
+          "texto": "Pense no controle de constitucionalidade como um jogo de xadrez:\n\n- **Controle Concentrado (ADI, ADC, ADPF, ADO):** o STF analisa as 'peças' (normas) isoladamente, como se estivesse revisando o tabuleiro antes do jogo.\n- **Controle Difuso:** os juízes vão descobrindo problemas com as 'peças' enquanto jogam (caso concreto).\n- **Controle Preventivo (CCJ, veto):** o Congresso e o Presidente tentam prevenir problemas antes que a partida comece.\n- **Controle Repressivo (judicial, político):** depois que algo dá errado, o STF ou o Congresso corrige."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'ADICIONA'** — ADI (ataca norma), ADC (afirma norma), ADPF (ato concreto), ADO (omissão).\n- **'Preventivo = antes / Repressivo = depois'** — CCJ e veto são preventivos; ações judiciais e político são repressivos.\n- **'Concentrado = Abstract / Difuso = Concrete'** — Concentrado analisa normas isoladas; Difuso analisa casos reais.\n- **Derrubada de veto:** maioria absoluta (3/5 para veto jurídico), voto nominal (aberto)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'Controle difuso é só do STF.' → **ERRADO** (qualquer juiz pode exercer).\n❌ 'ADI é controle difuso.' → **ERRADO** (é concentrado/abstract).\n❌ 'ADPF ataca normas abstratas.' → **ERRADO** (ataca atos concretos).\n❌ 'ADO ataca atos do Executivo.' → **ERRADO** (ataca omissão do Legislativo).\n❌ 'Derrubada de veto é por voto secreto.' → **ERRADO** (é nominal/aberto).\n❌ 'Veto jurídico é derrubado por maioria simples.' → **ERRADO** (exige 3/5)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Controle Concentrado (Abstract): ADI, ADC, ADPF, ADO — perante o STF.\n✅ Controle Difuso (Concrete): qualquer juiz, em caso concreto.\n✅ Controle Preventivo: CCJ (30 dias) e veto presidencial.\n✅ Controle Repressivo: ações judiciais e controle político (impeachment, CPI).\n✅ ADI: ataca norma abstrata. ADC: confirma norma. ADPF: ato concreto. ADO: omissão do Legislativo.\n✅ Veto político: parcial, derrubada por maioria absoluta. Veto jurídico: total, derrubada por 3/5.\n✅ Derrubada de veto: sempre voto nominal (aberto)."
+                  },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/12.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

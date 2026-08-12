@@ -1,0 +1,100 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Direitos Constitucional",
+  "titulo": "Aplicabilidade das Normas",
+  "icone": "🛡️",
+  "descricao": "Análise da eficácia normativa das normas de direitos fundamentais previstas no Art. 5º da CF/88, classificadas em Plena, Contida e Limitada (Programática), com exemplos práticos, analogias e o mnemônico PCA para prova.",
+  "topicos": [
+    {
+      "titulo": "Normas de Eficácia Plena (Autoaplicáveis)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são?",
+          "texto": "São normas que nascem completas, suficientes e autoaplicáveis.\n\n**Características:**\n- Produzem todos os efeitos imediatamente após a promulgação da Constituição\n- Não dependem de regulamentação\n- Não admitem redução posterior de seu alcance\n- Permitem aplicação direta e integral pelo intérprete"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Regra pronta para usar",
+          "texto": "Pense na norma de eficácia plena como uma regra pronta para usar:\n\n✅ **Exemplo Prático:** A lei diz \"ninguém pode ser torturado\" — isso vale imediatamente, sem precisar de outra lei explicando como funciona.\n\n🛠️ É como um manual de instruções completo que você já pode usar assim que compra o produto. *Plug and play!*"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplos Clássicos",
+          "texto": "São exemplos de normas de eficácia plena:\n\n- **Liberdade de expressão** (Art. 5º, IV)\n- **Direito à vida** (Art. 5º, *caput*)\n- **Garantia de ir e vir** (Art. 5º, XV)\n- **Proibição de tortura** (Art. 5º, III)"
+        }
+      ]
+    },
+    {
+      "titulo": "Normas de Eficácia Contida (Restringíveis)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são?",
+          "texto": "Possuem aplicação imediata e direta, porém **não integral**.\n\n**Características:**\n- São autoexecutáveis desde o início\n- Podem ter alcance restringido por lei infraconstitucional\n- Exigências previstas na própria Constituição ou razões de interesse público\n- Vigoram plenamente até que o legislador ou outra determinação constitucional imponha limitações"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – O carro com limites",
+          "texto": "É como ter um carro que anda, mas o governo pode colocar limites depois.\n\n🚗 **Exemplo:** Você pode se reunir com amigos (liberdade de reunião), mas o Estado pode exigir aviso prévio à polícia se for em local público. A liberdade existe, mas pode ter \"freios\" adicionados por lei depois."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplos Clássicos",
+          "texto": "São exemplos de normas de eficácia contida:\n\n- **Liberdade de reunião** (Art. 5º, XVI) – pode ser condicionada a aviso prévio\n- **Exercício de determinadas profissões** – pode exigir diploma ou registro (Art. 5º, XIII)\n- **Direito de propriedade** – pode sofrer desapropriação por necessidade pública (Art. 5º, XXIV)"
+        }
+      ]
+    },
+    {
+      "titulo": "Normas de Eficácia Limitada (Programáticas)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são?",
+          "texto": "Não produzem todos os efeitos de imediato. Dependem de complementação legislativa para alcançar plena efetividade.\n\n**Características:**\n- Estabelecem programas, diretrizes e objetivos a serem concretizados pelo Estado\n- Possuem aplicação mediata e indireta\n- Enquanto não regulamentadas, geram apenas efeitos negativos (impedem leis contrárias)\n- Não conferem direitos plenamente exigíveis imediatamente"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – O plano de metas",
+          "texto": "Imagine que a Constituição é um plano de metas:\n\n✅ **O QUE ELA FAZ:** Diz \"todo brasileiro tem direito à saúde\".\n❌ **MAS NÃO EXPLICA COMO:** fazer isso acontecer (hospitais, médicos, remédios).\n\n⚙️ **Precisa de:** leis criando hospitais, contratando médicos, comprando remédios...\n\n🚫 **Você NÃO pode:** ir ao juiz exigir \"me dê saúde agora\".\n🛑 **Governo NÃO pode:** criar leis contra a saúde pública."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características Detalhadas",
+          "texto": "As normas programáticas:\n\n- Estabelecem objetivos, diretrizes e programas de ação do Estado ao longo do tempo\n- Não criam direitos plenamente exigíveis de imediato\n- Impõem ao Poder Público um dever permanente de atuação\n- Vinculam legislador, administração e Judiciário\n- Funcionam como parâmetros para criação de leis e políticas públicas"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Atenção! Não são meramente simbólicas",
+          "texto": "As normas programáticas **NÃO** são normas vazias ou simbólicas! Elas vinculam o Estado e servem como parâmetro para políticas públicas.\n\n🌟 **Exemplo Prático:** A Constituição diz \"o Estado deve garantir moradia digna\". Isso não significa que você pode chegar hoje no juiz e pedir \"me dê uma casa\". Mas significa que o governo é OBRIGADO a criar programas como Minha Casa Minha Vida, e não pode aprovar uma lei proibindo moradia popular."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplos Clássicos",
+          "texto": "São exemplos de normas de eficácia limitada (programáticas):\n\n- **Direito à saúde** (Art. 6º e 196)\n- **Direito à educação** (Art. 6º e 205)\n- **Direito à moradia** (Art. 6º)\n- **Direito ao meio ambiente ecologicamente equilibrado** (Art. 225)"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas e Mnemônicos",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO: 'PCA'",
+          "texto": "Para lembrar a ordem e a natureza das três classificações:\n\n- **P** → **Plena** (total, não precisa de lei)\n- **C** → **Contida** (restrita, pode ser limitada por lei)\n- **A** → **Aplicabilidade Limitada** (programática, precisa de lei para produzir efeitos plenos)\n\n📌 **Resumo rápido:**\n- **Plena** = Já vale tudo agora.\n- **Contida** = Vale, mas pode ser reduzida depois.\n- **Limitada** = Vale só como meta, precisa de lei para virar realidade."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Dica de Prova – Pegadinha Frequente",
+          "texto": "⚠️ **Cuidado!** A banca adora afirmar que as normas programáticas \"não têm eficácia nenhuma\" ou \"são meras recomendações\". Isso é **ERRADO**.\n\nElas têm eficácia jurídica imediata, ainda que indireta, pois:\n\n1. Impedem a edição de leis contrárias ao seu conteúdo (efeito negativo);\n2. Vinculam a atuação do legislador e do administrador; e\n3. Servem como critério de interpretação para todo o ordenamento jurídico."
+                },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+       }
+      ]
+    }
+  ]
+}
+;

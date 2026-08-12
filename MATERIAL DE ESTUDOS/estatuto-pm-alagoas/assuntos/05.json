@@ -1,0 +1,95 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Remuneração, Vantagens e Indenizações",
+  "icone": "💰",
+  "descricao": "Quadro detalhado sobre a composição da remuneração do policial militar, diferenças entre soldo e vencimentos, principais gratificações, indenizações e regras de acumulação/irredutibilidade.",
+  "topicos": [
+    {
+      "titulo": "Conceitos Básicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Soldo x Vencimentos",
+          "texto": "Soldo: parcela de natureza estritamente militar, paga mensalmente ao militar em atividade, definida por legislação específica. Vencimentos: conjunto formado pelo soldo acrescido de vantagens, gratificações e indenizações pagas ao servidor. Em provas costuma-se cobrar a distinção e exemplos práticos de cada uma das parcelas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Irredutibilidade e Limitações",
+          "texto": "Princípio da irredutibilidade de vencimentos: os vencimentos dos servidores públicos (incluindo militares) não podem ser reduzidos, salvo em hipóteses expressamente previstas em lei e com observância hierárquica. A compatibilização com regras orçamentárias e de segurança pública exige atenção a dispositivos constitucionais e estaduais."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Parcelas Remuneratórias",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Parcelas fixas e variáveis",
+          "texto": "Entre as parcelas usuais pagas ao policial militar destacam-se: soldo (base), gratificações (tempo de serviço, habilitação, risco de vida, disponibilidade), adicionais (insalubridade, periculosidade, local de serviço), e indenizações (diárias, ajuda de custo)."
+        },
+        {
+          "tipo": "lista",
+          "titulo": "Exemplos de Gratificações e Adicionais",
+          "texto": "",
+          "itens": [
+            "Gratificação por Tempo de Serviço (GTS)",
+            "Gratificação de Disponibilidade",
+            "Gratificação por Risco de Vida / Operacional",
+            "Gratificação por Habilitação Profissional (curso, especialização)",
+            "Adicional noturno / jornada especial",
+            "Adicional de local de serviço (insular, fronteira, hard-to-staff)",
+            "Insalubridade / Periculosidade (quando aplicável por lei)",
+            "Gratificações por função de chefia / comando"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Indenizações e Reembolsos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Natureza de Indenizações",
+          "texto": "Indenizações (diárias, ajuda de custo, transporte, ressarcimento de despesas) têm natureza compensatória e não integram necessariamente a base de cálculo de vencimentos ou previdência, salvo disposições legais em sentido diverso. Exemplos: diárias por missão, ajuda de custo em mudança de sede, reembolso por despesas de serviço."
+        }
+      ]
+    },
+    {
+      "titulo": "Acumulação, Incompatibilidades e Cálculos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Regras de Acumulação",
+          "texto": "Algumas vantagens são acumuláveis, outras não — a legislação estadual e regulamentos internos disciplinam acumulação e incompatibilidade. Em caso de dúvida, prevalece a norma específica que descreve a vedação ou permissão de acúmulo."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Base de Cálculo para Previdência e Inatividade",
+          "texto": "É importante verificar quais parcelas integram a base de cálculo de proventos de inatividade e contribuição previdenciária. Nem todas as gratificações e indenizações se incorporam automaticamente aos proventos; a incorporação depende de previsão legal e de natureza permanente da parcela."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Práticas para Provas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Pegadinhas comuns",
+          "texto": "Questões costumam confundir soldo com vencimentos e perguntar quais parcelas se incorporam à inatividade. Sempre: (1) identifique a natureza da parcela (remuneratória ou indenizatória); (2) cheque expressão legal sobre incorporação; (3) verifique a existência de vedação de acumulação."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Como memorizar",
+          "texto": "Crie um mapa mental com três colunas: Soldo | Vantagens permanentes (podem incorporar) | Indenizações (compensatórias)." 
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/05.png"
+        }
+      ]
+    }
+  ]
+}
+;

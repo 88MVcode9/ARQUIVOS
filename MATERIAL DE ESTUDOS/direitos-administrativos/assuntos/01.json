@@ -1,0 +1,238 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Conceito de Administração Pública",
+  "icone": "🏛️",
+  "descricao": "Entendimento básico da Administração Pública: o que é, suas funções, e os critérios formal (subjetivo) e material (objetivo) para defini-la.",
+  "topicos": [
+    {
+      "titulo": "O que é Administração Pública",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "É o conjunto de **órgãos, entidades e agentes** que exercem a função administrativa do Estado, transformando leis em ações concretas para a sociedade. Funciona como o 'braço executivo' que garante saúde, educação, segurança e infraestrutura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Por que existe?",
+          "texto": "Para que o Estado cumpra suas funções básicas de forma eficiente e ordenada, atendendo às necessidades coletivas."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Ao se vacinar em um posto de saúde, você interage com a Administração: o médico (agente), o prédio (órgão) e a vacina (insumo) formam essa estrutura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrutura Organizada",
+          "texto": "A Administração Pública atua através de uma estrutura organizada para garantir saúde, educação, segurança e infraestrutura."
+        }
+      ]
+    },
+    {
+      "titulo": "Critério Formal (Subjetivo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Foco em QUEM exerce",
+          "texto": "Considera a **estrutura administrativa do Estado**: agentes, órgãos e entidades. Se for um ministério, prefeitura ou autarquia fazendo, é Administração Pública, independentemente da tarefa."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplos",
+          "texto": "Professor de escola estadual, auditor da Receita Federal, servidor de uma autarquia."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens públicos",
+          "texto": "No critério formal (subjetivo), também são considerados os bens públicos envolvidos na atividade administrativa."
+        }
+      ]
+    },
+    {
+      "titulo": "Critério Material (Objetivo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Foco em O QUE é feito",
+          "texto": "Considera a **função administrativa propriamente dita**: prestação de serviços públicos, gestão e fiscalização. Se a atividade é serviço público (ex: transporte), é Administração, mesmo que feita por empresa privada."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplos",
+          "texto": "Concessionária de metrô, OSCIP gerenciando hospital, empresa terceirizada de coleta de lixo."
+        }
+      ]
+    },
+    {
+      "titulo": "Comparando os Critérios na Prática",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Cenário: Coleta de lixo",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Formal",
+                "Prefeitura cria uma Autarquia para o lixo."
+              ],
+              [
+                "Material",
+                "Prefeitura contrata empresa privada (concessão)."
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Por que essa distinção importa?",
+          "texto": "Define qual lei aplicar (Direito Público ou Privado), quem deve fiscalizar o serviço e onde o cidadão deve reclamar (ex: ANEEL para energia). É tema recorrente em provas."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo: Formal vs Material",
+          "texto": "Formal: Estrutura estatal (Quem faz). Material: Atividade exercida (O que é feito). Os dois critérios se complementam para definir o alcance do Direito Administrativo."
+        }
+      ]
+    },
+    {
+      "titulo": "Sentido Amplo vs. Sentido Estrito (Stricto)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Alcance da Administração",
+          "texto": "Além dos critérios formal e material, a doutrina divide a Administração Pública quanto ao seu alcance em **sentido amplo** e **sentido estrito**."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Comparação",
+          "tabela": {
+            "colunas": [
+              "Sentido",
+              "Definição",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Amplo (Lato Sensu)",
+                "Envolve tanto os **órgãos políticos** (decisão e criação de políticas) quanto os **órgãos administrativos** (execução).",
+                "Presidente da República e Ministérios."
+              ],
+              [
+                "Estrito (Stricto Sensu)",
+                "Envolve **apenas a função administrativa** e seus executores, excluindo a função política de governo.",
+                "Servidores públicos, autarquias, fundações."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Atividades Materiais da Administração (Quádrupla Atividade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Visão geral",
+          "texto": "O critério material (objetivo) se desdobra em quatro pilares de atuação da Administração Pública no dia a dia."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Serviço Público",
+          "texto": "Prestação direta de utilidades aos cidadãos (ex: transporte, saúde, energia)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Poder de Polícia",
+          "texto": "Atividade de fiscalização, limitação e regulação de direitos individuais em prol do interesse público (ex: vigilância sanitária, fiscalização de trânsito)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Fomento",
+          "texto": "Incentivo à iniciativa privada de interesse público (ex: concessão de subsídios, financiamentos públicos, apoio a ONGs)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Intervenção",
+          "texto": "Atuação na propriedade privada (ex: desapropriação) ou no domínio econômico (ex: estatais como Petrobras)."
+        }
+      ]
+    },
+    {
+      "titulo": "Fontes do Direito Administrativo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Lei",
+          "texto": "Fonte primária e principal, base do princípio da legalidade. A Administração só pode agir conforme a lei."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Doutrina",
+          "texto": "Estudos, livros e artigos de juristas e especialistas que ajudam a interpretar e sistematizar as normas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Jurisprudência",
+          "texto": "Decisões reiteradas dos tribunais, com destaque para as **Súmulas Vinculantes** do STF, que vinculam toda a Administração."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Costumes",
+          "texto": "Práticas administrativas repetidas ao longo do tempo, desde que não contrariem a lei (fonte secundária)."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistemas Administrativos (Controle da Administração)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Como os atos são fiscalizados?",
+          "texto": "Existem dois grandes sistemas de controle da Administração Pública no mundo: o **Sistema Francês** (jurisdição dupla) e o **Sistema Inglês** (jurisdição única)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "No Brasil — Sistema Francês de Jurisdição Única",
+          "texto": "O Brasil adota o **Sistema Francês de Jurisdição Única** (ou simplesmente **Jurisdição Única**), consagrado no **art. 5º, XXXV, da CF/88** — princípio da inafastabilidade da jurisdição. Embora o sistema inglês puro também se baseie na jurisdição única, o modelo brasileiro difere em histórico: absorveu a jurisdição única, mas mantém a dualidade de instâncias administrativas e judiciais, com o **monopólio da função jurisdicional pelo Poder Judiciário** para decisões definitivas. O cidadão pode levar qualquer lesão ou ameaça a direito diretamente ao Judiciário, sem necessidade de esgotar a via administrativa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferença do Sistema Inglês Puro",
+          "texto": "No sistema inglês tradicional, a jurisdição está unida ao Poder Executivo (ex: ministros que são juízes). No Brasil, a jurisdição permanece **separada** e **monopolizada** pelo Poder Judiciário, mesmo que o cidadão tenha acesso direto ao juiz. A expressão 'jurisdição única' refere-se à **união da jurisdição em um único órgão estatal** (o Poder Judiciário), não à fusão entre Executivo e Judiciário."
+        }
+      ]
+    },
+    {
+      "titulo": "Regime Jurídico-Administrativo (A Base de Tudo)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "Conjunto de regras que concede **poderes especiais** à Administração, mas também impõe **restrições** e deveres, garantindo o equilíbrio entre eficiência e proteção ao cidadão."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Supremacia do Interesse Público",
+          "texto": "O interesse da coletividade prevalece sobre o interesse individual. Dá prerrogativas ao Estado, como desapropriar um imóvel, aplicar multas ou requisitar bens."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Indisponibilidade do Interesse Público",
+          "texto": "O administrador não é 'dono' do patrimônio público; ele apenas o gerencia. Não pode abrir mão dos direitos do Estado livremente (ex: não pode perdoar dívidas sem lei)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

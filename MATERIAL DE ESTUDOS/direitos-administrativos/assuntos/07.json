@@ -1,0 +1,441 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['07.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Administração Direta e Indireta",
+  "icone": "🗂️",
+  "descricao": "Organização administrativa do Estado: conceitos, entidades da Administração Indireta (Autarquias, Fundações, EP, SEM), classificação especial de autarquias, descentralização, desconcentração e órgãos públicos, com jurisprudência e atualizações da Lei 13.303/2016.",
+  "topicos": [
+    {
+      "titulo": "Conceitos Gerais",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Organização Administrativa",
+          "texto": "A Administração Pública se organiza em duas estruturas principais, conforme o Art. 37, XIX da CF/88:\n\n**Administração Direta** – conjunto de órgãos que integram a estrutura dos entes federativos (União, Estados, DF e Municípios), sem personalidade jurídica própria.\n\n**Administração Indireta** – conjunto de entidades com personalidade jurídica própria, criadas para desempenhar atividades específicas, com autonomia administrativa e financeira."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Administração Direta – Explicação para leigos",
+          "texto": "A Administração Direta é o 'governo em si' — é quando o próprio Estado executa diretamente as atividades, sem intermediários. Pense na prefeitura que cuida diretamente da coleta de lixo ou no hospital público administrado pelo governo estadual.\n\n**Características:**\n• União, Estados, DF e Municípios.\n• Autonomia: política, administrativa e financeira.\n• Prestação centralizada.\n• Órgãos públicos sem personalidade jurídica própria.\n• Despesas realizadas diretamente pelo orçamento do ente.\n• Exemplos: Ministérios, Secretarias Estaduais, Câmaras Municipais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Administração Indireta – Explicação para leigos",
+          "texto": "A Administração Indireta é quando o governo cria ou contrata outras entidades para executar serviços. É como uma 'empresa do governo' — tem mais flexibilidade, mas segue regras públicas. Pense no INSS, na Caixa Econômica ou na Petrobras.\n\n**Características:**\n• Autarquias, Fundações, Empresas Públicas e Sociedades de Economia Mista.\n• Autonomia: administrativa e financeira apenas (NÃO têm autonomia política).\n• Personalidade jurídica própria, patrimônio e receitas próprios.\n• Vinculação ao Ministério ou Secretaria supervisor (tutela), mas sem subordinação hierárquica.\n• Exemplos: IBAMA (autarquia), Fiocruz (fundação), Correios (empresa pública), Petrobras (SEM)."
+        }
+      ]
+    },
+    {
+      "titulo": "Formas de Organização – Diferenças Práticas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Centralização",
+          "texto": "Serviço prestado pela própria Administração Direta. O Estado executa suas tarefas diretamente, sem intermediários.\n\n**Exemplo:** A Polícia Militar estadual — o próprio governo mantém policiais, viaturas e equipamentos. Sem intermediário."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Descentralização",
+          "texto": "Transferência da execução (e, em alguns casos, da titularidade) para outra pessoa jurídica. Cria entidades da Administração Indireta. Não há hierarquia, apenas supervisão/tutela.\n\n**Exemplo:** SABESP — autarquia com vida própria, pode contratar por CLT, mas o governo supervisiona e nomeia diretores."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Desconcentração",
+          "texto": "Distribuição interna de competências dentro da mesma pessoa jurídica. Cria órgãos – sem personalidade jurídica própria. Há hierarquia e subordinação.\n\n**Exemplo:** Ministério da Saúde cria departamentos internos (vacinação, hospitais, medicamentos) — todos órgãos sem vida jurídica própria."
+        }
+      ]
+    },
+    {
+      "titulo": "Descentralização vs. Concentração/Desconcentração (Aprofundamento)",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro Comparativo",
+          "tabela": {
+            "colunas": [
+              "Aspecto",
+              "Concentração",
+              "Desconcentração",
+              "Descentralização"
+            ],
+            "linhas": [
+              [
+                "Natureza",
+                "Centralização",
+                "Divisão interna",
+                "Transferência"
+              ],
+              [
+                "Personalidade jurídica",
+                "Uma só (ente)",
+                "Uma só (ente)",
+                "Nova pessoa jurídica"
+              ],
+              [
+                "Hierarquia",
+                "Sim (vertical)",
+                "Sim (vertical)",
+                "Não (tutela)"
+              ],
+              [
+                "Patrimônio",
+                "Do ente",
+                "Do ente",
+                "Próprio"
+              ],
+              [
+                "Autonomia",
+                "Nenhuma",
+                "Nenhuma",
+                "Administrativa e financeira"
+              ],
+              [
+                "Exemplo",
+                "Prefeitura centralizada",
+                "Secretarias municipais",
+                "Autarquia municipal"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concentração",
+          "texto": "É a forma mais simples de organização: o Estado centraliza todas as atividades em uma única estrutura. Não há divisão de competências ou criação de novas entidades. É a forma tradicional de gestão, hoje em desuso na prática, mas ainda presente em pequenos municípios."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Desconcentração",
+          "texto": "É a **divisão interna** da Administração Direta, criando órgãos subordinados à mesma pessoa jurídica. Mantém a **hierarquia** e a **subordinação**, mas distribui as funções em diferentes órgãos. Não cria nova personalidade jurídica.\n\n**Exemplo:** O Ministério da Saúde cria a Divisão de Vacinação, a Divisão de Hospitais e a Divisão de Medicamentos — todos são órgãos do mesmo Ministério, sem personalidade jurídica própria."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Descentralização",
+          "texto": "É a **transferência de competências** para uma nova pessoa jurídica (Administração Indireta). Pode ser por **outorga** (transferência de titularidade + execução, por lei) ou por **delegação** (apenas execução, por contrato). Não há hierarquia, apenas **tutela** ou **supervisão**.\n\n**Exemplo:** Criação da Autarquia de Águas e Saneamento (outorga) ou concessão de rodovia para empresa privada (delegação)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Bizu para Não Confundir",
+          "texto": "**Concentração** = tudo em um só lugar.  \n**Desconcentração** = divide, mas dentro do mesmo ente (hierarquia).  \
+**Descentralização** = divide e cria nova entidade (tutela, sem hierarquia)."
+        }
+      ]
+    },
+    {
+      "titulo": "Regime Jurídico das Empresas Públicas e SEM (Aprofundamento)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Formação de Capital",
+          "texto": "**Empresas Públicas (EP):** O capital é **100% público**, pertencendo integralmente ao ente estatal. A EP pode adotar qualquer forma jurídica (Sociedade Anônima, Limitada, etc.).\n\n**Sociedades de Economia Mista (SEM):** O capital é **misturado**, com a **maioria do Estado** (pelo menos 51% das ações com direito a voto). As ações do Estado podem ser de voto direto ou indireto, dependendo da forma jurídica.\n\n**Exemplos:**\n- **EP:** Caixa Econômica Federal (100% pública), Correios (100% pública).\n- **SEM:** Petrobras (64% pública), Banco do Brasil (50,3% pública)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Foro Processual",
+          "texto": "**Empresas Públicas Federais:** respondem perante a **Justiça Federal** (Art. 109, I, CF), pois são pessoas jurídicas de direito privado com personalidade própria.\n\n**Sociedades de Economia Mista Federais:** respondem perante a **Justiça Estadual** (Súmula 556 STF), salvo se a União intervier na causa como assistente ou opoente, caso em que atrai a Justiça Federal.\n\n**Exceção:** Se a EP ou SEM estiver exercendo **atividade de direito público** (ex: serviço público essencial), pode haver **conexão** com a ação judicial que atribui a competência à Justiça Federal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Imunidades Tributárias",
+          "texto": "**Empresas Públicas e SEM que exploram atividade econômica:** NÃO gozam de imunidade tributária (Art. 173, §2º, CF). Devem pagar impostos como empresas privadas, para não concorrer deslealmente com o setor privado.\n\n**Exceção:** Se a EP ou SEM presta **serviço público em regime de exclusividade** (ex: Correios, Caixa Econômica), o STF tem admitto que podem gozar de **imunidade recíproca**, mas a tendência jurisprudencial é **restringir** essa interpretação.\n\n**Importante:** A imunidade recíproca é **automática** para autarquias e fundações públicas de direito público, mas **não automática** para EP e SEM."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "EP × SEM — Diferenças Fundamentais",
+          "tabela": {
+            "colunas": [
+              "Aspecto",
+              "Empresa Pública",
+              "Sociedade de Economia Mista"
+            ],
+            "linhas": [
+              [
+                "Capital",
+                "100% público",
+                "Maioria pública (≥51%)"
+              ],
+              [
+                "Forma jurídica",
+                "Qualquer (geralmente SA)",
+                "Qualquer (geralmente SA)"
+              ],
+              [
+                "Foro",
+                "Justiça Federal",
+                "Justiça Estadual (Súmula 556 STF)"
+              ],
+              [
+                "Imunidade tributária",
+                "Não (se atividade econômica)",
+                "Não (se atividade econômica)"
+              ],
+              [
+                "Falência",
+                "Não (Art. 2º, I, Lei 11.101)",
+                "Não"
+              ],
+              [
+                "Exemplo",
+                "Caixa, Correios",
+                "Petrobras, Banco do Brasil"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Fundações Públicas (de Direito Público e Direito Privado)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Fundações de Direito Público",
+          "texto": "São criadas por **lei específica**, com personalidade jurídica de direito público, destinadas a atividades de interesse social (educação, pesquisa, cultura, assistência). Seguem o **regime de autarquia**, com licitação, concurso público e responsabilidade objetiva.\n\n**Características:**\n- Personalidade jurídica de direito público;\n- Patrimônio próprio;\n- Autonomia administrativa e financeira;\n- Imunidade tributária recíproca;\n- Regidas pela Lei 13.303/2016 (se EP/SEM) ou pelo Código Civil (se fundação comum).\n\n**Exemplos:** FUNAI (Fundação Nacional dos Povos Indígenas), Fiocruz (Fundação Oswaldo Cruz), CNPq (Fundação CNPq)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Fundações de Direito Privado",
+          "texto": "São criadas por **autorização legal e registro**, com personalidade jurídica de direito privado, mas atuam no **interesse público**. Possuem maior flexibilidade na gestão, mas estão submetidas a controle estatal.\n\n**Características:**\n- Personalidade jurídica de direito privado;\n- Patrimônio privado;\n- Autonomia administrativa e financeira;\n- Não gozam de imunidade tributária recíproca;\n- Regidas pelo Código Civil e pela lei de criação.\n\n**Exemplos:** Fundação Getúlio Vargas (FGV), Fundação Bradesco, Fundação Estudar."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Fundações Públicas × Privadas",
+          "tabela": {
+            "colunas": [
+              "Aspecto",
+              "Direito Público",
+              "Direito Privado"
+            ],
+            "linhas": [
+              [
+                "Criação",
+                "Lei específica",
+                "Autorização legal + registro"
+              ],
+              [
+                "Personalidade",
+                "Direito público",
+                "Direito privado"
+              ],
+              [
+                "Imunidade tributária",
+                "Sim (recíproca)",
+                "Não"
+              ],
+              [
+                "Regime de pessoal",
+                "Concurso público",
+                "CLT ou normas internas"
+              ],
+              [
+                "Controle",
+                "Tribunais de Contas",
+                "Junta comercial + controle estatal"
+              ],
+              [
+                "Exemplo",
+                "FUNAI, Fiocruz",
+                "FGV, Fundação Bradesco"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Autarquias Fundacionais",
+          "texto": "Algumas fundações públicas possuem características autárquicas, como a FUNAI (Fundação Nacional dos Povos Indígenas). São chamadas de **autarquias fundacionais** e seguem o regime jurídico de direito público, com todos os direitos e deveres das autarquias."
+        }
+      ]
+    },
+    {
+      "titulo": "Entidades da Administração Indireta – Quadro Completo",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Tabela Comparativa",
+          "tabela": {
+            "colunas": [
+              "Característica",
+              "Autarquia",
+              "Fundação Pública",
+              "Empresa Pública",
+              "S.E.M."
+            ],
+            "linhas": [
+              [
+                "Personalidade",
+                "Dir. Público",
+                "Públ. ou Priv.",
+                "Dir. Privado",
+                "Dir. Privado"
+              ],
+              [
+                "Criada por",
+                "Lei específica",
+                "Lei aut. + registro",
+                "Lei aut. + registro",
+                "Lei aut. + registro"
+              ],
+              [
+                "Capital",
+                "—",
+                "Público",
+                "100% público",
+                "Maioria pública (51%)"
+              ],
+              [
+                "Foro",
+                "Justiça Federal",
+                "JF (se pública)",
+                "Justiça Federal",
+                "Justiça Estadual (Súmula 556 STF)"
+              ],
+              [
+                "Falência",
+                "Não",
+                "Não",
+                "Não (art. 2º, I, Lei 11.101)",
+                "Não"
+              ],
+              [
+                "Concurso",
+                "Sim",
+                "Sim",
+                "Sim",
+                "Sim"
+              ],
+              [
+                "Imunidade Tributária",
+                "Sim (recíproca)",
+                "Sim (se pública)",
+                "Não (se explorar atividade econômica)",
+                "Não (se explorar atividade econômica)"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Detalhamento das Entidades",
+          "texto": "**Autarquias:** desempenho de atividades típicas de Estado (fiscalização, regulação, assistência social, seguridade, poder de polícia). Têm imunidade tributária recíproca e prerrogativas fazendárias (prazo em dobro para recorrer, prazos processuais diferenciados, execução fiscal própria). Ex.: IBAMA, INSS, ANVISA, ANATEL.\n\n**Fundações Públicas:** interesse social (educação, pesquisa). Podem ser de direito público (criadas por lei – ex: FUNAI) ou de direito privado (criadas por autorização legal e registro – ex: Fundação Getúlio Vargas – FGV, que é privada, mas atua no interesse público). As fundações públicas de direito público seguem regime de autarquia.\n\n**Empresas Públicas:** capital 100% público, qualquer forma jurídica. Ex.: Caixa, Correios.\n\n**Sociedades de Economia Mista:** capital misto, mas com maioria do Estado (51% ou mais). Ex.: Petrobras, Banco do Brasil."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Foro das SEM – Súmula 556 STF",
+          "texto": "**Súmula 556 do STF:** A Sociedade de Economia Mista Federal (ex: Banco do Brasil, Petrobras) responde perante a **Justiça Estadual** (diferente da Caixa Econômica, que é Empresa Pública Federal e vai para a Justiça Federal).\n\n**Exceção:** Se a União intervir na causa como assistente ou opoente, atrai a competência para a **Justiça Federal** (Art. 109, I da CF/88).\n\n**Atenção:** As Empresas Públicas Federais (Correios, Caixa) têm foro na Justiça Federal (Art. 109, I, CF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificações Especiais de Autarquias",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "1. Agências Reguladoras",
+          "texto": "Criadas para normatizar, controlar e fiscalizar a prestação de serviços públicos transferidos à iniciativa privada e setores da economia. Possuem autonomia especial: dirigentes com mandato fixo e estabilidade (não podem ser exonerados ad nutum). São autarquias em regime especial.\n\n**Exemplo ANATEL:** Regula telefonia e internet, aplica multas, define regras do setor.\n\n**Outros exemplos:** ANEEL (energia elétrica), ANVISA (vigilância sanitária), ANS (saúde suplementar), ANP (petróleo).\n\n**Características:** mandato dos dirigentes (geralmente 4 anos, com renovação parcial), autonomia financeira (arrecadam taxas de regulação), e poder normativo (editam resoluções com força de lei).\n\n**Lei base:** Lei nº 9.986/2000 (regime geral das agências)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "2. Autarquias Especiais Stricto Sensu",
+          "texto": "Possuem prerrogativas e características diferenciadas previstas em lei de criação.\n\n**Exemplo:** Banco Central do Brasil (BACEN) — goza de autonomia técnica, operacional e financeira, com dirigentes nomeados após sabatina e mandatos fixos. Não é subordinado hierarquicamente a nenhum ministério, embora vinculado ao Ministério da Economia para fins orçamentários.\n\n**Outro exemplo:** Comissão de Valores Mobiliários (CVM) – autarquia com poderes de fiscalização do mercado de capitais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "3. Agências Executivas",
+          "texto": "São autarquias ou fundações comuns que celebram um 'contrato de gestão' com o Ministério supervisor para melhorar eficiência e reduzir custos.\n\n**Contrato de gestão:** fixa metas de desempenho, autonomia gerencial e orçamentária em troca de resultados mensuráveis.\n\n**Exemplo:** Inmetro (autarquia qualificada como Agência Executiva).\n\n**Lei base:** Lei nº 9.649/1998 (qualificação de agências executivas)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "4. Autarquias Corporativas (ou Profissionais)",
+          "texto": "Entidades criadas para fiscalizar, orientar e disciplinar o exercício de profissões regulamentadas. São financiadas por anuidades pagas pelos profissionais, não pelo Tesouro. Exercem poder de polícia (aplicam multas, cassam registros).\n\n**Exemplos:** Conselhos Federais e Regionais de Medicina (CFM), de Engenharia (CONFEA/CREA). A OAB possui natureza ímpar (serviço público independente), mas se assemelha a essas autarquias.\n\n**Característica:** não possuem imunidade tributária recíproca (entendimento do STF), pois não são entes estatais, mas exercem função delegada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "5. Autarquias Geográficas (ou Territoriais)",
+          "texto": "Entes criados para administrar uma região ou território. Atualmente o Brasil não possui territórios criados, mas a figura jurídica permanece na estrutura administrativa.\n\n**Exemplo histórico:** O Território Federal de Fernando de Noronha (extinto em 1988) era uma autarquia geográfica — administrava a ilha sem autonomia política de estado-membro."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "6. Autarquias Fundacionais",
+          "texto": "Também chamadas de fundações públicas de direito público. Reúnem características autárquicas e fundacionais, criadas por lei específica para atividades estatais sem fins lucrativos (ensino, pesquisa, proteção). Diferentemente das fundações de direito privado, as autarquias fundacionais têm regime jurídico de direito público (licitação, concurso, responsabilidade objetiva).\n\n**Exemplo:** Fundação Nacional dos Povos Indígenas (FUNAI) – autarquia fundacional."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "7. Associações Públicas (Consórcios Públicos)",
+          "texto": "Autarquias de cooperação formadas especificamente para constituir consórcios públicos entre entes federativos (Lei 11.107/2005). Visam a gestão associada de serviços públicos. Personalidade jurídica de direito público (associação pública).\n\n**Exemplo:** Consórcio intermunicipal de saúde ou de aterro sanitário — vários municípios se reúnem em uma associação pública que adquire bens, contrata pessoal e executa o serviço.\n\n**Características:** o consórcio pode ser pessoa jurídica de direito público (associação pública) ou de direito privado (conforme o estatuto). A maioria adota a forma de associação pública para usufruir de prerrogativas públicas."
+        }
+      ]
+    },
+    {
+      "titulo": "Descentralização Administrativa",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Por Outorga (Legal)",
+          "texto": "Transfere Titularidade + Execução. Realizada apenas por LEI. Cria a Administração Indireta (autarquias, fundações).\n\n**Exemplo:** Criação do INSS por lei — ele é o 'dono' do serviço previdenciário."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Por Delegação (Negocial)",
+          "texto": "Transfere apenas a Execução. Por Contrato ou Ato administrativo. Caráter precário (revogável).\n\n**Exemplo:** Concessão de pedágios ou linhas de ônibus para empresas privadas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Descentralização Territorial (Geográfica)",
+          "texto": "Ocorre quando o Estado cria uma entidade jurídica com capacidade administrativa genérica para integrar um determinado território. Exemplo histórico: a criação de um Território Federal (hoje extintos, mas a figura permanece)."
+        }
+      ]
+    },
+    {
+      "titulo": "Órgãos Públicos – Teoria e Classificação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Órgãos Públicos",
+          "texto": "NÃO possuem personalidade jurídica própria. São apenas 'centros de competência' dentro de uma pessoa jurídica. Resultado da Desconcentração (divisão interna). Não possuem patrimônio próprio (pertence ao Ente).\n\n**Exemplo:** A Secretaria de Segurança Pública de um Estado é órgão da Administração Direta; não pode ser processada sozinha (processa-se o Estado). Não tem CNPJ próprio nem conta bancária independente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Teoria da Imputação Voluntária (Orgânica)",
+          "texto": "Como o ato do agente é atribuído ao Estado se o órgão não tem personalidade? A doutrina brasileira adota a **teoria da imputação voluntária** (ou orgânica, de Otto Gierke): a vontade do agente público é imputada (atribuída) diretamente à pessoa jurídica a qual ele pertence. O agente é a 'mão' do Estado.\n\n**Outras teorias (rejeitadas):**\n- **Mandato:** o agente seria mandatário do Estado – se extrapolasse o mandato, o Estado não responderia (inaceitável).\n- **Representação:** o agente seria representante do Estado – mas a representação pressupõe separação de vontades, o que não ocorre na Administração Pública."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação dos Órgãos (Hely Lopes Meirelles)",
+          "texto": "**A) Quanto à Posição Estatal (Hierarquia):**\n• **Independentes:** origem constitucional, topo da pirâmide, sem subordinação. Ex: Presidência da República, Congresso Nacional, STF, Tribunais de Contas.\n• **Autônomos:** cúpula administrativa, ampla autonomia. Ex: Ministérios, Secretarias de Estado, Advocacia-Geral da União.\n• **Superiores:** direção, controle e comando, subordinados a uma chefia. Ex: Procuradorias, Coordenadorias.\n• **Subordinados:** execução, vínculo direto com chefia. Ex: Seções, Serviços, Setores.\n\n**B) Quanto à Estrutura:**\n• **Simples:** um único centro de decisão.\n• **Compostos:** vários órgãos subordinados a um principal.\n\n**C) Quanto à Função:**\n• **Ativos:** realizam as funções típicas de Estado.\n• **Consultivos:** emitem pareceres e opiniões.\n• **Controladores:** fiscalizam e controlam.\n• **Decisórios:** decidem litígios ou questões administrativas."
+        }
+      ]
+    },
+    {
+      "titulo": "Regras Especiais para Empresas Públicas e SEM",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Motivação da Demissão (Tema 1022 STF)",
+          "texto": "Os empregados de Empresas Públicas e Sociedades de Economia Mista são regidos pela CLT e NÃO possuem a estabilidade do Art. 41 da CF. Porém, o STF (Tema 1022) consolidou que a demissão de empregados aprovados por concurso público **exige motivação formal** (fundamento legítimo), não podendo ser arbitrária ou imotivada.\n\n**Fundamento:** o princípio da impessoalidade e da moralidade impede despedidas sem motivo.\n\n**Alcance:** aplica-se a todas as EP e SEM que realizam concurso público, independentemente da atividade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei das Estatais (Lei nº 13.303/2016)",
+          "texto": "Dispõe sobre o estatuto jurídico da Empresa Pública e da Sociedade de Economia Mista.\n\n• **Licitações:** as estatais seguem regramento próprio previsto nessa lei, com prazo de até 5 anos para sua adaptação à Lei 14.133/2021 (art. 191, II). Enquanto isso, aplica-se a Lei 13.303/2016, que estabelece modalidades como concorrência, pregão, leilão, etc.\n\n• **Governança:** exige regras de transparência, compliance e prestação de contas.\n\n• **Dirigentes:** proíbe a nomeação de dirigentes com cargos em partidos políticos ou sindicatos (para evitar loteamento político).\n\n• **Conselho de Administração e Fiscal:** composição com regras específicas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Imunidade Tributária Recíproca",
+          "texto": "**Autarquias e Fundações Públicas:** gozam de imunidade tributária recíproca automática (não pagam Imposto sobre Patrimônio, Renda e Serviços – Art. 150, VI, 'a' e § 2º da CF).\n\n**Empresas Públicas e SEM:**\n• **Exploradoras de atividade econômica** (ex: Banco do Brasil, Petrobras) – NÃO têm imunidade (Art. 173, § 2º da CF). Pagam impostos para não concorrer deslealmente com empresas privadas.\n• **Prestadoras de serviço público exclusivo e sem fins lucrativos** (ex: Correios, Caixa Econômica, quando atuam no serviço público) – o STF tem decidido que, se prestarem serviço público em regime de exclusividade, podem gozar de imunidade recíproca, mas a tendência é restringir essa interpretação.\n\n**Atenção:** A imunidade recíproca não se aplica a EP/SEM que explorem atividade econômica em sentido estrito."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Consórcios Públicos – Lei 11.107/2005",
+          "texto": "Os consórcios públicos são associações de entes federativos para a gestão associada de serviços públicos. Podem ser formados por União, Estados, DF e Municípios.\n\n**Pessoalidade:** o consórcio pode assumir personalidade jurídica de direito público (associação pública) ou de direito privado. A associação pública é uma autarquia especial, com regime de direito público, imune tributariamente, com concurso público, etc.\n\n**Regime de pessoal:** se a associação pública assumir serviços, seus empregados podem ser celetistas (regidos pela CLT), mas a orientação do STF é que, para atividades típicas de Estado, pode-se exigir concurso público.\n\n**Exemplo:** Consórcio de Saúde do Vale do Rio Verde – vários municípios se unem para gerir um hospital regional."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/07.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

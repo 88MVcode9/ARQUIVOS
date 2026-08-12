@@ -1,0 +1,192 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Lei nº 14.751/2023 — Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares",
+  "icone": "📜",
+  "descricao": "Estabelece normas gerais para a organização, funcionamento e atuação das Polícias Militares (PMs) e Corpos de Bombeiros Militares (CBMs) em todo o Brasil. Uniformiza princípios, competências, direitos, deveres, carreira, hierarquia, disciplina e uso da força. As corporações integram o Sistema Único de Segurança Pública (SUSP) e devem atuar com respeito aos direitos humanos e à legalidade.",
+  "topicos": [
+    {
+      "titulo": "Finalidade e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Lei 14.751/2023",
+          "texto": "A Lei Orgânica Nacional das PMs e CBMs estabelece normas gerais para a organização, funcionamento e efetivo das Polícias Militares e Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios. Seu objetivo é uniformizar princípios, competências, direitos e deveres, sem retirar a autonomia dos Estados, que continuam responsáveis pela organização interna de suas corporações, respeitando as normas gerais da União."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Aplicação prática",
+          "texto": "A PMAL (Polícia Militar de Alagoas) deve seguir a estrutura definida em lei estadual, mas sempre observando os parâmetros mínimos estabelecidos pela Lei 14.751/2023, como hierarquia, direitos e uso da força."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípios Institucionais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios constitucionais e específicos",
+          "texto": "As instituições militares estaduais obedecem aos princípios constitucionais da Administração Pública (legalidade, impessoalidade, moralidade, publicidade e eficiência) e aos princípios específicos da atividade policial:",
+          "itens": [
+            "Hierarquia e disciplina;",
+            "Proteção dos direitos humanos e dignidade da pessoa humana;",
+            "Uso proporcional da força e preservação da vida;",
+            "Transparência e controle externo."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direitos humanos e disciplina",
+          "texto": "A disciplina militar não autoriza violações aos direitos humanos. O militar estadual tem o dever de agir com lealdade às instituições democráticas e respeitar os direitos e garantias fundamentais previstos na Constituição Federal."
+        }
+      ]
+    },
+    {
+      "titulo": "Missão Constitucional e Competências",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "PM x CBM — Missões",
+          "tabela": {
+            "colunas": ["Corporação", "Missão", "Exemplos"],
+            "linhas": [
+              ["Polícia Militar", "Polícia ostensiva e preservação da ordem pública.", "Patrulhamento, policiamento escolar, rural, eventos, trânsito (estadual), ambiental, choque, montada, inteligência policial."],
+              ["Corpo de Bombeiros Militar", "Proteção civil, prevenção e combate a incêndios, busca e salvamento, defesa civil, atendimento pré-hospitalar (quando previsto) e em catástrofes.", "Combate a incêndios, resgate, salvamento, defesa civil."]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Atenção para prova!",
+          "texto": "Bancas costumam trocar as competências entre PM e Bombeiros. Memorize:\n- **PM** = polícia ostensiva, preservação da ordem pública (inclui trânsito, ambiental, escolar, choque, inteligência).\n- **CBM** = incêndio, salvamento, defesa civil (NÃO realiza policiamento ostensivo nem investigação)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Investigação criminal — vedação",
+          "texto": "A investigação criminal **NÃO é competência da Polícia Militar**. Essa função pertence às Polícias Judiciárias (Polícia Civil e Polícia Federal). A PM poderá preservar o local do crime e prender em flagrante, mas a investigação é realizada pela Polícia Civil ou Federal."
+        }
+      ]
+    },
+    {
+      "titulo": "Hierarquia e Disciplina",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Hierarquia",
+          "texto": "A hierarquia constitui a base institucional das corporações militares. Ela organiza a autoridade entre os militares, com base nos critérios de:\n- Posto (oficiais);\n- Graduação (praças);\n- Antiguidade;\n- Precedência funcional."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Disciplina",
+          "texto": "A disciplina corresponde à observância rigorosa das leis, regulamentos, normas e ordens legais das autoridades competentes. Garante coesão, eficiência, ordem interna e credibilidade institucional, sem eliminar os direitos fundamentais dos militares."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Gatilho mental",
+          "texto": "📌 **Hierarquia** = organização da autoridade.\n📌 **Disciplina** = cumprimento das normas."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos e Deveres dos Militares Estaduais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos garantidos",
+          "texto": "Os militares estaduais têm direito a:\n- Remuneração e assistência à saúde;\n- Equipamentos adequados e capacitação permanente;\n- Previdência e promoção;\n- Proteção jurídica e condições dignas de trabalho;\n- Assistência psicossocial.\n\nOs direitos podem sofrer limitações apenas por lei, quando indispensáveis à atividade militar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Deveres fundamentais",
+          "texto": "São deveres do militar estadual:\n- Servir à sociedade e ao Estado;\n- Ser leal às instituições e agir com probidade;\n- Cumprir ordens legais;\n- Proteger a vida e o patrimônio;\n- Respeitar os direitos humanos;\n- Atuar com eficiência, urbanidade e respeito;\n- Preservar a imagem institucional."
+        }
+      ]
+    },
+    {
+      "titulo": "Uso da Força",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios do uso da força",
+          "texto": "O emprego da força deve obedecer aos princípios de:\n- **Necessidade** (só quando indispensável);\n- **Legalidade** (com amparo legal);\n- **Proporcionalidade** (nível adequado à ameaça);\n- **Moderação** (o mínimo necessário);\n- **Responsabilidade** (prestação de contas).\n\nDeve também observar a proteção da vida, prestação de socorro, redução de danos e accountability."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Uso progressivo da força",
+          "texto": "O uso da força é excepcional, deve ser progressivo e utilizar apenas o nível necessário para controlar a situação. Uso da força não significa uso obrigatório de arma de fogo — a arma é apenas um dos instrumentos disponíveis."
+        }
+      ]
+    },
+    {
+      "titulo": "Carreira e Ingresso",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Etapas da carreira",
+          "texto": "A carreira militar compreende:\n1. Ingresso por concurso público (provas ou provas e títulos);\n2. Formação;\n3. Estágio probatório;\n4. Promoções (por antiguidade, merecimento, ato de bravura ou invalidez);\n5. Aperfeiçoamento e especializações;\n6. Altos estudos;\n7. Reserva remunerada e reforma."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ingresso na PMAL",
+          "texto": "O ingresso na PMAL exige aprovação em concurso público e cumprimento dos requisitos previstos na legislação federal e na lei específica do ente federativo (ex.: idade, altura, escolaridade, aptidão física e mental, idoneidade moral)."
+        }
+      ]
+    },
+    {
+      "titulo": "Inatividade e Direitos Políticos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Reserva remunerada e reforma",
+          "texto": "A inatividade (reserva ou reforma) ocorre por idade limite (70 ou 72 anos), tempo de serviço ou invalidez. A lei estadual define os critérios específicos, observadas as normas gerais da União."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Candidatura política",
+          "texto": "O militar estadual da ativa é inelegível (art. 14, § 7º, CF). Para se candidatar, deve ser **agregado** (se contar menos de 10 anos de serviço) ou transferido para a **reserva** (se contar 10 anos ou mais). A filiação partidária é proibida na ativa."
+        }
+      ]
+    },
+    {
+      "titulo": "Competência Normativa (União x Estados)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Normas gerais x organização interna",
+          "texto": "A União, por meio da Lei 14.751/2023, dita as **normas gerais** (princípios, competências, direitos, deveres, uso da força). Cada Estado, por lei de iniciativa privativa do Governador, dispõe sobre a **organização básica, efetivos, inativação, remuneração e garantias** dos seus militares."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle e Vedações",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle da atividade",
+          "texto": "A atividade das corporações está sujeita a:\n- Controle interno (corregedorias);\n- Controle externo (Ministério Público, Tribunais de Contas);\n- Controle judicial (Poder Judiciário)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Condutas vedadas",
+          "texto": "São proibidas:\n- Abuso de autoridade;\n- Discriminação;\n- Tortura;\n- Violência desnecessária;\n- Tratamento degradante;\n- Uso desproporcional da força.\n\nO descumprimento gera responsabilização administrativa, civil e penal."
+        }
+      ]
+    },
+    {
+      "titulo": "Integração ao SUSP",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Sistema Único de Segurança Pública",
+          "texto": "A lei menciona a articulação das PMs e CBMs com o Sistema Único de Segurança Pública (SUSP), devendo as corporações participar do planejamento integrado de segurança e da execução de políticas públicas de segurança, respeitando as diretrizes nacionais."
+            },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.png"
+        }
+      ]
+    }
+      ]
+    }
+;

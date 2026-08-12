@@ -1,0 +1,249 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['11.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Controle da Administração Pública",
+  "icone": "🔍",
+  "descricao": "Conjunto de mecanismos para verificar a legalidade, eficiência e legitimidade dos atos administrativos. Classificações, controle administrativo (autotutela), judicial, legislativo, social e recursos administrativos, com jurisprudência e atualizações da Lei 9.784/99.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Fundamento",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Controle da Administração",
+          "texto": "Conjunto de mecanismos para verificar a **legalidade, eficiência e legitimidade** dos atos administrativos. Objetiva evitar arbitrariedades e garantir a observância do interesse público.\n\n**Fundamentos constitucionais:**\n• Arts. 70–75 CF – controle externo (Tribunal de Contas).\n• Art. 37 CF – princípios administrativos (LIMPE).\n• Art. 5º, XXXIV CF – direito de petição (qualquer cidadão pode solicitar informações e reclamar).\n• Art. 5º, LXXIII CF – ação popular."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação do Controle",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Quadro de Classificações",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Modalidades"
+            ],
+            "linhas": [
+              [
+                "Quanto ao órgão",
+                "Interno (mesmo poder) e Externo (outro poder)"
+              ],
+              [
+                "Quanto ao momento",
+                "Prévio, Concomitante, Posterior"
+              ],
+              [
+                "Quanto ao aspecto",
+                "Legalidade e Mérito (discricionariedade)"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle de Legalidade x Controle de Mérito",
+          "texto": "**Controle de Legalidade:** verifica se o ato está em conformidade com a lei. Pode ser exercido pela Administração, Judiciário, Legislativo e Tribunal de Contas.\n\n**Controle de Mérito:** avalia a conveniência e oportunidade do ato. Exclusivo da própria administração (autotutela) — e do Legislativo em casos específicos (sustação de atos, art. 49, V, CF).\n\n**Atenção:** O Judiciário NUNCA exerce controle de mérito (não pode revogar ato por inoportunidade), apenas controle de legalidade e, eventualmente, de razoabilidade/proporcionalidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Momentos de Controle",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Preventivo (Prévio)",
+          "texto": "Ocorre antes da prática do ato — impede a prática do ato ilegal ou inadequado.\n\n**Exemplos:** parecer jurídico prévio; veto do TCU a edital; análise de legalidade antes da assinatura do contrato."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Concomitante",
+          "texto": "Ocorre durante a execução — acompanha o ato em tempo real.\n\n**Exemplos:** auditoria durante obra pública; fiscalização em canteiro de obras; acompanhamento de licitação pela comissão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Repressivo (Posterior)",
+          "texto": "Ocorre depois da prática do ato — corrige o ato já praticado.\n\n**Exemplos:** ação judicial para anular ato ilegal; anulação pela própria Administração; sustação de contrato pelo TCU após irregularidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Administrativo — Autotutela",
+      "cards": [
+        {
+          "tipo": "legislacao",
+          "titulo": "Súmula 473 STF",
+          "texto": "\"A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.\""
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Anulação",
+          "texto": "Retira ato **ilegal**. Efeitos retroativos (*ex tunc*). Pode ser feita pela Administração ou pelo Judiciário.\n\n**Prazo decadencial (Art. 54 da Lei 9.784/99):** 5 anos para a Administração anular seus próprios atos, contados da data em que foram praticados (salvo comprovada má-fé do beneficiário, quando não há prazo).\n\n**Atenção:** Atos flagrantemente inconstitucionais (ex: provimento derivado de cargo sem concurso) não se sujeitam ao prazo decadencial, pois a nulidade é absoluta e pode ser reconhecida a qualquer tempo (STF)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Revogação",
+          "texto": "Retira ato **válido por mérito** (inoportuno ou inconveniente). Efeitos não retroativos (*ex nunc*). Apenas a Administração pode revogar (o Judiciário NUNCA revoga).\n\n**Exemplo:** Prefeito cancela festa por previsão de chuva. O ato era legal, mas tornou-se inconveniente. Juiz não interfere."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Retificação",
+          "texto": "Corrige **erro material** sem alterar o conteúdo central do ato. Ex: corrige nome grafado errado, data equivocada, cálculos aritméticos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Convalidação (ou Saneamento)",
+          "texto": "Correção de vício sanável do ato, mantendo seus efeitos. Ex: falta de motivação que pode ser suprida posteriormente; competência delegada que pode ser ratificada. Requer que o vício não seja insanável (ex: objeto ilícito) e que não haja prejuízo a terceiros.\n\n**Base legal:** Art. 55 da Lei 9.784/99."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dica de Ouro – o \"R\" e o \"A\"",
+          "texto": "Lembre-se da regra do \"R\" e do \"A\":\n\n**Revogação** = **R**eprefeitura (só a Administração faz) e efeito ex **N**unc (**N**unca retroage).\n\n**Anulação** = **A**paga tudo (efeito ex **T**unc, retroage)."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Judicial — Limites e Abrangência",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Só Legalidade — Nunca Mérito",
+          "texto": "**Inafastabilidade (Art. 5º, XXXV):** O Judiciário sempre pode apreciar lesão ou ameaça a direito. Ninguém pode ser privado de direito sem a devida apreciação judicial.\n\n**Caráter Repressivo:** Geralmente exercido após a prática do ato administrativo.\n\n**Vedação ao Mérito:** O juiz **não pode revogar** atos, apenas **anular** se houver ilegalidade.\n\n**Abuso de Poder:** Pode controlar a razoabilidade. Se for desproporcional, anula-se por ilegalidade.\n\n**Súmula 346 STF:** \"A administração pública pode declarar a nulidade dos seus próprios atos, mas a apreciação judicial da validade dos atos administrativos não está sujeita à prévia provocação da administração.\" (Ou seja, o Judiciário pode ser provocado diretamente, sem esgotar a via administrativa.)"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle de Atos Discricionários",
+          "texto": "O Judiciário pode controlar atos discricionários nos seguintes aspectos:\n- **Motivação:** verifica se os motivos declarados são verdadeiros e pertinentes (Teoria dos Motivos Determinantes).\n- **Razoabilidade e Proporcionalidade:** se o ato é desarrazoado, desproporcional ou excessivo, pode ser anulado.\n- **Finalidade:** se houve desvio de finalidade (ex: usar poder de polícia para perseguir inimigo).\n\n**Exemplo:** Uma multa de trânsito no valor máximo para um pedestre que atravessou fora da faixa pode ser anulada por desproporcionalidade, se a lei prevê gradação de penalidades."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "**Anulação:** Nomeação de parente (nepotismo). É ilegal. Juiz anula com efeito ex tunc.\n\n**Nunca revoga:** O juiz não pode cancelar uma festa da prefeitura por achar que vai chover (mérito), mas pode anular se houver desvio de finalidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Instrumentos de Controle Judicial",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Principais instrumentos",
+          "itens": [
+            "**Mandado de Segurança** — ato ilegal ou abusivo de autoridade pública (direito líquido e certo).",
+            "**Ação Popular** — qualquer cidadão pode impugnar ato lesivo ao patrimônio público (art. 5º, LXXIII, CF).",
+            "**Ação Civil Pública** — MP e legitimados impugnam lesão a interesses difusos/coletivos.",
+            "**Mandado de Injunção** — omissão legislativa que impede exercício de direito constitucional.",
+            "**Habeas Corpus** — liberdade de locomoção ameaçada por ato de poder público.",
+            "**Habeas Data** — acesso a informações pessoais em bancos de dados públicos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Legislativo e Tribunal de Contas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Controle Legislativo",
+          "texto": "Fiscalização da administração pública exercida pelo Poder Legislativo. Possui marcada índole política — abrange legalidade, eficiência e conveniência. Alcança a atuação administrativa em todos os Poderes.\n\n**Base:** Arts. 49, 52, 70 e 71 da CF/88."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competências do Congresso Nacional (Art. 49)",
+          "itens": [
+            "**Art. 49, X:** Fiscalizar e controlar os atos do Executivo, incluídos os da administração indireta.",
+            "**Art. 49, V:** Sustar atos normativos do Executivo que exorbitem do poder regulamentar ou limites da delegação legislativa.",
+            "**Art. 49, IX:** Julgar anualmente as contas do Presidente da República.",
+            "**Art. 49, XII:** Autorizar operações externas de natureza financeira.",
+            "**Art. 49, XVI:** Aprovar pedido de intervenção federal em Estado ou no DF.",
+            "**Art. 49, XVII:** Autorizar referendo e aprovar celebração de tratados internacionais."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competências Exclusivas do Senado Federal (Art. 52)",
+          "itens": [
+            "**Art. 52, I:** Processar e julgar Presidente/Vice e Ministros nos crimes de responsabilidade.",
+            "**Art. 52, III:** Aprovar por voto secreto, após arguição pública: magistrados dos tribunais superiores, ministros do TCU, Governadores de Território, presidente e diretores do Banco Central, PGR.",
+            "**Art. 52, IV:** Aprovar por voto secreto, em sessão secreta: chefes de missão diplomática permanente.",
+            "**Art. 52, XI:** Aprovar por maioria absoluta e voto secreto a exoneração de ofício do PGR antes do término do mandato."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fiscalização Contábil, Financeira e Orçamentária (Arts. 70-75)",
+          "texto": "O controle externo do Legislativo sobre a administração pública é exercido com o auxílio do Tribunal de Contas (Art. 71). Abrange:\n- **Legalidade, legitimidade, economicidade** dos atos.\n- **Aplicação das subvenções e renúncias de receita.**\n- **Prestação de contas** de qualquer pessoa física ou jurídica que utilize, arrecade, guarde, gerencie ou administre dinheiros públicos.\n- **Tomada de contas especial** – quando houver dano ao erário, o gestor é obrigado a prestar contas sob pena de responsabilidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "TCU — Tribunal de Contas da União",
+          "texto": "Auxilia o Congresso no controle externo — comprova a probidade da administração e regularidade dos gastos públicos (Arts. 70–71 CF).\n\n**Art. 71, X:** Pode sustar diretamente a execução de atos administrativos, dando ciência à Câmara e ao Senado.\n\n**Para contratos:** a sustação cabe ao Congresso Nacional (não diretamente ao TCU).\n\nSe Congresso ou Executivo inerte em **90 dias** → TCU adquire competência para decidir diretamente.\n\n**Competências principais (Art. 71):**\n- Julgar as contas dos administradores e demais responsáveis (Art. 71, II).\n- Realizar inspeções e auditorias (Art. 71, IV).\n- Aplicar sanções (multas, inabilitação para cargos públicos)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Regra de ouro do TCU",
+          "texto": "**TCU susta atos administrativos diretamente** | **Para contratos = Congresso Nacional** | **Inércia de 90 dias = TCU decide.**"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "TCU Julga ou Pareceia? — Pegadinha Clássica!",
+          "texto": "**Contas do Chefe do Executivo (Presidente, Governador, Prefeito):** O Tribunal de Contas **NÃO julga**. Ele apenas emite um **Parecer Prévio** (opinativo). Quem julga é o Poder Legislativo (Congresso, Assembleia, Câmara de Vereadores).\n\n**Contas dos demais administradores/gestores públicos:** Aqui sim, o Tribunal de Contas **JULGA diretamente** (Art. 71, II da CF/88)."
+        },
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "Julgamento de Contas de Prefeitos (Tema 835 STF)",
+          "texto": "**O Tribunal de Contas nunca julga as contas do Prefeito**, seja ele gestor/ordenador de despesas ou agente político.\n\nA competência para julgar as contas de prefeito é **exclusiva da Câmara Municipal**, atuando o Tribunal de Contas apenas como órgão opinativo.\n\nPara rejeitar o parecer prévio do Tribunal de Contas, a Câmara precisa de **2/3 dos votos**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tribunais de Contas Estaduais e Municipais",
+          "texto": "Os Estados, o DF e os Municípios (estes, facultativamente, mediante lei) podem ter seus próprios Tribunais de Contas, com competências análogas às do TCU, limitadas à sua esfera de atuação.\n\n**Exemplos:** TCE/SP (Tribunal de Contas do Estado de São Paulo), TCM/RJ (Tribunal de Contas do Município do Rio de Janeiro).\n\n**Regra:** Os TCs estaduais julgam as contas dos prefeitos? Não, conforme Tema 835 do STF, o julgamento das contas de prefeito é da Câmara Municipal; o TC estadual emite parecer prévio. Para os demais gestores municipais (secretários, diretores), o TC estadual julga diretamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Social e Recursos Administrativos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Social",
+          "texto": "Mecanismos de participação popular na fiscalização da Administração:\n\n**Ouvidorias Públicas** — canal direto entre cidadão e Administração (Lei 13.460/2017).\n\n**Conselhos Gestores de Políticas Públicas** — participação da sociedade civil na formulação e fiscalização.\n\n**Lei de Acesso à Informação (Lei 12.527/2011)** — qualquer cidadão pode solicitar informações públicas.\n\n**Audiências e Consultas Públicas** — participação popular em decisões administrativas, especialmente em licitações e planos diretores.\n\n**Orçamento Participativo** — a população decide sobre parte do orçamento público."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Recursos Administrativos",
+          "texto": "Meios de impugnação de decisões administrativas, permitindo o reexame do ato pela própria Administração. Regulados pela Lei nº 9.784/99 (Processo Administrativo Federal)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipos de Recursos (Lei 9.784/99)",
+          "itens": [
+            "**Recurso Administrativo (Art. 59):** Prazo de **10 dias** para interpor, a contar da ciência/notificação. Efeito suspensivo (interrompe prazo de decadência). A autoridade tem **30 dias** para decidir (prorrogável por igual período).",
+            "**Pedido de Reconsideração (Art. 56, §1º):** Dirigido à própria autoridade que proferiu a decisão. Prazo: **5 dias** para reconsideração; se não reconsiderar, deve encaminhar ao superior como recurso.",
+            "**Recurso Hierárquico Próprio:** Dirigido à autoridade superior dentro do mesmo órgão/entidade (existe relação de subordinação).",
+            "**Recurso Hierárquico Impróprio:** Dirigido a autoridade de outra pessoa jurídica sem subordinação, mas com supervisão/tutela (ex: recurso de decisão de autarquia para o Ministério supervisor). Exige previsão legal expressa.",
+            "**Recurso Obrigatório (de Ofício):** Exigido por lei quando há interesse público — submetido automaticamente à autoridade superior. Ex.: decisões contrárias à jurisprudência dominante ou que envolvam o interesse público na preservação da legalidade."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Prazos dos Recursos (Lei 9.784/99)",
+          "texto": "**Recurso Administrativo:** 10 dias para interpor.\n**Decisão da autoridade:** 30 dias (prorrogável por +30).\n**Pedido de Reconsideração:** 5 dias para a autoridade se manifestar.\n\n**Atenção:** As bancas adoram cobrar a Lei 9.784/99, não os prazos genéricos de 15 ou 30 dias!"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Decadência do Direito de Recorrer",
+          "texto": "O prazo para interposição de recurso administrativo é de 10 dias (Art. 59, Lei 9.784/99). Se o prazo for perdido, o ato se torna **definitivo na esfera administrativa**, mas o Judiciário ainda pode ser acionado (princípio da inafastabilidade). A decadência administrativa não impede o controle judicial."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/11.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

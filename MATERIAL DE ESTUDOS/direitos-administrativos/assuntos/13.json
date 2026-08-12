@@ -1,0 +1,160 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['13.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Processo Administrativo Federal (Lei 9.784/99)",
+  "icone": "📋",
+  "descricao": "Princípios do processo administrativo federal (contraditório, ampla defesa, verdade material, oficialidade, informalismo), causas de impedimento e suspeição de autoridades, e estrutura geral do processo.",
+  "topicos": [
+    {
+      "titulo": "Princípios do Processo Administrativo Federal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Contraditório",
+          "texto": "Todo interessado deve ter o direito de se manifestar e apresentar defesa antes que a Administração progrida à decisão. Nenhum ato pode ser proferido sem ouvir a parte contrária, garantindo o direito de defesa. É princípio constitucional (Art. 5º, LV, CF) e regulado pela Lei 9.784/99."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Ampla Defesa",
+          "texto": "O interessado deve ter a oportunidade de apresentar sua defesa completa, incluindo a produção de provas, a apresentação de documentos e a sustentação oral. A ampla defesa é parte integrante do devido processo legal e garante a isonomia entre as partes."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Verdade Material",
+          "texto": "O processo administrativo deve buscar a verdade material, ou seja, o reconhecimento dos fatos reais, independentemente de formalidades. A Administração deve investigar todos os aspectos relevantes do caso, mesmo que não sejam levantados pelo interessado. Dá ao processo um caráter informativo e investigativo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Oficialidade",
+          "texto": "O processo administrativo deve ser conduzido por meio de atos oficiais, com a devida formalização em documento. Todos os atos processuais devem ser registrados em processo físico ou eletrônico, com assinatura ou reconhecimento eletrônico. Garante a publicidade e a transparência do processo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Informalismo",
+          "texto": "Apesar do princípio da oficialidade, o processo administrativo admite certa flexibilidade na condução dos procedimentos, evitando excessos formais que possam dificultar a tramitação. O informalismo permite a utilização de meios eletrônicos, audiências virtuais e outras formas modernas de gestão processual."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Mnemônico dos Princípios",
+          "texto": "**C**ontraditório · **A**mpla Defesa · **V**erdade Material · **O**ficialidade · **I**nformalismo → **CAV OI**  \n**Bizu:** Contraditório e ampla defesa são **constitucionais** (Art. 5º, LV e LVI, CF). Verdade material, oficialidade e informalismo são **infraconstitucionais** (Lei 9.784/99)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrutura do Processo Administrativo Federal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fases do Processo",
+          "itens": [
+            "**1. Autuação:** Abertura do processo administrativo com os autos iniciais.",
+            "**2. Instrução:** Coleta de provas, documentos e informações relevantes.",
+            "**3. Despacho de fls:** Análise do conteúdo do processo pelo responsável.",
+            "**4. Decisão:** Proferimento do ato final (homologação, indeferimento, etc.).",
+            "**5. Recursos:** Possibilidade de impugnar a decisão administrativa."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Documentos Fundamentais",
+          "itens": [
+            "**Petição inicial:** Requerimento do interessado.",
+            "**Auto de infração:** Notificação da infração.",
+            "**Defesa:** Manifestação do interessado.",
+            "**Relatório:** Análise do gestor.",
+            "**Decisão:** Ato final da autoridade."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Impedimento de Autoridades",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Impedimento?",
+          "texto": "É a suspensão do exercício de função por uma autoridade, por motivo legal, que impede a atuação naquele caso específico. O impedimento é **relativo ao caso** e **temporário**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de Impedimento (Art. 39 da Lei 9.784/99)",
+          "itens": [
+            "**Parentesco:** Grau de parentesco até o 4º grau com o interessado.",
+            "**Interesse:** A autoridade tem interesse direto ou indireto no resultado do processo.",
+            "**Relação de emprego:** A autoridade é empregadora ou empregado do interessado.",
+            "**Adjudicação:** A autoridade participou ativamente do fato que deu origem ao processo.",
+            "**Anterioridade:** A autoridade já decidiu sobre o mesmo caso ou fato jurídico.",
+            "**Inimizade:** A autoridade tem relação de inimizade com o interessado."
+          ]
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Consequências do Impedimento",
+          "texto": "O ato praticado por autoridade impedida é **nulo de pleno direito**. A autoridade impedida deve **abster-se de julgar** e **não pode proferir ato algum** no processo. O caso deve ser remetido a outra autoridade competente."
+        }
+      ]
+    },
+    {
+      "titulo": "Suspeita de Autoridades",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Suspeita?",
+          "texto": "É a suspensão do exercício de função por uma autoridade, por motivo que gere **dúvida sobre a imparcialidade** do magistrado ou agente. A suspeita é **subjetiva** e depende da percepção do interessado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de Suspeita (Art. 40 da Lei 9.784/99)",
+          "itens": [
+            "**Vício de personalidade:** A autoridade tem características que comprometem a imparcialidade (ex: preconceito, parcialidade).",
+            "**Relação de parentesco:** Parentesco até o 2º grau com o interessado.",
+            "**Interesse:** A autoridade tem interesse no resultado, ainda que indireto.",
+            "**Atividade prejudicial:** A autoridade atuou de forma a prejuízo do interessado.",
+            "**Declaração preconceituosa:** A autoridade fez declarações que demonstram parcialidade.",
+            "**Relação de emprego:** A autoridade tem relação de emprego com o interessado."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Manifestação de Suspeita",
+          "texto": "O interessado pode manifestar a suspeita mediante **requerimento fundamentado**, apresentando os motivos que justificam a suspeita. A autoridade suspeita deve **abster-se de julgar** e **não pode proferir ato algum** no processo. O órgão competente decide sobre a suspeita."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Diferença Crucial",
+          "texto": "**Impedimento** = causa objetiva e legal (parentesco, interesse). **Suspeita** = causa subjetiva (dúvida sobre imparcialidade).  \n**Impedimento** é mais grave e absolve o caso. **Suspeita** depende da percepção do interessado."
+        }
+      ]
+    },
+    {
+      "titulo": "Recursos no Processo Administrativo Federal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Recurso Administrativo (Art. 59)",
+          "texto": "Prazo de **10 dias** para interpor, a contar da ciência/notificação. Efeito suspensivo (interrompe prazo de decadência). A autoridade tem **30 dias** para decidir (prorrogável por igual período)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pedido de Reconsideração (Art. 56, §1º)",
+          "texto": "Dirigido à própria autoridade que proferiu a decisão. Prazo: **5 dias** para reconsideração; se não reconsiderar, deve encaminhar ao superior como recurso."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Recurso Hierárquico",
+          "itens": [
+            "**Próprio:** Dirigido à autoridade superior dentro do mesmo órgão/entidade (existe relação de subordinação).",
+            "**Impróprio:** Dirigido a autoridade de outra pessoa jurídica sem subordinação, mas com supervisão/tutela (ex: recurso de decisão de autarquia para o Ministério supervisor). Exige previsão legal expressa.",
+            "**Obrigatório (de Ofício):** Exigido por lei quando há interesse público — submetido automaticamente à autoridade superior."
+          ]
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/13.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

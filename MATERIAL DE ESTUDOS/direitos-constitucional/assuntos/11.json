@@ -1,0 +1,157 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['11.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Defesa do Estado e das Instituições Democráticas",
+  "icone": "🛡️",
+  "descricao": "Análise completa dos mecanismos de defesa do Estado e das instituições democráticas (Título V da CF/88), abrangendo Estado de Defesa (Art. 136), Estado de Sítio (Arts. 137-139), Segurança Pública (Art. 144 – incluindo Polícia Penal e Guardas Municipais), Forças Armadas (Art. 142), controle político pelo Congresso (Arts. 140-141), vedações constitucionais dos militares, competência do Júri para crimes contra civis, com exemplos práticos, mnemônicos, jurisprudência do STF e pegadinhas das bancas.",
+  "data": "2026-07-27",
+  "revisao": "2.0",
+  "topicos": [
+    {
+      "titulo": "Visão Geral da Defesa do Estado e das Instituições Democráticas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Instrumentos de Defesa",
+          "texto": "O Estado brasileiro possui mecanismos constitucionais para se defender contra ameaças à ordem constitucional e às instituições democráticas.\n\n**Instrumentos de Defesa (Título V da CF):**\n- **Estado de Defesa (Art. 136)** – crise local e temporária.\n- **Estado de Sítio (Arts. 137-139)** – crise nacional ou guerra.\n- **Forças Armadas (Art. 142)** – defesa externa e garantia dos poderes constitucionais.\n- **Intervenção Federal (Arts. 34-36)** – para preservar a integridade nacional ou garantir a ordem.\n\n**Controle político:** O Congresso Nacional exerce fiscalização durante os estados de exceção (Arts. 140-141)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estado de Defesa — Art. 136",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Requisitos",
+          "texto": "**Estado de Defesa:** medida menos grave que o Estado de Sítio. Decretado pelo Presidente da República após ouvir o Conselho da República e o Conselho de Defesa Nacional.\n\n**Quando pode ser decretado:**\n- Para preservar ou restabelecer, em **local restrito e determinado**:\n  - A ordem pública;\n  - A paz social;\n  - Ameaçadas por grave e iminente instabilidade institucional;\n  - Ou atingidas por calamidades naturais.\n\n**Características:**\n- Vigência: até **30 dias**, prorrogável uma única vez por igual período (até 60 dias no total).\n- Comunicação imediata ao Congresso Nacional em até **24 horas** após a decretação.\n- O Congresso deve se reunir em até **5 dias** para apreciar o decreto (se estiver em recesso, é convocado extraordinariamente)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Restrições Possíveis no Estado de Defesa",
+          "texto": "Durante o Estado de Defesa, o Presidente pode determinar:\n\n- **Restrição a direitos de reunião** (proibir ou limitar assembleias).\n- **Restrição ao sigilo de correspondência** (interceptação postal).\n- **Restrição ao sigilo de comunicação telegráfica e telefônica** (interceptação telefônica).\n- **Ocupação e uso temporário de bens** (requisição de imóveis, veículos, etc.).\n\n⚠️ **Pegadinha:** A banca diz que o Estado de Defesa permite a suspensão da liberdade de imprensa – **ERRADO**. Essa restrição só é possível no Estado de Sítio.\n\n⚠️ **Pegadinha:** A banca diz que o Estado de Defesa pode ser decretado por 60 dias diretamente – **ERRADO**. São 30+30, com prorrogação."
+        }
+      ]
+    },
+    {
+      "titulo": "Estado de Sítio — Arts. 137 a 139",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Requisitos",
+          "texto": "**Estado de Sítio:** medida mais grave que o Estado de Defesa. Decretado pelo Presidente da República **com autorização do Congresso Nacional**.\n\n**Quando pode ser decretado:**\n- **Comoção grave de repercussão nacional** (ex: revoltas generalizadas) – prazo máximo: **30 dias**, prorrogável por igual período.\n- **Guerra externa (ou sua iminência)** (ex: invasão estrangeira) – **vigência por todo o período da guerra**, sem prazo fixo.\n\n**Características:**\n- Pode ser **estadual ou nacional**.\n- **Exige autorização do Congresso Nacional** (diferente do Estado de Defesa, que não exige – apenas comunicação).\n- O Congresso deve ser convocado em até **5 dias** se estiver em recesso.\n- Após a decretação, o Presidente especifica as medidas e as áreas abrangidas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Restrições Possíveis no Estado de Sítio",
+          "texto": "Além das restrições do Estado de Defesa, o Estado de Sítio permite:\n\n- **Obrigação de permanência em local designado** (recolhimento domiciliar).\n- **Detenção em edifício não destinado a acusados por crimes comuns** (locais específicos).\n- **Restrição à liberdade de imprensa** (censura prévia).\n- **Suspensão da liberdade de reunião** (proibição de assembleias).\n- **Busca e apreensão domiciliar** sem mandado.\n- **Intervenção em empresas e serviços públicos** (requisição).\n- **Restrição ao sigilo de correspondência, telefone e telegrafia** (ampliada)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vedações Durante o Estado de Sítio — Art. 139",
+          "texto": "Art. 139: 'Durante o estado de sítio, não se suspende a apresentação de habeas corpus; a autoridade só pode deter pessoas em locais não destinados a presos comuns; é vedada a incomunicabilidade do preso.'\n\n**Vedações absolutas:**\n- **Não se suspende o habeas corpus** (Art. 139, I).\n- **A detenção só pode ocorrer em locais adequados** (não em presídios comuns, salvo exceção) – Art. 139, II.\n- **É vedada a incomunicabilidade do preso** (Art. 139, III).\n\n⚠️ **Pegadinha:** A banca diz que no Estado de Sítio pode haver incomunicabilidade do preso – **ERRADO**, é vedado constitucionalmente."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Político e Funcionamento do Congresso — Arts. 140 e 141",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Funcionamento do Congresso nos Estados de Exceção",
+          "texto": "**Convocação extraordinária (Art. 136, §2º):**\n- Se o Congresso Nacional estiver em recesso, será convocado extraordinariamente em até **5 dias** para apreciar o Estado de Defesa ou o Estado de Sítio.\n\n**Funcionamento ininterrupto (Art. 140):**\n- A Mesa do Congresso Nacional continuará em **funcionamento ininterrupto** durante a vigência do Estado de Defesa ou de Sítio para acompanhar e fiscalizar a aplicação das medidas (**controle político**).\n\n**Relatório após o fim (Art. 141):**\n- O Presidente da República apresentará ao Congresso **relatório detalhado** sobre as medidas tomadas, com exposição e justificação dos atos, no prazo de **15 dias** após o término do estado de exceção."
+        }
+      ]
+    },
+    {
+      "titulo": "Intervenção Federal — Arts. 34 a 36",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Requisitos",
+          "texto": "**Intervenção Federal:** medida excepcional em que a União intervém nos Estados ou no DF para preservar a integridade nacional ou garantir a ordem constitucional.\n\n**Hipóteses (Art. 34):**\n- Manter a integridade nacional.\n- Repelir invasão estrangeira ou de uma unidade da Federação em outra.\n- Pôr termo a grave comprometimento da ordem pública.\n- Garantir o livre exercício de qualquer dos Poderes nas unidades da Federação.\n- Reorganizar as finanças da unidade que suspender o pagamento da dívida fundada por mais de dois anos (salvo motivo de força maior).\n- Prover a execução de lei federal, ordem ou decisão judicial.\n- Assegurar a observância dos princípios constitucionais (ex: autonomia municipal, prestação de contas, etc.).\n\n**Decreto de intervenção:**\n- Expedido pelo Presidente da República.\n- **Depende de autorização do Congresso Nacional** (exceto se houver guerra ou comoção grave, quando a intervenção pode ser decretada de ofício, sem autorização).\n- Deve especificar a amplitude, o prazo e as condições de execução.\n\n⚠️ **Pegadinha:** A banca diz que a intervenção federal sempre depende de autorização do Congresso – **ERRADO**. Em caso de guerra ou comoção grave, pode ser decretada de ofício."
+        }
+      ]
+    },
+    {
+      "titulo": "Segurança Pública — Art. 144",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Órgãos de Segurança Pública",
+          "texto": "**Segurança Pública:** dever do Estado, direito e responsabilidade de todos. Exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.\n\n**Órgãos de Segurança Pública (Art. 144):**\n- **Polícia Federal** – investigar crimes federais, controlar fronteira, polícia marítima e aeroportuária.\n- **Polícia Rodoviária Federal** – patrulhamento das rodovias federais.\n- **Polícia Ferroviária Federal** – patrulhamento do sistema ferroviário federal.\n- **Polícias Civis** – polícia judiciária dos Estados e DF.\n- **Polícias Militares** – polícia ostensiva e preservação da ordem pública.\n- **Corpos de Bombeiros Militares** – defesa civil, prevenção e combate a incêndios.\n- **Polícia Penal (EC 104/2019)** – segurança dos estabelecimentos penais.\n- **Guardas Municipais** – proteção de bens, serviços e instalações municipais.\n\n🧠 **Mnemônico:** 'PF-PRF-PFF-PC-PM-CBM-PP-GM' – a ordem do Art. 144."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Polícia Federal — Destaques",
+          "texto": "**Polícia Federal (Art. 144, §1º):**\n- Chefiada por Delegado de Polícia de Carreira.\n- Função de polícia judiciária da União.\n- Investiga crimes de competência da Justiça Federal.\n- Compete: apurar infrações penais contra a ordem política, social ou patrimônio da União, além de crimes interestaduais ou internacionais.\n\n⚠️ **Pegadinha:** A banca diz que a Polícia Federal é chefiada por um militar. **ERRADO.** A chefia é de Delegado de Polícia de Carreira."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Polícia Civil x Polícia Militar — Diferenças",
+          "texto": "| **Polícia CIVIL** | **Polícia MILITAR** |\n|-------------------|---------------------|\n| Função: polícia judiciária | Função: polícia ostensiva |\n| Investiga crimes | Patrulha as ruas |\n| Inquérito policial | Prevenção e repressão |\n| Chefia: Delegado | Chefia: Oficial |\n| Força auxiliar do Ministério Público | Força auxiliar do Exército |\n\n⚠️ **Pegadinha:** A banca diz que a Polícia Militar investiga crimes. **ERRADO.** Ela faz polícia ostensiva (patrulhamento), não investigação. A investigação é da Polícia Civil."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Polícia Penal e Guardas Municipais — Atualizações",
+          "texto": "**Polícia Penal (EC 104/2019 – Art. 144, §5º-A):**\n- Responsável pela segurança dos estabelecimentos penais (presídios).\n- Vinculação: a Polícia Penal Federal é vinculada ao órgão administrador do sistema penal da União; as estaduais/distrital, ao órgão do respectivo ente.\n- Os policiais penais são integrantes do sistema de segurança pública.\n\n**Guardas Municipais (Art. 144, §8º):**\n- Destinadas à proteção de bens, serviços e instalações dos Municípios.\n- **STF (ADPF 995):** as Guardas Municipais integram o Sistema Único de Segurança Pública (SUSP) e podem exercer poder de polícia, inclusive com porte de arma, desde que capacitadas e com regulamentação específica.\n- Não podem, contudo, investigar crimes (função típica da Polícia Civil).\n\n**Agentes de trânsito:**\n- Não estão listados no Art. 144, mas exercem atividade de segurança pública (art. 23, V e Lei 9.503/97 – CTB).\n\n⚠️ **Pegadinha:** A banca diz que as Guardas Municipais não integram o sistema de segurança pública – **ERRADO** (integram o SUSP, segundo o STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Forças Armadas — Art. 142",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Ramos das Forças Armadas",
+          "texto": "**Forças Armadas:** instituições nacionais permanentes e regulares, organizadas com base na hierarquia e disciplina.\n\n**Ramos das Forças Armadas:**\n- **Marinha** – defesa do território marítimo e fluvial.\n- **Exército** – defesa do território terrestre.\n- **Aeronáutica** – defesa do espaço aéreo.\n\n**Finalidades (Art. 142, caput):**\n- Defesa da Pátria.\n- Garantia dos poderes constitucionais.\n- Defesa da lei e da ordem (por iniciativa de qualquer dos Poderes).\n\n📖 **Para Leigos:** As Forças Armadas são como o \"exército\" do país, que protege o Brasil contra inimigos externos e, em situações extremas, pode ajudar a manter a ordem interna (GLO – Garantia da Lei e da Ordem)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Comando e Garantia da Lei e da Ordem (GLO)",
+          "texto": "**Comando:**\n- O **Presidente da República** é o Comandante Supremo das Forças Armadas (Art. 84, XIII).\n- Compete ao Presidente nomear o Comandante de cada ramo (Marinha, Exército, Aeronáutica).\n\n**Garantia da Lei e da Ordem (Art. 142, caput):**\n- As Forças Armadas podem atuar na garantia da lei e da ordem mediante:\n  - **Iniciativa de qualquer dos Poderes** (Legislativo, Executivo ou Judiciário).\n  - **Regulamentação por lei complementar** (Lei Complementar nº 97/1999, alterada pela LC 117/2004).\n\n**STF (ADPF 372):** O STF entende que a atuação das Forças Armadas na GLO deve ser excepcional, subsidiária e temporária, respeitando os direitos fundamentais. A GLO não substitui a segurança pública regular.\n\n⚠️ **Pegadinha:** A banca diz que as Forças Armadas só atuam na GLO por iniciativa do Executivo – **ERRADO**. Qualquer dos Poderes pode solicitar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vedações Constitucionais dos Militares — Art. 142, §3º",
+          "texto": "**Art. 142, §3º:** vedações aplicáveis aos militares:\n\n- **Proibição de greve** – militar não pode fazer greve (vedação constitucional direta, inclusive para policiais militares).\n- **Proibição de sindicalização** – militar não pode se sindicalizar.\n- **Proibição de filiação partidária** – militar em serviço ativo não pode estar filiado a partidos políticos.\n- **Elegibilidade:**\n  - Menos de 10 anos de serviço: deve afastar-se definitivamente para concorrer.\n  - Mais de 10 anos de serviço: se eleito, deve ser transferido para a reserva.\n- **Cargos públicos:** pode ocupar cargo público civil (ex: ministro, secretário), mas com regime jurídico específico.\n\n⚠️ **Pegadinha:** A banca diz que militar pode se filiar a partido político – **ERRADO** – é vedado a militar em serviço ativo.\n\n⚠️ **Pegadinha:** A banca diz que militar pode fazer greve – **ERRADO** – vedação absoluta."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prerrogativas e Justiça Militar",
+          "texto": "**Prerrogativas dos Militares:**\n- Sujeitos a legislação específica (Código Penal Militar, Código Processual Penal Militar).\n- Crimes militares julgados pela **Justiça Militar**.\n\n**Justiça Militar (Art. 125, §3º e Art. 142):**\n- A justiça militar compete processar e julgar os crimes militares definidos em lei.\n- **Justiça Militar da União:** julga crimes militares das Forças Armadas.\n- **Justiça Militar Estadual:** julga crimes militares das Polícias Militares e Corpos de Bombeiros.\n\n**Competência do Júri (Art. 5º, XXXVIII):**\n- O Júri julga crimes dolosos contra a vida de civis (homicídio, infanticídio, aborto, etc.), inclusive quando cometidos por militares contra civis.\n- Se um militar matar um civil dolosamente, o crime será julgado pelo **Tribunal do Júri**, não pela Justiça Militar (competência constitucional).\n\n⚠️ **Pegadinha:** A banca diz que todo crime cometido por militar é julgado pela Justiça Militar – **ERRADO**. Crimes contra a vida de civis são julgados pelo Júri."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'DEFESA'** – Defesa (Forças Armadas), Estado de Defesa, Federal (Intervenção), Estado de Sítio, Segurança Pública, Art. 142.\n- **'MEA'** – Marinha, Exército, Aeronáutica.\n- **'PF-PRF-PFF-PC-PM-CBM-PP-GM'** – Polícia Federal, Rodoviária, Ferroviária, Civil, Militar, Corpo de Bombeiros, Polícia Penal, Guardas Municipais.\n- **Estado de Defesa:** 30 dias + 30 (prorrogação), local restrito, comunicação ao Congresso em 24h.\n- **Estado de Sítio:** 30+30 (comoção) ou duração da guerra (guerra), autorização do Congresso.\n- **Vedações no Estado de Sítio:** HC não suspenso, locais adequados, incomunicabilidade vedada.\n- **Intervenção Federal:** decreto presidencial, autorização do Congresso (exceto guerra/comoção).\n- **Forças Armadas:** GLO – iniciativa de qualquer Poder, excepcional e subsidiária.\n- **Vedações militares:** greve, sindicalização, filiação partidária; elegibilidade com regras."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas (Atualizadas)",
+          "texto": "❌ 'Estado de Defesa pode ser decretado por 60 dias diretamente.' → **ERRADO** (30 + 30).\n❌ 'Estado de Sítio por guerra tem o mesmo prazo de 30+30 dias.' → **ERRADO** (dura enquanto durar a guerra).\n❌ 'Estado de Sítio pode ser decretado sem autorização do Congresso.' → **ERRADO** (exige autorização).\n❌ 'No Estado de Sítio pode haver incomunicabilidade do preso.' → **ERRADO** (vedada).\n❌ 'O habeas corpus pode ser suspenso no Estado de Sítio.' → **ERRADO** (vedação constitucional).\n❌ 'A intervenção federal sempre depende de autorização do Congresso.' → **ERRADO** (há exceção para guerra/comoção).\n❌ 'As Forças Armadas só atuam na GLO por iniciativa do Executivo.' → **ERRADO** (qualquer Poder pode solicitar).\n❌ 'Polícia Militar investiga crimes.' → **ERRADO** (investiga a Civil).\n❌ 'Militar pode se filiar a partido político.' → **ERRADO** (vedado em serviço ativo).\n❌ 'Todo crime de militar é julgado pela Justiça Militar.' → **ERRADO** (crimes contra a vida de civis vão ao Júri).\n❌ 'Guardas Municipais não integram o sistema de segurança pública.' → **ERRADO** (integram o SUSP, segundo o STF)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Estado de Defesa (Art. 136): crise local, 30+30 dias, comunicação ao Congresso em 24h, restrições específicas.\n✅ Estado de Sítio (Art. 137-139): crise nacional (30+30) ou guerra (duração da guerra), autorização do Congresso.\n✅ Vedações no Estado de Sítio: habeas corpus não é suspenso, detenção adequada, incomunicabilidade vedada.\n✅ Controle político: Congresso convocado em 5 dias se em recesso; funciona ininterruptamente; relatório após o fim.\n✅ Segurança Pública (Art. 144): PF, PRF, PFF, PC, PM, CBM, PP (EC 104/2019), GM (STF – SUSP).\n✅ Forças Armadas (Art. 142): Marinha, Exército, Aeronáutica; GLO com iniciativa de qualquer Poder, excepcional e subsidiária.\n✅ Vedações militares: greve, sindicalização, filiação partidária; elegibilidade com regras (10 anos).\n✅ Competência do Júri: crimes dolosos contra a vida de civis, inclusive se praticados por militares.\n✅ Intervenção Federal: decreto presidencial, autorização do Congresso (exceto guerra/comoção)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático – Competência do Júri",
+          "texto": "Um militar da ativa, durante uma discussão de trânsito, saca sua arma e mata um civil. Esse crime é doloso contra a vida de um civil. Apesar de o autor ser militar, a competência é do **Tribunal do Júri** (Art. 5º, XXXVIII). A Justiça Militar não julgará esse crime, pois a vítima é civil. Se a vítima fosse outro militar, aí sim a competência seria da Justiça Militar (crime militar próprio)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/11.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

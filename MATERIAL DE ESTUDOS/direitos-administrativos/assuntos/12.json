@@ -1,0 +1,281 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['12.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Responsabilidade Civil do Estado",
+  "icone": "⚖️",
+  "descricao": "Responsabilidade civil do Estado: evolução histórica, teorias, alcance, responsabilidade objetiva e subjetiva, excludentes, casos especiais (atos judiciais, legislativos, omissão), empresas estatais, prazos, ação regressiva, e jurisprudência atualizada (STF/STJ).",
+  "topicos": [
+    {
+      "titulo": "Fundamento Constitucional",
+      "cards": [
+        {
+          "tipo": "legislacao",
+          "titulo": "Art. 37, § 6º da CF/88",
+          "texto": "\"As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\"\n\nEste é o dispositivo central que consagra a **responsabilidade objetiva** do Estado no Brasil, com base na teoria do risco administrativo.\n\n**Interpretação:** O Estado responde independentemente de culpa do agente, bastando a comprovação do nexo causal entre a conduta estatal e o dano. O agente só responde na ação regressiva, se houver dolo ou culpa."
+        }
+      ]
+    },
+    {
+      "titulo": "Evolução Histórica das Teorias de Responsabilidade",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Evolução das Teorias",
+          "tabela": {
+            "colunas": [
+              "Teoria",
+              "Regra Geral",
+              "Observação"
+            ],
+            "linhas": [
+              [
+                "Irresponsabilidade",
+                "Estado não responde",
+                "Monarquia absolutista (superada)"
+              ],
+              [
+                "Civilista",
+                "Responde como particular (culpa do agente)",
+                "CC/1916, art. 15 – responsabilidade subjetiva"
+              ],
+              [
+                "Falha do Serviço",
+                "Responde se o serviço falhou (culpa anônima)",
+                "França – séc. XX; subjetiva"
+              ],
+              [
+                "Risco Administrativo",
+                "Responde por atos lícitos e ilícitos (com excludentes)",
+                "Adotada no Brasil – art. 37, §6º CF"
+              ],
+              [
+                "Risco Integral",
+                "Responde sempre, sem excludentes",
+                "Exceções: danos nucleares, ambientais e terrorismo em aeronaves"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Alcance da Responsabilidade – Quem Responde?",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pessoas Jurídicas de Direito Público",
+          "texto": "Administração Direta (União, Estados, DF, Municípios), Autarquias e Fundações Públicas de direito público. Respondem objetivamente com base no art. 37, §6º."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pessoas Jurídicas de Direito Privado Prestadoras de Serviço Público",
+          "texto": "Empresas Públicas e Sociedades de Economia Mista que prestam **serviço público** (ex.: Correios, EBC). Respondem objetivamente.\n\n**Delegatárias:** Concessionárias, Permissionárias e Autorizadas – responsabilidade **primária** da empresa e **subsidiária** do Estado (após exaurimento do patrimônio da delegatária)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "NÃO inclui: Empresas Estatais que exploram atividade econômica",
+          "texto": "Empresas Públicas e SEM que exploram **atividade econômica** (ex.: Petrobras no mercado, Banco do Brasil) – seguem regime de direito civil: **responsabilidade subjetiva** (art. 927 CC), baseada em culpa do agente.\n\n**Exceção:** Se a atividade econômica for exercida em regime de serviço público (ex: Correios, que tem monopólio), aplica-se a responsabilidade objetiva."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Poder Judiciário e Legislativo – Regras Especiais",
+          "texto": "**Atos do Poder Judiciário (Jurisdicionais):**\n• Regra: Estado NÃO responde por decisões judiciais (soberania dos julgados), salvo exceções.\n• Exceções (responde objetivamente): erro judiciário penal (Art. 5º, LXXV CF); prisão além do tempo fixado; dolo/fraude do magistrado (Art. 143 CPC); demora irrazoável (STJ).\n\n**Atos do Poder Legislativo (Leis):**\n• Regra: Estado NÃO responde por leis gerais e abstratas, pois são atos normativos.\n• Exceções: leis declaradas inconstitucionais no controle concreto (caso a caso); leis de efeitos concretos (ex: ato administrativo disfarçado de lei); leis que causem dano a um grupo determinado e específico, com quebra da isonomia.\n\n**Controle de Constitucionalidade:** A declaração de inconstitucionalidade não gera, por si só, direito a indenização, salvo se a lei tiver efeitos concretos e causar dano direto e imediato a um indivíduo ou grupo determinado."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Objetiva (Ação)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito",
+          "texto": "Independe da comprovação de **dolo ou culpa** do agente público. Basta comprovar:\n\n1. **Conduta** estatal (comissiva – ação ou omissão quando há dever legal).\n2. **Dano** (material ou moral).\n3. **Nexo causal** direto entre a conduta e o dano.\n\nTécnica de socialização de danos – teoria do **risco administrativo**. Abrange danos a usuários e terceiros não usuários.\n\n**Agente:** pode ser servidor, estagiário, voluntário – qualquer um que atue 'nessa qualidade'."
+        },
+        {
+          "tipo": "formula",
+          "titulo": "Fórmula da Responsabilidade",
+          "texto": "**Conduta Estatal (Oficial) + Dano (Certo e Causal) + Nexo Causal = Dever de Indenizar (Objetivo)**"
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Subjetiva (Omissão)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Aplicação em caso de omissão",
+          "texto": "Em regra, a omissão do Estado exige a comprovação de **culpa** – negligência, imprudência, imperícia – ou **falta do serviço** (culpa anônima).\n\n**Formas de falta do serviço:** inexistência do serviço, mau funcionamento ou atraso na prestação.\n\n**Súmula 647 STF:** \"A responsabilidade do Estado por atos de seus agentes é objetiva, inclusive nos casos de omissão, quando o dever de agir decorra de obrigação legal.\" – exceção: dever de custódia (presos, alunos, internados)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Omissão Genérica × Omissão Específica",
+          "texto": "**Omissão Genérica (Subjetiva – Faute du Service):**\n• Descumprimento de dever geral de fiscalização/segurança.\n• Exige prova do elemento culpa – vítima deve provar que o serviço não funcionou, funcionou mal ou atrasou.\n• Exemplo: assalto na via pública por falta de policiamento geral.\n\n**Omissão Específica (Objetiva – Dever de Custódia/Garante):**\n• Dever legal e específico de proteger bem ou pessoa sob custódia direta.\n• Não exige prova de culpa – o simples descumprimento do dever de vigilância já gera responsabilidade.\n• Exemplo: fuga de preso, morte de detento, aluno ferido em escola pública, paciente em hospital público."
+        }
+      ]
+    },
+    {
+      "titulo": "Causas Excludentes e Atenuantes de Responsabilidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Caso Fortuito e Força Maior",
+          "texto": "Evento imprevisível e inevitável, alheio à Administração. Rompem o nexo causal. Se a omissão estatal agravou o dano, responde parcialmente.\n\n**Exemplo:** Uma árvore cai sobre um carro em uma via pública – se a árvore estava doente e a prefeitura foi notificada, responde; se a queda foi por um vendaval atípico (força maior), não responde."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Culpa Exclusiva da Vítima",
+          "texto": "O dano foi causado unicamente pela própria vítima – exclui a responsabilidade do Estado.\n\n**Exemplo:** Pedestre atravessa a rua fora da faixa e é atropelado por viatura policial em velocidade normal – se o atropelamento foi inevitável, a culpa é exclusiva da vítima."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Culpa Exclusiva de Terceiro",
+          "texto": "O dano é causado unicamente por terceiro, sem participação estatal – exclui a responsabilidade.\n\n**Exemplo:** Um assalto em repartição pública por bandido armado – se o Estado não tinha dever específico de vigilância armada, não responde (omissão genérica)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Culpa Concorrente",
+          "texto": "Não exclui, mas atenua a responsabilidade – reduz o valor da indenização proporcionalmente à participação de cada um.\n\n**Exemplo:** Vítima contribui para o acidente (ex: motorista em alta velocidade colide com buraco na via) – a indenização é reduzida."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade por Omissão – Casos Especiais (Jurisprudência)",
+      "cards": [
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "RE 841526 (Tema 362 – STF)",
+          "texto": "Morte de detento gera **responsabilidade objetiva** do Estado por omissão, quando descumprido o dever de proteção (art. 5º, XLIX CF). O Estado tem o dever de custódia e proteção dos presos.\n\n**Atenção:** O STF exige a comprovação de que o Estado tinha conhecimento do risco e não agiu, mas a responsabilidade é objetiva – basta a omissão no dever de custódia."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Suicídio de Detento (STF – Tema 362)",
+          "texto": "A responsabilidade objetiva por omissão só subsiste se o Estado tinha conhecimento prévio da situação de risco (ex: detento com transtorno mental grave, alerta de ameaças) e não adotou medidas de prevenção. Se o suicídio for imprevisível, a responsabilidade pode ser afastada por quebra do nexo causal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Preso Foragido",
+          "texto": "Não há responsabilidade objetiva automática – exige **nexo causal** entre a fuga e o dano posterior. O Estado só responde se a fuga decorreu de omissão culposa e o dano for consequência direta dessa omissão.\n\n**Exemplo:** Preso foge e mata alguém – o Estado responde se a fuga foi facilitada por falha na vigilância (porta destrancada, falta de guarda). Se a fuga foi por um motim imprevisível, a responsabilidade pode ser afastada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fogos de Artifício",
+          "texto": "Dano por comércio irregular de fogos → responsabilidade se houver violação do **dever específico de fiscalização** do Poder Público. Sem fiscalização, responde."
+        },
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "Danos Ambientais – Risco Integral (STJ)",
+          "texto": "STJ aplica a teoria do **risco integral** – Estado responde mesmo sem excludentes (REsp 1.071.741/SP). Em danos ambientais, a responsabilidade é objetiva e não admite excludentes (caso fortuito, força maior, culpa de terceiro).\n\n**Exemplo:** Vazamento de óleo em rio – o Estado responde mesmo que o dano tenha sido causado por terceiro, se tinha dever de fiscalizar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atos de Multidão e Terrorismo",
+          "texto": "**Atos de multidão (distúrbios civis):** O Estado responde se houver omissão específica no dever de garantir a ordem pública (ex: não conter uma multidão que depreda patrimônio).\n\n**Atos terroristas (lei 13.260/2016):** Em regra, o Estado não responde por atos terroristas, pois são imprevisíveis e alheios à sua vontade. Mas se o Estado tinha dever de proteção específico (ex: segurança de aeroportos) e falhou, pode responder."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade das Empresas Estatais",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Regime de Responsabilidade",
+          "tabela": {
+            "colunas": [
+              "Empresa",
+              "Atividade",
+              "Regime"
+            ],
+            "linhas": [
+              [
+                "Correios, EBC",
+                "Serviço público",
+                "Objetiva (art. 37, §6º CF)"
+              ],
+              [
+                "Petrobras, Banco do Brasil",
+                "Atividade econômica",
+                "Subjetiva (art. 927 CC – risco empresarial)"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atenção – Correios",
+          "texto": "Os Correios (ECT) são empresa pública prestadora de serviço público (monopólio postal) – respondem objetivamente por danos causados por seus agentes. Isso inclui extravio de correspondência com valor declarado, danos a encomendas, etc."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Subsidiária (Delegatárias) e Cartórios",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessionárias e Permissionárias",
+          "texto": "O Estado responde **subsidiariamente** por danos causados por concessionárias e permissionárias. Só responde após o **exaurimento do patrimônio** da empresa delegatária (falência/insolvência).\n\n**Razão:** as delegatárias prestam serviço em seu nome, por sua conta e risco.\n\n**Exemplo:** Um usuário sofre dano em acidente em rodovia concedida. Primeiro aciona a concessionária; se ela não tiver bens suficientes, aciona o Estado subsidiariamente."
+        },
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "Cartórios – Tema 779 STF",
+          "texto": "**O Estado responde direta e objetivamente** pelos danos que tabeliães e oficiais de registro (cartórios) causarem a terceiros no exercício de suas funções.\n\nO Estado tem direito de regresso contra o notário/registrador, exigindo-se a comprovação de **dolo ou culpa** (responsabilidade subjetiva na ação regressiva).\n\n**Fundamento:** os serviços notariais e registrais são delegados pelo Poder Público e integram a estrutura do Estado.\n\n**Exemplo:** Um tabelião registra uma escritura fraudada – o Estado indeniza a vítima e depois regride contra o tabelião se ele agiu com dolo/culpa."
+        }
+      ]
+    },
+    {
+      "titulo": "Reparação de Danos e Prazo Prescricional",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Acordo Administrativo",
+          "texto": "Reconhecido o dano, a indenização pode ser feita administrativamente, sem necessidade de ação judicial.\n\n**Base legal:** Art. 37, §6º CF e Lei 9.784/99 – a Administração pode reconhecer o direito e pagar a indenização diretamente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação Judicial",
+          "texto": "Deve ser proposta contra a Administração (STF – **Tema 940**): vedada ação direta contra o agente. O particular lesado deve acionar apenas o Estado, que depois poderá regredir contra o servidor."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo prescricional da vítima",
+          "texto": "5 anos contados do fato danoso – base: Decreto 20.910/32, art. 1º, e Lei 9.494/97, art. 1º, §6º.\n\n**Atenção:** O prazo é para ações contra a Fazenda Pública, incluindo Estados, DF e Municípios."
+        }
+      ]
+    },
+    {
+      "titulo": "Ação Regressiva e Imprescritibilidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direito de Regresso",
+          "texto": "O Estado tem direito de regresso contra o agente quando houve **dolo ou culpa** – art. 37, §6º, parte final CF.\n\n**Condição:** responsabilidade subjetiva do agente – o Estado responde objetivamente perante a vítima, depois busca o agente para reaver o valor.\n\n**Prazo prescricional da ação regressiva:** 5 anos (Decreto 20.910/32 – maioria jurisprudencial)."
+        },
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "Tema 897 STF – Imprescritibilidade",
+          "texto": "**Distinção essencial:**\n• Danos de ilícito civil comum (culpa/negligência) → ação regressiva prescreve em 5 anos.\n• Danos decorrentes de **ato de improbidade administrativa dolosa** → ação de ressarcimento ao erário é **IMPRESCRITÍVEL** (Art. 37, §5º CF e Tema 897 STF).\n\n**Exemplo:** Se um servidor desvia dinheiro público, o Estado pode acioná-lo a qualquer tempo para reaver o valor, sem prazo prescricional."
+        }
+      ]
+    },
+    {
+      "titulo": "Teoria da Dupla Garantia (Tema 940 STF)",
+      "cards": [
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "Tema 940 STF",
+          "texto": "O particular lesado não pode acionar o servidor diretamente; a ação deve ser apenas contra o Estado, que depois poderá regredir.\n\n**Fundamento:** dupla garantia – para a vítima (ação direta contra o Estado) e para o agente (só responde na ação regressiva, após comprovada sua culpa).\n\n**Exceção:** se o agente agiu com dolo (ato doloso), a vítima pode acioná-lo diretamente (responsabilidade civil extracontratual com base no art. 186 CC), pois o ato doloso não se confunde com o exercício regular da função."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático",
+          "texto": "Um motorista de ônibus municipal, por negligência, atropela um pedestre. O Estado (município) indeniza a vítima. Depois, o município pode regredir contra o motorista se provar que ele agiu com culpa (imprudência). O motorista só pagará se ficar comprovada sua culpa.\n\nSe o motorista atropelou de propósito (dolo), a vítima pode acionar diretamente o motorista na Justiça, além de acionar o Estado."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/12.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

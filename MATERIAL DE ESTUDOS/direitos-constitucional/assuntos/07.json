@@ -1,0 +1,222 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['07.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Direitos Políticos",
+  "icone": "🗳️",
+  "descricao": "Análise aprofundada dos direitos políticos (Art. 14 da CF/88), abrangendo soberania popular, sufrágio universal, voto (características, alistamento, obrigatoriedade), formas de exercício direto (plebiscito, referendo, iniciativa popular), voto de presos, condições de elegibilidade (requisitos, idades mínimas, Súmula 11 TSE, reeleição, militares, prefeitos itinerantes), inelegibilidades (absolutas, relativas, parentesco, SV 18, AIME, Lei da Ficha Limpa), perda e suspensão de direitos políticos (classificação, improbidade), partidos políticos (regras, vedações, cláusula de barreira, fidelidade partidária, coligações, federações, cotas para mulheres e negros), com jurisprudência do STF/TSE, mnemônicos, pegadinhas e exemplos práticos.",
+  "data": "2026-07-27",
+  "revisao": "2.1",
+  "topicos": [
+    {
+      "titulo": "Visão Geral dos Direitos Políticos — Art. 14",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito e Soberania Popular",
+          "texto": "**Conceito:** conjunto de direitos que permite a participação do povo no poder estatal, seja diretamente (plebiscito, referendo, iniciativa popular) ou indiretamente (eleição de representantes).\n\n**Soberania popular (Art. 1º, parágrafo único):** 'Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.'\n\n**Sufrágio universal (Art. 14, caput):** 'A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, nos termos desta Constituição.'"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Formas de Exercício Direto da Soberania Popular (Art. 14, I, II, III)",
+          "texto": "Art. 14, incisos I, II e III prevêem três instrumentos de democracia direta:\n\n- **Plebiscito:** consulta popular **prévia** à edição de ato legislativo ou administrativo. O povo decide antes da medida.\n- **Referendo:** consulta popular **posterior** à edição do ato, para ratificação ou rejeição. O povo confirma ou rejeita o que já foi aprovado.\n- **Iniciativa Popular:** projeto de lei apresentado diretamente pelos cidadãos, independentemente de provocação do Congresso Nacional ou do Executivo, desde que atendidos os requisitos legais (assinaturas de 1% do eleitorado nacional, distribuídas por 5 Estados, com 0,3% em cada)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características do Voto",
+          "texto": "O voto no Brasil tem quatro características principais:\n\n- **Direto:** o eleitor escolhe diretamente seus representantes (sem colégio eleitoral).\n- **Secreto:** ninguém sabe em quem você votou (garantia da liberdade de escolha).\n- **Universal:** todos podem votar, observados os requisitos constitucionais.\n- **Periódico:** eleições regulares (a cada 2 ou 4 anos, conforme o cargo).\n\n🧠 **MNEMÔNICO:** 'DSUP' — **D**ireto, **S**ecreto, **U**niversal, **P**eriódico."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Diferenciação entre Nacionalidade (Art. 12) e Direitos Políticos (Art. 14)",
+          "texto": "**Relação entre Art. 12 (Nacionalidade) e Art. 14 (Direitos Políticos):**\n\nA nacionalidade brasileira é **condição sine qua non** para o exercício dos direitos políticos, mas nem todo brasileiro tem todos os direitos políticos:\n\n- **Brasileiro nato:** tem todos os direitos políticos, incluindo os cargos exclusivos (Art. 12, §3º).\n- **Brasileiro naturalizado:** tem direitos políticos, mas **não pode ocupar os cargos exclusivos de nato** (Presidente, Ministro do STF, carreira diplomática, oficiais das Forças Armadas, Ministro de Estado da Defesa).\n- **Português equiparado (Art. 12, §1º):** adquire a nacionalidade brasileira por reciprocidade, com **quase-totalidade** dos direitos políticos, exceto os cargos exclusivos de nato.\n\n⚠️ **Pegadinha:** A banca afirma que todo brasileiro (nato ou naturalizado) pode ser Presidente da República. **ERRADO.** Apenas o brasileiro **nato** pode (Art. 12, §3º, I).\n\n⚠️ **Pegadinha:** A banca afirma que o português equiparado tem todos os direitos políticos do nato. **ERRADO.** Ele tem **quase todos**, exceto os cargos exclusivos (Art. 12, §3º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Alistamento Eleitoral (Obrigatório, Facultativo e Inalistáveis)",
+          "texto": "**Obrigatório (Art. 14, §1º, I):** maiores de 18 anos e menores de 70 anos.\n\n**Facultativo (Art. 14, §1º, II):**\n- Analfabetos;\n- Maiores de 70 anos;\n- Maiores de 16 e menores de 18 anos.\n\n**Inalistáveis (não podem se alistar — Art. 14, §2º):**\n- Estrangeiros;\n- Conscritos durante o serviço militar obrigatório.\n\n🧠 **MNEMÔNICO:** '16 pode, 18 deve, 70 dispensa'.\n\n⚠️ **Pegadinha:** A banca diz que maiores de 70 anos são obrigados a votar. **ERRADO. São facultativos.**"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Voto dos Presos Provisórios e Adolescentes em Medida Socioeducativa",
+          "texto": "O preso que se encontra em **prisão cautelar (preventiva)** ou **provisória**, sem condenação penal transitada em julgado, **mantém seus direitos políticos intactos**.\n\n- Tem o direito (e o dever) de votar, desde que esteja alistado e em dia com a Justiça Eleitoral.\n- A justiça eleitoral deve garantir a instalação de seções eleitorais nos estabelecimentos penais.\n\n**Adolescentes em medida socioeducativa** (internação provisória ou definitiva) também têm direito ao voto, desde que alistados, pois a internação não implica perda de direitos políticos."
+        }
+      ]
+    },
+    {
+      "titulo": "Condições de Elegibilidade (Capacidade Eleitoral Passiva) — Art. 14, §3º",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Requisitos para ser Votado",
+          "texto": "Art. 14, §3º: 'São condições de elegibilidade, na forma da lei:\nI - a nacionalidade brasileira;\nII - o pleno exercício dos direitos políticos;\nIII - o alistamento eleitoral;\nIV - o domicílio eleitoral na circunscrição;\nV - a filiação partidária;\nVI - a idade mínima.'\n\n**Resumo dos requisitos:**\n1. **Nacionalidade brasileira:** nato ou naturalizado (com exceção dos cargos de nato).\n2. **Pleno exercício dos direitos políticos:** não estar com direitos políticos suspensos ou cassados.\n3. **Alistamento eleitoral:** estar inscrito como eleitor.\n4. **Domicílio eleitoral na circunscrição:** residência eleitoral na área onde concorre.\n5. **Filiação partidária:** estar filiado a partido político.\n6. **Idade mínima:** conforme o cargo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Idades Mínimas por Cargo",
+          "texto": "Art. 14, §3º, VI e alíneas:\n\n| Idade | Cargos |\n|-------|--------|\n| **35 anos** | Presidente, Vice-Presidente, Senador |\n| **30 anos** | Governador e Vice-Governador |\n| **21 anos** | Deputado Federal, Deputado Estadual/Distrital, Prefeito, Vice-Prefeito, Juiz de Paz |\n| **18 anos** | Vereador |\n\n🧠 **MNEMÔNICO:** '35-30-21-18' — Presidente, Governador, Deputado/Prefeito, Vereador.\n\n**Detalhe:** O juiz de paz (21 anos) é um cargo eletivo, mas não exerce função legislativa; atua celebrando casamentos e exercendo funções notariais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Aferição da Idade Mínima — Súmula 11 do TSE / Lei 9.504/97",
+          "texto": "**Regra geral:** a idade mínima para candidatura é verificada na data da **posse** (e não no dia da eleição ou do registro).\n\n**Exceção obrigatória (Súmula 11 TSE):** para o cargo de **Vereador (18 anos)**, a idade mínima é aferida na **data limite para o registro da candidatura** (ou seja, antes da eleição).\n\n📖 **Para Leigos:** Se alguém vai ser candidato a Presidente, precisa ter 35 anos até o dia da posse (1º de janeiro do ano seguinte). Já para vereador, a idade de 18 anos deve ser comprovada no momento do registro da candidatura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Reeleição — Art. 14, §5º",
+          "texto": "Art. 14, §5º: 'O Presidente da República, os Governadores de Estado e do Distrito Federal, e os Prefeitos poderão ser reeleitos para um único período subsequente.'\n\n**Regra:** é permitida a reeleição para o mesmo cargo por apenas um período subsequente (consecutivo).\n\n**Não se aplica a:** Senadores (mandato de 8 anos, sem reeleição para o mesmo cargo), Deputados (mandato de 4 anos, reeleição ilimitada), Vereadores (reeleição ilimitada).\n\n⚠️ **Pegadinha:** A banca diz que Senador pode ser reeleito. **ERRADO.** Senador tem mandato de 8 anos e não há reeleição para o mesmo cargo (embora possa se candidatar a outro cargo, como Governador)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prefeitos e Governadores 'Itinerantes' (Prefeito Profissional)",
+          "texto": "**Entendimento pacífico do STF (RE 637.485) e TSE:** o prefeito reeleito (que já exerceu dois mandatos consecutivos) **não pode se candidatar ao cargo de prefeito em um município vizinho na eleição subsequente**.\n\nIsso porque configuraria um **terceiro mandato consecutivo** do Executivo local, o que é vedado pelo princípio da alternância no poder e pela razoabilidade.\n\n**Exemplo:** Prefeito de Itu por dois mandatos (2016-2024). Em 2024, não pode se candidatar a prefeito de Salto, pois estaria buscando um terceiro mandato consecutivo no Executivo municipal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Militares e Elegibilidade — Art. 14, §8º",
+          "texto": "Art. 14, §8º: 'O militar alistável é elegível, atendidas as seguintes condições:\nI - se contar menos de dez anos de serviço, deverá afastar-se da atividade;\nII - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.'\n\n**Resumo:**\n- **Menos de 10 anos:** deve se afastar **definitivamente** da carreira para concorrer.\n- **Mais de 10 anos:** fica agregado (sem contar tempo de serviço), e se eleito, passa para a inatividade no ato da diplomação."
+        }
+      ]
+    },
+    {
+      "titulo": "Inelegibilidades — Art. 14, §§4º a 9º",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Inelegibilidade Absoluta (Art. 14, §4º)",
+          "texto": "São inelegíveis em qualquer circunstância (para qualquer cargo):\n\n- **Estrangeiros** (não brasileiros);\n- **Conscritos** (militares em serviço obrigatório);\n- **Analfabetos**.\n\n🧠 **MNEMÔNICO:** 'ECA' — **E**strangeiro, **C**onscrito, **A**nalfabeto.\n\n⚠️ **Pegadinha:** A banca diz que o analfabeto pode ser candidato a vereador. **ERRADO.** É inelegível absoluto."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Inelegibilidade Relativa — Visão Geral",
+          "texto": "Proíbem a candidatura em situações específicas (cargo, função, parentesco, período).\n\n**Classificação:**\n1. **Por parentesco (Art. 14, §7º):** inelegibilidade reflexa.\n2. **Por falta de desincompatibilização (Art. 14, §6º):** renúncia em prazo.\n3. **Por reeleição (Art. 14, §5º):** limite de mandatos.\n4. **Por condenações (LC 64/90):** Ficha Limpa.\n\n📖 **Para Leigos:** Inelegibilidade é quando a lei proíbe alguém de ser candidato. Pode ser absoluta (nunca pode) ou relativa (não pode em certas condições)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inelegibilidade Reflexa ou por Parentesco (Art. 14, §7º)",
+          "texto": "**Regra:** são inelegíveis, no território de jurisdição do titular:\n- O cônjuge / companheiro(a)\n- Os parentes consanguíneos ou afins, até o 2º grau ou por adoção\n\n**Quem são os titulares que geram a inelegibilidade reflexa?**\nPresidente da República, Governadores de Estado/DF, Prefeitos (ou quem os houver substituído nos 6 meses anteriores ao pleito).\n\n**Exceção Constitucional:** A inelegibilidade reflexa não se aplica se o parente/cônjuge já foi eleito para outro cargo na mesma circunscrição e já está em exercício."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Súmula Vinculante 18 do STF (Inelegibilidade Reflexa)",
+          "texto": "**SV 18:** 'A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, não afasta a inelegibilidade prevista no § 7º do art. 14 da Constituição Federal.'\n\n**O que significa?**\n- O término do vínculo conjugal (divórcio, separação, falecimento) no curso do mandato **não afasta** a inelegibilidade do cônjuge/parente para a eleição seguinte no mesmo território.\n- Objetivo: evitar o 'divórcio fraudulento' para fins eleitorais.\n\n**Exceções jurisprudenciais:** se o divórcio ocorreu antes do mandato ou se o casamento já estava dissolvido há mais de 6 meses antes do pleito, a SV 18 não se aplica (TSE)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Desincompatibilização e Renúncia (Art. 14, §6º)",
+          "texto": "**Regra geral (Art. 14, §6º):** Para concorrerem a outros cargos, os Chefes do Poder Executivo (Presidente, Governadores e Prefeitos) devem renunciar aos respectivos mandatos até **6 meses antes do pleito**.\n\n**Situação dos Vices:** Os vices **não precisam renunciar** para concorrer a outros cargos, desde que não tenham substituído ou sucedido o titular nos 6 meses anteriores ao pleito.\n\n**Exemplo:** O Vice-Governador pode concorrer a Senador sem precisar renunciar, contanto que não tenha assumido como Governador nos 6 meses anteriores à eleição."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação de Impugnação de Mandato Eletivo (AIME) — Art. 14, §§ 10 e 11",
+          "texto": "**AIME** é o instrumento processual para cassar mandato obtido com vícios (abuso de poder econômico, corrupção ou fraude).\n\n**Prazo:** deve ser ajuizada perante a Justiça Eleitoral no prazo de **15 dias contados da diplomação**.\n\n**Fundamentos:** prova de abuso do poder econômico, corrupção ou fraude.\n\n**Tramitação:** corre em **segredo de justiça** (protege a honra dos envolvidos), mas o autor responde por **má-fé ou denunciação caluniosa** se a ação for julgada improcedente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei Complementar nº 64/90 (Lei das Inelegibilidades e Ficha Limpa)",
+          "texto": "Art. 14, §9º: 'Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa e a moralidade para o exercício do mandato, considerada a vida pregressa do candidato.'\n\n**Lei da Ficha Limpa (LC 135/2010):** alterou a LC 64/90, tornando inelegível por 8 anos quem:\n- Foi condenado por órgão colegiado (judicial ou administrativo) por atos de improbidade administrativa, crimes contra a administração pública, crimes eleitorais, entre outros, com decisão de órgão colegiado."
+        }
+      ]
+    },
+    {
+      "titulo": "Perda e Suspensão de Direitos Políticos — Art. 15",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Hipóteses de Perda ou Suspensão",
+          "texto": "Art. 15: 'É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de:\n\nI - cancelamento da naturalização por sentença transitada em julgado;\nII - incapacidade civil absoluta;\nIII - condenação criminal transitada em julgado, enquanto durarem seus efeitos;\nIV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII;\nV - improbidade administrativa, nos termos do art. 37, §4º.'\n\n**ATENÇÃO:** A CF veda a cassação, mas permite perda ou suspensão. A cassação é ato de cancelamento do título por fraude, mas a CF não admite esse termo para os direitos políticos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação Detalhada: Perda vs. Suspensão",
+          "texto": "A CF lista tudo no Art. 15, mas a doutrina e as bancas exigem a separação:\n\n**Casos de PERDA (definitivos, até eventual reaquisição):**\n- **Cancelamento da naturalização** por sentença transitada em julgado (inciso I).\n- **Recusa de cumprir obrigação a todos imposta ou prestação alternativa** (escusa de consciência) — inciso IV. Doutrina majoritária e STF entendem como perda.\n\n**Casos de SUSPENSÃO (temporários, enquanto dura a causa):**\n- Incapacidade civil absoluta (inciso II).\n- Condenação criminal transitada em julgado (inciso III).\n- Improbidade administrativa (inciso V)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo Prático",
+          "texto": "✅ **Caso 1:** João é condenado a 5 anos de prisão por estelionato, com trânsito em julgado. Durante o cumprimento da pena, seus direitos políticos ficam suspensos. Após cumprir a pena, readquire os direitos.\n\n❌ **Caso 2:** Maria é vereadora e comete improbidade administrativa. Ela pode perder o mandato e ter os direitos políticos suspensos por até 8 anos (Lei 8.429/92).\n\n❌ **Caso 3:** Um cidadão é preso preventivamente (sem condenação). Nesse caso, não há perda nem suspensão, pois a presunção de inocência vige até o trânsito em julgado."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei que Altera Processo Eleitoral — Art. 16",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regra da Anterioridade Eleitoral",
+          "texto": "Art. 16: 'A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência.'\n\n**Regra:** a lei eleitoral não se aplica à eleição que ocorrer dentro do prazo de 1 ano da data de sua vigência.\n\n**Fundamento:** segurança jurídica e estabilidade do processo eleitoral — evita mudanças de última hora.\n\n⚠️ **Pegadinha:** A banca diz que lei eleitoral aplica-se imediatamente a todas as eleições. **ERRADO.** Aplica-se, mas não à eleição que ocorrer em até 1 ano da vigência."
+        }
+      ]
+    },
+    {
+      "titulo": "Partidos Políticos — Art. 17",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regras Gerais e Vedações",
+          "texto": "Art. 17: 'É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana.'\n\n**Regras gerais:**\n- Livre criação, fusão, incorporação e extinção.\n- Caráter nacional (não podem ser regionais).\n- Prestação de contas à Justiça Eleitoral.\n- Autonomia para definir estrutura interna e regras de fidelidade partidária.\n\n**Vedações constitucionais:**\n- Não podem receber recursos financeiros de origem estrangeira.\n- Não podem ter organização paramilitar.\n- Não podem utilizar propaganda que fomente a violência ou a discriminação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cláusula de Barreira (Requisitos Alternativos) — Art. 17, §3º e EC 97/2017",
+          "texto": "Para ter acesso ao fundo partidário e ao tempo de rádio/TV, o partido deve atingir ao menos um dos critérios (alternativos, não cumulativos):\n\n| Critério | Exigência |\n|----------|-----------|\n| **Votos na Câmara** | 3% dos votos válidos na eleição para a Câmara dos Deputados, distribuídos em pelo menos 1/3 dos Estados (9 Estados). |\n| **Deputados Federais** | Eleger pelo menos 15 Deputados Federais, distribuídos em pelo menos 1/3 dos Estados (9 Estados). |\n\n**Período de vigência:** a exigência é aplicada progressivamente, sendo que a partir de 2030 a cláusula de barreira passa a exigir 3% dos votos, e em 2034, 4%."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Propaganda Partidária vs. Eleitoral — EC 111/2021",
+          "texto": "**Propaganda partidária:** veiculada fora do período eleitoral, em rádio e TV, com finalidade de divulgar programas partidários e doutrina.\n\n- A EC 111/2021 **restabeleceu** a obrigatoriedade de propaganda partidária gratuita em rádio e TV (fora do período eleitoral).\n- Mantém-se a **vedação do anonimato** (exige identificação do partido).\n\n**Propaganda eleitoral:** veiculada no período de campanha (agosto a outubro), regida por regras específicas da legislação eleitoral (Lei 9.504/97)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fidelidade Partidária e Perda do Mandato",
+          "texto": "**Regra da fidelidade partidária:**\n- O detentor de mandato eletivo que se desfiliar do partido pelo qual foi eleito **pode perder o mandato**.\n- **Aplica-se aos cargos eleitos pelo sistema proporcional** (Deputados Federais, Estaduais, Vereadores).\n- **Não se aplica aos cargos do sistema majoritário** (Presidente, Governador, Senador, Prefeito) — nesses casos, a desfiliação não gera perda do mandato.\n\n**Hipóteses de Justa Causa** (que NÃO geram perda do mandato):\n- Mudança de partido que não se enquadre nas hipóteses de justa causa (ex: grave discriminação ideológica, mudança substancial do programa partidário, criação de novo partido, etc.). O TSE tem rol exemplificativo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Coligações Partidárias — EC 97/2017",
+          "texto": "**Regra atual:**\n- **É vedada** a celebração de coligações nas eleições proporcionais (Deputados e Vereadores) desde a EC 97/2017.\n- **Coligações são permitidas apenas nas eleições majoritárias** (Presidente, Governador, Senador, Prefeito).\n\n**Fundamento:** a vedação evita 'coligações de aluguel' e fortalece a representação partidária.\n\n⚠️ **Pegadinha:** A banca diz que coligações são proibidas em todas as eleições. **ERRADO.** São proibidas apenas nas proporcionais; majoritárias ainda permitem."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Federações Partidárias (Diferença para Coligações)",
+          "texto": "**O que é uma Federação Partidária?**\n- União de partidos políticos com abrangência **nacional** e caráter **duradouro**.\n- Os partidos que formam uma federação devem permanecer juntos por no mínimo **4 anos** (até a próxima eleição geral).\n- Atuam como se fossem um único partido para fins de distribuição de recursos, tempo de TV e regras de fidelidade.\n\n**Diferença da coligação:**\n- Coligação é temporária (apenas para uma eleição) e pode ser regional.\n- Federação é nacional e permanente (no mínimo 4 anos), e seus membros não podem atuar separadamente durante a vigência, sob pena de perda do mandato (aplica-se a regra da fidelidade).\n- Na federação, os partidos atuam em conjunto para todos os efeitos, como se fossem um único partido, sendo regular para todos os fins."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cotas para Candidaturas Negras e Femininas — EC 117/2022 e STF",
+          "texto": "**Obrigações legais:**\n- **No mínimo 30% dos recursos do Fundo Especial de Financiamento de Campanha (FEFC)** e do **Fundo Partidário** devem ser destinados a candidaturas de **mulheres**.\n- Distribuição proporcional para **candidatos negros** – STF e TSE consolidaram que a distribuição dos recursos (inclusive tempo de rádio/TV) deve ser estritamente proporcional ao número de candidatos negros lançados pelo partido. A EC 117/2022 constitucionalizou a obrigação de destinação de recursos e tempo para candidaturas negras, inclusive em proporção ao número de candidatos."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos",
+          "texto": "Partido político é como uma 'equipe' para concorrer às eleições. Você pode criar um partido sem pedir permissão, mas precisa registrar e prestar contas (transparência). Não pode receber dinheiro de fora do Brasil (para evitar ingerência estrangeira) nem ter milícia particular. A 'cláusula de barreira' exige que o partido tenha representatividade mínima — senão não recebe dinheiro público! Os partidos podem se unir em federações (nacionais e duradouras) ou em coligações (apenas nas eleições majoritárias)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS (Direitos Políticos)",
+          "texto": "- 'DSUP' — Direto, Secreto, Universal, Periódico.\n- '16 pode, 18 deve, 70 dispensa' — Alistamento.\n- 'NADA FIDI' — Nacionalidade, Alistamento, Domicílio, (pleno exercício), Filiação, Idade, (idade).\n- '35-30-21-18' — Idades mínimas.\n- 'ECA' — Inelegíveis absolutos (Estrangeiro, Conscrito, Analfabeto).\n- 'NICRIP' — Perda/suspensão (Naturalização cancelada, Incapacidade civil, Condenação criminal, Recusa de obrigação, Improbidade).\n- 'Plebiscito = Antes, Referendo = Depois, Iniciativa = Povo propõe a lei.'"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Finais (Mais Cobradas)",
+          "texto": "❌ 'Maiores de 70 anos são obrigados a votar.' → **ERRADO** (facultativos).\n❌ 'Analfabeto pode ser candidato.' → **ERRADO** (inelegível absoluto).\n❌ 'Deputado Federal precisa ter 18 anos.' → **ERRADO** (21 anos).\n❌ 'Reeleição para Presidente é ilimitada.' → **ERRADO** (apenas 1 período subsequente).\n❌ 'Militar com menos de 10 anos pode concorrer sem se afastar.' → **ERRADO** (deve se afastar definitivamente).\n❌ 'Renúncia ao mandato deve ser 1 ano antes.' → **ERRADO** (6 meses).\n❌ 'Lei eleitoral só se aplica após 1 ano da publicação.' → **ERRADO** (aplica-se, mas não à eleição que ocorra dentro de 1 ano)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA (Direitos Políticos)",
+          "texto": "✅ Instrumentos de democracia direta: Plebiscito (antes), Referendo (depois), Iniciativa Popular.\n✅ Condições de elegibilidade: nacionalidade, exercício dos direitos políticos, alistamento, domicílio, filiação, idade mínima.\n✅ Inelegibilidade absoluta: inalistáveis (estrangeiros, conscritos) e analfabetos.\n✅ Reeleição: apenas um período subsequente (Presidente, Governador, Prefeito).\n✅ Desincompatibilização: renúncia até 6 meses antes (exceto vice, que não precisa renunciar, se não tiver sucedido o titular).\n✅ Perda e suspensão: perda (naturalização cancelada, recusa de obrigação); suspensão (incapacidade, condenação, improbidade).\n✅ Fidelidade partidária: aplica-se ao proporcional, não ao majoritário.\n✅ Coligações: vedadas nas proporcionais; permitidas nas majoritárias.\n✅ Federações: nacionais e duradouras (mínimo 4 anos)."
+                },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/07.jpg"
+             }
+      ]
+    }
+  ]
+}
+;

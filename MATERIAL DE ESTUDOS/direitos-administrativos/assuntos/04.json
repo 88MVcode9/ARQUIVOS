@@ -1,0 +1,332 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Poderes Administrativos",
+  "icone": "⚡",
+  "descricao": "Instrumentos de proteção do interesse público: Poder Vinculado, Discricionário, Hierárquico, Disciplinar, Regulamentar, Poder de Polícia e Abuso de Poder.",
+  "topicos": [
+    {
+      "titulo": "Poder Vinculado",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "A lei determina exatamente como agir, sem margem de escolha. O servidor apenas cumpre o que a lei manda."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo",
+          "texto": "Aposentadoria compulsória aos 75 anos. O servidor do INSS não pode decidir se concede ou não — deve seguir exatamente a lei."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Importância",
+          "texto": "Garante segurança jurídica, impede arbitrariedades e trata todos de forma igual em situações idênticas."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Discricionário",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "A lei concede margem de escolha (conveniência e oportunidade), dentro dos limites legais."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo",
+          "texto": "Autorização para porte de arma — a autoridade analisa necessidade, idoneidade e antecedentes para decidir."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Limites",
+          "texto": "Não pode violar direitos fundamentais, deve respeitar finalidade pública e pode ser controlado pelo Judiciário se houver abuso ou desvio de finalidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação dos Atos (Elementos)",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Atos Vinculados × Discricionários",
+          "tabela": {
+            "colunas": [
+              "Elemento",
+              "Atos Vinculados",
+              "Atos Discricionários"
+            ],
+            "linhas": [
+              [
+                "Forma",
+                "Vinculado",
+                "Vinculado"
+              ],
+              [
+                "Finalidade",
+                "Vinculado",
+                "Vinculado"
+              ],
+              [
+                "Competência",
+                "Vinculado",
+                "Vinculado"
+              ],
+              [
+                "Objeto",
+                "Vinculado",
+                "Discricionário"
+              ],
+              [
+                "Motivo",
+                "Vinculado",
+                "Discricionário"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Hierárquico",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Definição",
+          "texto": "Relação de hierarquia verticalizada voltada para organização da administração. Permite ordenar, fiscalizar e rever atos dos subordinados."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prerrogativas",
+          "itens": [
+            "**Ordenar** — dar ordens legais (ordens ilegais geram dever de representação).",
+            "**Fiscalizar** — controle constante sobre a atuação do subordinado.",
+            "**Rever atos** — anular (ilegais) ou revogar (inconvenientes/inoportunos)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Avocação e Delegação",
+          "texto": "O Poder Hierárquico permite a **delegação** (transferir a execução) e a **avocação** (trazer para si) de competências.  \n**Delegação:** em regra, permitida (mesmo sem subordinação direta).  \n**Não pode ser delegado** (mnemônico **CENORA** / **CENORE**):  \n• **CE** – Competência Exclusiva;  \n• **NO** – Edição de atos **NO**rmativos;  \n• **RA/RE** – Decisão de **RE**cursos Administrativos.  \n**Avocação:** excepcional, temporária, exige justificativa por motivos relevantes."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atenção!",
+          "texto": "**Agente Público** e **Órgão Público** → relação de hierarquia/subordinação.  \n**Entidades da Adm. Indireta** → não há hierarquia, mas sim vinculação (tutela administrativa, controle finalístico)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Verdade Sabida (proibida)",
+          "texto": "Consiste na aplicação imediata de penalidade sem processo administrativo. É **vedada** por violar contraditório e ampla defesa."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Disciplinar",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "Aplicação de sanções a servidores e particulares com vínculo com a Administração (ex: demissão, suspensão, advertência)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo",
+          "texto": "Professor federal que falta reiteradamente e não cumpre planejamento pode receber advertência, suspensão ou ser demitido após processo administrativo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios correlatos",
+          "itens": [
+            "**Devido Processo Legal** — ninguém perde direitos sem processo justo.",
+            "**Contraditório e Ampla Defesa** — direito de se manifestar e produzir provas.",
+            "**Presunção de Inocência** — só há sanção após trânsito em julgado.",
+            "**Duplo Grau de Jurisdição** — direito de recorrer a autoridade superior.",
+            "**Juiz Natural** — julgamento por órgão competente previamente fixado em lei."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Disciplinar vs. Poder de Polícia",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Diferença Crítica",
+          "texto": "A regra de ouro é **olhar o vínculo** entre o sancionado e a Administração:",
+          "tabela": {
+            "colunas": [
+              "Poder",
+              "Vínculo",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "**Disciplinar**",
+                "Vínculo específico (servidor ou contratado)",
+                "Demissão de servidor, multa em contrato administrativo"
+              ],
+              [
+                "**Poder de Polícia**",
+                "Vínculo genérico (qualquer particular)",
+                "Multa de trânsito, interdição de restaurante pela Vigilância Sanitária"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Regulamentar",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "Edição de decretos e regulamentos para fiel execução da lei, exercido privativamente pelo Chefe do Executivo. **Não pode inovar** na ordem jurídica, apenas detalhar a execução da lei."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo",
+          "texto": "Lei que determina creches para crianças de 0 a 3 anos; o Prefeito edita decreto fixando zoneamento, horários e documentos necessários — isso é regulamentar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "O que NÃO pode",
+          "texto": "Criar obrigações ou restringir direitos além do que a lei previu. Ex: se a lei garante aposentadoria, o decreto não pode criar 'taxa de processamento'."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de atos normativos",
+          "itens": [
+            "**Decretos Regulamentares** — privativos do Chefe do Executivo (art. 84, IV, CF).",
+            "**Decretos Autônomos** — exceção (art. 84, VI), para organização da administração ou extinção de cargos vagos.",
+            "**Resoluções, Portarias, Instruções Normativas** — editadas por autoridades subalternas.",
+            "**Regimentos** — disciplinam estrutura interna de órgãos colegiados."
+          ]
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Características",
+          "texto": "Natureza derivada (subordinada à lei), generalidade e abstração, e é um poder-dever (obrigatório quando a lei exige regulamentação)."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder de Polícia e Abuso de Poder",
+      "icone": "🛡️",
+      "descricao": "Poder de Polícia (limitação de direitos em favor do interesse coletivo) e Abuso de Poder (excesso, desvio e omissão), com exemplos práticos.",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Poder de Polícia – Definição",
+          "texto": "Prerrogativa do Estado de **limitar ou condicionar direitos individuais** e o exercício de atividades em favor do interesse coletivo, com base na supremacia do interesse público."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Interdição de uma ponte com risco de queda — restringe temporariamente a locomoção, mas protege a vida de todos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atributos do Poder de Polícia (DAC)",
+          "itens": [
+            "**Discricionariedade** — margem de escolha para decidir oportunidade e conveniência, dentro dos limites legais.",
+            "**Autoexecutoriedade** — a Administração pode executar suas decisões diretamente, sem autorização judicial prévia.",
+            "**Coercibilidade** — o ato é imperativo e impõe-se independentemente da vontade do particular, admitindo uso proporcional da força."
+          ],
+          "texto": "**Obs1:** A autoexecutoriedade dispensa autorização do Judiciário (ex: guinchar carro irregular), mas o particular pode recorrer ao juiz posteriormente.  \n**Obs2:** Nem todo ato de polícia é autoexecutável — **a cobrança forçada de multa não é autoexecutável** (exige Execução Fiscal judicial)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Manifestações e Fases do Ciclo de Polícia",
+          "itens": [
+            "**1. Preventivas** — atuam antes do dano: Ordem de Polícia (regras gerais, ex: leis de trânsito) e Consentimento de Polícia (alvarás, licenças).",
+            "**2. Fiscalizatórias** — verificação do cumprimento das ordens e consentimentos (ex: blitze, vistorias).",
+            "**3. Repressivas** — aplicação de sanções após infração (multas, apreensão, interdição)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença vs. Autorização (Consentimento de Polícia)",
+          "texto": "**Licença:** ato **vinculado** e **definitivo**. Preenchidos os requisitos legais, a Administração deve conceder (ex: CNH, licença para construir).  \n**Autorização:** ato **discricionário** e **precário** (revogável a qualquer tempo, sem indenização). Concedido segundo conveniência (ex: autorização para fechar rua em evento privado)."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Polícia Administrativa × Polícia Judiciária",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Polícia Administrativa",
+              "Polícia Judiciária"
+            ],
+            "linhas": [
+              [
+                "Ilícito",
+                "Infrações administrativas",
+                "Infrações penais (crimes)"
+              ],
+              [
+                "Objeto",
+                "Bens, atividades ou direitos",
+                "Pessoa do infrator"
+              ],
+              [
+                "Competência",
+                "Órgãos diversos (Vigilância Sanitária, Detran, etc.)",
+                "Polícia Civil e Federal (CF)"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Abuso de Poder – O que é",
+          "texto": "Ocorre quando o agente público usa sua autoridade de forma inadequada. Pode ser por **excesso** (vai além da competência), por **desvio** (usa o poder para fim diverso do legal) ou por **omissão** (deixa de praticar ato obrigatório)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Excesso de Poder",
+          "texto": "Agente ultrapassa os limites de sua competência (vício de **competência**). Ex: delegado que prende sem flagrante ou mandado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Desvio de Poder (Desvio de Finalidade)",
+          "texto": "Ato praticado dentro da competência, mas com finalidade diversa da prevista em lei (vício de **finalidade**). Ex: remoção de servidor para puni-lo pessoalmente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Omissão Administrativa",
+          "texto": "Abuso de poder por **inação**: o agente deixa de praticar um ato obrigatório (com prazo ou dever legal), causando prejuízo ao particular ou à coletividade. Ex: autoridade que não aprecia recurso no prazo, deixando o cidadão sem resposta."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu",
+          "texto": "**Excesso** = vai além da competência (não tinha poder).  \n**Desvio** = usa poder para fim errado (tinha poder, mas usou mal).  \n**Omissão** = não faz o que deveria fazer (inação ilegal)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Consequências do Abuso de Poder",
+          "itens": [
+            "**Ato nulo** — pode ser anulado pela Administração ou pelo Judiciário.",
+            "**Responsabilidade civil** — deve indenizar os prejudicados.",
+            "**Responsabilidade administrativa** — punições (advertência, suspensão, demissão).",
+            "**Responsabilidade criminal** — crime de abuso de autoridade (Lei 13.869/2019).",
+            "**Responsabilidade por improbidade** — devolução de valores, multa, perda do cargo."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo completo",
+          "texto": "Servidor que desvia recursos por desvio de poder terá que restituir, pagar multa, pode ser demitido e preso, além de indenizar danos morais e materiais."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

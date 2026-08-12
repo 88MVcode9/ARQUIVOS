@@ -1,0 +1,132 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['13.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Ordem Econômica e Financeira",
+  "icone": "💰",
+  "descricao": "Análise da Ordem Econômica e Financeira (Arts. 170 a 192 da CF/88) e da Ordem Social (Arts. 193 a 215), abrangendo princípios gerais da atividade econômica (livre concorrência, função social da propriedade, defesa do consumidor), economia popular, economia solidária, ordem financeira (orçamento, dívida, tributação), e direitos sociais (saúde, educação, cultura, esporte, ciência, comunicação, meio ambiente, família, criança, adolescente, idoso), com mnemônicos, pegadinhas e exemplos práticos.",
+  "data": "2026-07-27",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Princípios Gerais da Atividade Econômica — Art. 170",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Art. 170 — Tríplice Base",
+          "texto": "Art. 170, caput: 'A ordem econômica tem por finalidade assegurar a todos o seu direito de vida com dignidade, assegurando-lhes, com base nos seguintes princípios, a liberdade de iniciativa e de concorrência e a prevalência dos direitos sociais, quais sejam: I - livre iniciativa e concorrência; II - livre iniciativa e concorrência; III - livre iniciativa e concorrência.'\n\n**Tríplice base do Art. 170:**\n1. **Livre iniciativa e concorrência** — o mercado deve ser livre, sem barreiras estatais injustificadas.\n2. **Prevalência dos direitos sociais** — a economia deve subordinar-se aos direitos fundamentais (saúde, educação, moradia, etc.).\n3. **Função social da propriedade** — a propriedade deve cumprir sua função social (Art. 182, caput).\n\n🧠 **MNEMÔNICO:** 'LIVRE' — **L**ivre iniciativa, **I**gualdade, **V**alorização dos direitos sociais, **R**espeito à função social, **E**conomia popular."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Livre Concorrência e Livre Iniciativa",
+          "texto": "**Livre iniciativa:** todo cidadão pode exercer atividade econômica, salvo restrições legais (ex.: profissões regulamentadas).\n\n**Livre concorrência:** o mercado deve ser competitivo, sem monopólios ou práticas anticoncorrenciais.\n\n**Proibição de práticas anticoncorrenciais (Art. 171):** é vedado ao empresário ou empresa:\n- Fixar preços em desacordo com o mercado;\n- Dividir o mercado com concorrentes;\n- Praticar discriminação preços;\n- Abandonar o mercado para prejudicar concorrentes.\n\n⚠️ **Pegadinha:** A banca afirma que livre concorrência significa que o Estado não pode interferir no mercado. **ERRADO.** O Estado pode (e deve) regular para garantir a concorrência justa (ex.: Lei de Defesa da Concorrência)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Função Social da Propriedade — Art. 182",
+          "texto": "Art. 182, caput: 'A propriedade deve atender à sua função social, assegurada a todos o direito de acesso às fontes de renda e à de propriedade de pequena e média escala, garantindo-se, com fundamento na lei, a prioridade à habitação popular, à segurança e ao progresso da vida familiar e coletiva.'\n\n**Função social da propriedade:**\n- A propriedade deve servir à sociedade, não apenas ao proprietário.\n- O Estado pode expropriar (desapropriação) por utilidade pública, com indenização.\n- A propriedade rural deve cumprir a legislação agrária (Art. 184).\n\n⚠️ **Pegadinha:** A banca afirma que a função social da propriedade significa que o Estado pode tirar a propriedade sem indenização. **ERRADO.** A desapropriação exige **indenação prévia, justa e em dinheiro** (Art. 5º, XXIV)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Frequentes",
+          "texto": "❌ 'Livre concorrência significa que o Estado não pode regular o mercado.' → **ERRADO** (o Estado regula para garantir concorrência justa).\n❌ 'Função social da propriedade permite expropriação sem indenização.' → **ERRADO** (exige indenização prévia, justa e em dinheiro).\n❌ 'A economia popular é a mesma que economia solidária.' → **ERRADO** (economia popular é mais ampla; economia solidária é um subset)."
+        }
+      ]
+    },
+    {
+      "titulo": "Economia Popular, Solidária e Terceiro Setor — Arts. 170, §4º e 171",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Classificação da Economia",
+          "texto": "**Economia Popular:**\n- Inclui a economia solidária, a economia familiar e a economia de pequena escala.\n- Caracteriza-se pela produção de bens e serviços por trabalhadores autônomos, cooperativas e microempresas.\n\n**Economia Solidária:**\n- Subconjunto da economia popular.\n- Baseada na cooperação, solidariedade e democracia.\n- Exemplos: cooperativas de trabalho, redes de economia solidária.\n\n**Terceiro Setor:**\n- Organizações da sociedade civil sem fins lucrativos.\n- Exemplos: ONGs, fundações, associações de caridade.\n\n🧠 **MNEMÔNICO:** 'Popular > Solidária > Terceiro Setor' — a popular é a mais ampla, a solidária é um subset, e o terceiro setor é não lucrativo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cooperativas e Economia de Trabalho Associado",
+          "texto": "**Cooperativas:**\n- Forma de organização econômica baseada na cooperação mútuo.\n- Caracterizada pela democracia (um membro = um voto), autogestão e distribuição equitativa dos resultados.\n\n**Economia de Trabalho Associado (EITA):**\n- Forma de organização onde os trabalhadores são sócios da empresa.\n- Cada trabalhador possui quotas de participação.\n\n⚠️ **Pegadinha:** A banca afirma que cooperativas são a mesma que empresas. **ERRADO.** Cooperativas têm natureza jurídica distinta (Lei 13.303/2016) e princípios democráticos."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Economia Popular",
+          "texto": "Pense na economia popular como um mercado de rua:\n\n- **Cooperativa de trabalho:** um grupo de artesãos se junta para vender juntos, dividindo os lucros.\n- **Economia de trabalho associado:** um grupo de profissionais forma uma empresa onde todos são sócios.\n- **Terceiro setor:** uma ONG que oferece cursos gratuitos.\n\nTodos esses modelos buscam alternativas ao capitalismo tradicional, priorizando a solidariedade e a democracia."
+        }
+      ]
+    },
+    {
+      "titulo": "Ordem Financeira e Tributária — Arts. 163 a 169",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Orçamento Público — Art. 165",
+          "texto": "Art. 165: 'A lei orçamentária é essencial à ordem constitucional e sua execução se baseia na programação e na avaliação das atividades e na aplicação dos recursos orçamentários em planos e programas.\n\n**Princípios do orçamento público:**\n- **Anualidade:** o orçamento é anual (não é perpétuo).\n- **Especificidade:** cada recurso deve ser usado para o fim específico.\n- **Publicidade:** o orçamento deve ser público.\n- **Equilíbrio:** receitas = despesas.\n- **Continuidade:** as despesas de capital são contínuas.\n\n⚠️ **Pegadinha:** A banca afirma que o orçamento pode ser alterado a qualquer momento. **ERRADO.** Existem regras rígidas (Lei de Responsabilidade Fiscal, Lei Orçamentária Anual)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Dívida Pública — Art. 165, §3º",
+          "texto": "Art. 165, §3º: 'A dívida externa e a dívida interna da União, dos Estados, do Distrito Federal e dos Municípios serão autorizadas e contratadas por lei, observada a legalidade, a moralidade, a publicidade e a eficiência.'\n\n**Limites de dívida (Lei de Responsabilidade Fiscal — LRF):**\n- **União:** 60% do PIB (limite geral).\n- **Estados e DF:** 60% da receita corrente líquida.\n- **Municípios:** 80% da receita corrente líquida.\n\n⚠️ **Pegadinha:** A banca afirma que a dívida pública pode ser contratada sem autorização legal. **ERRADO.** Exige autorização por lei (Art. 165, §3º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tributação — Art. 145 e 195",
+          "texto": "**Princípios da tributação:**\n- **Capacidade contributiva:** o tributo deve ser proporcional à capacidade de pagar.\n- **Não confisco:** o tributo não pode ser tão alto a ponto de confiscar a riqueza.\n- **Não retroatividade:** o tributo não pode ser retroativo.\n- **Anterioridade:** o tributo só pode ser criado por lei anterior à sua cobrança.\n- **Isonomia:** todos devem pagar o mesmo tributo nas mesmas condições.\n\n**Competência tributária:**\n- **União:** IRPF, IRPJ, ITR, IPI, IOF, IPCA, etc.\n- **Estados:** ICMS, IPVA, ITCMD, etc.\n- **Municípios:** ISS, IPTU, taxas, etc.\n\n⚠️ **Pegadinha:** A banca afirma que o ICMS é da União. **ERRADO.** ICMS é do **Estado**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'ICMS é tributo federal.' → **ERRADO** (é estadual).\n❌ 'IPTU é do Estado.' → **ERRADO** (é municipal).\n❌ 'Dívida pública pode ser contratada sem lei.' → **ERRADO** (exige autorização legal).\n❌ 'Imposto pode ser retroativo.' → **ERRADO** (princípio da anterioridade)."
+        }
+      ]
+    },
+    {
+      "titulo": "Ordem Social — Arts. 193 a 215",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Direitos Sociais Fundamentais",
+          "texto": "A Ordem Social (Título IV, Capítulos I a VI) garante direitos sociais essenciais:\n\n- **Art. 193:** Direito à saúde (SUS).\n- **Art. 205:** Direito à educação.\n- **Art. 207:** Direito ao trabalho.\n- **Art. 209:** Direito ao esporte.\n- **Art. 211:** Direito à cultura.\n- **Art. 213:** Direito à comunicação social.\n- **Art. 215:** Direito ao meio ambiente equilibrado.\n\n🧠 **MNEMÔNICO:** 'STETCE' — **S**aúde, **T**rabalho, **E**ducação, **T**ransporte, **C**ultura, **E**sporte."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Saúde, Educação e Cultura",
+          "texto": "**Direito à Saúde (Art. 193 e 196):**\n- SUS (Sistema Único de Saúde) é universal, equitativo e integral.\n- O Estado deve garantir a todos acesso a serviços de saúde.\n\n**Direito à Educação (Art. 205 e 206):**\n- Ensino fundamental obrigatório e gratuito.\n- Ensino médio e superior devem ser oferecidos.\n\n**Direito à Cultura (Art. 211):**\n- Estado deve promover a democratização da comunicação e o acesso à cultura.\n\n⚠️ **Pegadinha:** A banca afirma que o ensino superior é obrigatório. **ERRADO.** É o **ensino fundamental** que é obrigatório (Art. 205, §2º, c)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Meio Ambiente e Desenvolvimento Sustentável — Art. 225",
+          "texto": "Art. 225, caput: 'Todos têm direito ao meio ambiente equilibrado, para presente geração e futuras, devendo o Estado assegurar a todos os meios de preservação e de recuperação do equilíbrio ambiental, penalidade para os que provocarem poluição.\n\n**Princípios:**\n- **Prevenção:** evitar danos antes que ocorram.\n- **Precaução:** agir mesmo com incerteza científica.\n- **Responsabilidade compartilhada:** todos (Estado, empresas, cidadãos) são responsáveis.\n- **Poluição passiva:** o poluente responde mesmo sem intenção.\n\n⚠️ **Pegadinha:** A banca afirma que o direito ao meio ambiente é um direito individual. **ERRADO.** É um direito **coletivo** (Art. 225, §1º)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Ordem Social",
+          "texto": "Pense na Ordem Social como a 'lista de direitos que o Estado deve garantir':\n\n- **Saúde:** você tem direito a um hospital público (SUS).\n- **Educação:** você tem direito a uma escola pública.\n- **Trabalho:** você tem direito a salário mínimo e férias.\n- **Cultura:** você tem direito a bibliotecas e eventos culturais.\n- **Meio ambiente:** você tem direito a ar limpo e água potável.\n\nEsses direitos são **positivos** — o Estado precisa **fazer** algo para garanti-los, não apenas não interferir."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'LIVRE'** — Livre iniciativa, Igualdade, Valorização dos direitos sociais, Respeito à função social, Economia popular.\n- **'STETCE'** — Saúde, Trabalho, Educação, Transporte, Cultura, Esporte.\n- **'ICMS = Estado / IPTU = Município / IRPF = União'** — competência tributária.\n- **'60% PIB = dívida da União'** — limite de dívida.\n- **'Anualidade, Especificidade, Publicidade, Equilíbrio'** — princípios orçamentários."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'ICMS é tributo federal.' → **ERRADO** (é estadual).\n❌ 'IPTU é do Estado.' → **ERRADO** (é municipal).\n❌ 'Ensino superior é obrigatório.' → **ERRADO** (é o fundamental).\n❌ 'Direito ao meio ambiente é individual.' → **ERRADO** (é coletivo).\n❌ 'Livre concorrência = Estado não regula.' → **ERRADO** (regula para garantir concorrência).\n❌ 'Função social permite expropriação sem indenização.' → **ERRADO** (exige indenização)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Art. 170: livre iniciativa, concorrência, direitos sociais, função social, economia popular.\n✅ Economia popular > solidária > terceiro setor.\n✅ Orçamento: anualidade, especificidade, publicidade, equilíbrio.\n✅ Dívida: exige lei, limites (60% PIB União, 60% receita Estados, 80% Municípios).\n✅ Tributação: capacidade contributiva, não confisco, anterioridade, isonomia.\n✅ Tributos: IRPF/IRPJ/IPI/IOF (União), ICMS (Estados), ISS/IPTU (Municípios).\n✅ Ordem Social: saúde, educação, trabalho, cultura, esporte, meio ambiente.\n✅ Meio ambiente: coletivo, princípios de prevenção e precaução."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/13.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

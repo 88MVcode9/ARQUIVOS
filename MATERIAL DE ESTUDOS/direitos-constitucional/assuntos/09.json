@@ -1,0 +1,210 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['09.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Poder Legislativo e Processo Legislativo",
+  "icone": "📜",
+  "descricao": "Análise completa do Poder Legislativo (Art. 48 a 54 da CF/88) e do Processo Legislativo (Art. 61 a 66), abrangendo estrutura do Congresso Nacional (Câmara e Senado), iniciativa (geral e privativa), tramitação (ordem dos tramitações, leituras, quóruns), sancção e veto (político e jurídico, derrubada por maioria absoluta), com mnemônicos, pegadinhas e exemplos práticos.",
+  "data": "2026-07-27",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Estrutura do Poder Legislativo — Art. 48 a 54",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Congresso Nacional — Bicameralismo",
+          "texto": "O Poder Legislativo é exercido pelo **Congresso Nacional**, que é **bicameral** (duas casas):\n\n- **Câmara dos Deputados** — representação proporcional por Estado e DF.\n- **Senado Federal** — representação igualitária (3 por Estados e DF).\n\n**Competências (Art. 48, caput):**\n- Legislar com a CF como limite;\n- Autorizar a saída de tropas;\n- Fiscalizar o Poder Executivo;\n- Declarar a guerra;\n- Aprovar o orçamento;\n- Criar e extinguir ministérios;\n- Processar o Presidente da República por crimes de responsabilidade.\n\n🧠 **MNEMÔNICO:** 'Câmara = Cidadãos (proporcional) / Senado = Estados (igualitário)'"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Composição da Câmara dos Deputados",
+          "texto": "**Representação:** proporcional ao número de eleitores de cada Estado e do DF, com **mínimo de 8 e máximo de 70** deputados por Estado (Art. 14, §1º, inciso II, alínea 'a').\n\n**Total de deputados:** 513 (500 distribuídos entre Estados + 13 do DF).\n\n**Mandato:** 4 anos, com reeleição ilimitada.\n\n**Presidente da Câmara:** eleito entre seus pares, por voto direto e secreto, por 2 anos (Art. 50, §1º). Pode ser reeleito uma vez consecutivamente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Composição do Senado Federal",
+          "texto": "**Representação:** **3 senadores por Estado e pelo DF** (Art. 14, §1º, inciso II, alínea 'b'), totalizando **81 senadores**.\n\n**Mandato:** 8 anos, **sem reeleição para o mesmo cargo** (Art. 15, §1º). Os 81 senadores são divididos em **3 períodos de 3 anos** (sucessivos), com 1/3 renascendo a cada 2 anos.\n\n**Presidente do Senado:** eleito entre seus pares, por voto secreto, por 2 anos (Art. 51, §1º). Pode ser reeleito uma vez consecutivamente.\n\n⚠️ **Pegadinha:** A banca afirma que Senador pode ser reeleito para o mesmo cargo. **ERRADO.** Senador tem mandato de 8 anos e não há reeleição para o mesmo cargo."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha: Bicameralismo",
+          "texto": "❌ 'A Câmara dos Deputados tem representação igualitária.' → **ERRADO.** É proporcional.\n❌ 'O Senado Federal tem representação proporcional.' → **ERRADO.** É igualitária (3 por Estado/DF).\n❌ 'Senador pode ser reeleito para o mesmo cargo.' → **ERRADO.** Mandato de 8 anos, sem reeleição."
+        }
+      ]
+    },
+    {
+      "titulo": "Iniciativa — Art. 61",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Iniciativa Geral (Art. 61, caput)",
+          "texto": "Art. 61, caput: 'Caberá ao Poder Executivo e ao Poder Legislativo propor a legislação complementar, especial e ordinária, bem como ao cidadão, por meio de iniciativa popular, nos termos desta Constituição.'\n\n**Quem pode iniciar leis:**\n- **Presidente da República** (projeto de lei);\n- **Deputado ou Senador** (projeto de lei);\n- **Cidadãos** (iniciativa popular — requer 1% do eleitorado nacional, distribuídos em 5 Estados com 0,3% em cada);\n- **Mesa do Senado** (medida provisória);\n- **Mesa da Câmara** (medida provisória);\n- **Presidente da República** (medida provisória).\n\n🧠 **MNEMÔNICO:** 'Presidente, Parlamentar, Povo (1%)' — os três iniciadores principais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Iniciativa Privativa (Art. 61, §§ 1º a 4º)",
+          "texto": "Art. 61, §1º: **'A iniciativa privativa de lei será apresentada por 1% (um por cento) do eleitorado nacional, distribuída em pelo menos 5 (cinco Estados, com 0,3% (três décimos de um por cento) em cada um deles.'**\n\n**Requisitos para iniciativa popular:**\n- **1% do eleitorado nacional** (aproximadamente 1,2 milhão de eleitores);\n- Distribuída em **pelo menos 5 Estados**;\n- **0,3% em cada Estado** (aproximadamente 70 mil por Estado);\n- **Prazo:** 90 dias para coletar as assinaturas.\n\n**Iniciativa parlamentar (Art. 61, §2º):**\n- O deputado ou senador pode apresentar projeto de lei individual ou coletivo (com outros parlamentares).\n\n**Iniciativa do Poder Executivo (Art. 61, §3º):**\n- O Presidente da República pode enviar projetos de lei ao Congresso.\n\n⚠️ **Pegadinha:** A banca afirma que a iniciativa popular exige 1% do eleitorado em cada Estado. **ERRADO.** É 1% do eleitorado nacional, distribuído em pelo menos 5 Estados com 0,3% em cada."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Quem pode propor lei?",
+          "texto": "Pense no Congresso como um jogo de futebol:\n\n- **Presidente da República** é como o árbitro que pode sugerir regras (projeto de lei).\n- **Deputados e Senadores** são os jogadores que podem propor mudanças no jogo (projetos de lei).\n- **Cidadãos** são os torcedores que, se organizarem bem (1% do eleitorado em 5 Estados), podem propor uma nova regra (iniciativa popular).\n- **Medida Provisória** é como um 'cartão amarelo' que o Presidente pode mostrar para resolver algo rápido, mas o Congresso precisa confirmar depois."
+        }
+      ]
+    },
+    {
+      "titulo": "Tramitação — Fases e Quóruns",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Processo Legislativo Ordinário (Art. 62 a 65)",
+          "texto": "O processo legislativo ordinário tem as seguintes fases:\n\n1. **Apresentação** do projeto (iniciativa);\n2. **Primeira discussão** (primeira leitura) — exposição do texto;\n3. **Comissões** — análise técnica e parecer;\n4. **Segunda discussão** (segunda leitura) — debate geral;\n5. **Votação** (terceira leitura) — votação final;\n6. **Sanção ou veto** do Presidente;\n7. **Publicação** da lei.\n\n**Quóruns:**\n- **Maioria simples:** mais da metade dos votos dos presentes (para a maioria das leis).\n- **Maioria absoluta:** 2/3 (60%) ou 3/5 (60%) dos votos de cada Casa (para leis de reforma administrativa, emendas constitucionais, etc.).\n\n⚠️ **Pegadinha:** A banca afirma que a votação de leis ordinárias exige maioria absoluta. **ERRADO.** A maioria é **simples** (mais da metade dos presentes)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Processo Legislativo Sumaríssimo (Art. 65)",
+          "texto": "Art. 65: 'As leis de iniciativa exclusiva do Poder Executivo, que versarem sobre apenas um assunto e não imponham oneração ao orçamento ou ao fisco, serão tratadas em regime de tramitação sumaríssima.'\n\n**Características:**\n- **Iniciativa exclusiva do Executivo** (não pode vir de parlamentares ou cidadãos);\n- **Apenas um assunto** (monocrética);\n- **Sem oneração** ao orçamento ou fisco;\n- **Tramitação acelerada** (sem passar por comissões).\n\n**Fases:**\n1. Apresentação;\n2. Primeira e segunda leituras (no mesmo dia);\n3. Votação (terceira leitura);\n4. Sanção ou veto.\n\n⚠️ **Pegadinha:** A banca afirma que o processo sumaríssimo pode ser usado para qualquer lei. **ERRADO.** Só para leis do Executivo, monocêntricas e sem oneração."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quóruns de Maioria Simples e Absoluta",
+          "texto": "**Maioria Simples (50% + 1):**\n- Mais da metade dos votos dos parlamentares presentes.\n- Usada para a maioria das leis ordinárias.\n\n**Maioria Absoluta (2/3 ou 3/5):**\n- **2/3 (66,67%):** para emendas constitucionais (Art. 60, caput), leis de iniciativa exclusiva do Poder Executivo em regime de tramitação sumaríssima (Art. 65, §1º).\n- **3/5 (60%):** para tratados internacionais (Art. 49, VII), emendas que alteram a forma federativa (Art. 60, §3º).\n\n🧠 **MNEMÔNICO:** 'Simples = 50%+1 / Absoluta = 2/3 ou 3/5'.\n\n⚠️ **Pegadinha:** A banca afirma que emendas constitucionais exigem 3/5. **ERRADO.** Exigem **2/3** (Art. 60, caput)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Frequentes",
+          "texto": "❌ 'Leis ordinárias exigem maioria absoluta.' → **ERRADO** (maioria simples).\n❌ 'Emendas constitucionais exigem 3/5.' → **ERRADO** (exigem 2/3).\n❌ 'Processo sumaríssimo é para qualquer lei.' → **ERRADO** (só para leis do Executivo, monocêntricas, sem oneração).\n❌ 'Iniciativa popular exige 1% em cada Estado.' → **ERRADO** (1% nacional, 0,3% em 5 Estados)."
+        }
+      ]
+    },
+    {
+      "titulo": "Sancção e Veto — Art. 66",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Sancção Presidencial",
+          "texto": "Art. 66, caput: 'O Presidente da República não vedará ao Congresso Nacional, no prazo de 30 (trinta) dias, a lei que lhe for enviada, sancionando-a ou vedando-a, total ou parcialmente.'\n\n**Prazo:** 30 dias para o Presidente sancionar ou vetar a lei.\n\n**Tipos de sanção:**\n- **Sanção tácita:** se o Presidente não se manifestar em 30 dias, a lei entra em vigor automaticamente.\n- **Sanção expressa:** o Presidente assina a lei.\n- **Veto:** o Presidente rejeita a lei (total ou parcial)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Veto Político e Veto Jurídico",
+          "texto": "**Veto Político (parcial):**\n- O Presidente veta apenas **alguns artigos ou parágrafos** do projeto.\n- O Congresso pode derrubar por **maioria absoluta** (Art. 66, §4º, parágrafo único).\n\n**Veto Jurídico (total):**\n- O Presidente veta **todo o projeto** por considerá-lo inconstitucional.\n- O Congresso pode derrubar por **3/5** dos votos de cada Casa (Art. 66, §4º, parágrafo único).\n\n**Derrubada de veto:**\n- **Voto nominal (aberto):** hoje é obrigatório (Lei 13.105/2015, art. 10, §1º).\n- **Prazo:** 30 dias para a Câmara e 30 dias para o Senado.\n\n⚠️ **Pegadinha:** A banca afirma que a derrubada de veto pode ser por voto secreto. **ERRADO.** É sempre **nominal** (voto aberto)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – O Veto Presidencial",
+          "texto": "Imagine que o Congresso aprova uma lei com 10 artigos. O Presidente lê e pensa:\n\n- 'Artigos 1, 2 e 3 estão ótimos, mas o artigo 4 é inconstitucional.' → **Veto parcial (político)** apenas do artigo 4. O Congresso precisa de **maioria absoluta** para derrubar.\n\n- 'Toda a lei é inconstitucional.' → **Veto total (jurídico)**. O Congresso precisa de **3/5** para derrubar.\n\n- 'Não vou me manifestar em 30 dias.' → **Sanção tácita**. A lei entra em vigor automaticamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais (Legislativo)",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'Câmara = proporcional / Senado = igualitário'** — representação nas duas casas.\n- **'1% nacional, 0,3% em 5 Estados'** — iniciativa popular.\n- **'50%+1 = simples / 2/3 ou 3/5 = absoluta'** — quóruns.\n- **'30 dias = sanção/veto / 30+30 = derrubada'** — prazos.\n- **'Veto parcial = político / Veto total = jurídico'** — tipos de veto.\n- **'Voto nominal (aberto) = derrubada de veto'** — sempre aberto hoje."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'Senador pode ser reeleito para o mesmo cargo.' → **ERRADO** (8 anos, sem reeleição).\n❌ 'Leis ordinárias exigem maioria absoluta.' → **ERRADO** (maioria simples).\n❌ 'Emendas constitucionais exigem 3/5.' → **ERRADO** (exigem 2/3).\n❌ 'Iniciativa popular exige 1% em cada Estado.' → **ERRADO** (1% nacional, 0,3% em 5 Estados).\n❌ 'Derrubada de veto é por voto secreto.' → **ERRADO** (é nominal/aberto).\n❌ 'Veto parcial exige 3/5 para derrubar.' → **ERRADO** (exige maioria absoluta; 3/5 é para veto jurídico)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Congresso Nacional: Câmara (proporcional, 4 anos) + Senado (igualitário, 8 anos, sem reeleição).\n✅ Iniciativa: Presidente, parlamentar, cidadãos (1% nacional, 0,3% em 5 Estados).\n✅ Processo ordinário: 3 leituras + comissões + sanção/veto.\n✅ Processo sumaríssimo: Executivo, monocrético, sem oneração, tramitação acelerada.\n✅ Quóruns: simples (50%+1), absoluta (2/3 para EC, 3/5 para tratados).\n✅ Sanção: 30 dias. Veto parcial (político) e total (jurídico).\n✅ Derrubada de veto: maioria absoluta (parcial) ou 3/5 (jurídico), voto nominal (aberto)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/9.1.jpg"
+        }
+      ]
+    },
+//===============================================================================================================================================================================================================================================================================================================================================
+
+//=======================================================================================================================================================================================================================================================================================================================================================
+
+    {
+      "titulo": "Poder Executivo — Art. 84 a 89",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Presidente da República — Chefe de Estado e de Governo",
+          "texto": "No presidencialismo brasileiro, o **Presidente da República** é simultaneamente **Chefe de Estado** e **Chefe de Governo** (Art. 84, caput).\n\n**Funções de Chefe de Estado:**\n- Representar a Nação;\n- Garantir a ordem constitucional;\n- Comandar as Forças Armadas;\n- Conduzir relações exteriores.\n\n**Funções de Chefe de Governo:**\n- Administrar o país;\n- Propor a legislação;\n- Executar as leis;\n- Gerenciar a economia e a política interna.\n\n🧠 **MNEMÔNICO:** 'Presidente = Estado + Governo' — no Brasil, as duas funções são acumuladas no mesmo cargo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atribuições do Presidente (Art. 84, caput e parágrafos)",
+          "texto": "Art. 84, caput: 'O Presidente da República dirige a política nacional, com as funções de chefe de Estado e de governo, sendo o chefe da execução, e tem as seguintes atribuições:'\n\n**Principais atribuições (Art. 84, I a XVII):**\n- **I:** Legislar com decreto (medida provisória);\n- **II:** Sanctionar ou vetar leis;\n- **III:** Manter a ordem pública;\n- **IV:** Organizar a administração pública;\n- **V:** Conduzir a política nacional de defesa;\n- **VI:** Conduzir a política nacional de relações exteriores;\n- **VII:** Celebrar tratados e convenções internacionais;\n- **VIII:** Conduzir a política nacional de economia;\n- **IX:** Nomear e exonerar ministros;\n- **X:** Nomear juízes do STF (com aprovação do Senado);\n- **XI:** Nomear e exonerar embaixadores;\n- **XII:** Nomear comissões reguladoras;\n- **XIII:** Comandar as Forças Armadas;\n- **XIV:** Declarar estado de sítio e estado de defesa;\n- **XV:** Nomear governadores de Territórios Federais;\n- **XVI:** Promulgar leis e decretos;\n- **XVII:** Outras atribuições definidas em lei.\n\n⚠️ **Pegadinha:** A banca afirma que o Presidente pode legislar por decreto. **ERRADO.** O Presidente pode editar **medidas provisórias** (que têm força de lei), mas não decrees comuns."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vice-Presidente da República",
+          "texto": "O **Vice-Presidente** é eleito na mesma chapa do Presidente (Art. 12, §4º, II).\n\n**Funções:**\n- Substituir o Presidente em caso de impedimento;\n- Presidir o Conselho de Segurança Nacional;\n- Coordenar a articulação do governo no Congresso.\n\n**Eleição:** voto direto e secreto, na mesma chapa do Presidente.\n\n⚠️ **Pegadinha:** A banca afirma que o Vice-Presidente é eleito separadamente do Presidente. **ERRADO.** São eleitos juntos (chapa única)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Frequentes",
+          "texto": "❌ 'O Presidente pode legislar por decreto comum.' → **ERRADO** (medida provisória, não decreto).\n❌ 'O Vice-Presidente é eleito separadamente.' → **ERRADO** (chapa única).\n❌ 'O Presidente pode nomear ministros sem aprovação do Senado.' → **ERRADO** (exige aprovação do Senado para ministros do STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Judiciário — Art. 92 a 109",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Estrutura do Poder Judiciário",
+          "texto": "O Poder Judiciário é organizado em **dois ramos principais**:\n\n**1. Justiça Comum:**\n- **STF (Supremo Tribunal Federal):** corte constitucional, competência sobre ações direitas de inconstitucionalidade, ADPF, ADI, ADC, ADO.\n- **STJ (Superior Tribunal de Justiça):** competência sobre recursos federais de matéria não constitucional.\n- **TRFs (Tribunais Regionais Federais):** 4 regiões, competência sobre crimes federais e ações federais.\n- **TJs (Tribunais de Justiça):** 1 por Estado e DF, competência sobre matéria estadual.\n- **Justiça Especial Cível e Criminal:** competência sobre causas de menor complexidade.\n\n**2. Justiça Especial:**\n- **TSE (Tribunal Superior Eleitoral):** competência sobre matéria eleitoral.\n- **TST (Tribunal Superior do Trabalho):** competência sobre matéria trabalhista.\n- **TJMs (Tribunais Militares):** competência sobre crimes militares.\n\n🧠 **MNEMÔNICO:** 'STF-STJ-TRF-TJ-TSE-TST-TJM' — ordem de hierarquia."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Supremo Tribunal Federal (STF) — Art. 93",
+          "texto": "**Função:** é a **corte constitucional** do Brasil, com competência para:\n\n- Julgar ações diretas de inconstitucionalidade (ADI, ADO);\n- Julgar ações declaratórias de constitucionalidade (ADC);\n- Julgar arguições de descumprimento de preceito fundamental (ADPF);\n- Julgar recursos de constitucionalidade;\n- Julgar ações penais de crimes de responsabilidade;\n- Julgar ações de improbidade administrativa de alta relevância.\n\n**Composição:** 11 ministros, nomeados pelo Presidente da República com aprovação do Senado Federal, por 2/3 (Art. 10, caput).\n\n**Presidente do STF:** eleito pelo plenário, por 2 anos, entre os ministros.\n\n⚠️ **Pegadinha:** A banca afirma que o STF é o tribunal mais alto do Brasil. **ERRADO.** O STF é a **corte constitucional**; o STJ é o **tribunal de recurso** mais alto para matérias não constitucionais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Superior Tribunal de Justiça (STJ) — Art. 95",
+          "texto": "**Função:** é o **tribunal de recurso** mais alto para matérias **não constitucionais** (direito comum, direito penal comum, direito processual comum).\n\n**Competências principais:**\n- Recursos de matéria não constitucional;\n- Ações de constitucionalidade indireta (quando o STF não tem competência);\n- Julgamento de crimes federais de menor complexidade.\n\n**Composição:** 16 ministros, nomeados pelo Presidente da República com aprovação do Senado Federal.\n\n⚠️ **Pegadinha:** A banca afirma que o STJ julga ações de inconstitucionalidade. **ERRADO.** O STJ julga **recursos de constitucionalidade** (quando o STF não tem competência), mas não ações diretas de inconstitucionalidade (ADI, ADO, ADPF)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tribunais Regionais Federais (TRFs) e Tribunais de Justiça (TJs)",
+          "texto": "**TRFs (Tribunais Regionais Federais):**\n- 4 regiões (SP/RJ/EI, RJ/ES/RR, DF/GO/MT/TO, RS/SC/PR).\n- Competência sobre crimes federais e ações federais.\n- Presidente nomeado pelo STF.\n\n**TJs (Tribunais de Justiça):**\n- 1 por Estado e DF.\n- Competência sobre matéria estadual (crimes estaduais, ações cíveis estaduais).\n- Presidente eleito entre os desembargadores.\n\n**Justiça Especial:**\n- Competência sobre causas de menor complexidade (valor abaixo de 60 salários mínimos).\n- Não há recursos (decisão é final).\n\n⚠️ **Pegadinha:** A banca afirma que os TRFs julgam crimes estaduais. **ERRADO.** TRFs julgam **crimes federais**; TJs julgam **crimes estaduais**."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – A Pirâmide do Poder Judiciário",
+          "texto": "Pense no Poder Judiciário como uma pirâmide:\n\n- **Topo:** STF (constitucional) e STJ (não constitucional).\n- **Meio:** TRFs (federais) e TJs (estaduais).\n- **Base:** Vários (juízos de primeiro grau).\n- **Laterais:** TSE (eleitoral), TST (trabalho), TJMs (militar).\n\nCada nível tem uma 'especialidade': STF protege a Constituição, STJ protege o direito comum, TRFs lidam com crimes federais, TJs lidam com crimes estaduais."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais (Executivo e Judiciário)",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'Presidente = Estado + Governo'** — funções acumuladas no presidencialismo.\n- **'STF-STJ-TRF-TJ-TSE-TST-TJM'** — hierarquia do Poder Judiciário.\n- **'STF = constitucional / STJ = não constitucional'** — especialidades.\n- **'TRF = federal / TJ = estadual'** — competências.\n- **'Chapa única'** — Presidente e Vice eleitos juntos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'O Presidente pode legislar por decreto comum.' → **ERRADO** (medida provisória).\n❌ 'O Vice-Presidente é eleito separadamente.' → **ERRADO** (chapa única).\n❌ 'STF é o tribunal mais alto do Brasil.' → **ERRADO** (é a corte constitucional; STJ é o mais alto para não constitucional).\n❌ 'STJ julga ADIs.' → **ERRADO** (STF julga ADIs; STJ julga recursos de constitucionalidade).\n❌ 'TRF julga crimes estaduais.' → **ERRADO** (TJ julga crimes estaduais; TRF julga crimes federais)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Presidente: Chefe de Estado e Governo (presidencialismo), Art. 84 (17 atribuições).\n✅ Vice-Presidente: eleito na chapa única, substitui o Presidente.\n✅ STF: corte constitucional, 11 ministros, julga ADI/ADC/ADPF/ADO.\n✅ STJ: tribunal de recursos não constitucionais, 16 ministros.\n✅ TRFs: 4 regiões, crimes federais.\n✅ TJs: 1 por Estado/DF, crimes estaduais.\n✅ TSE: matéria eleitoral. TST: matéria trabalhista. TJMs: crimes militares."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/9.2.jpg"
+        }
+      ]
+    }
+  ]
+};

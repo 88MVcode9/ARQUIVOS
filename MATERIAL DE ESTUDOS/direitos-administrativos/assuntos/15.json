@@ -1,0 +1,173 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['15.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Resumo Geral e Correções",
+  "icone": "📚",
+  "descricao": "Resumo geral de Direito Administrativo com correções, aprofundamentos e novos assuntos: Sistemas Administrativos, Autotutela, Organização Administrativa, Agentes Públicos, Bens Públicos, Processo Administrativo Federal, Improbidade Administrativa e Intervenção na Propriedade Privada.",
+  "topicos": [
+    {
+      "titulo": "Sistemas Administrativos — Correção",
+      "cards": [
+        {
+          "tipo": "errado",
+          "titulo": "O que estava errado",
+          "texto": "O texto afirmava que o sistema adotado no Brasil é o 'inglês / jurisdição única'."
+        },
+        {
+          "tipo": "certo",
+          "titulo": "Correção",
+          "texto": "O Brasil adota o **Sistema Francês de Jurisdição Única** (ou simplesmente **Jurisdição Única**). A expressão correta e técnica utilizada no direito brasileiro é **Jurisdição Única** (consagrada no art. 5º, XXXV, da CF/88 — princípio da inafastabilidade da jurisdição).\n\nO sistema inglês puro difere em histórico do modelo brasileiro, que absorveu a jurisdição única, mas mantém a dualidade de instâncias administrativas e judiciais sob o monopólio da função jurisdicional pelo Poder Judiciário para decisões definitivas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Sistemas Comparados",
+          "texto": "**Sistema Francês (adotado pelo Brasil):**\n- Jurisdição Única (um único Poder Judiciário);\n- Dualidade de instâncias (1ª Instância e Tribunais de Segundo Grau);\n- Monopólio da função jurisdicional pelo Poder Judiciário;\n- Decisões definitivas são do Poder Judiciário.\n\n**Sistema Inglês (Common Law):**\n- Jurisdição Única (também);\n- Mas difere no histórico e na aplicação do precedente (stare decisis);\n- O Brasil não adotou o sistema inglês puro."
+        }
+      ]
+    },
+    {
+      "titulo": "Autotutela — Correção e Aprofundamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Anulação — Efeitos e Limites (Art. 54, Lei 9.784/99)",
+          "texto": "A anulação tem efeito **ex tunc** (retroativo ao início). A Administração pode anular seus atos ilegais, mas há limites importantes:\n\n**1. Prazo decadencial:** A anulação administrativa prescreve em **5 anos**, contados da data em que o ato foi praticado (Art. 54, Lei 9.784/99). Passado esse prazo, o ato torna-se **irreversible** (consolidado), salvo se houver **má-fé** do beneficiário (quando não há prazo decadencial).\n\n**2. Consolidação de direitos legítimos:** Atos nulos que geraram **efeitos de boa-fé** para terceiros de boa-fé ou que já passaram do prazo decadencial **não podem ser anulados indefinidamente** pela Administração, se houver **consolidação de direitos legítimos** (salvo má-fé).\n\n**3. Ato flagrantemente inconstitucional:** Atos nulos de plenitude (ex: provimento de cargo sem concurso) não se sujeitam ao prazo decadencial — a nulidade é absoluta e pode ser reconhecida a qualquer tempo (STF)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Revogação — Efeitos e Limites",
+          "texto": "A revogação tem efeito **ex nunc** (prospectivo, não retroativo). Apenas a Administração pode revogar atos válidos por conveniência ou oportunidade. O Judiciário **nunca** revoga — apenas anula por ilegalidade.\n\n**Respeito a direitos adquiridos:** A revogação não pode lesar direitos adquiridos de terceiros que tenham adquirido posição de confiança (boa-fé) com base no ato revogado."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo de prova",
+          "texto": "Anular = Ilegalidade (efeito *ex tunc*). Revogar = Conveniência (efeito *ex nunc*).  \n**PEGADINHA:** A Administração pode ANULAR e REVOGAR. O Judiciário só ANULA (nunca revoga)!  \n**DECADÊNCIA:** Anulação administrativa prescreve em 5 anos (Art. 54, Lei 9.784/99), salvo má-fé. Atos inconstitucionais flagrantes não prescrevem."
+        }
+      ]
+    },
+    {
+      "titulo": "Organização Administrativa — Aprofundamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Descentralização vs. Concentração/Desconcentração",
+          "texto": "**Concentração:** o Estado centraliza todas as atividades em uma única estrutura. Não há divisão de competências.\n\n**Desconcentração:** divisão interna da Administração Direta, criando órgãos subordinados à mesma pessoa jurídica. Mantém hierarquia e subordinação. Não cria nova personalidade jurídica.\n\n**Descentralização:** transferência de competências para uma nova pessoa jurídica (Administração Indireta). Pode ser por outorga (transferência de titularidade + execução, por lei) ou por delegação (apenas execução, por contrato). Não há hierarquia, apenas tutela ou supervisão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regime Jurídico das EP e SEM",
+          "texto": "**Empresas Públicas (EP):** capital 100% público. Respondem perante a **Justiça Federal** (Art. 109, I, CF).\n\n**Sociedades de Economia Mista (SEM):** capital misto, maioria pública (≥51%). Respondem perante a **Justiça Estadual** (Súmula 556 STF), salvo se a União intervier na causa.\n\n**Imunidade tributária:** EP e SEM que exploram atividade econômica NÃO têm imunidade (Art. 173, §2º, CF). A imunidade recíproca é automática apenas para autarquias e fundações públicas de direito público."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fundações Públicas",
+          "texto": "**Direito Público:** criadas por lei específica, personalidade jurídica de direito público, seguem regime de autarquia. Ex: FUNAI, Fiocruz.\n\n**Direito Privado:** criadas por autorização legal e registro, personalidade jurídica de direito privado, maior flexibilidade. Ex: Fundação Getúlio Vargas (FGV).\n\n**Autarquias Fundacionais:** reúnem características autárquicas e fundacionais (ex: FUNAI)."
+        }
+      ]
+    },
+    {
+      "titulo": "Agentes Públicos — Novo Assunto (12.json)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Agentes Públicos",
+          "texto": "**Políticos:** nomeados pelo Poder Político, sem estabilidade, podem ser exonerados a qualquer tempo (ad nutum). Ex: Ministro, Secretário.\n\n**Administrativos:** nomeados por concurso público, com estabilidade (após 3 anos). Regidos pela Lei 8.112/90. Ex: Servidor de cartório, professor estadual.\n\n**Honoríficos:** cargo ou função comissionada sem vencimento, exercida por particulares. Ex: Advogado do Estado.\n\n**Delegados:** particulares ou empresas autorizadas a exercer atividade estatal. Ex: Correios.\n\n**Credenciados:** particulares ou empresas credenciadas para prestar serviço público. Ex: Médico credenciado ao SUS."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Acumulação de Cargos (Art. 37, XVI e XVII da CF/88)",
+          "texto": "É vedada a acumulação de cargos públicos, salvo cargos de professor efetivo, de livre eleição e os que a lei específica dispuser em contrário. Quando permitida, o agente percebe apenas o vencimento do cargo de maior valor (regra do vencimento único)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cargos em Comissão × Funções de Confiança × Empregados",
+          "texto": "**Cargos em Comissão:** nomeação política, sem estabilidade, vencimento compatível. Ex: Secretário municipal.\n\n**Funções de Confiança:** assessoramento técnico, sem vencimento, preenchidas por servidores estáveis. Ex: Assessor técnico.\n\n**Empregados Públicos:** regidos pela CLT, estabilidade após 3 anos. Ex: Empregado de limpeza."
+        }
+      ]
+    },
+    {
+      "titulo": "Bens Públicos — Aprofundamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação por Destinação (Art. 99 CC)",
+          "texto": "**Bens de Uso Comum do Povo:** destino ao uso coletivo e gratuito (ruas, praias, parques). Inalienáveis enquanto afetados.\n\n**Bens de Uso Especial:** afetados ao uso da Administração (escolas, hospitais, quartéis). Inalienáveis enquanto afetados.\n\n**Bens Dominicais:** sem destinação pública definida. Podem ser alienados mediante desafetação, licitação e autorização legislativa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atributos dos Bens Públicos",
+          "texto": "**Inalienabilidade Relativa:** não podem ser vendidos (exceto bens dominicais desafetados).\n\n**Impenhorabilidade:** não podem ser penhorados para pagamento de dívidas.\n\n**Imprescritibilidade:** não se perdem por usucapião (Súmula 340 STF).\n\n**Inonerabilidade:** não podem ser dados em garantia real (hipoteca, penhor, anticrese)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Súmulas Aplicáveis",
+          "texto": "**Súmula 340 STF:** bens públicos não podem ser adquiridos por usucapião.\n\n**Súmula 619 STJ:** ocupante de imóvel público sem título formal não faz jus à indenização por benfeitorias.\n\n**Súmula 102 STF:** responsabilidade objetiva do Estado pelos danos causados por suas obras e serviços."
+        }
+      ]
+    },
+    {
+      "titulo": "Processo Administrativo Federal — Novo Assunto (13.json)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios do Processo Administrativo Federal",
+          "texto": "**Contraditório e Ampla Defesa:** constitucionais (Art. 5º, LV e LVI, CF). Todo interessado deve ser ouvido antes da decisão.\n\n**Verdade Material:** o processo deve buscar os fatos reais, independentemente de formalidades.\n\n**Oficialidade:** atos devem ser registrados em processo físico ou eletrônico.\n\n**Informalismo:** admite flexibilidade para evitar excessos formais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Impedimento e Suspeita de Autoridades",
+          "texto": "**Impedimento:** causa objetiva e legal (parentesco até 4º grau, interesse direto/indireto, relação de emprego, adjudicação, anterioridade, inimizade). O ato é nulo de pleno direito.\n\n**Suspeita:** causa subjetiva (dúvida sobre imparcialidade). Depende da percepção do interessado. O interessado deve manifestar por requerimento fundamentado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Recursos",
+          "texto": "**Recurso Administrativo:** 10 dias, efeito suspensivo. Autoridade tem 30 dias para decidir.\n\n**Pedido de Reconsideração:** 5 dias, dirigido à mesma autoridade.\n\n**Recurso Hierárquico:** próprio (mesmo órgão), impróprio (outro órgão com supervisão), obrigatório (de ofício)."
+        }
+      ]
+    },
+    {
+      "titulo": "Improbidade Administrativa — Novo Assunto (14.json)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei 14.230/2021 — Principais Mudanças",
+          "texto": "**1. Extinção da modalidade culposa:** só existem atos de improbidade com DOLO (intencionalidade).\n\n**2. Rol taxativo de atos:** enriquecimento ilícito, prejuízo ao erário, violação aos princípios.\n\n**3. Legitimidade exclusiva do MP:** a Fazenda Pública perdeu a legitimidade concorrente na Ação Civil Pública de improbidade (decisão do STF).\n\n**4. Prescrição:** 5 anos, absoluta e irretratável."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Sanções",
+          "texto": "Perda da função pública, suspensão dos direitos políticos (2 a 10 anos), multa civil (100 a 100.000 vezes o prejuízo), rescisão de contrato, indisponibilidade de bens, publicação da condenação."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu de Prova",
+          "texto": "**Lei 14.230/2021:** só existe improbidade com **DOLO** (não mais culposa).  \n**MP tem legitimidade exclusiva** (Fazenda Pública perdeu a legitimidade concorrente).  \n**Prescrição:** 5 anos.  \n**Sanções:** perda da função, suspensão de direitos políticos, multa civil, rescisão de contrato, indisponibilidade de bens."
+        }
+      ]
+    },
+    {
+      "titulo": "Intervenção do Estado na Propriedade Privada — Novo Assunto (15.json)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Desapropriação",
+          "texto": "Extinção do direito de propriedade mediante indenização prévia, justa e em dinheiro. Competência da União (Estados/Municípios precisam de autorização). Fases: expropriação, indiva, pagamento, averiguação, escritura pública.\n\n**Exceções ao pagamento em dinheiro:** títulos da dívida pública em reforma agrária/urbana, obras de interesse coletivo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Outras Formas de Intervenção",
+          "texto": "**Servidão Administrativa:** limitação do uso para passagem/utilidade pública, sem extinguir a propriedade. É onerosa.\n\n**Limitação Administrativa:** restrição do uso para proteger interesses públicos. É gratuita.\n\n**Requisição Administrativa:** ocupação temporária mediante indenização, para necessidade pública urgente.\n\n**Ocupação Temporária:** ocupação temporária sem indenização, em casos de emergência."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu das Formas de Intervenção",
+          "texto": "**Desapropriação** = extinção da propriedade + indenização em dinheiro.  \n**Servidão** = uso passivo do bem + indenização.  \
+**Limitação** = restrição de uso + sem indenização.  \
+**Requisição** = ocupação temporária + indenização.  \
+**Ocupação temporária** = ocupação temporária + sem indenização (em casos de emergência)."
+        }
+      ]
+    }
+  ]
+}
+;

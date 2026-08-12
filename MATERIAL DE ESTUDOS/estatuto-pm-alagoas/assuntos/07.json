@@ -1,0 +1,245 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['07.json']=
+{
+  "materia": "Estatuto de Alagoas",
+  "titulo": "Consolidado da Legislação Aplicável à Polícia Militar de Alagoas",
+  "descricao": "Resumo completo dos principais diplomas legais que regem a Polícia Militar de Alagoas (PMAL), incluindo o Código Penal (Parte Geral), a Lei Orgânica Nacional das PMs e CBMs (Lei 14.751/2023), o Estatuto dos Policiais Militares de Alagoas (Lei 5.346/1992), os Regulamentos Disciplinares (Decretos 37.042/1996 e 15.346/2003), e noções sobre remuneração, vantagens e processo penal militar. Abrange desde os princípios penais fundamentais até as regras de hierarquia, disciplina, direitos, deveres, carreira e procedimentos administrativos e judiciais militares.",
+  "topicos": [
+    {
+      "titulo": "Código Penal – Parte Geral (Arts. 1º a 120)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Aplicação da lei penal",
+          "texto": "Princípio da legalidade (Art. 1º): não há crime sem lei anterior. Lei penal no tempo (Art. 2º): retroage só para beneficiar (novatio legis in mellius). Lei excepcional/temporária (Art. 3º): ultra-atividade. Tempo do crime (Art. 4º): teoria da atividade (ação/omissão). Lugar do crime (Art. 6º): teoria da ubiquidade (ação ou resultado). Territorialidade e extraterritorialidade (Arts. 5º e 7º)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Teoria tripartite do crime",
+          "texto": "Crime = fato típico + ilicitude + culpabilidade. Fato típico: conduta (dolosa ou culposa), resultado, nexo e tipicidade. Ilicitude: contrariedade ao ordenamento. Culpabilidade: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Dolo, culpa e excludentes",
+          "texto": "Dolo (Art. 18): vontade consciente (direto ou eventual). Culpa: negligência, imprudência ou imperícia – só punível se prevista. Excludentes de ilicitude (Art. 23): estado de necessidade (Art. 24), legítima defesa (Art. 25), estrito cumprimento do dever legal e exercício regular de direito. Legítima defesa do agente de segurança pública (Art. 25, p.ú): inclui refém, com moderação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Imputabilidade, erro e concurso",
+          "texto": "Imputabilidade (Art. 26): capacidade de entender e determinar-se. Inimputáveis: doentes mentais e menores de 18 anos. Erro de proibição (Art. 21): inevitável isenta; evitável reduz de 1/6 a 1/3. Erro de tipo (Art. 20): inevitável exclui dolo e culpa; evitável exclui dolo, mas pune por culpa se prevista. Coação irresistível e obediência hierárquica (Art. 22) excluem culpabilidade se ordem não for manifestamente ilegal. Concurso de pessoas (Art. 29): autoria, coautoria e participação. Concurso de crimes (Arts. 69-71): material (soma), formal (exasperação) e continuado (aumento de 1/6 a 2/3)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Penas e extinção da punibilidade",
+          "texto": "Espécies (Art. 32): privativas de liberdade (reclusão/detenção), restritivas de direitos e multa. Regimes (Art. 33): fechado, semiaberto, aberto. Aplicação (Art. 59): juiz fixa conforme culpabilidade, antecedentes, etc. Limite máximo (Art. 75): 40 anos. Extinção (Arts. 107-120): morte, anistia, graça, indulto, abolitio criminis, prescrição, decadência, perempção, renúncia, perdão."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Gatilhos mentais e pegadinhas",
+          "texto": "📌 Tempo do crime = teoria da atividade; lugar do crime = ubiquidade. Retroatividade só para beneficiar. Concurso material = soma; formal = exasperação; continuado = aumento. Erro de tipo inevitável = exclui dolo e culpa; evitável = exclui dolo, pune por culpa. Emoção/paixão e embriaguez voluntária não excluem imputabilidade. Coação irresistível e obediência hierárquica excluem culpabilidade apenas se ordem não manifestamente ilegal."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei Orgânica Nacional das PMs e CBMs (Lei 14.751/2023)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Finalidade e princípios",
+          "texto": "Estabelece normas gerais para a organização, funcionamento e atuação das PMs e CBMs em todo o Brasil, uniformizando princípios, competências, direitos, deveres, carreira e uso da força, sem retirar a autonomia dos Estados. Princípios: legalidade, impessoalidade, moralidade, publicidade, eficiência, hierarquia, disciplina, proteção dos direitos humanos, uso proporcional da força e transparência."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Missão constitucional: PM x CBM",
+          "tabela": {
+            "colunas": ["Corporação", "Missão", "Exemplos"],
+            "linhas": [
+              ["Polícia Militar", "Polícia ostensiva e preservação da ordem pública", "Patrulhamento, policiamento escolar/rural/eventos, trânsito, ambiental, choque, montada, inteligência policial."],
+              ["Corpo de Bombeiros Militar", "Proteção civil, combate a incêndios, busca e salvamento, defesa civil", "Resgate, combate a incêndios, defesa civil, APH (quando previsto)."]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Vedações importantes",
+          "texto": "Investigação criminal NÃO é competência da PM – pertence à Polícia Civil ou Federal. PM preserva local e prende em flagrante, mas não investiga. Uso da força deve ser excepcional, progressivo e proporcional (necessidade, legalidade, proporcionalidade, moderação, responsabilidade). Arma de fogo é último recurso."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Carreira, ingresso e inatividade",
+          "texto": "Ingresso por concurso público, formação, estágio probatório, promoções (antiguidade, merecimento, bravura, invalidez), aperfeiçoamento, reserva remunerada e reforma. Idade, altura e demais requisitos definidos em lei estadual. Inatividade por idade (70/72 anos), tempo de serviço ou invalidez. Militar da ativa é inelegível; para se candidatar deve ser agregado (<10 anos) ou transferido para a reserva (≥10 anos)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estatuto dos Policiais Militares de Alagoas (Lei 5.346/1992)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "atencao e abrangência",
+          "texto": "Lei que regula a situação, deveres, direitos, carreira, hierarquia, disciplina e regime jurídico dos militares estaduais de Alagoas. A PMAL é instituição permanente, organizada com base na hierarquia e disciplina, subordinada ao Governador, incumbida da polícia ostensiva e preservação da ordem pública."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Hierarquia, disciplina e ingresso",
+          "texto": "Hierarquia: ordenação da autoridade (Soldado → Cabo → Sargento → Oficial). Disciplina: rigorosa observância das leis, regulamentos e ordens. Ingresso (Art. 7º): concurso público, com requisitos: grau de instrução (médio/superior), idade (ex.: 18-40 anos para Oficial), altura mínima (1,65m homem / 1,60m mulher), aptidão física e mental, idoneidade moral. Cargos de Oficial privativos de brasileiro nato."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direitos e deveres (Arts. 30 e 31)",
+          "texto": "Direitos: salário, férias, licenças (saúde, maternidade, prêmio), promoções, uso de insígnias, prisão especial (sala de Estado-Maior), porte de arma. Deveres: frequentar expediente, zelar pela farda, tratar o público com respeito, residir na unidade, manter boa conduta. O militar responde integralmente por suas decisões e atos; ordem manifestamente ilegal não deve ser cumprida."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Promoções (Lei 6.514/2004)",
+          "texto": "Critérios: merecimento (avaliação intelectual e profissional), ato de bravura (excedente), invalidez permanente. Aplica-se a soldados, cabos, subtenentes, oficiais e bombeiros."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Inatividade e afastamentos",
+          "texto": "Reserva remunerada: tempo de serviço (35 anos QOEM / 42 anos QOE) ou idade limite (70 anos); pode ser convocado. Reforma: invalidez ou outras hipóteses; não retorna ao serviço ativo. Afastamentos: férias (30 dias), núpcias (8 dias), luto (8 dias), instalação (5 dias). Licenças: especial (3 meses a cada 5 anos), tratamento de saúde, maternidade, paternidade, interesse particular (até 2 anos, sem remuneração, só para estáveis)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Agregação e reversão",
+          "texto": "Agregação: situação em que o PM da ativa deixa de ocupar vaga na escala hierárquica, sem número, para exercer cargo comissionado, eletivo, missão especial, atividade acadêmica, etc. O agregado mantém vínculo e tempo de serviço. Reversão: retorno à ativa após cessar o motivo, com o mesmo posto e patente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Conselho de Justificação x Conselho de Disciplina",
+          "tabela": {
+            "colunas": ["Critério", "Conselho de Justificação", "Conselho de Disciplina"],
+            "linhas": [
+              ["Destinado a", "Oficiais", "Praças estáveis"],
+              ["Composição", "Presidido pelo Comandante-Geral ou representante; oficiais-gerais e oficiais", "Presidido pelo Comandante-Geral ou representante; oficiais e praças"],
+              ["Natureza", "Inquérito remetido ao TJE (processo judicial militar)", "Processo administrativo disciplinar interno"],
+              ["Prazo", "90 dias, prorrogáveis por igual período", "60 dias, prorrogáveis por igual período"],
+              ["Objetivo", "Perda do posto e patente", "Exclusão ou licenciamento a bem da disciplina"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Exclusão do serviço ativo",
+          "texto": "Oficiais: demissão, licenciamento, perda do posto/patente (TJE), reforma. Praças: licenciamento, exclusão do serviço ativo, reforma. Licenciamento a bem da disciplina: PM com 5 anos de serviço, classificado no mau comportamento, que pratique nova transgressão. Cancelamento do registro de punição pode ser requerido após prazo legal sem nova punição."
+        }
+      ]
+    },
+    {
+      "titulo": "Regulamentos Disciplinares (RDPMAL – Decretos 37.042/1996 e 15.346/2003)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "atencao e finalidade",
+          "texto": "Código de conduta e punições da PMAL, instituído pelo Decreto 37.042/1996 e complementado pelo Decreto 15.346/2003. Visa preservar a hierarquia, disciplina, ética e eficiência, aplicando-se a todos os militares estaduais da ativa, em serviço ou de folga."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Transgressão disciplinar",
+          "texto": "Toda ação ou omissão contrária aos deveres militares, obrigações funcionais ou normas disciplinares. Classifica-se em leve, média ou grave. Uma mesma conduta pode gerar responsabilidades disciplinar, administrativa e penal, independentes e cumuláveis."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Punições (ordem crescente)",
+          "texto": "1. Advertência verbal (sem registro); 2. Repreensão (registro escrito); 3. Detenção (1 a 10 dias, sem prejuízo do serviço); 4. Prisão administrativa (isolamento, perda de folgas, 1 a 30 dias); 5. Exclusão/licenciamento a bem da disciplina (para Praças sem estabilidade) ou perda de posto/patente (Oficiais mediante processo)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atenuantes e agravantes",
+          "texto": "Atenuantes: bons antecedentes, confissão, coação, falta de prática, baixo grau de instrução. Agravantes: reincidência (1 ano), concurso de pessoas, abuso de autoridade, premeditação, dano à imagem da PM, prática em serviço ostensivo."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Competência para punir",
+          "texto": "Comandante-Geral: todas as penas, inclusive exclusão. Comandante de Unidade: até 20 dias de prisão. Comandante de Subunidade: até 10 dias. Comandante de Pelotão: até 5 dias (advertência e repreensão)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Comunicação disciplinar e parte disciplinar (Decreto 15.346)",
+          "texto": "Comunicação disciplinar: qualquer pessoa comunica infração de superior. Parte disciplinar: superior registra infração de subordinado. Ambas em até 2 dias úteis. Causas de justificação excluem a transgressão (legítima defesa, estado de necessidade, estrito cumprimento do dever, exercício regular de direito, coação irresistível, obediência a ordem legal). Isenção de punição é discricionária e fundamentada."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Processo disciplinar, prescrição e recursos",
+          "texto": "Observa legalidade, contraditório, ampla defesa, proporcionalidade. Prescrição: 1 ano (leve), 2 anos (média), 3 anos (grave), contados do fato ou da cessação da permanência; instauração ou notificação interrompe. Recursos: hierárquico, ao Conselho de Disciplina, pedido de reconsideração (efeito suspensivo só quando previsto)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Comportamento, recompensas e deserção",
+          "texto": "Classificação disciplinar: excepcional, bom ou mau – influencia promoções e licenças. Recompensas: elogio, louvor, medalhas, menção honrosa, dispensa do serviço. Ausente: afasta-se sem autorização; desertor: ausência > 8 dias consecutivos (crime militar). Desaparecido/extraviado: paradeiro desconhecido; após 30 dias, extraviado."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Procedimentos apuratórios",
+          "texto": "Investigação Preliminar (fase inicial, célere); Sindicância (apuração completa, pode culminar em penalidade); PADS (Processo Administrativo Disciplinar Simplificado) – rito para aplicar sanções com contraditório e ampla defesa."
+        }
+      ]
+    },
+    {
+      "titulo": "Remuneração, Vantagens e Indenizações",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Soldo x Vencimentos",
+          "texto": "Soldo: parcela de natureza estritamente militar, paga mensalmente ao militar em atividade. Vencimentos: conjunto formado pelo soldo acrescido de vantagens, gratificações e indenizações. Princípio da irredutibilidade: vencimentos não podem ser reduzidos, salvo exceções legais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Gratificações e adicionais",
+          "texto": "Principais: Gratificação por Tempo de Serviço (GTS), Gratificação de Disponibilidade, Gratificação por Risco de Vida/Operacional, Gratificação por Habilitação Profissional, Adicional noturno, Adicional de local de serviço, Insalubridade/Periculosidade (quando aplicável), Gratificações por função de chefia/comando. Algumas parcelas são acumuláveis; outras, não – a legislação específica disciplina."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Indenizações e reembolsos",
+          "texto": "Natureza compensatória: diárias por missão, ajuda de custo em mudança de sede, reembolso de despesas de serviço, transporte, alimentação. Não integram a base de cálculo de vencimentos ou previdência, salvo disposição legal em contrário."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Base de cálculo para previdência e inatividade",
+          "texto": "É importante verificar quais parcelas integram a base de cálculo de proventos de inatividade e contribuição previdenciária. Nem todas as gratificações e indenizações se incorporam automaticamente; a incorporação depende de previsão legal e da natureza permanente da parcela."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dicas para provas",
+          "texto": "Questões costumam confundir soldo com vencimentos e perguntar quais parcelas se incorporam à inatividade. Sempre: (1) identifique a natureza da parcela (remuneratória ou indenizatória); (2) cheque expressão legal sobre incorporação; (3) verifique a existência de vedação de acumulação."
+        }
+      ]
+    },
+    {
+      "titulo": "Justiça e Processo Penal Militar",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Competência e fontes normativas",
+          "texto": "O policial militar está sujeito ao Código Penal Militar (CPM) e ao Código de Processo Penal Militar (CPPM). A Justiça Militar estadual (Tribunal de Justiça Militar ou órgão equivalente) é competente para crimes militares propriamente ditos, além de competência subsidiária para crimes comuns praticados por militares em serviço. Distinção entre tempo de paz e tempo de guerra (art. 9º do CPM): a tipificação pode variar."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Infrações militares comuns",
+          "itens": [
+            "Insubordinação",
+            "Desrespeito a superior",
+            "Recusa de obediência",
+            "Abandono de posto",
+            "Porte irregular de arma funcional em serviço irregular",
+            "Ausência injustificada (ausente/deserção)"
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Fluxo procedimental",
+          "texto": "Sindicância preliminar (quando aplicável) → Instauração de Inquérito Policial Militar (IPM) → Denúncia/atos formais → Instrução (oitiva de testemunhas, produção de provas) → Julgamento por Conselho competente ou Juízo Militar → Recursos. Medidas cautelares: prisão em flagrante, prisão preventiva e afastamento cautelar, observando requisitos constitucionais (fundamentação, proporcionalidade, prazo)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Garantias processuais do militar",
+          "texto": "Direito à defesa (advogado), contraditório, ampla defesa, presunção de inocência, acesso aos autos, prazo para resposta à acusação e recursos regimentais. O Ministério Público Militar (MPM) atua na fiscalização da lei penal militar, promoção da ação penal e acompanhamento do processo."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dicas para provas",
+          "texto": "Explore a diferença entre crime militar em tempo de paz e em tempo de guerra (art. 9º CPM), competência (Justiça Militar vs Justiça comum) e o procedimento: quando cabe sindicância e quando instaura-se IPM. Memorize o fluxo e as garantias para não errar."
+        }
+      ]
+    }
+  ]
+};

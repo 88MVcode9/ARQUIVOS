@@ -1,0 +1,127 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Direitos Constitucionais",
+  "titulo": "Teoria da Constituição e Poder Constituinte",
+  "icone": "🏛️",
+  "descricao": "Análise da Teoria da Constituição e do Poder Constituinte na CF/88, abrangendo classificações das constituições (origem, forma, estabilidade, dogmática), Poder Constituinte Originário (características, limites) e Poder Constituinte Derivado (reformador, revisor, difusor/decentralizador), cláusulas pétreas (Art. 60, §4º), e a relação entre Poder Constituinte e Poder Constituído, com mnemônicos, pegadinhas e exemplos práticos.",
+  "data": "2026-07-27",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Classificações das Constituições",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Classificação por Origem",
+          "texto": "**Constituição Promulgada:**\n- Resulta de um processo de elaboração formal (assembleia constituinte, congresso, etc.).\n- Exemplo: Constituição de 1988 (promulgada por Assembleia Nacional Constituinte).\n\n**Constituição Outorgada:**\n- Resulta de um ato unilateral de um governante (monarca, ditador, etc.).\n- Exemplo: Constituição de 1967 (outorgada por Costa e Silva).\n\n🧠 **MNEMÔNICO:** 'Promulgada = coletiva (assembleia) / Outorgada = individual (governante).'"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação por Forma",
+          "texto": "**Constituição Escrita:**\n- Texto único, codificado, fixo.\n- Exemplo: Constituição Federal de 1988.\n\n**Constituição Costumeira:**\n- Baseada em costumes e tradições, não em um texto escrito.\n- Exemplo: Inglaterra (sistema costueiro).\n\n⚠️ **Pegadinha:** A banca afirma que a Constituição brasileira é costumeira. **ERRADO.** É **escrita** (Art. 1º da CF/88)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação por Estabilidade",
+          "texto": "**Constituição Rígida:**\n- Difícil de alterar (exige maioria especial, referendo, etc.).\n- Exemplo: Constituição dos EUA.\n\n**Constituição Semirrígida:**\n- Combinação de rigidez e flexibilidade (alguns temas exigem maioria especial, outros maioria simples).\n- Exemplo: Constituição Francesa de 1958.\n\n**Constituição Flexível:**\n- Fácil de alterar (maioria simples).\n- Exemplo: Constituição do Reino Unido.\n\n🧠 **MNEMÔNICO:** 'Rígida = difícil / Flexível = fácil / Semirrígida = mistura.'\n\n⚠️ **Pegadinha:** A banca afirma que a CF/88 é rígida. **ERRADO.** É **semirrígida** (emendas exigem 3/5 ou 2/3, mas leis ordinárias exigem maioria simples)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação Dogmática",
+          "texto": "**Constituição Normativa (ou Substantiva):**\n- Estabelece regras gerais de direito (ex.: direitos fundamentais, estrutura do Estado).\n\n**Constituição Programática (ou Objective):**\n- Estabelece diretrizes e metas a serem alcançadas por leis posteriores.\n\n**Constituição Material:**\n- Contém as normas que criam e organizam o Estado.\n\n**Constituição Formal:**\n- Contém as normas que regulam o funcionamento do Estado.\n\n⚠️ **Pegadinha:** A banca afirma que a CF/88 é apenas normativa. **ERRADO.** É **normativa e programática** (tem diretrizes e metas, como a reforma agrária, a educação, etc.)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Frequentes",
+          "texto": "❌ 'CF/88 é costumeira.' → **ERRADO** (é escrita).\n❌ 'CF/88 é rígida.' → **ERRADO** (é semirrígida).\n❌ 'CF/88 é apenas normativa.' → **ERRADO** (é normativa e programática).\n❌ 'Constituição outorgada é feita por assembleia.' → **ERRADO** (é feita por um governante)."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Constituinte Originário",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Características do Poder Constituinte Originário",
+          "texto": "O **Poder Constituinte Originário** é o poder que **cria a primeira Constituição** de um país. É o poder constituinte **originário** — ou seja, o primeiro a constituir.\n\n**Características:**\n1. **Ilimitado:** não há norma superior a limitar suas ações (cria a própria Constituição).\n2. **Autônomo:** atua independentemente do Poder Constituído.\n3. **Incondicionado:** não precisa seguir regras pré-existentes.\n4. **Inicial:** é o primeiro ato constituinte de um país.\n\n🧠 **MNEMÔNICO:** 'IAI' — **I**limitado, **A**utônomo, **I**ncondicionado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplo Histórico — Constituinte de 1988",
+          "texto": "A **Assembleia Nacional Constituinte de 1988** foi o Poder Constituinte Originário do Brasil.\n\n**Como funcionou:**\n- Eleita em 1986 por voto direto;\n- Composta por 590 deputados (375 eleitos + 215 suplentes);\n- Funcionou de 1987 a 1988;\n- Produziu a Constituição Federal de 1988.\n\n**Características demonstradas:**\n- **Ilimitado:** a Assembleia criou a CF sem se submeter a nenhuma norma anterior.\n- **Autônomo:** atuou independentemente do governo military.\n- **Incondicionado:** não precisou seguir regras do regime anterior.\n\n⚠️ **Pegadinha:** A banca afirma que a Constituinte de 1988 era limitada pela Constituição de 1967. **ERRADO.** Era **originária** (ilimitada, autônoma, incondicionada)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Poder Constituinte Originário",
+          "texto": "Pense no Poder Constituinte Originário como um **arquiteto** que está construindo uma casa do zero:\n\n- Ele não tem um projeto anterior para seguir;\n- Ele decide tudo: quantos cômodos, onde fica cada porta, qual o estilo;\n- Ele não precisa perguntar permissão a ninguém;\n- Ele é o único que pode decidir como será a casa.\n\nA Constituinte de 1988 foi exatamente isso: um grupo de pessoas que decidiu como seria o Brasil, sem se prender a regras anteriores."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Constituinte Derivado",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Classificação do Poder Constituinte Derivado",
+          "texto": "O **Poder Constituinte Derivado** é o poder que **altera a Constituição já existente**. Diferentemente do originário, ele **se submete às regras da Constituição** que está alterando.\n\n**Três tipos:**\n\n1. **Poder Constituinte Reformador:**\n   - Altera a Constituição por meio de emendas.\n   - Exemplo: emendas aprovadas pelo Congresso Nacional.\n\n2. **Poder Constituinte Revisor:**\n   - Revisa a Constituição com intenção de **substituí-la totalmente**.\n   - Exemplo: proposta de emenda que reforma a CF de forma radical.\n\n3. **Poder Constituinte Difusor (ou Decentralizador):**\n   - Transfere competências da União para os Estados ou Municípios.\n   - Exemplo: emendas que criam novos Estados ou municípios.\n\n🧠 **MNEMÔNICO:** 'R-R-D' — **R**eformador, **R**evisor, **D**ifusor."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Limites do Poder Constituinte Derivado",
+          "texto": "O Poder Constituinte Derivado **não é ilimitado** — ele se submete aos limites da própria Constituição:\n\n**Limites formais:**\n- Seguir o procedimento de emenda (Art. 60, caput: 3/5 de cada Casa).\n\n**Limites circunstanciais:**\n- Não pode ser usado durante o exercício do mandato (Art. 60, §1º, II — vedação de emenda durante mandato).\n\n**Limites materiais (Cláusulas Pétreas — Art. 60, §4º):**\n- **Forma federativa de Estado** (União, Estados, DF, Municípios);\n- **Voto direto, secreto, universal e periódico**;\n- **Separação dos Poderes**;\n- **Direitos e garantias individuais e coletivos**.\n\n⚠️ **Pegadinha:** A banca afirma que o Poder Constituinte Derivado pode alterar qualquer coisa. **ERRADO.** As **cláusulas pétreas** são imutáveis, mesmo com 3/5."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Cláusulas Pétreas — Art. 60, §4º",
+          "texto": "Art. 60, §4º: 'É vedada a emenda que tenha por objeto: a forma federativa do Estado; o voto direto, secreto, universal e periódico; a separação dos Poderes; os direitos e garantias individuais e coletivos.'\n\n**As 4 cláusulas pétreas:**\n1. **Forma federativa de Estado** — não pode mudar a federação (União, Estados, DF, Municípios).\n2. **Voto direto, secreto, universal e periódico** — não pode mudar o sistema eleitoral.\n3. **Separação dos Poderes** — não pode fundir os Poderes.\n4. **Direitos e garantias individuais e coletivos** — não pode reduzir direitos fundamentais.\n\n🧠 **MNEMÔNICO:** 'FEDER' — **F**ederação, **E**leição, **D**ireitos, **E**mpresas (não, é **E**stado, **D**ireitos, **E**leição, **R**ependição... melhor: 'F-E-D-E-R' = Federação, Eleição, Direitos, Separação).\n\n⚠️ **Pegadinha:** A banca afirma que cláusulas pétreas podem ser mudadas com 3/5. **ERRADO.** São **imutáveis**, mesmo com 3/5."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – Poder Constituinte Derivado",
+          "texto": "Pense no Poder Constituinte Derivado como um **reformador de casa** que já tem uma casa construída:\n\n- Ele pode pintar as paredes (emenda);\n- Ele pode trocar os móveis (emenda);\n- Ele pode até quebrar uma parede (emenda estrutural);\n- Mas ele **não pode**:\n  - Demolir a casa toda (cláusula pétrea: forma federativa);\n  - Mudar o sistema de eletricidade (cláusula pétrea: voto);\n  - Juntar a cozinha com o quarto (cláusula pétrea: separação dos Poderes);\n  - Tirar as portas de saída de emergência (cláusula pétrea: direitos).\n\nOu seja: ele pode reformar, mas não pode destruir a estrutura básica."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Constituído vs. Poder Constituinte",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Relação entre os Poderes",
+          "texto": "**Poder Constituído:**\n- É o conjunto de instituições que **atuam conforme** a Constituição (Executivo, Legislativo, Judiciário).\n- Eles **executam, legislam e julgam** de acordo com as regras constitucionais.\n\n**Poder Constituinte:**\n- É o poder que **cria ou altera** a Constituição.\n- Pode ser **originário** (cria a Constituição) ou **derivado** (altera a Constituição).\n\n**Relação:**\n- O Poder Constituinte é **superior** ao Poder Constituído.\n- O Poder Constituído **deve obedecer** a Constituição criada pelo Poder Constituinte.\n- Mas o Poder Constituinte Derivado **deve obedecer** às cláusulas pétreas.\n\n⚠️ **Pegadinha:** A banca afirma que o Poder Constituído pode criar leis que violem a Constituição. **ERRADO.** O Poder Constituído é **limitado** pela Constituição."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'Poder Constituinte Derivado é ilimitado.' → **ERRADO** (se submete às cláusulas pétreas).\n❌ 'Cláusulas pétreas podem ser mudadas com 3/5.' → **ERRADO** (são imutáveis).\n❌ 'CF/88 é rígida.' → **ERRADO** (é semirrígida).\n❌ 'CF/88 é apenas normativa.' → **ERRADO** (é normativa e programática).\n❌ 'Poder Constituído pode violar a Constituição.' → **ERRADO** (é limitado pela Constituição)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo e Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICOS GERAIS",
+          "texto": "- **'IAI'** — Poder Constituinte Originário: **I**limitado, **A**utônomo, **I**ncondicionado.\n- **'R-R-D'** — Poder Constituinte Derivado: **R**eformador, **R**evisor, **D**ifusor.\n- **'FEDER'** — Cláusulas Pétreas: **F**ederação, **E**leição, **D**ireitos, **E**stado, **R**ependição (melhor: Federação, Eleição, Direitos, Separação).\n- **'Rígida = difícil / Flexível = fácil / Semirrígida = mistura'** — estabilidade.\n- **'Promulgada = coletiva / Outorgada = individual'** — origem."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinhas Mais Cobradas",
+          "texto": "❌ 'CF/88 é rígida.' → **ERRADO** (semirrígida).\n❌ 'CF/88 é costumeira.' → **ERRADO** (escrita).\n❌ 'CF/88 é apenas normativa.' → **ERRADO** (normativa e programática).\n❌ 'Poder Constituinte Derivado é ilimitado.' → **ERRADO** (limitado por cláusulas pétreas).\n❌ 'Cláusulas pétreas podem ser mudadas com 3/5.' → **ERRADO** (imutáveis).\n❌ 'Poder Constituído pode violar a Constituição.' → **ERRADO** (limitado pela Constituição).\n❌ 'Constituição outorgada é feita por assembleia.' → **ERRADO** (feita por governante)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "✅ CHECKLIST PARA A PROVA",
+          "texto": "✅ Classificações: origem (promulgada/outorgada), forma (escrita/costumeira), estabilidade (rígida/semirrígida/flexível), dogmática (normativa/programática).\n✅ Poder Constituinte Originário: ilimitado, autônomo, incondicionado (cria a primeira Constituição).\n✅ Poder Constituinte Derivado: Reformador, Revisor, Difusor (altera Constituição, limitado por cláusulas pétreas).\n✅ Cláusulas Pétreas (Art. 60, §4º): forma federativa, voto direto/secreto/universal/periódico, separação dos Poderes, direitos e garantias.\n✅ Emenda constitucional: 3/5 de cada Casa (Art. 60, caput).\n✅ Poder Constituído: obedece a Constituição. Poder Constituinte: cria/altera Constituição."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

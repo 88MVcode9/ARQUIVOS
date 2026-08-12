@@ -1,0 +1,171 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Princípios da Administração Pública",
+  "icone": "⚖️",
+  "descricao": "Princípios expressos no art. 37 da CF/88 (LIMPE), princípios implícitos e requisitos para estabilidade do servidor.",
+  "topicos": [
+    {
+      "titulo": "Princípios Expressos — LIMPE",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Mnemônico",
+          "texto": "**L · I · M · P · E** — alicerce de toda a Administração, aplicável a todos os Poderes e níveis da federação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "L — Legalidade",
+          "texto": "Agente público só faz o que a lei permite; particular faz tudo que a lei não proíbe. Ex: fiscal só multa se houver lei específica."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "I — Impessoalidade",
+          "texto": "Proibido favorecer amigos ou perseguir inimigos. Vedada promoção pessoal em obras públicas. Nomeação por concurso público em vez de indicação política."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "M — Moralidade",
+          "texto": "Exige ética, honestidade e probidade. O ato deve ser legal E ético para ser válido. A moralidade administrativa é jurídica e gera anulação do ato se violada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "P — Publicidade",
+          "texto": "Transparência e acesso à informação. Condição de eficácia para os atos. Exceção: sigilo para segurança do Estado ou intimidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "E — Eficiência (EC 19/98)",
+          "texto": "Obter melhores resultados com menores custos. Base da Administração Gerencial (foco no cidadão). Ex: digitalização de serviços para reduzir filas."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "CUIDADO!",
+          "texto": "A Eficiência **não é originária** da CF/88. Foi incluída em 1998 pela EC 19/98. Bancas adoram afirmar que 'sempre esteve presente' — é FALSO!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "I — Impessoalidade (Aprofundamento)",
+          "texto": "**Súmula Vinculante 13 do STF (Nepotismo):** Vedação de nomeação de parentes (até 3º grau) para cargos em comissão/funções de confiança.  \n**Exceção:** Cargos políticos (ex: Secretário Municipal ou Ministro de Estado) não entram na regra geral, salvo em caso de fraude evidente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "M — Moralidade (Aprofundamento)",
+          "texto": "**Atos de Improbidade Administrativa (Lei 8.429/92):** A improbidade fere diretamente este princípio, gerando sanções como perda da função pública, suspensão de direitos políticos e multa civil."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "P — Publicidade (Aprofundamento)",
+          "texto": "**Lei de Acesso à Informação (LAI - Lei 12.527/11):** Regulamentação direta do princípio.  \n**Atenção:** Publicidade ≠ Publicação. Nem todo ato precisa ser publicado no Diário Oficial, mas todo ato deve ser transparente e acessível (salvo sigilo constitucional)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estabilidade do Servidor Público",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos para adquirir a estabilidade",
+          "itens": [
+            "Aprovação em **Concurso Público** (Legalidade/Impessoalidade)",
+            "**Três anos de efetivo exercício** (estágio probatório)",
+            "**Avaliação especial de desempenho** (Eficiência)",
+            "**Cargo de provimento efetivo** (não se aplica a cargos em comissão ou CLT)"
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Perda do Cargo Estável (Art. 41, § 1º da CF/88)",
+          "texto": "O servidor estável perde o cargo nas seguintes 4 hipóteses:",
+          "itens": [
+            "**Sentença judicial transitada em julgado** (não cabe mais recurso).",
+            "**Processo Administrativo Disciplinar (PAD)**, assegurada ampla defesa.",
+            "**Procedimento de avaliação periódica de desempenho** (mediante Lei Complementar).",
+            "**Corte de gastos de pessoal** (Art. 169 da CF/88 — quando exceder o limite da Lei de Responsabilidade Fiscal)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estágio Probatório vs. Estabilidade",
+          "texto": "**Duração:** O estágio probatório dura **3 anos** (Súmula 21 do STF / jurisprudência pacificada), coincidindo com o prazo de efetivo exercício para a estabilidade.  \n**Aprovação:** A avaliação especial de desempenho é condição obrigatória, realizada por comissão instituída para essa finalidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípios Implícitos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Supremacia do Interesse Público",
+          "texto": "O interesse da coletividade prevalece sobre o interesse particular. Concede prerrogativas ao Estado, como desapropriação, requisição de bens e aplicação de multas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Indisponibilidade do Interesse Público",
+          "texto": "O administrador não é 'dono' do patrimônio/interesse público. Ele apenas o gerencia e só pode dispor dele de acordo com a lei, impondo restrições à sua atuação."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Bizu da Régua",
+          "texto": "**Supremacia** + **Indisponibilidade** = A RÉGUA / SUPRACONSTITUCIONAL do Direito Administrativo. São as duas 'pedras de toque' que sustentam todo o regime jurídico-administrativo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Segurança Jurídica e Proteção à Confiança Legítima",
+          "texto": "Evita surpresas e mudanças bruscas de interpretação pela Administração. Impede a aplicação retroativa de novas interpretações administrativas, protegendo o cidadão que agiu de boa-fé com base na orientação anterior."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Especialidade",
+          "texto": "Ligado à descentralização. As entidades da Administração Indireta (ex: Autarquias, Fundações) são criadas para cumprir **finalidades específicas** previstas em lei, atuando dentro de sua área de competência definida."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Presunção de Legitimidade",
+          "texto": "Atos presumem-se legais e verdadeiros até prova em contrário (presunção *juris tantum*). Ônus da prova recai sobre o particular. Ex: multa de trânsito é válida até que o motorista prove o contrário."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Autotutela",
+          "texto": "O Estado controla seus próprios atos: **anula** atos ilegais (vício) e **revoga** atos inconvenientes (mérito). Súmula 473 STF: pode anular sem autorização judicial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Anulação — Efeitos e Limites (Art. 54, Lei 9.784/99)",
+          "texto": "A anulação tem efeito **ex tunc** (retroativo ao início). A Administração pode anular seus atos ilegais, mas há limites importantes:\n\n**1. Prazo decadencial:** A anulação administrativa prescreve em **5 anos**, contados da data em que o ato foi praticado (Art. 54, Lei 9.784/99). Passado esse prazo, o ato torna-se **irreversible** (consolidado), salvo se houver **má-fé** do beneficiário (quando não há prazo decadencial).\n\n**2. Consolidação de direitos legítimos:** Atos nulos que geraram **efeitos de boa-fé** para terceiros de boa-fé ou que já passaram do prazo decadencial **não podem ser anulados indefinidamente** pela Administração, se houver **consolidação de direitos legítimos** (salvo má-fé).\n\n**3. Ato flagrantemente inconstitucional:** Atos nulos de plenitude (ex: provimento de cargo sem concurso) não se sujeitam ao prazo decadencial — a nulidade é absoluta e pode ser reconhecida a qualquer tempo (STF)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Revogação — Efeitos e Limites",
+          "texto": "A revogação tem efeito **ex nunc** (prospectivo, não retroativo). Apenas a Administração pode revogar atos válidos por conveniência ou oportunidade. O Judiciário **nunca** revoga — apenas anula por ilegalidade.\n\n**Respeito a direitos adquiridos:** A revogação não pode lesar direitos adquiridos de terceiros que tenham adquirido posição de confiança (boa-fé) com base no ato revogado."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo de prova",
+          "texto": "Anular = Ilegalidade (efeito *ex tunc*). Revogar = Conveniência (efeito *ex nunc*).  \n**PEGADINHA:** A Administração pode ANULAR e REVOGAR. O Judiciário só ANULA (nunca revoga)!  \n**DECADÊNCIA:** Anulação administrativa prescreve em 5 anos (Art. 54, Lei 9.784/99), salvo má-fé. Atos inconstitucionais flagrantes não prescrevem."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Motivação",
+          "texto": "Dever de explicar os fundamentos de fato e de direito. Permite o controle da legalidade. Exceção: nomeação e exoneração de cargos em comissão (*ad nutum*)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Continuidade",
+          "texto": "Serviços públicos não podem ser interrompidos. Fundamenta a substituição de servidores. Ex: hospitais e segurança devem manter atendimento mínimo mesmo em greve."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Razoabilidade e Proporcionalidade",
+          "texto": "Proibição de excessos: o meio deve ser adequado ao fim. Tríplice teste: Adequação + Necessidade + Proporcionalidade em sentido estrito.  \n**Bizu:** não se mata formiga com canhão."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

@@ -1,0 +1,146 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['14.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Improbidade Administrativa (Lei 8.429/92 + Lei 14.230/2021)",
+  "icone": "🚫",
+  "descricao": "Improbidade administrativa atualizada: extinção da modalidade culposa (Lei 14.230/2021), rol taxativo dos atos, legitimidade exclusiva do Ministério Público, e principais mudanças trazidas pela reforma da Lei 8.429/92.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Base Legal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Improbidade Administrativa?",
+          "texto": "É o conjunto de atos ou omissões do agente público que atentam contra os princípios da Administração Pública, gerando vantagens ilícitas a particulares ou prejuízo ao erário. A improbidade é um **fato jurídico material** que pode ser sanado por meio de ação civil pública ou ação de improbidade administrativa.\n\n**Base legal:** Lei 8.429/92 (Lei de Improbidade Administrativa), atualizada pela Lei 14.230/2021."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atualização — Lei 14.230/2021",
+          "texto": "A **Lei 14.230/2021** reformulou a Lei 8.429/92, trazendo mudanças cruciais:\n\n**1. Extinção da modalidade culposa:** A nova lei **extinguiu a modalidade culposa** de improbidade. Agora, **só existem atos de improbidade com DOLO** (intencionalidade).\n\n**2. Rol taxativo de atos:** A lei estabelece um **rol taxativo** (numerus clausus) dos atos que importam enriquecimento ilícito, prejuízo ao erário e violação aos princípios.\n\n**3. Legitimidade exclusiva do MP:** A ação de improbidade é proposta **exclusivamente pelo Ministério Público**, com **fim da legitimidade concorrente da Fazenda Pública** na Ação Civil Pública de improbidade (decisão do STF).\n\n**4. Prescrição:** A ação de improbidade prescreve em **5 anos** (art. 14, Lei 8.429/92, com a redação dada pela Lei 14.230/2021)."
+        }
+      ]
+    },
+    {
+      "titulo": "Espécies de Atos de Improbidade (Art. 9º, Lei 8.429/92)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "I — Enriquecimento Ilícito",
+          "texto": "Ocorre quando o agente público, em prejuízo do erário, **enriquece ilegalmente** ou permite que terceiro o faça. É um ato de improbidade que resulta em **vantagem indevida** para o agente ou terceiro.\n\n**Exemplos:** Desvio de recursos públicos, aceitação de propina, apropriação indébita de bens públicos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "II — Prejuízo ao Erário",
+          "texto": "Ocorre quando o agente público, com dolo, **causa prejuízo ao patrimônio público** ou à fazenda pública, ou **desvia recursos** de destinação legal.\n\n**Exemplos:** Contratos fraudulentos, licitações suspeitas, desvio de recursos de saúde ou educação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "III — Violência aos Princípios",
+          "texto": "Ocorre quando o agente público, com dolo, **viola os princípios da Administração Pública** (legalidade, impessoalidade, moralidade, publicidade, eficiência, entre outros).\n\n**Exemplos:** Nepotismo, favorecimento de amigos, atos de favorecimento político, violação do princípio da isonomia."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Rol Taxativo dos Atos de Improbidade",
+          "tabela": {
+            "colunas": [
+              "Espécie",
+              "Elemento",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Enriquecimento Ilícito",
+                "Dolo + vantagem indevida",
+                "Aceitar propina"
+              ],
+              [
+                "Prejuízo ao Erário",
+                "Dolo + prejuízo ao patrimônio público",
+                "Contrato fraudulento"
+              ],
+              [
+                "Violação aos Princípios",
+                "Dolo + violação a princípio da Administração",
+                "Nepotismo"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sanções (Art. 12º, Lei 8.429/92)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Sanções Aplicáveis",
+          "itens": [
+            "**Perda da função pública** — afastamento do cargo ou função.",
+            "**Suspensão dos direitos políticos** — de 2 a 10 anos.",
+            "**Multa civil** — de 100 a 100.000 vezes o valor do prejuízo ou vantagem ilícita.",
+            "**Rescisão de contrato administrativo** — anulação do contrato com a Administração.",
+            "**Indisponibilidade de bens** — suspensão do direito de dispor de bens até o esclarecimento da conduta.",
+            "**Publicação da condenação** — divulgação da condenação em veículos de comunicação."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Prescrição",
+          "texto": "A ação de improbidade administrativa **prescreve em 5 anos**, contados da data em que o ato de improbidade foi praticado. A prescrição é **absoluta e irretratável**, não podendo ser suspensa ou interrompida."
+        }
+      ]
+    },
+    {
+      "titulo": "Legitimidade e Ação de Improbidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Legitimidade do Ministério Público",
+          "texto": "**Lei 14.230/2021:** A ação de improbidade administrativa é proposta **exclusivamente pelo Ministério Público**, com **fim da legitimidade concorrente da Fazenda Pública** na Ação Civil Pública de improbidade.  \n\n**Decisão do STF:** O STF decidiu que a Fazenda Pública **não pode mais propor ação civil pública de improbidade administrativa** — a competência é exclusiva do MP. A Fazenda Pública pode ainda propor ações de **recuperação de valores** (não de improbidade), mas não ações de improbidade propriamente ditas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação Civil Pública de Improbidade",
+          "texto": "A ação civil pública de improbidade administrativa é o instrumento processual para a persecução dos atos de improbidade. É proposta pelo MP e tramita perante a **Justiça Federal** (quando o caso envolve a União) ou **Justiça Estadual** (quando envolve Estados, DF ou Municípios).\n\n**Requisitos:**\n- **Dolo** do agente público (não há mais modalidade culposa);\n- **Prejuízo ao erário** ou **vantagem ilícita**;\n- **Violação aos princípios** da Administração Pública."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Extinção da Modalidade Culposa",
+          "texto": "**Lei 14.230/2021:** A reforma da Lei de Improbidade **extinguiu a modalidade culposa**. Antes, a improbidade podia ser **dolosa** (intencional) ou **culposa** (por negligência). Agora, **só existem atos de improbidade com DOLO**.\n\n**Consequência:** Apenas atos praticados com **intencionalidade** (dolo) configuram improbidade administrativa. Atos praticados por **negligência ou imprudência** não enseñam sanções de improbidade, mas podem gerar responsabilidade civil ou administrativa comum."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípio da Irretratabilidade e Efeitos da Condenação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Irretratabilidade",
+          "texto": "A condenação por improbidade administrativa é **irretratável**, ou seja, não pode ser anulada por meio de ação de anulação. A única forma de atacar a condenação é por meio de **recurso ordinário** ou **recurso especial** perante o STF."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Efeitos da Condenação",
+          "itens": [
+            "**Perda da função pública** — afastamento imediato do cargo ou função.",
+            "**Suspensão dos direitos políticos** — de 2 a 10 anos.",
+            "**Multa civil** — de 100 a 100.000 vezes o valor do prejuízo ou vantagem ilícita.",
+            "**Rescisão de contrato** — anulação de contratos administrativos celebrados pelo condenado.",
+            "**Indisponibilidade de bens** — suspensão do direito de dispor de bens até o esclarecimento da conduta."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Bizu de Prova",
+          "texto": "**Lei 14.230/2021:** Só existe improbidade com **DOLO** (não mais culposa).  \n**MP tem legitimidade exclusiva** (Fazenda Pública perdeu a legitimidade concorrente).  \n**Prescrição:** 5 anos.  \n**Sanções:** perda da função, suspensão de direitos políticos, multa civil, rescisão de contrato, indisponibilidade de bens."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/14.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

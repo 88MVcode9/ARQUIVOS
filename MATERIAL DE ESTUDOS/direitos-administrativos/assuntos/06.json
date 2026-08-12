@@ -1,0 +1,222 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Agentes Públicos",
+  "icone": "👥",
+  "descricao": "Teoria dos Agentes Públicos: espécies (políticos, administrativos, honoríficos, delegados, credenciados), acumulação de cargos (Art. 37, XVI e XVII da CF/88), regime de cargos em comissão, funções de confiança e empregados públicos.",
+  "topicos": [
+    {
+      "titulo": "Conceito de Agente Público",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "É toda pessoa física ou jurídica que, por nomeação ou empossação, exercer função ou cargo na Administração Pública, submetida ao regime jurídico específico da Administração. O agente público atua como **mão estendida do Estado**, exercendo poderes que lhe são conferidos pela lei.\n\n**Base legal:** Art. 37, XIX da CF/88 e Lei 8.112/90 (regime jurídico dos servidores civis da União, do DF e das autarquias)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Relação de Subordinação",
+          "texto": "O agente público está submetido a uma **relação hierárquica** (subordinação) com a Administração, o que o diferencia do participe. Ele responde por atos praticados em exercício de suas funções, podendo ser responsizado administrativa, civil e criminalmente."
+        }
+      ]
+    },
+    {
+      "titulo": "Espécies de Agentes Públicos",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Classificação por Natureza Jurídica",
+          "tabela": {
+            "colunas": [
+              "Espécie",
+              "Natureza",
+              "Características",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "**Políticos**",
+                "Direito Público",
+                "Nomeados pelo Poder Político, sem estabilidade, podem ser exonerados a qualquer tempo (ad nutum).",
+                "Ministro, Secretário, Embaixador."
+              ],
+              [
+                "**Administrativos**",
+                "Direito Público",
+                "Nomeados por concurso público, com estabilidade (após 3 anos). Regidos pela Lei 8.112/90.",
+                "Servidor público de cartório, professor estadual."
+              ],
+              [
+                "**Honoríficos**",
+                "Direito Público",
+                "Cargo ou função comissionada sem vencimento, exercida por particulares sem vínculo formal.",
+                "Advogado do Estado, médico da guarda."
+              ],
+              [
+                "**Delegados**",
+                "Direito Público",
+                "Particulares ou empresas autorizadas a exercer atividade estatal, com poderes limitados.",
+                "Correios (delegada postal), concessionária de energia."
+              ],
+              [
+                "**Credenciados**",
+                "Direito Público",
+                "Particulares ou empresas credenciadas para prestar serviço público sob supervisão.",
+                "Médico credenciado ao SUS, empresa de limpeza pública."
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agentes Políticos",
+          "texto": "São agentes que exercem cargos ou funções de **direção ou chefia**, integrando a estrutura política do Estado. São nomeados diretamente pelo Poder Político (Presidente, Governador, Prefeito) e respondem por **missão de confiança**.\n\n**Características:**\n- Nomeação política (não por concurso público);\n- Sem estabilidade (podem ser exonerados a qualquer tempo);\n- Regidos pela Constituição Federal e leis específicas;\n- Respondem por atos de gestão e políticas públicas.\n\n**Exemplos:** Ministros de Estado, Secretários Estaduais e Municipais, Embaixadores, Procuradores-Gerais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agentes Administrativos",
+          "texto": "São agentes que exercem cargos ou funções de **natureza técnica ou administrativa**, comprovada por concurso público. Possuem **estabilidade** após o período de prova (3 anos) e são regidos pela Lei 8.112/90 (União, DF e autarquias) ou Lei 10.261/2001 (Estados) e legislação municipal.\n\n**Características:**\n- Nomeação por concurso público;\n- Estabilidade após 3 anos de efetivo exercício;\n- Regidos por normas de direito público;\n- Respondem por atos de gestão e execução.\n\n**Exemplos:** Servidores de cartório, professores públicos, fiscais, técnicos administrativos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agentes Honoríficos",
+          "texto": "São agentes que exercem cargos ou funções **sem vencimento**, geralmente comissionados para assessorar o Poder Político. Não possuem estabilidade e respondem por **missão de confiança**.\n\n**Exemplos:** Advogados do Estado, médicos da guarda, assessores parlamentares."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agentes Delegados e Credenciados",
+          "texto": "**Delegados:** particulares ou empresas autorizadas a exercer atividade estatal com poderes limitados (ex: Correios, concessionárias). **Credenciados:** particulares ou empresas credenciadas para prestar serviço público sob supervisão direta (ex: médicos do SUS, empresas terceirizadas)."
+        }
+      ]
+    },
+    {
+      "titulo": "Acumulação de Cargos Públicos (Art. 37, XVI e XVII da CF/88)",
+      "cards": [
+        {
+          "tipo": "legislacao",
+          "titulo": "Art. 37, XVI da CF/88",
+          "texto": "\"É vedada a acumulação de cargos ou empregos públicos, salvo os cargos de professor efetivo, os de livre eleição e os que a lei específica dispuserem em contrário.\""
+        },
+        {
+          "tipo": "legislacao",
+          "titulo": "Art. 37, XVII da CF/88",
+          "texto": "\"A acumulação de cargos ou empregos públicos, salvo os de professor efetivo, os de livre eleição e os que a lei específica dispuser em contrário, fará com que o agente perceba apenas o vencimento do cargo ou emprego de maior valor, sendo vedada a percepção de mais de um vencimento mínimo.\""
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regra Geral",
+          "texto": "A acumulação de cargos públicos é **geralmente vedada**, exceto em casos expressos. Quando permitida, o agente pode exercer mais de um cargo, mas **percebe apenas o vencimento do cargo de maior valor** (regra do vencimento único)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exceções à Proibição de Acumulação",
+          "itens": [
+            "**Cargos de professor efetivo:** pode acumular com outro cargo ou emprego público, desde que não haja prejuízo à atividade principal.",
+            "**Cargos de livre eleição:** cargos ocupados por indicação política direta (ex: vereadores, deputados).",
+            "**Cargos que a lei específica dispuser em contrário:** algumas leis permitem acumulação em casos específicos (ex: cargos de natureza técnica em órgãos diferentes).",
+            "**Cargos de confiança:** podem ser acumulados com cargos em comissão, desde que não haja incompatibilidade de função."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Regras Importantes",
+          "texto": "**Vencimento único:** O agente que acumula cargos percebe apenas o vencimento do cargo de maior valor. A diferença entre os vencimentos é **indenização** (não é vencimento).\n\n**Incompatibilidade:** A acumulação de cargos de naturezas diferentes (ex: cargo político + cargo técnico) pode gerar incompatibilidade, exigindo desligamento de um dos cargos.\n\n**Afastamento:** O exercício de um cargo de livre eleição (ex: vereador) exige afastamento do cargo de provimento efetivo, com possibilidade de retorno após o exercício da mandato."
+        }
+      ]
+    },
+    {
+      "titulo": "Regime de Cargos em Comissão, Funções de Confiança e Empregados Públicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Cargos em Comissão",
+          "texto": "São cargos de **direção ou chefia**, criados por ato administrativo, com vencimento compatível com a função. São preenchidos por indicação do chefe da administração, sem necessidade de concurso público.\n\n**Características:**\n- Nomeação política (não por concurso);\n- Sem estabilidade (podem ser exonerados a qualquer tempo);\n- Vencimento compatível com a responsabilidade;\n- Regidos pela Constituição (Art. 37, XV) e leis específicas.\n\n**Exemplos:** Secretários municipais, Diretores de autarquias, Coordenadores de área."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Funções de Confiança",
+          "texto": "São funções de **natureza técnica ou administrativa**, criadas para assessorar ou auxiliar a gestão, sem vencimento compatível. São preenchidas por servidores públicos com estabilidade.\n\n**Características:**\n- Preenchidas por servidores com estabilidade;\n- Sem vencimento adicional (apenas indenização de custo de representação);\n- Nomeação por ato administrativo;\n- Podem ser extinguidas a qualquer tempo.\n\n**Exemplos:** Assessores técnicos, coordenadores de projetos, gestores de programas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Empregados Públicos",
+          "texto": "São trabalhadores que integram a estrutura da Administração Pública, regidos pela CLT (Consolidação das Leis do Trabalho) ou normas específicas. Possuem estabilidade após o período de prova.\n\n**Características:**\n- Regidos pela CLT (exceto servidores de caráter especial);\n- Estabilidade após 3 anos de efetivo exercício;\n- Direito a férias, décimo terceiro, aviso prévio;\n- Não são considerados agentes públicos no sentido estrito.\n\n**Exemplos:** Empregados de limpeza, vigilância, atendimento ao público."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Comparação: Cargos em Comissão × Funções de Confiança × Empregados",
+          "tabela": {
+            "colunas": [
+              "Aspecto",
+              "Cargo em Comissão",
+              "Função de Confiança",
+              "Empregado Público"
+            ],
+            "linhas": [
+              [
+                "Nomeação",
+                "Pelo chefe da administração",
+                "Pelo chefe da administração",
+                "Por concurso ou promoção"
+              ],
+              [
+                "Estabilidade",
+                "Não tem",
+                "Tem (se servidor com estabilidade)",
+                "Tem (após 3 anos)"
+              ],
+              [
+                "Vencimento",
+                "Compatível com a função",
+                "Sem vencimento adicional",
+                "Conforme CLT ou norma específica"
+              ],
+              [
+                "Regime jurídico",
+                "Direito público",
+                "Direito público",
+                "CLT ou norma específica"
+              ],
+              [
+                "Exemplo",
+                "Secretário municipal",
+                "Assessor técnico",
+                "Empregado de limpeza"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Bizu da Classificação",
+          "texto": "**Cargos em Comissão** = nomeação política, sem estabilidade, vencimento compatível.  \n**Funções de Confiança** = assessoramento técnico, sem vencimento, preenchidas por servidores estáveis.  \n**Empregados Públicos** = CLT, estabilidade após 3 anos, regime privado de direito."
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade do Agente Público",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Responsabilidade Objetiva",
+          "texto": "O agente público responde objetivamente pelos atos praticados em exercício de suas funções, independentemente de dolo ou culpa. A responsabilidade recai sobre o agente e sobre a Administração (art. 37, §6º, CF)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Responsabilidade Subjetiva",
+          "texto": "O agente público responde subjetivamente (por dolo ou culpa) nas ações de indenização movidas diretamente contra ele, sem passar pelo Estado. A teoria da dupla garantia (Tema 940 STF) estabelece que a vítima deve primeiro ajuizar ação contra o Estado."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Atenção!",
+          "texto": "O agente público que atua com **dolo** (intencionalidade) pode ser processado diretamente pela vítima, sem passar pelo Estado. A teoria da dupla garantia permite ação direta contra o agente em casos de dolo."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/06.jpg"
+        }
+      ]
+    }
+  ]
+};

@@ -1,0 +1,157 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Regime Jurídico Administrativo",
+  "icone": "📜",
+  "descricao": "Conjunto de princípios e regras que conferem à Administração Pública prerrogativas (poderes) e sujeições (deveres) que não existem no Direito Privado.",
+  "topicos": [
+    {
+      "titulo": "O que é o Regime Jurídico Administrativo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "É o conjunto de princípios e regras que conferem à Administração **prerrogativas** (poderes) e **sujeições** (deveres) que não existem no Direito Privado. A Administração não atua como um particular; ela só faz o que a lei autoriza."
+        },
+        {
+          "tipo": "analogia",
+          "titulo": "Analogia do Árbitro",
+          "texto": "Imagine um jogo onde o árbitro (Estado) tem regras diferentes dos jogadores (particulares). Enquanto você pode fazer tudo que a lei não proíbe, o Estado só faz o que a lei permite."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípios Estruturantes",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "1. Supremacia do Interesse Público",
+          "texto": "O interesse coletivo prevalece sobre o individual. Relação vertical (Estado acima). Concede 'superpoderes' (prerrogativas). Ex: desapropriação de terreno para hospital — o dono perde a posse, mas a coletividade ganha saúde."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "2. Indisponibilidade do Interesse Público",
+          "texto": "O administrador não é dono do interesse público. Deve observar limites e deveres rigorosos; não pode renunciar a poderes ou bens. Ex: o prefeito não pode 'dar' um carro da prefeitura de presente; deve leiloar seguindo a lei."
+        }
+      ]
+    },
+    {
+      "titulo": "Relação de Verticalidade vs. Horizontalidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regime Administrativo (Verticalidade)",
+          "texto": "No Direito Público, o Estado atua em posição de **superioridade hierárquica** (vertical), impulsionado pela Supremacia do Interesse Público. Ex: poder de polícia, desapropriação, aplicação de multas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Regime Privado (Horizontalidade)",
+          "texto": "Quando a Administração atua como particular (ex: contratos de locação, compra de materiais de escritório), a relação é de **igualdade** (horizontal) com os demais sujeitos."
+        }
+      ]
+    },
+    {
+      "titulo": "Derrogações do Direito Privado",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Influências do Direito Público no Privado",
+          "texto": "Mesmo atuando predominantemente pelo Direito Privado (ex: Petrobras, Banco do Brasil), a Administração sofre **derrogações** (mitigações/influências) impostas pelo Direito Público. \n\n**Exemplos práticos:** necessidade de concurso público para contratação de pessoal, e licitação (ou procedimento competitivo simplificado) para compras de grande porte, mesmo sendo empresas estatais."
+        }
+      ]
+    },
+    {
+      "titulo": "Sentido Amplo vs. Estrito (Maria Sylvia Di Pietro)",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Comparação",
+          "tabela": {
+            "colunas": [
+              "Conceito",
+              "Descrição",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Regime da Administração (amplo)",
+                "Direito Público + Privado",
+                "Comprar cadeiras (igualdade)"
+              ],
+              [
+                "Regime Administrativo (estrito)",
+                "Apenas Direito Público",
+                "Interditar prédio (autoridade)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Exceções à Supremacia do Interesse Público",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos Fundamentais Indisponíveis",
+          "texto": "A Supremacia do Interesse Público **não é absoluta**. O Estado não pode violar a dignidade da pessoa humana, a integridade física ou a vida de alguém sob o pretexto de atender ao 'interesse público'. Ex: não se pode torturar para obter informações, nem expor pessoas a risco desproporcional."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inviolabilidade de Domicílio",
+          "texto": "A Administração não pode adentrar a casa do cidadão sem mandado judicial, salvo nas hipóteses constitucionais específicas (Art. 5º, XI, CF): **flagrante delito, desastre, ou prestação de socorro**. Nem mesmo a vontade estatal se sobrepõe a essa garantia sem os requisitos legais."
+        }
+      ]
+    },
+    {
+      "titulo": "Posição da Doutrina Moderna (Desconstrução do Binômio)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Crítica à Supremacia Automática",
+          "texto": "Doutrinadores modernos (como Humberto Ávila e Gustavo Binenbojm) criticam a ideia de que o interesse público prevalece automaticamente sobre o privado. O interesse público não é um 'cheque em branco' — exige-se **ponderação** no caso concreto, evitando decisões arbitrárias."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exigência de Proporcionalidade",
+          "texto": "Para aplicar a Supremacia, a Administração deve demonstrar a **razoabilidade** e a **proporcionalidade** da medida específica. Isso significa passar pelo tríplice teste: adequação (meio apto ao fim), necessidade (menos gravoso) e proporcionalidade em sentido estrito (benefício coletivo maior que o sacrifício individual)."
+        }
+      ]
+    },
+    {
+      "titulo": "Aplicação na Vida Real",
+      "cards": [
+        {
+          "tipo": "exemplo",
+          "titulo": "Educação",
+          "texto": "Expulsão em escola pública exige processo administrativo e ampla defesa (indisponibilidade)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Saúde",
+          "texto": "Hospital público não pode negar atendimento de emergência (supremacia do interesse público sobre o direito privado do hospital)."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle e Limites",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "texto": "O regime não é absoluto: deve respeitar direitos fundamentais. O Judiciário pode anular atos ilegais. Se o Estado causar dano, deve indenizar."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu de prova",
+          "texto": "**Supremacia** = Poderes (prerrogativas).  \n**Indisponibilidade** = Limites (sujeições).  \nO Regime é o equilíbrio entre esses dois polos."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.jpg"
+        }
+      ]
+    }
+  ]
+}
+;
