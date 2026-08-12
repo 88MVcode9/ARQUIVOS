@@ -1,0 +1,169 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 8.072/1990 e Lei nº 8.930/1994 — Crimes Hediondos",
+  "icone": "🔒",
+  "descricao": "Lei que define os crimes hediondos e equiparados, estabelecendo regime mais severo de cumprimento de pena, com início obrigatório em regime fechado, requisitos objetivos mais rigorosos para progressão (40%, 50% ou mais) e vedações específicas como a proibição de saídas temporárias (saidinhas).",
+  "topicos": [
+    {
+      "titulo": "O que são Crimes Hediondos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição legal",
+          "texto": "Crimes hediondos são aqueles considerados os mais graves pela legislação brasileira, previstos na Lei nº 8.072/1990 (com alterações da Lei nº 8.930/1994 e posteriores). Por sua extrema gravidade e repulsa social, recebem tratamento processual e penal mais rigoroso, com restrições a benefícios como progressão de regime, livramento condicional e saídas temporárias."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "João foi condenado por tráfico de drogas (crime hediondo). Ele começa cumprindo pena em regime fechado e, para progredir para o semiaberto, precisa cumprir, no mínimo, 40% da pena (se primário e sem resultado morte), enquanto um crime comum exige apenas 1/6 da pena."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Crimes Hediondos (Art. 1º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rol de crimes hediondos e equiparados",
+          "texto": "A Lei 8.072/1990 e legislações posteriores definem como hediondos os seguintes crimes, entre outros:",
+          "itens": [
+            "Homicídio qualificado (art. 121, § 2º, do CP)",
+            "Estupro (art. 213) e estupro de vulnerável (art. 217-A)",
+            "Latrocínio (art. 157, § 3º, in fine)",
+            "Extorsão qualificada pela morte (art. 158, § 2º)",
+            "Epidemia com resultado morte (art. 267, § 1º)",
+            "Falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273)",
+            "**Tráfico de drogas** (Lei 11.343/2006, salvo a conduta do art. 28 — usuário)",
+            "**Terrorismo** e **Sabotagem** (Lei 13.260/2016)",
+            "**Tortura** (Lei 9.455/1997) — embora não esteja expressa no rol da Lei 8.072, possui tratamento equivalente por força de lei específica e da CF/88."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atualizações recentes no rol (Pacote Anticrime)",
+          "texto": "Leis recentes (especialmente a Lei 13.964/2019 e a 14.132/2021) acrescentaram importantes figuras ao rol de crimes hediondos, são elas:",
+          "itens": [
+            "**Furto qualificado pelo emprego de explosivo** (art. 155, § 4º-A, do CP)",
+            "**Sequestro e cárcere privado cometido contra menor de 18 anos** (art. 148, § 1º, IV, do CP)",
+            "**Induzimento, instigação ou auxílio a suicídio ou automutilação por meio de redes sociais** (art. 122, caput e § 4º, do CP)",
+            "**Organização criminosa** voltada para a prática de crime hediondo (em certas condições, Lei 12.850/2013)"
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro comparativo: Crime Comum x Crime Hediondo",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Crime Comum",
+              "Crime Hediondo"
+            ],
+            "linhas": [
+              [
+                "Regime inicial de cumprimento",
+                "Aberto, semiaberto ou fechado (conforme a pena)",
+                "**Obrigatoriamente fechado**"
+              ],
+              [
+                "Progressão de regime (requisito objetivo)",
+                "1/6 da pena (art. 112, LEP)",
+                "**40%** (primário, sem morte) / **50%** (primário, com morte) / **60%+** (reincidente)"
+              ],
+              [
+                "Saída temporária (saidinha)",
+                "Permitida (se preencher requisitos)",
+                "**Vedada** (não tem direito)"
+              ],
+              [
+                "Fiança",
+                "Cabível em alguns casos",
+                "**Inafiançável** (vedada)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Regime de Cumprimento e Progressão (Art. 112 da LEP)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Início da pena",
+          "texto": "O condenado por crime hediondo deverá iniciar o cumprimento da pena **em regime fechado**, não sendo possível a fixação de regime menos severo desde o início, ainda que a pena aplicada seja pequena."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Frações para progressão — ATUALIZAÇÃO (Pacote Anticrime)",
+          "texto": "Com a Lei nº 13.964/2019, as frações de progressão para crimes hediondos foram alteradas. **Não se usa mais a fração de 2/5** (regra antiga). Hoje, os percentuais são os seguintes, conforme o art. 112 da LEP:",
+          "itens": [
+            "**40% (dois quintos)** da pena — para condenado **primário**, se o crime não tiver resultado morte.",
+            "**50% (metade)** da pena — para condenado **primário**, se o crime tiver resultado morte (ex.: homicídio qualificado, latrocínio).",
+            "**60% (três quintos) ou mais** — para **reincidentes** em crime hediondo ou equiparado, podendo chegar a 70% em casos específicos."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vedações expressas",
+          "texto": "Além da progressão mais rigorosa, o regime de cumprimento de crimes hediondos veda:",
+          "itens": [
+            "**Saída temporária** (saidinha) — não tem direito a sair nos feriados ou para visitar família.",
+            "**Livramento condicional** — em regra, é vedado ou exige cumprimento de fração muito superior à dos crimes comuns.",
+            "**Anistia, graça e indulto** — para os crimes de tortura, tráfico de drogas e terrorismo (os 3 T's), são insuscetíveis de anistia, graça e indulto (art. 5º, XLIII, CF)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Vedações Constitucionais e Imprescritibilidade (⚠️ CORREÇÃO)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Crimes hediondos e a Constituição (Art. 5º, XLIII)",
+          "texto": "A Constituição Federal, em seu art. 5º, inciso XLIII, estabelece que a lei considerará crimes inafiançáveis e insuscetíveis de anistia, graça e indulto a prática de **tortura**, **tráfico ilícito de entorpecentes** e **terrorismo** (os 3 T's). Essas garantias se aplicam integralmente aos crimes hediondos correspondentes."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ CUIDADO: Crimes hediondos NÃO são imprescritíveis!",
+          "texto": "**Atenção máxima:** Ao contrário do que muitos pensam, os crimes hediondos **prescrevem normalmente**! O fato de serem inafiançáveis e terem regime mais severo não os torna imprescritíveis. A prescrição segue as regras gerais do Código Penal (contagem do prazo com base na pena máxima cominada em abstrato ou na pena aplicada).\n\n📌 **O que é imprescritível na CF?** Apenas duas hipóteses (art. 5º, XLII e XLIV):\n1. O **racismo** (e injúria racial, por equiparação).\n2. A **ação de grupos armados** (civis ou militares) contra a ordem constitucional e o Estado Democrático."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dica de prova",
+          "texto": "Bancas ADORAM afirmar que 'crimes hediondos são imprescritíveis'. Marque **ERRADO**! Lembre-se: hediondos prescrevem. A imprescritibilidade é privilégio exclusivo do racismo e da ação de grupos armados."
+        }
+      ]
+    },
+    {
+      "titulo": "Proibição de Apelar em Liberdade e outros aspectos processuais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prisão preventiva e recurso em liberdade",
+          "texto": "Embora a lei não proíba de forma absoluta o recurso em liberdade, a jurisprudência dos tribunais superiores (STF e STJ) é firme no sentido de que, em crimes hediondos, a gravidade concreta do delito e a garantia da ordem pública justificam a manutenção da prisão preventiva, sendo vedada a concessão de liberdade provisória com base unicamente na primariedade ou nos bons antecedentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Prisão Temporária e Crimes Hediondos (Lei nº 7.960/1989)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo para crimes hediondos e equiparados",
+          "texto": "Nos crimes hediondos e equiparados (incluindo tortura, tráfico de drogas e terrorismo), o prazo da prisão temporária é de **5 (cinco) dias**, prorrogável por igual período (mais 5 dias) em caso de extrema e comprovada necessidade.\n\n**⚠️ Diferença importante:** na Lei de Organização Criminosa (Lei 12.850/2013), o prazo é de **10 (dez) dias**, prorrogável por igual período (mais 10 dias). Não confunda os prazos!\n\n📌 **Regra geral (art. 2º da Lei 7.960/89):** para os demais crimes, o prazo é de 5 dias, prorrogável por mais 5 dias (total 10)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Memorização",
+          "texto": "🔹 **Hediondos + equiparados:** 5+5 dias.\n🔹 **Organização criminosa:** 10+10 dias.\n🔹 **Demais crimes:** 5+5 dias (regra geral)."
+        },
+            {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/04.jpg"
+    }
+      ]
+    }
+  ]
+};

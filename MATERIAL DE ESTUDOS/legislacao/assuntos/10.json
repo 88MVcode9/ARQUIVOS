@@ -1,0 +1,252 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['10.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 11.343/2006 — Lei de Drogas",
+  "icone": "💊",
+  "descricao": "Lei que institui o Sistema Nacional de Políticas Públicas sobre Drogas (SINAD), estabelecendo normas para prevenção, tratamento, reinserção social e repressão à produção, tráfico e uso indevido de drogas. Distingue o usuário (infração administrativa) do traficante (crime hediondo equiparado). Prevê penas alternativas para o usuário e penas severas para o tráfico e atividades correlatas, com causas de aumento e de diminuição, além de regras processuais específicas.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Lei de Drogas",
+          "texto": "A Lei nº 11.343/2006 instituiu o **Sistema Nacional de Políticas Públicas sobre Drogas (SINAD)**, que coordena ações de prevenção, tratamento e repressão. O SINAD **não é um órgão**, mas um sistema integrado de políticas públicas, envolvendo União, Estados, Distrito Federal e Municípios."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Dica de prova (CEBRASPE)",
+          "texto": "Cuidado: o SINAD não é um órgão, é um sistema. A lei também prevê o **Conselho Nacional de Políticas sobre Drogas (CONAD)** como órgão consultivo e deliberativo."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Aplicação prática",
+          "texto": "João é dependente químico e foi abordado com pequena porção de maconha. A autoridade policial, considerando a quantidade e as circunstâncias, pode encaminhá-lo para tratamento, aplicando as penas do art. 28. Já Pedro, com grande quantidade, balança de precisão e anotações, será indiciado por tráfico (art. 33)."
+        }
+      ]
+    },
+    {
+      "titulo": "Usuário de Drogas (Art. 28) — Infração Administrativa",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Art. 28 — Conduta do usuário",
+          "texto": "Portar, adquirir, guardar, ter em depósito, transportar ou trazer consigo drogas para **consumo pessoal** não constitui crime, mas sim **infração administrativa**. O juiz aplica uma das seguintes penas:",
+          "itens": [
+            "Advertência sobre os efeitos das drogas;",
+            "Prestação de serviços à comunidade (mínimo 5 meses, máximo 10 meses);",
+            "Comparecimento a curso educativo (mesmo prazo)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Descumprimento e prescrição",
+          "texto": "Em caso de descumprimento, o juiz pode aplicar **admoestação verbal e multa**. A pena prescreve em **2 anos**, contados da data do fato ou da imposição da pena."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Critérios para diferenciar usuário de traficante (art. 28, §2º)",
+          "texto": "O juiz analisará caso a caso, considerando:",
+          "itens": [
+            "Quantidade e natureza da droga;",
+            "Local e circunstâncias;",
+            "Condição social e pessoal;",
+            "Conduta e antecedentes do agente."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Critérios legais para distinguir usuário de traficante (art. 28, §2º)",
+          "texto": "O juiz analisará **caso a caso**, considerando cumulativamente:\n\n1. **Quantidade e natureza da droga** – não há quantidade fixa; depende do contexto.\n2. **Local e circunstâncias** – se em via pública, próximo a escolas, etc.\n3. **Condição social e pessoal** – situação econômica, histórico de dependência.\n4. **Conduta e antecedentes do agente** – se tem passagem por tráfico ou é primário.\n\n📌 **Pegadinha:** a lei não estabelece quantidade mínima ou máxima para diferenciar; é sempre casuístico."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha CEBRASPE",
+          "texto": "A lei **NÃO** estabelece quantidade fixa para diferenciar usuário de traficante. A análise é sempre casuística, com base nos elementos do §2º do art. 28."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Gatilho mental",
+          "texto": "📌 **Usuário** → infração administrativa (penas alternativas), prescrição 2 anos.\n📌 **Traficante** → crime (art. 33), reclusão 5 a 15 anos."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes de Tráfico e Atividades Correlatas (Arts. 33 a 37)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 33 — Tráfico de drogas",
+          "texto": "Importar, exportar, remeter, preparar, produzir, fabricar, comprar, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, ministrar, entregar, distribuir, consumir, fornecer, prescrever ou entregar, mesmo que gratuitamente, drogas — **reclusão de 5 a 15 anos + multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 34 — Maquinário para produção",
+          "texto": "Fabricar, adquirir, manter em depósito ou transportar maquinário para produção de drogas — **reclusão de 3 a 10 anos + multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 35 — Associação para o tráfico",
+          "texto": "Associarem-se **2 (duas) ou mais pessoas** para a prática dos crimes dos arts. 33 e 34 — **reclusão de 3 a 10 anos + multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 36 — Financiamento ou custeio",
+          "texto": "Financiar ou custear os crimes dos arts. 33 e 34 — **reclusão de 8 a 10 anos + multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 37 — Colaboração como informante",
+          "texto": "Colaborar como informante de organização ou associação criminosa — **reclusão de 3 a 6 anos + multa**."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro-resumo dos crimes",
+          "tabela": {
+            "colunas": ["Artigo", "Conduta", "Pena"],
+            "linhas": [
+              ["Art. 33", "Tráfico (rol extenso)", "Reclusão 5 a 15 anos + multa"],
+              ["Art. 34", "Maquinário para produção", "Reclusão 3 a 10 anos + multa"],
+              ["Art. 35", "Associação para o tráfico (2+ pessoas)", "Reclusão 3 a 10 anos + multa"],
+              ["Art. 36", "Financiamento/custeio", "Reclusão 8 a 10 anos + multa"],
+              ["Art. 37", "Colaboração como informante", "Reclusão 3 a 6 anos + multa"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Tráfico privilegiado (Art. 33, §4º)",
+          "texto": "Se o agente for **primário, de bons antecedentes, não se dedicar à atividade criminosa e não integrar organização criminosa**, o juiz pode reduzir a pena de **1/6 a 2/3**. O tráfico privilegiado **NÃO é equiparado a hediondo**. O STF firmou que o juiz não pode negar o benefício com base em inquérito ou ação penal sem trânsito em julgado, e o redutor não se aplica se houver condenação simultânea por tráfico e associação para o tráfico."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Requisitos do tráfico privilegiado (art. 33, §4º) – CUMULATIVOS",
+          "texto": "Para ter direito à redução de pena de 1/6 a 2/3, o agente deve preencher **todos** os seguintes requisitos:\n\n✅ **Primário** (sem condenação penal transitada em julgado).\n✅ **Bons antecedentes** (não ter maus antecedentes).\n✅ **Não se dedicar a atividades criminosas** (não ser profissional do crime).\n✅ **Não integrar organização criminosa** (não ser membro de ORCRIM).\n\n⚠️ **ATENÇÃO:** O STF já decidiu que o juiz **não pode** negar o benefício com base em inquérito policial ou ação penal sem trânsito em julgado. Além disso, o tráfico privilegiado **NÃO** é equiparado a hediondo.\n\n📌 **Pegadinha:** a condenação por associação para o tráfico (art. 35) **impede** a concessão do tráfico privilegiado."
+        }
+      ]
+    },
+    {
+      "titulo": "Causas de Aumento de Pena (Art. 40) e Colaboração Premiada",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 40 — Majorantes",
+          "texto": "As penas dos arts. 33, caput, e 34 a 37 são aumentadas de **1/6 a 2/3** se ocorrer alguma das seguintes situações:",
+          "itens": [
+            "**Transnacionalidade ou interestadualidade** — não exige efetiva transposição; basta prova da intenção (STJ).",
+            "**Exercício de função pública** relacionada à prevenção/repressão.",
+            "**Proximidade** de estabelecimento prisional, de ensino, hospitalar, local de trabalho, cultural, recreativo, esportivo, unidade militar, transporte público ou local de tratamento de dependentes.",
+            "**Uso de violência, grave ameaça ou arma de fogo**.",
+            "**Envolvimento de menor de 18 anos ou pessoa com deficiência** (QBU).",
+            "**Financiamento ou custeio** — o agente que financia e trafica responde pelo tráfico majorado, não pelo art. 36."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "As majorantes do art. 40 **NÃO se aplicam** aos arts. 38 e 39 (crimes mais leves)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 41 — Colaboração Premiada",
+          "texto": "O colaborador que, voluntariamente, prestar informações relevantes que levem à identificação de autores ou à recuperação de bens, pode ter a pena reduzida de **1/6 a 2/3** ou receber **perdão judicial** (este apenas se o réu for primário)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 46 — Redução por dependência",
+          "texto": "Se o agente era, ao tempo da ação, inimputável (por doença mental ou desenvolvimento mental incompleto decorrente da dependência), aplica-se medida de segurança. Se a capacidade de entendimento era **reduzida** (semi-imputável), a pena pode ser reduzida de **1/3 a 2/3**."
+        }
+      ]
+    },
+    {
+      "titulo": "Prescrição e Outros Crimes (Arts. 38 e 39)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 38 — Ministração culposa",
+          "texto": "Prescrever, ministrar ou fornecer drogas, **culposamente**, sem necessidade ou em excesso — **detenção de 6 meses a 2 anos + multa**. Este crime **NÃO possui causas de aumento**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 39 — Condução sob efeito de drogas",
+          "texto": "Conduzir embarcação, aeronave ou veículo sob efeito de drogas — **detenção de 6 meses a 5 anos + multa**. Este crime **NÃO possui causas de aumento**."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Memorização",
+          "texto": "📌 Os crimes dos arts. 38 e 39 são os únicos que **não possuem majorantes** (não se aplica o art. 40)."
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimento Penal e Prazos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Inquérito Policial (Art. 51)",
+          "texto": "Prazo para conclusão: **30 dias** se o indiciado estiver preso; **90 dias** se estiver solto. O juiz pode **duplicar** esses prazos, mediante pedido fundamentado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Defesa Prévia (Art. 54 a 59)",
+          "texto": "Após o recebimento da denúncia, o acusado é notificado para apresentar **defesa prévia em até 10 dias**. Em seguida, o juiz decide pelo recebimento ou rejeição da denúncia. Na **Audiência de Instrução e Julgamento (AIJ)**, a ordem dos atos é invertida: primeiro o réu é **interrogado**, depois ouvidas as testemunhas de acusação e defesa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Destruição de Drogas (Arts. 50 a 58)",
+          "texto": "As drogas apreendidas são destruídas por incineração. O delegado de polícia deve destruí-las no prazo de **30 dias** (se o indiciado estiver preso) ou **10 dias** (se solto), guardando amostra para contraprova. O juiz, após o recebimento da denúncia, ordena a destruição em **10 dias**."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro de prazos processuais",
+          "tabela": {
+            "colunas": ["Ato / Situação", "Prazo Legal"],
+            "linhas": [
+              ["Inquérito Policial (IP) com preso", "30 dias (duplicável)"],
+              ["Inquérito Policial (IP) com solto", "90 dias (duplicável)"],
+              ["Defesa Prévia (notificação)", "10 dias"],
+              ["Destruição de drogas (Delegado, preso)", "30 dias"],
+              ["Destruição de drogas (Delegado, solto)", "10 dias"],
+              ["Destruição de drogas (Juiz)", "10 dias após recebimento da denúncia"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores já pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**STJ:** A preparação de maquinário visando à produção de drogas para uso pessoal configura mero ato preparatório do art. 28, sendo **atípico**.",
+            "**STF (Informativo 915):** É típica a conduta de importar pequena quantidade de sementes de maconha — responde pelo **art. 33**.",
+            "**STF:** Para a majorante de transnacionalidade ou interestadualidade, **não é necessário** o efetivo transposição da fronteira ou divisa; basta prova inequívoca da intenção de ultrapassá-la.",
+            "**STF:** O juiz não pode negar o tráfico privilegiado (art. 33, §4º) com base em inquérito ou ação penal sem trânsito em julgado.",
+            "**STF:** O tráfico de drogas **NÃO é hediondo**, mas é **equiparado a hediondo** para efeitos de execução penal. O tráfico privilegiado **NÃO é equiparado**."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tratamento e Prevenção (SISNAD)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas para usuários e dependentes",
+          "texto": "O art. 26 prevê que o usuário ou dependente de drogas que cometa crime sob a influência da droga ou para adquiri-la poderá receber **tratamento médico ambulatorial ou internação** (voluntária, involuntária ou compulsória).",
+          "itens": [
+            "**Internação involuntária:** exige autorização de médico devidamente registrado no CRM e deve ser comunicada ao Ministério Público em até 72 horas."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/10.jpg"
+    }
+  ]
+}

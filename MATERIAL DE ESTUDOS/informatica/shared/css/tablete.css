@@ -1,0 +1,270 @@
+/* ── TABLET ONLY (768px - 1024px) ── */
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* ── TOKENS ADAPTADOS PARA TABLET ── */
+  :root {
+    --topbar-h: 56px;
+    --subbar-h: 52px;
+    --sidebar-w: 260px;
+  }
+
+  /* ── TOPBAR ── */
+  .topbar {
+    padding: 0 1.25rem;
+    gap: .75rem;
+    height: var(--topbar-h);
+  }
+
+  .logo-icon {
+    width: 30px;
+    height: 30px;
+    font-size: .95rem;
+  }
+
+  .logo-text {
+    font-size: 1rem;
+  }
+
+  .topbar-subject-name {
+    font-size: .8rem;
+    padding: .25rem .75rem;
+  }
+
+  .progress-chip {
+    font-size: .75rem;
+    padding: .25rem .75rem;
+  }
+
+  .progress-chip .chip-dot {
+    width: 6px;
+    height: 6px;
+  }
+
+  .btn-icon {
+    width: 34px;
+    height: 34px;
+    font-size: 1rem;
+  }
+
+  /* ── SUBJECT BAR ── */
+  .subject-bar {
+    padding: 0 1rem;
+    height: var(--subbar-h);
+    gap: .4rem;
+  }
+
+  .subject-tab {
+    padding: .4rem .85rem;
+    font-size: .8rem;
+    gap: .4rem;
+  }
+
+  /* ── WORKSPACE ── */
+  html {
+    scroll-padding-top: calc(var(--topbar-h) + var(--subbar-h) + .75rem);
+  }
+
+  .workspace {
+    padding-top: calc(var(--topbar-h) + var(--subbar-h));
+    height: 100dvh;
+  }
+
+  /* ── SIDEBAR ── */
+  .sidebar {
+    width: var(--sidebar-w);
+  }
+
+  .sidebar-head {
+    padding: 1rem 1rem .7rem;
+  }
+
+  .sidebar-head-title {
+    font-size: .95rem;
+  }
+
+  .sidebar-search-wrap {
+    padding: .65rem .9rem;
+  }
+
+  .search-box {
+    padding: .45rem .65rem;
+    gap: .5rem;
+  }
+
+  .search-box input {
+    font-size: .82rem;
+  }
+
+  .sidebar-topics {
+    padding: .65rem .65rem .65rem .55rem;
+  }
+
+  .topics-list {
+    gap: .35rem;
+    padding-left: .45rem;
+  }
+
+  .topic-btn {
+    padding: .65rem .8rem .65rem .75rem;
+    gap: .6rem;
+    font-size: .82rem;
+  }
+
+  .sidebar-footer {
+    padding: .75rem 1rem;
+  }
+
+  .prog-row {
+    margin-bottom: .45rem;
+  }
+
+  .prog-label,
+  .prog-pct {
+    font-size: .72rem;
+  }
+
+  /* ── MAIN CONTENT ── */
+  .main {
+    background: var(--bg0);
+  }
+
+  .tabbar {
+    padding: .45rem .9rem;
+    gap: .45rem;
+  }
+
+  .tab-label {
+    padding: .35rem .75rem;
+    font-size: .8rem;
+    gap: .4rem;
+  }
+
+  .view-area {
+    padding: 1.25rem 1.5rem;
+  }
+
+  /* ── CONTENT ── */
+  .topic-content {
+    max-width: 680px;
+  }
+
+  .topic-content h1 {
+    font-size: 1.45rem;
+    margin-bottom: 1rem;
+  }
+
+  .topic-content h2 {
+    font-size: 1.1rem;
+    margin: 1.25rem 0 .65rem;
+  }
+
+  .topic-content p,
+  .topic-content li {
+    font-size: .92rem;
+  }
+
+  /* ── LEXICAL BLOCKS ── */
+  .lex-cols {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .lex-section-container {
+    padding: 1.25rem;
+    border-radius: 18px;
+  }
+
+  .lex-section-title {
+    padding: 1rem 1.1rem;
+    font-size: .95rem;
+    border-radius: 12px;
+  }
+
+  .lex-expandable-item {
+    padding: .75rem .9rem;
+    font-size: .88rem;
+    border-radius: 10px;
+  }
+
+  .lex-summary {
+    padding: 1rem 1.25rem;
+  }
+
+  /* ── PROGRESS VIEW ── */
+  .progress-view {
+    padding: 1.5rem 1.5rem;
+    max-width: 720px;
+  }
+
+  .progress-view h2 {
+    font-size: 1.3rem;
+  }
+
+  .stats-row {
+    gap: .75rem;
+  }
+
+  .stat-card {
+    min-width: 110px;
+    padding: .9rem 1.1rem;
+  }
+
+  .stat-num {
+    font-size: 1.6rem;
+  }
+
+  .topics-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: .65rem;
+  }
+
+  .topic-card-pg {
+    padding: .9rem 1rem;
+    gap: .65rem;
+  }
+
+  .topic-card-pg .tc-name {
+    font-size: .82rem;
+  }
+
+  /* ── PROGRESS BUTTON ── */
+  .progress-btn {
+    padding: .6rem 1.2rem;
+    font-size: .82rem;
+    margin-bottom: 1.5rem;
+  }
+
+  /* ── UTILITY BUTTONS ── */
+  .scroll-btn {
+    width: 38px;
+    height: 38px;
+    bottom: 1.25rem;
+    right: 1.25rem;
+  }
+
+  /* ── CALL OUTS ── */
+  .callout,
+  .callout-purple,
+  .callout-orange {
+    padding: .95rem 1.1rem .95rem 1rem;
+    border-radius: 12px;
+  }
+
+ 
+  .mobile-toggle {
+    bottom: 4rem;
+  }
+  .mobile-toggle,
+  .sidebar-overlay { display: flex !important; }
+  .lex-cols-toggle,
+  .lex-cols-overlay { display: none !important; }
+}
+
+  /* ── SCROLLBARS ── */
+  .view-area::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .sidebar-topics::-webkit-scrollbar {
+    width: 3px;
+  }

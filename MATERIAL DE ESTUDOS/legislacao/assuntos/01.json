@@ -1,0 +1,185 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 2.848/1940 — Parte Geral do Código Penal (Títulos I, II e III)",
+  "icone": "📖",
+  "descricao": "Base da teoria do crime no Brasil. Regula a aplicação da lei penal no tempo e no espaço, define o conceito de crime (típico, ilícito e culpável), estabelece as excludentes de ilicitude, as formas de culpabilidade (dolo e culpa), as causas de exclusão da imputabilidade e os institutos da tentativa, desistência voluntária e arrependimento eficaz. Aplica-se a todos os crimes e contravenções, salvo disposições especiais.",
+  "topicos": [
+    {
+      "titulo": "Título I — Aplicação da Lei Penal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Princípios fundamentais",
+          "texto": "O Título I estabelece as regras de aplicação da lei penal, com base nos seguintes princípios:",
+          "itens": [
+            "**Legalidade (Art. 1º):** Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal (*nullum crimen, nulla poena sine lege*).",
+            "**Anterioridade da lei:** A lei penal só alcança fatos ocorridos após sua vigência, salvo se for mais benéfica ao réu (retroatividade).",
+            "**Irretroatividade da lei penal:** A lei nova mais grave não retroage, salvo se for mais benéfica ao réu."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vigência da lei penal",
+          "texto": "A lei penal entra em vigor na data nela estipulada. Ninguém pode alegar desconhecimento da lei após sua vigência (Art. 3º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei penal mais benéfica (Art. 2º, parágrafo único)",
+          "texto": "A lei posterior que for mais favorável ao réu (novatio legis in mellius) **retroage** e alcança fatos anteriores, mesmo que já tenham sido julgados por sentença condenatória definitiva (trânsito em julgado)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lugar do crime (Art. 6º)",
+          "texto": "Adota-se a **teoria da ubiquidade**: considera-se praticado o crime no lugar onde ocorreu a ação ou omissão (conduta) **ou** onde se produziu o resultado (em qualquer dos dois)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tempo do crime (Art. 4º)",
+          "texto": "Adota-se a **teoria da atividade**: considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado. Isso define a lei aplicável e a idade do agente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Extraterritorialidade da lei brasileira (Art. 7º)",
+          "texto": "A lei brasileira aplica-se a crimes cometidos no exterior em certas hipóteses, como:\n- Crimes contra a vida ou liberdade do Presidente da República;\n- Crimes contra a administração pública brasileira;\n- Crimes de genocídio, quando o agente for brasileiro ou domiciliado no Brasil;\n- Crimes previstos em tratados internacionais.\n\nAplica-se também a crime cometido por brasileiro no exterior, nas condições do Art. 7º, §2º (extraterritorialidade condicionada ou incondicionada)."
+        }
+      ]
+    },
+    {
+      "titulo": "Título II — Do Crime",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito analítico de crime (Teoria tripartite)",
+          "texto": "Crime é fato **típico, ilícito (antijurídico) e culpável**:",
+          "itens": [
+            "**Fato típico:** conduta (ação ou omissão) que se enquadra no tipo penal (tipicidade), com resultado e nexo causal.",
+            "**Ilicitude (antijuridicidade):** conduta contrária ao ordenamento jurídico (não amparada por excludente).",
+            "**Culpabilidade:** o agente é reprovável (imputável, com potencial consciência da ilicitude e exigibilidade de conduta diversa)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Dolo (Art. 18, I)",
+          "texto": "**Dolo direto:** o agente quis o resultado (ex.: atirar para matar).\n\n**Dolo eventual:** o agente assumiu o risco de produzir o resultado (ex.: dirigir em alta velocidade no centro da cidade, assumindo o risco de atropelar alguém)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Culpa (Art. 18, II)",
+          "texto": "**Culpa:** o agente não quis o resultado, mas agiu com imprudência, negligência ou imperícia.\n- **Imprudência:** agir sem cautela (ex.: disparar arma no ar);\n- **Negligência:** omitir cuidado devido (ex.: não frear o veículo);\n- **Imperícia:** falta de habilidade técnica (ex.: médico sem capacidade para realizar cirurgia).\n\nA culpa só é punível se prevista expressamente em lei (culpa não é presumida)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Crime consumado (Art. 14, I)",
+          "texto": "Crime consumado quando nele se reúnem todos os elementos da definição legal (tipo penal). Ex.: homicídio consumado com a morte da vítima."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tentativa (Art. 14, II)",
+          "texto": "Tentativa ocorre quando o agente, por circunstâncias alheias à sua vontade, não consegue consumar o crime. Ex.: tiro que erra o alvo.\n\n**Pena:** de 1/6 a 2/3 da pena do crime consumado.\n\n**Tentativa branca (ou incruenta):** crime impossível (Art. 17) — não há tentativa quando o meio ou objeto é ineficaz ou impropério (ex.: atirar em pessoa já morta)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Desistência voluntária (Art. 15)",
+          "texto": "O agente, durante a execução, desiste de continuar (ex.: aponta a arma e desiste de atirar). Responde apenas pelos atos já praticados, não pela tentativa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Arrependimento eficaz (Art. 15)",
+          "texto": "O agente esgota os atos de execução, mas se arrepende e impede o resultado (ex.: dá veneno, mas leva a vítima ao hospital). Também responde apenas pelos atos praticados, não pelo resultado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Arrependimento posterior (Art. 16)",
+          "texto": "O agente, após a consumação, repara o dano ou restitui a coisa, até o recebimento da denúncia ou queixa. Pena reduzida de 1/3 a 2/3 (aplica-se a crimes cometidos sem violência ou grave ameaça)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Erro de tipo (Art. 20)",
+          "texto": "Erro sobre elemento constitutivo do tipo penal (ex.: pensa que está levando seu guarda-chuva, mas é de outra pessoa).\n- **Erro inevitável (escusável):** exclui o dolo e a culpa (atípico).\n- **Erro evitável (inexcusável):** exclui o dolo, mas permite punição por crime culposo, se previsto em lei."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Erro de proibição (Art. 21)",
+          "texto": "Erro sobre a ilicitude do fato (o agente acreditava sinceramente que sua conduta era lícita).\n- **Erro inevitável:** exclui a culpabilidade (atípico).\n- **Erro evitável:** a pena pode ser reduzida de 1/3 a 2/3."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Excludentes de ilicitude (Art. 23)",
+          "texto": "São situações que afastam a antijuridicidade da conduta. O agente não comete crime:\n- **Estado de necessidade:** sacrifica-se um bem menor para salvar um bem maior (ex.: invadir terreno para fugir de tiroteio);\n- **Legítima defesa:** repele-se, com moderação, agressão injusta, atual ou iminente, a si ou a terceiro;\n- **Estrito cumprimento do dever legal:** o ato é praticado exatamente como a lei determina (ex.: PM algema preso resistente);\n- **Exercício regular de direito:** o ato é lícito por si mesmo (ex.: médica que realiza cirurgia com consentimento)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Excesso na legítima defesa",
+          "texto": "O agente que exagera na dose da defesa (excesso doloso ou culposo) responde pelo resultado que causou, não estando mais amparado pela excludente de ilicitude de forma integral."
+        }
+      ]
+    },
+    {
+      "titulo": "Título III — Imputabilidade Penal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Regra geral",
+          "texto": "Respondem pelos crimes as pessoas com 18 anos completos e com capacidade mental plena, que compreendem o caráter ilícito do fato e podem determinar-se de acordo com esse entendimento."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inimputáveis (Art. 26)",
+          "texto": "São inimputáveis, isentos de pena e sujeitos a medidas de segurança:\n- **Menores de 18 anos** (submetem-se ao ECA);\n- **Doentes mentais:** que, ao tempo do crime, eram inteiramente incapazes de compreender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento (ex.: esquizofrenia grave, demência avançada)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Semi-imputáveis (Art. 26, parágrafo único)",
+          "texto": "A pessoa que, por doença mental ou desenvolvimento mental incompleto ou retardado, tinha capacidade reduzida de entendimento.\n\n**Consequência:** a pena pode ser reduzida de 1/3 a 2/3, ou pode ser substituída por medida de segurança (internação ou tratamento ambulatorial)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Embriaguez e imputabilidade",
+          "texto": "**Embriaguez voluntária (Art. 28, II):** não exclui a imputabilidade; o agente responde pelo crime, mesmo que estivesse embriagado. Exceção: se houver comprovação de que a embriaguez retirou totalmente a capacidade de entendimento, pode ser considerada semi-imputabilidade (mas a jurisprudência é restritiva).\n\n**Embriaguez involuntária (Art. 28, II, in fine):** se o agente foi forçado a beber ou ingeriu bebida acidentalmente, a embriaguez pode excluir a imputabilidade se retirou totalmente a capacidade de entendimento.\n\n**Embriaguez patológica (alcoolismo):** equipara-se a doença mental, podendo levar à inimputabilidade ou semi-imputabilidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Emoção e paixão (Art. 28, I)",
+          "texto": "A emoção (raiva, medo intenso momentâneo) e a paixão (amor cego, ciúme obsessivo) **NÃO excluem** a imputabilidade penal, nem atenuam a pena por si só (diferente da provocação injusta da vítima, que pode ser causa de diminuição em crimes como o homicídio)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Menoridade penal",
+          "texto": "A avaliação da maioridade penal (18 anos) considera a **data do fato** (teoria da atividade), e não a data em que o processo é julgado ou a pena é cumprida."
+        }
+      ]
+    },
+    {
+      "titulo": "Pegadinhas Frequentes (CEBRASPE)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Teoria da Atividade (Tempo do Crime)",
+          "texto": "Para saber qual lei se aplica e qual a idade do agente, olha-se o momento da **ação ou omissão**, mesmo que o resultado ocorra horas, dias ou meses depois."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Excesso na Legítima Defesa",
+          "texto": "O agente que exagera na defesa (excesso doloso ou culposo) respende pelo resultado, não estando mais amparado pela excludente de forma integral."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Dolo eventual x Culpa consciente",
+          "texto": "No dolo eventual, o agente assume o risco do resultado (responde por crime doloso). Na culpa consciente, o agente prevê o risco, mas acredita sinceramente que pode evitá-lo (responde por crime culposo, se previsto)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Retroatividade da lei penal mais benéfica",
+          "texto": "A lei nova mais favorável retroage, alcançando fatos anteriores, ainda que já tenha sido proferida sentença condenatória definitiva (trânsito em julgado)."
+        }
+      ]
+    },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+       }
+      ]
+    }
+;

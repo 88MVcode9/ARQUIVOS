@@ -1,0 +1,267 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['09.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 13.869/2019 — Lei de Abuso de Autoridade",
+  "icone": "📋",
+  "descricao": "Lei que tipifica os crimes de abuso de autoridade praticados por agente público no exercício de suas funções, com o objetivo de coibir arbitrariedades e violações de direitos fundamentais. Estabelece penas de detenção e multa, além de efeitos civis e administrativos. Não admite a forma culposa, exigindo dolo específico (finalidade de mero capricho, prejudicar outrem ou beneficiar-se). Aplica-se a agentes públicos de todos os Poderes e esferas da Federação, bem como a particulares em concurso.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Lei de Abuso de Autoridade",
+          "texto": "A Lei nº 13.869/2019 pune agentes públicos que, no exercício de suas funções ou a pretexto de exercê-las, pratiquem condutas abusivas que violem direitos fundamentais. O objetivo é evitar arbitrariedades como prisões ilegais, invasão de domicílio sem mandado, violência policial e outras condutas vexatórias."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um policial entra na casa de um suspeito sem mandado judicial e sem flagrante delito, revistando todos os cômodos e quebrando móveis. Isso configura abuso de autoridade (invasão de domicílio, art. 8º, c/c art. 5º)."
+        }
+      ]
+    },
+    {
+      "titulo": "Elemento Subjetivo — Dolo Específico",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Dolo específico — finalidade M-P-B",
+          "texto": "A lei exige **dolo específico** para todos os crimes. Não há abuso de autoridade culposo. O agente deve agir com uma das seguintes finalidades (mnemônico M-P-B):",
+          "itens": [
+            "**Mero capricho** ou satisfação pessoal;",
+            "**Prejudicar outrem**;",
+            "**Beneficiar a si mesmo ou a terceiro**."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crime de Hermenêutica?",
+          "texto": "A mera divergência na interpretação de lei ou na avaliação de fatos e provas **não configura** abuso de autoridade. Para caracterizar o crime, é necessária a presença do dolo específico."
+        }
+      ]
+    },
+    {
+      "titulo": "Sujeito Ativo e Passivo",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Sujeito ativo — agente público",
+          "texto": "É crime **próprio**, somente pode ser cometido por agente público (servidor ou não) da administração direta, indireta ou fundacional de qualquer dos Poderes da União, Estados, DF, Municípios e Territórios. Inclui:",
+          "itens": [
+            "Membros do Congresso Nacional, tribunais, Ministério Público, Defensoria Pública;",
+            "Militares das Forças Armadas e Polícias;",
+            "Servidores públicos em geral;",
+            "Agentes de empresas públicas e sociedades de economia mista."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Sujeito passivo",
+          "texto": "O sujeito passivo primário é o **Estado** (interesse público violado). Secundariamente, a pessoa física ou jurídica que sofreu a conduta abusiva."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Particular em concurso",
+          "texto": "O particular **não pode** cometer o crime sozinho, mas **pode responder em concurso de pessoas** (art. 30 do CP) desde que tenha **ciência da condição de agente público** do coautor."
+        }
+      ]
+    },
+    {
+      "titulo": "Condutas Típicas (Principais)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Principais crimes previstos",
+          "texto": "A lei tipifica diversas condutas, entre as quais se destacam:",
+          "itens": [
+            "**Art. 3º:** Constranger alguém a comparecer a repartição policial sem justa causa — detenção de 6 meses a 2 anos.",
+            "**Art. 4º:** Deixar de comunicar ao preso seus direitos (art. 5º, LXIII, CF) — detenção de 6 meses a 2 anos.",
+            "**Art. 5º:** Usar algemas sem necessidade ou de forma vexatória — detenção de 6 meses a 2 anos.",
+            "**Art. 6º:** Realizar busca pessoal vexatória — detenção de 6 meses a 2 anos.",
+            "**Art. 8º:** Invadir domicílio sem mandado ou situação excepcional — detenção de 1 a 4 anos.",
+            "**Art. 9º:** Interceptar comunicação sem autorização judicial — detenção de 1 a 4 anos.",
+            "**Art. 10:** Revelar dados sigilosos de investigação — detenção de 1 a 4 anos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade do Superior Hierárquico",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Superior hierárquico",
+          "texto": "As penas de detenção e multa podem ser aplicadas ao superior hierárquico que, mesmo sem praticar diretamente o ato:",
+          "itens": [
+            "Emitir ordem **manifestamente ilegal**;",
+            "Concorrer para a prática do crime (omissão ou tolerância)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Ação Penal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Regra — Pública Incondicionada",
+          "texto": "A ação penal para todos os crimes da lei de abuso de autoridade é **pública incondicionada** — não depende de representação da vítima."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação privada subsidiária da pública",
+          "texto": "Admite-se ação penal privada subsidiária da pública se o Ministério Público for inerte (não oferecer denúncia no prazo legal). Prazo: **6 meses**, contado do esgotamento do prazo do MP (e não da data do fato)."
+        }
+      ]
+    },
+    {
+      "titulo": "Penas — Detenção e Multa (Sem Reclusão)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas previstas",
+          "texto": "A lei **não prevê pena de reclusão** para nenhum crime, apenas **detenção** cumulada com **multa** (art. 1º):",
+          "itens": [
+            "**6 meses a 2 anos:** crimes mais leves (ex.: constrangimento ilegal, uso vexatório de algemas).",
+            "**1 a 4 anos:** crimes mais graves (ex.: invasão de domicílio, interceptação ilegal).",
+            "**3 meses a 1 ano:** violência institucional (art. 24)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "Não existe reclusão na Lei de Abuso de Autoridade. Todas as penas privativas de liberdade são de **detenção**."
+        }
+      ]
+    },
+    {
+      "titulo": "Efeitos da Condenação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Efeitos automáticos e não automáticos",
+          "texto": "A condenação por crime de abuso de autoridade produz os seguintes efeitos:",
+          "itens": [
+            "**Obrigação de reparar o dano (automático):** efeito automático da condenação, com fixação de valor mínimo na sentença.",
+            "**Inabilitação para o exercício de cargo (não automático):** de 1 a 5 anos, **exige reincidência específica** em crime de abuso de autoridade e **decisão motivada**.",
+            "**Perda do cargo, emprego ou função pública (não automático):** **exige reincidência específica** e **decisão motivada**."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "TOR — Perda automática do cargo",
+          "texto": "📌 A perda do cargo **NÃO é automática** na Lei de Abuso de Autoridade. Ela é automática apenas nas leis de:\n- **T**ortura (Lei 9.455/97);\n- **O**rganização Criminosa (Lei 12.850/13);\n- **R** (não se aplica)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tríplice Responsabilidade e Coisa Julgada",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Independência das esferas",
+          "texto": "As esferas criminal, civil e administrativa são **independentes**.\n\n**Exceção (vinculação):** A absolvição penal faz **coisa julgada** nas esferas civil e administrativa se reconhecer:\n- Inexistência do fato;\n- Negativa de autoria;\n- Excludentes de ilicitude (estado de necessidade, legítima defesa, estrito cumprimento do dever legal, exercício regular do direito)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Indenização cível",
+          "texto": "A obrigação de reparar o dano civil **independe** da absolvição criminal, exceto nos casos de coisa julgada mencionados acima."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores já pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**STF (ADI 6575):** A lei é constitucional, com interpretação conforme para o art. 3º (constrangimento ilegal) no sentido de que a conduta de ‘constranger’ exige a demonstração do dolo específico, não se aplicando a atos decorrentes de erro escusável.",
+            "**STJ (Tema 1047):** A tipificação do crime de abuso de autoridade exige a presença do elemento subjetivo (dolo específico) e a conduta deve estar prevista expressamente na lei (princípio da legalidade penal).",
+            "**STJ:** O uso de algemas é legítimo quando devidamente justificado por escrito, em caso de resistência, risco de fuga ou perigo à integridade física. Fora dessas hipóteses, configura abuso.",
+            "**STJ:** A invasão de domicílio sem mandado ou flagrante configura crime, mesmo que o agente alegue suspeita, pois a lei exige situações excepcionais (Art. 8º)."
+          ]
+        }
+      ]
+    },
+     {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/11.jpg"
+       }
+      ]
+    },
+
+    window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['17.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 13.869/2019 — Abuso de Autoridade",
+  "icone": "⚖️",
+  "descricao": "Lei que define os crimes de abuso de autoridade praticados por agente público, com previsão de penas e sanções administrativas, civis e penais. É crime próprio, com dolo específico (finalidade de prejudicar ou beneficiar).",
+  "topicos": [
+    {
+      "titulo": "Conceito e Sujeito Ativo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Sujeito ativo",
+          "texto": "Crime próprio: só pode ser praticado por **agente público** (servidor ou não, ainda que transitoriamente ou sem remuneração). Inclui quem exerce função pública, mesmo que de forma temporária."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Elemento subjetivo",
+          "texto": "Exige **dolo específico**: agir com a finalidade de:\n- Prejudicar outrem;\n- Beneficiar a si mesmo ou a terceiro;\n- Ou por mero capricho ou satisfação pessoal.\nO dolo genérico (mera intenção de praticar o ato) não é suficiente para caracterizar o abuso."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Crimes (arts. 9 a 18)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Condutas típicas",
+          "texto": "A lei prevê diversas condutas, entre as mais cobradas:",
+          "itens": [
+            "**Art. 9º** – Decretar prisão sem fundamentação ou sem indícios suficientes.",
+            "**Art. 10** – Submeter alguém a interrogatório sob coação ou ameaça.",
+            "**Art. 11** – Constranger preso a usar algemas, salvo se houver resistência ou risco.",
+            "**Art. 12** – Deixar de comunicar prisão em flagrante à autoridade competente.",
+            "**Art. 13** – Impedir o acesso de advogado ao preso.",
+            "**Art. 14** – Prolongar a prisão provisória além do prazo legal.",
+            "**Art. 15** – Invadir ou entrar em local privado sem autorização judicial.",
+            "**Art. 16** – Realizar busca pessoal em mulher por homem, sem necessidade.",
+            "**Art. 17** – Proceder à identificação criminal de pessoa sem fundamentação.",
+            "**Art. 18** – Utilizar meio de comunicação para promover ato de abuso."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Penalidades e Processo",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas",
+          "texto": "As penas são, em regra, de **detenção de 1 a 4 anos**, podendo chegar a **reclusão de 2 a 8 anos** em casos mais graves (ex.: art. 9º, §1º). Todas as penas são **alternativas**, podendo ser convertidas em restritivas de direitos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "A Lei de Abuso de Autoridade **não** prevê fiança para os crimes nela descritos. No entanto, a maioria dos crimes é de menor potencial ofensivo (pena máxima ≤ 2 anos), sujeitando-se ao rito dos Juizados Especiais Criminais (Lei 9.099/95), desde que a pena máxima não ultrapasse 2 anos. Para penas superiores, aplica-se o rito ordinário."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Independência das instâncias",
+          "texto": "A responsabilidade penal é **independente** da responsabilidade administrativa e civil. O agente pode ser processado e condenado penalmente, mesmo que absolvido na esfera administrativa, e vice-versa."
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/09.jpg"
+    }
+  ]
+}
+;

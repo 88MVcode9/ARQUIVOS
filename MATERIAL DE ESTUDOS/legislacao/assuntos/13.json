@@ -1,0 +1,124 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['13.json']=
+{
+  "materia": "Direito Constitucional",
+  "titulo": "Crimes de Preconceito e Discriminação",
+  "icone": "⚖️",
+  "descricao": "Visão completa dos crimes de preconceito, racismo e injúria racial, com fundamento na CF/88 (art. 5º) e na Lei 7.716/89. Inclui classificação, sujeitos ativos e passivos, penas, e a diferença entre racismo (inafiançável e imprescritível) e injúria racial, com exemplos práticos e pegadinhas de prova.",
+  "topicos": [
+    {
+      "titulo": "Fundamento Constitucional e Histórico",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são crimes de preconceito?",
+          "texto": "Condutas que atentam contra a dignidade humana por motivação discriminatória – raça, cor, etnia, religião, origem, orientação sexual, identidade de gênero, deficiência, idade ou qualquer outra forma de intolerância. O combate a essas práticas está no centro do princípio da **igualdade** (Art. 5º, caput e incisos) e da **dignidade da pessoa humana** (Art. 1º, III)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Base Constitucional (Art. 5º)",
+          "texto": "A CF/88 traz dispositivos específicos contra a discriminação:\n\n- **Art. 5º, caput** – igualdade de todos perante a lei.\n- **Art. 5º, inciso XLI** – a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais.\n- **Art. 5º, inciso XLII** – o racismo é crime inafiançável e imprescritível, sujeito à pena de reclusão (nos termos da lei).\n- **Art. 5º, inciso XLIII** – a lei considerará crimes hediondos a prática da tortura, tráfico ilícito de entorpecentes e terrorismo, e definirá penas para o racismo (embora o racismo não seja hediondo – atenção!).\n\n🧠 **MNEMÔNICO:** “Racismo é Inafiançável e Imprescritível (RII)”."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Evolução Legislativa",
+          "texto": "- **Lei 7.716/89** – define os crimes resultantes de preconceito de raça ou de cor (sofreu várias alterações).\n- **Lei 9.459/97** – acrescentou o §3º ao art. 140 do CP, tipificando a **injúria racial**.\n- **Lei 12.288/2010** (Estatuto da Igualdade Racial).\n- **Lei 14.532/2023** – equiparou a injúria racial ao crime de racismo, tornando-a também inafiançável e imprescritível (alteração relevante!).\n\nHoje, tanto o racismo (Lei 7.716) quanto a injúria racial (art. 140, §3º, CP) são considerados crimes de racismo, com as mesmas gravidades processuais."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação dos Crimes de Preconceito",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Racismo (Lei 7.716/89)",
+          "texto": "Tipos penais que punem condutas discriminatórias contra a raça ou cor, como:\n\n- Recusar ou impedir acesso a estabelecimento comercial, emprego, transporte etc.\n- Impedir casamento ou convivência familiar.\n- Veicular, publicar ou divulgar símbolos, emblemas, etc. que promovam segregação.\n\nA pena varia de 2 a 5 anos de reclusão, além de multa. É **crime inafiançável e imprescritível** (art. 5º, XLII).\n\n⚠️ **ATENÇÃO:** O racismo NÃO é crime hediondo, mas é inafiançável e imprescritível. Não confunda!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Injúria Racial (Art. 140, §3º, CP)",
+          "texto": "Consiste em ofender a dignidade ou o decoro de alguém, com a utilização de elementos referentes à raça, cor, etnia, religião, origem ou condição de pessoa idosa ou com deficiência.\n\n- Pena: reclusão de 1 a 3 anos e multa.\n- **Com a Lei 14.532/2023**, equiparou-se ao racismo, tornando-se **inafiançável e imprescritível**.\n\n🧠 **MNEMÔNICO:** “Injúria racial ofende a honra; racismo impede o acesso a bens e serviços. Ambos são inafiançáveis e imprescritíveis agora.”"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Preconceito – Formas Ampliadas",
+          "texto": "A Lei 7.716/89, com alterações, protege também contra discriminação por:\n\n- **Religião** – Art. 20 (praticar, induzir ou incitar discriminação religiosa).\n- **Orientação sexual e identidade de gênero** – STF equiparou a homofobia e transfobia ao crime de racismo (ADI 4.277 e ADPF 132), até que o Congresso edite lei específica.\n- **Deficiência, idade, condição de pessoa idosa** – incluídos por leis posteriores.\n\n💡 **Dica de prova:** Questões sobre discriminação contra LGBTQIA+ devem ser respondidas com base na equiparação ao racismo pelo STF, enquanto não houver lei própria."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha Clássica: Racismo x Injúria Racial",
+          "texto": "Muitas provas perguntam a diferença:\n\n- **Racismo** – conduta contra coletividade de pessoas (ex.: impedir negros de entrar em um clube).\n- **Injúria racial** – ofensa dirigida a uma pessoa específica, com xingamento racial (ex.: chamar alguém de “macaco”).\n\nAmbos, hoje, são inafiançáveis e imprescritíveis. Mas a distinção ainda é cobrada para identificar o tipo penal adequado!"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Para Leigos – A Metáfora do Restaurante",
+          "texto": "Imagine um restaurante:\n\n- Se o gerente diz: “negros não entram aqui” – isso é **racismo** (conduta contra um grupo).\n- Se o garçom diz a um cliente negro: “você não tem dinheiro para pagar, seu macaco” – isso é **injúria racial** (ofensa direta a uma pessoa).\n\nAmbas são graves e agora tratadas com o mesmo rigor penal (inafiançáveis e imprescritíveis)."
+        }
+      ]
+    },
+    {
+      "titulo": "Sujeitos, Penas e Procedimento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode ser vítima?",
+          "texto": "Qualquer pessoa, brasileira ou estrangeira, que sofra discriminação por um dos motivos protegidos. Também podem ser vítimas **pessoas jurídicas** quando a discriminação atinge sua honra objetiva (ex.: empresa de propriedade de negros que sofre boicote discriminatório)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode ser autor do crime?",
+          "texto": "Qualquer pessoa, física ou jurídica, que pratique a conduta discriminatória. No caso de pessoas jurídicas, a responsabilidade é penal, e a lei prevê sanções como multa e até a dissolução da pessoa jurídica."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas e regime processual",
+          "texto": "- Pena de reclusão para a maioria dos crimes da Lei 7.716.\n- **Inafiançabilidade** – não se concede fiança.\n- **Imprescritibilidade** – o crime não prescreve com o tempo, podendo ser punido a qualquer momento.\n- **Ação penal pública incondicionada** – o Ministério Público pode processar independentemente de representação da vítima.\n\n⚠️ Exceção: a injúria racial praticada em contexto de racismo era de ação penal privada, mas com a nova equiparação passou a ser pública incondicionada (STJ já vinha entendendo assim)."
+        }
+      ]
+    },
+    {
+      "titulo": "Garantias e Remédios Constitucionais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Como a vítima pode reagir?",
+          "texto": "Além do processo penal, a vítima pode utilizar:\n\n- **Habeas corpus** – se houver prisão ilegal decorrente da discriminação.\n- **Mandado de segurança** – para assegurar direito líquido e certo, como matrícula em escola ou acesso a estabelecimento.\n- **Ação popular** – para anular ato lesivo ao patrimônio público que esteja fundamentado em discriminação.\n- **Ação civil pública** – pelo Ministério Público, para reparação de danos coletivos.\n\n💡 **Dica:** O direito à igualdade é autoaplicável e gera direito de ação imediato, mesmo sem regulamentação (Art. 5º, §1º)."
+        },
+      ]
+    },
+    {
+      "titulo": "Aprofundamentos e Peculiaridades",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de aumento de pena – Injúria racial (Art. 140, §2º)",
+          "texto": "A pena da injúria racial pode ser majorada em situações específicas:\n- **Concurso de pessoas:** a pena é aumentada de 1/3 até a metade se o crime for cometido por duas ou mais pessoas.\n- **Injúria real:** se da ofensa resultar lesão corporal de natureza grave ou gravíssima, aplica-se a pena correspondente à lesão, cumulada com a injúria (concurso material).\n\n🧠 **Dica:** As bancas adoram cobrar a majorante do concurso de pessoas – fique atento!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concurso de crimes – Ameaça, constrangimento ilegal e outros",
+          "texto": "Na prática, o agente que pratica racismo ou injúria racial frequentemente também comete outros delitos no mesmo contexto:\n- **Ameaça (Art. 147, CP):** se o agente prometer mal injusto e grave à vítima.\n- **Constrangimento ilegal (Art. 146, CP):** se obrigar a vítima a fazer ou deixar de fazer algo mediante violência ou grave ameaça.\n- **Lesão corporal (Art. 129, CP):** se houver agressão física.\n\nNesses casos, os crimes estão em **concurso material** (as penas se somam), pois os bens jurídicos tutelados são distintos (honra, liberdade, integridade física).\n\n⚠️ **Pegadinha:** O delito de ameaça NÃO é absorvido pela injúria/racismo – respondem em concurso material."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Perda do cargo ou função pública (efeito da condenação)",
+          "texto": "A Lei 7.716/89 e a legislação correlata preveem efeitos específicos da condenação para agentes públicos:\n- Se o autor do crime de racismo ou injúria racial for **servidor público**, a condenação transitada em julgado pode acarretar a **perda do cargo, função ou emprego público**.\n- A perda deve ser fundamentada na sentença, considerando a gravidade da conduta e a incompatibilidade com o exercício da função pública.\n- Além disso, a condenação pode suspender o direito de funcionar em estabelecimentos de ensino ou comerciais, dependendo da hipótese.\n\n💡 **Dica de prova:** A perda do cargo não é automática – depende de fundamentação na sentença e não se aplica a todos os casos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 Princípio da Insignificância NÃO se aplica",
+          "texto": "É pacífico nos Tribunais Superiores (STF e STJ) que **não se aplica o princípio da insignificância (bagatela)** aos crimes de racismo e injúria racial.\n\n**Fundamento:** A tutela penal visa proteger a **dignidade da pessoa humana** e a honra sob a perspectiva dos direitos fundamentais – bens jurídicos infungíveis e indisponíveis. Uma ofensa racial não pode ser considerada “insignificante” ou “mera brincadeira”, ainda que o valor da ofensa seja subjetivamente pequeno.\n\n🧠 **MNEMÔNICO:** “Racismo não tem tamanho – sempre é relevante.”\n\n⚠️ **Pegadinha clássica:** A banca afirma que a injúria racial pode ser desclassificada se for “leve” ou “sem repercussão” – **ERRADO**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Intolerância religiosa e racismo recreativo",
+          "texto": "**Intolerância religiosa (Art. 20 da Lei 7.716/89):**\n- Praticar, induzir ou incitar discriminação ou preconceito de religião é crime, com pena de reclusão de 1 a 3 anos e multa.\n- O STF já assentou que a liberdade religiosa protege inclusive as manifestações de matriz africana (umbanda, candomblé), sendo o crime inafiançável e imprescritível quando revestido de caráter discriminatório estrutural.\n- Exemplos: impedir a realização de ritos religiosos, depredar templos, recusar atendimento a fiéis.\n\n**Racismo recreativo:**\n- Falas preconceituosas disfarçadas de “piada” ou “brincadeira” não afastam o dolo do crime de racismo/injúria racial.\n- O STF tem avançado na tese de que o contexto lúdico ou humorístico não descaracteriza a conduta criminosa – o que importa é a ofensa à dignidade da vítima.\n- Exemplo: fazer piada com características físicas de uma pessoa negra ou com sua origem étnica, mesmo em tom de “brincadeira”, pode configurar injúria racial.\n\n💡 **Dica:** A tese de “foi só uma brincadeira” é rechaçada pela jurisprudência – não cabe como excludente de crime."
+        },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Crimes de Preconceito",
+          "imagem": "./IMAGENS/13.jpg"
+        }
+      ]
+    }
+  ]
+};

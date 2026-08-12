@@ -1,0 +1,324 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['14.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
+  "icone": "👶",
+  "descricao": "Lei que institui o Estatuto da Criança e do Adolescente, garantindo proteção integral e prioridade absoluta a crianças e adolescentes. Define direitos fundamentais (vida, saúde, educação, convivência familiar), medidas de proteção, medidas socioeducativas, e normas de família substituta (guarda, tutela e adoção). Prevê crimes específicos e procedimentos para apuração de atos infracionais. Atualizado com as leis mais recentes, incluindo o 'ECA Digital' (Lei nº 15.211/2025), o abandono afetivo como ilícito civil (Lei nº 15.240/2025), o direito à saúde mental (Lei nº 15.413/2026) e o endurecimento das penas para crimes contra a vulnerabilidade (Lei nº 15.280/2025).",
+  "topicos": [
+    {
+      "titulo": "Conceitos Fundamentais (Art. 2º)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definições de criança e adolescente",
+          "texto": "O ECA considera:",
+          "itens": [
+            "**Criança:** pessoa até 12 anos incompletos.",
+            "**Adolescente:** pessoa entre 12 e 18 anos.",
+            "**Aplicação excepcional:** o ECA aplica-se excepcionalmente a pessoas entre 18 e 21 anos (art. 2º, parágrafo único).",
+            "**Tempus regit actum:** considera-se a idade do menor à época do fato (data da conduta/ato infracional)."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Comparativo: Menor x Maior",
+          "tabela": {
+            "colunas": ["Critério", "Menor de Idade (ECA)", "Maior de Idade (CP)"],
+            "linhas": [
+              ["Infração", "Ato Infracional", "Crime / Contravenção"],
+              ["Status", "Apreendido", "Preso"],
+              ["Legislação", "Estatuto da Criança e do Adolescente", "Código Penal"],
+              ["Consequência", "Medidas de Proteção / Socioeducativas", "Pena"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Fundamentais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos garantidos",
+          "texto": "O ECA assegura os seguintes direitos fundamentais:",
+          "itens": [
+            "Vida e Saúde",
+            "Alimentação",
+            "Educação",
+            "Liberdade, Respeito e Dignidade",
+            "Convivência Familiar e Comunitária",
+            "Profissionalização e Proteção no Trabalho"
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Princípio da Proteção Integral",
+          "texto": "A criança e o adolescente gozam de **prioridade absoluta** (art. 227 da CF e art. 3º do ECA). Nunca serão admitidos trabalho forçado ou tratamento cruel."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Convivência Familiar (Art. 19)",
+          "texto": "A regra é a manutenção na **família natural**. O acolhimento institucional ou familiar é **provisório e excepcional**, com permanência máxima de **18 meses** (reavaliado a cada 3 meses)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Educação (Arts. 53 a 58)",
+          "texto": "A criança e o adolescente têm direito à educação, com vaga na escola pública e gratuita próxima da residência. É dever do Estado assegurar ensino fundamental obrigatório e gratuito."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Profissionalização (Arts. 60 a 69)",
+          "texto": "Proibição de trabalho para menores de 16 anos, salvo na condição de **aprendiz**, a partir dos 14 anos. O trabalho do menor não pode ser:",
+          "itens": [
+            "Noturno (22h às 5h);",
+            "Perigoso, insalubre ou penoso;",
+            "Que prejudique a frequência escolar."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direito à Saúde Mental (Art. 11-A, Lei nº 15.413/2026)",
+          "texto": "É assegurado às crianças e adolescentes o acesso integral a programas de saúde mental promovidos pelo SUS, abrangendo atenção psicossocial básica e especializada, urgência, emergência e atenção hospitalar, com profissionais capacitados para identificar riscos precocemente."
+        }
+      ]
+    },
+    {
+      "titulo": "Família Natural, Extensa e Substituta",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Família natural",
+          "texto": "Formada pelos pais ou qualquer um deles e seus descendentes."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Família extensa/expandida",
+          "texto": "Formada por parentes próximos com os quais a criança/adolescente convive e mantém vínculos de afeto (art. 25, parágrafo único)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Família substituta (G-T-A)",
+          "texto": "Ocorre mediante **Guarda, Tutela ou Adoção**:",
+          "itens": [
+            "**Guarda:** provisória e revogável.",
+            "**Tutela:** revogável (aplica-se quando os pais são falecidos ou perderam o poder familiar).",
+            "**Adoção:** definitiva e irrevogável (depende sempre de sentença judicial)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos para adoção",
+          "texto": "Quem pode adotar: maiores de **18 anos**, independentemente do estado civil. A diferença de idade deve ser de, no mínimo, **16 anos** entre o adotante e o adotando.\n\nQuem **NÃO** pode adotar: ascendentes (pais, avós) e irmãos (art. 42, §1º).\n\nConsentimento: se o adotando for maior de **12 anos** (adolescente), é necessário o seu consentimento em audiência (art. 45)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Abandono afetivo como ilícito civil (Lei nº 15.240/2025)",
+          "texto": "O ECA passou a prever expressamente que a violação de direitos fundamentais — **incluindo o abandono afetivo** — constitui ilícito civil sujeito à **reparação por danos morais**. O art. 22 foi reforçado para explicitar que aos pais incumbe também o **dever de convivência e assistência afetiva**."
+        }
+      ]
+    },
+    {
+      "titulo": "Medidas de Proteção e Socioeducativas",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Medidas de Proteção x Socioeducativas",
+          "tabela": {
+            "colunas": ["Critério", "Medidas de Proteção", "Medidas Socioeducativas"],
+            "linhas": [
+              ["Aplicável a", "Crianças e adolescentes", "Adolescentes"],
+              ["Fundamento", "Situação de risco/vulnerabilidade", "Prática de ato infracional"],
+              ["Exemplos", "Acolhimento, orientação, etc.", "Advertência, internação, etc."]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas Socioeducativas (Art. 112)",
+          "texto": "Aplicáveis somente a adolescentes pela prática de ato infracional. Espécies:",
+          "itens": [
+            "**Advertência** — reprimenda verbal.",
+            "**Obrigação de reparar o dano** — restituição à vítima.",
+            "**Prestação de serviços à comunidade** — máximo 6 meses, jornada de até 8 horas semanais.",
+            "**Liberdade assistida** — prazo mínimo 6 meses.",
+            "**Semiliberdade** — pode ser desde o início ou como regressão.",
+            "**Internação** — privativa de liberdade, sem prazo mínimo, máximo de 3 anos; reavaliação a cada 6 meses; liberdade compulsória aos 21 anos.",
+            "**Internação provisória** — antes da sentença, prazo máximo e improrrogável de 45 dias."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "O simples fato de o ato infracional ser análogo a crime hediondo não gera internação automática — é necessária fundamentação baseada em violência, grave ameaça ou reiteração (Súmula 492 STJ)."
+        }
+      ]
+    },
+    {
+      "titulo": "Benefício da Remissão",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Remissão (Arts. 126 a 128)",
+          "texto": "A remissão é o perdão ou renúncia do Estado ao direito de punir, podendo ser concedida:",
+          "itens": [
+            "**Pelo Ministério Público:** implica a exclusão do processo (antes do início da ação).",
+            "**Pelo Juiz:** implica a extinção ou suspensão do processo (durante o processo).",
+            "**Efeitos:** a remissão não implica reconhecimento de culpa nem gera maus antecedentes.",
+            "**Cumulação:** pode incluir a aplicação de qualquer medida socioeducativa, **exceto semiliberdade e internação**."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conselho Tutelar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Conselho Tutelar",
+          "texto": "Cada município e o Distrito Federal devem ter, no mínimo, 1 Conselho Tutelar.",
+          "itens": [
+            "**Composição:** 5 membros, eleitos pela comunidade local.",
+            "**Natureza Jurídica:** órgão permanente, autônomo e não jurisdicional — não julga nem aplica penas, apenas aplica medidas administrativas de proteção.",
+            "**Requisitos:** idade mínima de 21 anos; mandato de 4 anos; permite-se a recondução por novos processos de escolha."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Proibições de Venda (Art. 81)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Produtos proibidos",
+          "texto": "É proibida a venda a crianças e adolescentes de:",
+          "itens": [
+            "Armas, munições e explosivos;",
+            "Bebidas alcoólicas (Art. 243, com aumento de pena se houver consumo efetivo — Lei nº 15.234/2025);",
+            "Produtos cujos componentes possam causar dependência física ou psíquica;",
+            "Fogos de estampido e de artifício (exceto os inofensivos);",
+            "Revistas e publicações inadequadas;",
+            "Bilhetes lotéricos e equivalentes."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes em Espécie no ECA",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 244-A — Exploração sexual",
+          "texto": "Submeter criança ou adolescente à prostituição ou exploração sexual — **reclusão de 4 a 10 anos, e multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 244-B — Corrupção de menores (atualizado pela Lei nº 15.280/2025)",
+          "texto": "Corromper ou facilitar a corrupção de menor de 18 anos — **reclusão de 6 a 14 anos** (crime formal, independe de prova da efetiva corrupção — Súmula 500 STJ)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 244-C — Omissão de comunicação de desaparecimento",
+          "texto": "Deixar de comunicar à autoridade competente o desaparecimento de criança ou adolescente — **reclusão de 2 a 4 anos, e multa**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Art. 243 — Fornecimento de álcool (atualizado)",
+          "texto": "Vender ou fornecer bebida alcoólica a menor de 18 anos — **detenção de 2 a 4 anos e multa**.\n**Aumento de pena (Lei nº 15.234/2025):** de 1/3 até a metade se houver o **consumo efetivo** da bebida pela criança ou adolescente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Endurecimento dos crimes sexuais contra vulneráveis (Lei nº 15.280/2025)",
+          "texto": "As penas dos crimes sexuais contra crianças e adolescentes foram drasticamente aumentadas:",
+          "itens": [
+            "**Estupro de vulnerável (simples):** 10 a 18 anos de reclusão.",
+            "**Estupro de vulnerável com resultado morte:** 20 a 40 anos de reclusão."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Autorização para Viagem (Arts. 83 a 85)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Viagem nacional",
+          "texto": "Menor de 16 anos não pode viajar para fora da comarca onde reside desacompanhado dos pais/responsáveis sem autorização judicial, exceto se:",
+          "itens": [
+            "Acompanhado por parente até 3º grau (avós, tios, irmãos maiores);",
+            "Houver autorização expressa dos pais com firma reconhecida."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Viagem internacional",
+          "texto": "Necessita de autorização de ambos os pais se o menor viajar sozinho ou acompanhado de apenas um deles."
+        }
+      ]
+    },
+    {
+      "titulo": "ECA Digital (Lei nº 15.211/2025)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Proteção integral no ambiente digital",
+          "texto": "A lei estende a doutrina da proteção integral de forma explícita ao ambiente digital (redes sociais, jogos, aplicativos e plataformas):",
+          "itens": [
+            "**Verificação de idade:** exigência de mecanismos confiáveis de verificação de idade a cada acesso em conteúdos impróprios — vedada a simples autodeclaração.",
+            "**Redes sociais:** contas de menores de 16 anos devem ter configurações padrão no nível máximo de proteção e vinculação à conta de um responsável legal.",
+            "**Sanções administrativas:** aplicadas pela ANPD, podendo chegar a multas milionárias ou suspensão de atividades."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimento e Apreensão",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Flagrante e apreensão",
+          "texto": "Em regra, o menor só é apreendido em flagrante de ato infracional ou por ordem judicial escrita e fundamentada. Não há prisão em cela comum — deve ser encaminhado à repartição policial especializada (DPCA/DCA)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos do menor ao ser apreendido",
+          "texto": "Identificação dos responsáveis pela apreensão, direito ao silêncio e à presença dos pais e advogados/defensor público."
+        }
+      ]
+    },
+    {
+      "titulo": "Acolhimento e Apadrinhamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Preferência pelo acolhimento familiar",
+          "texto": "O programa de acolhimento familiar tem preferência sobre o acolhimento institucional (art. 34 do ECA). O acolhimento é medida provisória e excepcional, visando sempre à reintegração familiar ou, na impossibilidade, à colocação em família substituta."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Apadrinhamento (Art. 19-A)",
+          "texto": "O apadrinhamento consiste no estabelecimento de vínculos afetivos e de suporte social a crianças e adolescentes em acolhimento institucional ou familiar, sem perspectiva de reintegração familiar ou de adoção, com o objetivo de proporcionar convivência comunitária e desenvolvimento saudável."
+        }
+      ]
+    },
+    {
+      "titulo": "Súmulas do STJ (relevantes)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Súmulas importantes",
+          "texto": "Os tribunais superiores consolidaram os seguintes entendimentos:",
+          "itens": [
+            "**Súmula 500:** A configuração do crime do art. 244-B (corrupção de menores) independe de prova da efetiva corrupção do menor (crime formal).",
+            "**Súmula 492:** O ato infracional análogo ao tráfico de drogas, por si só, não conduz obrigatoriamente à internação — necessária fundamentação baseada em violência, grave ameaça ou reiteração.",
+            "**Súmula 605:** A superveniência da maioridade penal não extingue o processo de apuração do ato infracional nem a execução da medida socioeducativa (lembrando o limite dos 21 anos)."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/14.jpg"
+    }
+  ]
+};

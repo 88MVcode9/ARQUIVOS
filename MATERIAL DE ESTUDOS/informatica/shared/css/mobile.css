@@ -1,0 +1,175 @@
+/* ============================================================
+   ESTILOS MOBILE COMPLETOS (Até 1024px)
+   ============================================================ */
+
+@media (max-width: 1024px) {
+    :root {
+        --topbar-h: 56px;
+        --subbar-h: 52px;
+        --sidebar-w: 280px;
+        --r-xs: 8px;
+        --r-sm: 12px;
+        --r-md: 16px;
+    }
+
+    /* ── LAYOUT BASE ── */
+    body {
+        overflow-x: hidden;
+    }
+
+    /* ── TOPBAR MOBILE ── */
+    .topbar {
+        height: var(--topbar-h);
+        padding: 0 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1001;
+        background: var(--bg1);
+        border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-logo .logo-text,
+    .topbar-subject-name {
+        display: none; /* Esconde textos longos no mobile */
+    }
+
+    /* ── SIDEBAR MOBILE (O CORAÇÃO DO PROBLEMA) ── */
+    #sidebar {
+        position: fixed;
+        top: 0;
+        left: -100%; /* Escondido por padrão */
+        width: var(--sidebar-w);
+        height: 100vh;
+        background: var(--bg1);
+        z-index: 2000;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), left 0.3s ease;
+        box-shadow: 10px 0 30px rgba(0,0,0,0.5);
+        display: flex;
+        flex-direction: column;
+        border-right: 1px solid var(--border2);
+    }
+
+    /* Classe ativada pelo JavaScript */
+    #sidebar.active {
+        left: 0 !important;
+        transform: translateX(0);
+    }
+
+    .sidebar-header {
+        padding: 1.5rem;
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .sidebar-content {
+        flex: 1;
+        overflow-y: auto;
+        padding: 1rem;
+    }
+
+    /* ── OVERLAY (Fundo escuro ao abrir menu) ── */
+    #sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(4px);
+        z-index: 1999;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+    }
+
+    #sidebar-overlay.active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* ── SUBJECT BAR (ABAS DE DISCIPLINAS) ── */
+    .subject-bar {
+        position: fixed;
+        top: var(--topbar-h);
+        left: 0;
+        width: 100%;
+        height: var(--subbar-h);
+        background: var(--bg0);
+        overflow-x: auto;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        padding: 0 0.5rem;
+        z-index: 1000;
+        -webkit-overflow-scrolling: touch;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .subject-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .subject-tab {
+        padding: 0.5rem 1rem;
+        font-size: 0.85rem;
+        flex-shrink: 0;
+    }
+
+    /* ── ÁREA DE CONTEÚDO ── */
+    main {
+       }
+
+    .view-area {
+        padding: 1rem;
+    }
+
+    /* ── ELEMENTOS DE CONTEÚDO ── */
+    .topic-content h1 { font-size: 1.5rem; }
+    .topic-content h2 { font-size: 1.2rem; }
+    
+    .stats-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.75rem;
+    }
+
+    .stat-card {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    /* Botão Flutuante ou de Menu */
+    #mobile-toggle {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: var(--r-xs);
+        background: var(--acc-glow);
+        color: var(--acc-lt);
+    }
+}
+
+/* ── SMALL MOBILE ── */
+@media (max-width: 480px) {
+    :root {
+        --topbar-h: 52px;
+        --subbar-h: 48px;
+    }
+    
+    .stats-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .topic-content {
+        font-size: 0.95rem;
+    }
+}

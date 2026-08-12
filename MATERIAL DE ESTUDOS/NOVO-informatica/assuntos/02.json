@@ -1,0 +1,1292 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+
+{
+  "materia": "Informática",
+  "titulo": "Fundamentos, Hardware, Software, Redes e Segurança",
+  "icone": "🖥️",
+  "descricao": "Conceitos essenciais de informática: dados, sistemas, hardware, software, redes, segurança, Windows e muito mais. Material completo para concursos.",
+  "topicos": [
+    {
+      "titulo": "Conceitos Fundamentais de Informática",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Informática",
+          "texto": "Estudo do tratamento automatizado da informação por meio de computadores."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Computador",
+          "texto": "Máquina eletrônica capaz de processar dados e produzir informação."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Sistema computacional",
+          "texto": "Conjunto integrado de hardware, software e peopleware."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Dado",
+          "texto": "Elemento bruto, sem interpretação (ex.: número 35, letra ‘A’)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Dados crus inseridos no computador",
+          "imagem": "https://picsum.photos/seed/info01/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Informação",
+          "texto": "Dado processado e contextualizado, com significado (ex.: “temperatura atual = 35 °C”)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Transformação dado → informação",
+          "imagem": "https://picsum.photos/seed/info02/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Processamento",
+          "texto": "Conjunto de operações que transformam dados em informação."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Fluxo Dados → Processamento → Informação",
+          "imagem": "https://picsum.photos/seed/info03/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Dado ≠ Informação",
+          "texto": "Dado e informação **não são sinônimos**. Dado é bruto; informação é processada e com significado."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistema de Informação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Fluxo do Sistema de Informação",
+          "texto": "**Entrada (Input):** dados inseridos.\n**Processamento:** tratamento dos dados.\n**Saída (Output):** informação produzida.\n**Armazenamento:** conservação dos dados.\n**Feedback:** retorno para ajustes."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Fluxograma completo",
+          "imagem": "https://picsum.photos/seed/info04/800/400"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fluxo resumido",
+          "texto": "**Entrada → Processamento → Saída → Armazenamento**"
+        }
+      ]
+    },
+    {
+      "titulo": "Elementos de um Sistema Informatizado",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Hardware",
+          "texto": "Parte física, palpável. Ex.: CPU, teclado, monitor, HD, placa‑mãe, mouse."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Componentes de hardware",
+          "imagem": "https://picsum.photos/seed/info05/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Software",
+          "texto": "Parte lógica, programas e instruções. Não tem forma física. Ex.: Windows, Word, Chrome, antivírus."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícones de programas",
+          "imagem": "https://picsum.photos/seed/info06/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Peopleware",
+          "texto": "Elemento humano: usuários, operadores, programadores."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Pessoa utilizando computador",
+          "imagem": "https://picsum.photos/seed/info07/800/400"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "**Hardware** = físico (toca) | **Software** = programa (não toca) | **Peopleware** = usuário."
+        }
+      ]
+    },
+    {
+      "titulo": "Hardware — CPU e Componentes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "CPU (Unidade Central de Processamento)",
+          "texto": "Cérebro do computador. **Não é o gabinete!**"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Processador (chip) destacado",
+          "imagem": "https://picsum.photos/seed/info08/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Unidade de Controle (UC)",
+          "texto": "Coordena e sincroniza todas as operações."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "UC controlando fluxo de dados",
+          "imagem": "https://picsum.photos/seed/info09/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Unidade Lógica e Aritmética (ULA)",
+          "texto": "Executa operações aritméticas (soma, subtração) e lógicas (comparações)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Esquema da ULA com entradas e saídas",
+          "imagem": "https://picsum.photos/seed/info10/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Registradores",
+          "texto": "Pequenas memórias internas de altíssima velocidade."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Registradores dentro da CPU",
+          "imagem": "https://picsum.photos/seed/info11/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Cache",
+          "texto": "Memória de alta velocidade que armazena dados frequentemente usados."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Hierarquia de memória com cache",
+          "imagem": "https://picsum.photos/seed/info12/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Clock",
+          "texto": "Sinal que sincroniza as operações (medido em Hz)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Núcleos (cores) e Threads",
+          "texto": "**Núcleos:** unidades de processamento independentes.\n**Threads:** sequências de instruções executadas por um núcleo."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "CPU ≠ Gabinete",
+          "texto": "CPU é o processador, não o gabinete do computador."
+        }
+      ]
+    },
+    {
+      "titulo": "Placa‑mãe e Componentes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Placa‑mãe",
+          "texto": "Principal placa do computador, conecta todos os componentes."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Chipset",
+          "texto": "Conjunto de circuitos que gerencia a comunicação entre CPU, memória e periféricos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "BIOS/UEFI",
+          "texto": "Firmware responsável pela inicialização."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "CMOS",
+          "texto": "Memória que armazena configurações da BIOS (data, hora, ordem de boot)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Fonte de alimentação",
+          "texto": "Fornece energia para todos os componentes."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Placa‑mãe com componentes destacados",
+          "imagem": "https://picsum.photos/seed/info13/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Barramentos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Barramento de dados",
+          "texto": "Transporta os dados propriamente ditos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Barramento de endereço",
+          "texto": "Indica a localização da memória/componente."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Barramento de controle",
+          "texto": "Envia sinais de controle e sincronização."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Esquema de barramentos na placa‑mãe",
+          "imagem": "https://picsum.photos/seed/info14/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Placas Internas e Periféricos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Placas internas",
+          "texto": "**GPU (placa de vídeo):** processamento gráfico.\n**Placa de rede:** conectividade com rede.\n**Placa de som:** processamento de áudio."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Exemplos de placas (vídeo, rede, som)",
+          "imagem": "https://picsum.photos/seed/info15/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Classificação de Periféricos",
+          "tabela": {
+            "colunas": ["Tipo", "Exemplos"],
+            "linhas": [
+              ["Entrada", "Teclado, mouse, scanner, microfone, webcam"],
+              ["Saída", "Monitor, impressora, alto‑falante, projetor"],
+              ["Entrada/Saída", "Tela touchscreen, multifuncional, placa de rede, modem"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Colagem com exemplos de cada categoria",
+          "imagem": "https://picsum.photos/seed/info16/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Touchscreen",
+          "texto": "Touchscreen é **entrada e saída**."
+        }
+      ]
+    },
+    {
+      "titulo": "Memórias — Hierarquia e Classificação",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Hierarquia de memória",
+          "tabela": {
+            "colunas": ["Nível", "Tipo", "Velocidade", "Volatilidade"],
+            "linhas": [
+              ["1", "Registradores", "Altíssima", "Volátil"],
+              ["2", "Cache (L1, L2, L3)", "Muito alta", "Volátil"],
+              ["3", "RAM", "Alta", "Volátil"],
+              ["4", "SSD", "Média", "Não volátil"],
+              ["5", "HD", "Baixa", "Não volátil"],
+              ["6", "Fitas / nuvem", "Muito baixa", "Não volátil"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Pirâmide da hierarquia de memória",
+          "imagem": "https://picsum.photos/seed/info17/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "RAM",
+          "texto": "Random Access Memory – volátil (perde dados ao desligar)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Pentes de memória RAM",
+          "imagem": "https://picsum.photos/seed/info18/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "ROM",
+          "texto": "Read‑Only Memory – não volátil (mantém dados mesmo sem energia)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Chip de ROM",
+          "imagem": "https://picsum.photos/seed/info19/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "PROM, EPROM, EEPROM",
+          "texto": "**PROM:** programável uma única vez.\n**EPROM:** apagável por luz ultravioleta.\n**EEPROM:** apagável eletricamente (ex.: Flash)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Memória virtual",
+          "texto": "Técnica que usa parte do HD/SSD como extensão da RAM. Mais lenta que a RAM física."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Esquema de memória virtual",
+          "imagem": "https://picsum.photos/seed/info20/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Pegadinhas sobre memórias",
+          "texto": "RAM = **volátil**. ROM = **não volátil**. Cache = muito rápida e próxima da CPU. HD/SSD = **armazenamento** (não são memória RAM)."
+        }
+      ]
+    },
+    {
+      "titulo": "Bits, Bytes e Unidades de Medida",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Bit, Nibble, Byte",
+          "texto": "**Bit (b)** – menor unidade, 0 ou 1.\n**Nibble** – 4 bits.\n**Byte (B)** – 8 bits."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Múltiplos do Byte",
+          "tabela": {
+            "colunas": ["Unidade", "Equivalência"],
+            "linhas": [
+              ["1 Byte", "8 bits"],
+              ["1 KB", "1024 bytes"],
+              ["1 MB", "1024 KB"],
+              ["1 GB", "1024 MB"],
+              ["1 TB", "1024 GB"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Escada de unidades com b e B destacados",
+          "imagem": "https://picsum.photos/seed/info21/800/400"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atenção: b vs B",
+          "texto": "**b** = bit (velocidade de transmissão), **B** = Byte (armazenamento).\n\nExemplo: **100 Mbps ≠ 100 MB/s**"
+        }
+      ]
+    },
+    {
+      "titulo": "Sistemas de Numeração",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Bases numéricas",
+          "tabela": {
+            "colunas": ["Base", "Nome", "Dígitos"],
+            "linhas": [
+              ["2", "Binário", "0, 1"],
+              ["8", "Octal", "0–7"],
+              ["10", "Decimal", "0–9"],
+              ["16", "Hexadecimal", "0–9, A–F"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Tabela comparativa com exemplos",
+          "imagem": "https://picsum.photos/seed/info22/800/400"
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo",
+          "texto": "1 byte = 8 bits = `11111111` (binário) = `FF` (hexadecimal)."
+        }
+      ]
+    },
+    {
+      "titulo": "Software — Classificações",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Software de sistema",
+          "texto": "Sistema operacional, drivers, firmware."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Software aplicativo",
+          "texto": "Word, Excel, Chrome, Photoshop."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Software utilitário",
+          "texto": "Antivírus, compactadores, backup."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícones representando cada categoria",
+          "imagem": "https://picsum.photos/seed/info23/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Tipos de licenciamento",
+          "tabela": {
+            "colunas": ["Tipo", "Característica", "Exemplo"],
+            "linhas": [
+              ["Proprietário", "Código fechado, pago", "Windows, Adobe Photoshop"],
+              ["Livre", "Código aberto, liberdade", "Linux, GIMP"],
+              ["Open Source", "Código aberto (critérios específicos)", "Firefox, Apache"],
+              ["Freeware", "Gratuito, código fechado", "Adobe Reader, CCleaner"],
+              ["Shareware", "Gratuito por tempo limitado", "WinRAR (trial)"],
+              ["Trial", "Versão de teste por prazo", "Antivírus trial"],
+              ["Adware", "Gratuito com propagandas", "Alguns jogos"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Quadro comparativo com exemplos",
+          "imagem": "https://picsum.photos/seed/info24/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Software livre ≠ gratuito",
+          "texto": "Software livre é sobre **liberdade**, não sobre preço. Nem todo software livre é gratuito, embora a maioria seja."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Outros termos",
+          "texto": "**Firmware:** software gravado em hardware (BIOS, UEFI).\n**Driver:** ponte entre SO e hardware.\n**Middleware:** software que conecta aplicações.\n**Malware:** software malicioso (vírus, trojan, etc.)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Chip de firmware",
+          "imagem": "https://picsum.photos/seed/info25/800/400"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Diagrama SO → Driver → Hardware",
+          "imagem": "https://picsum.photos/seed/info26/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Sistema Operacional — Conceitos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Sistema Operacional?",
+          "texto": "Software responsável por gerenciar o hardware e fornecer serviços aos programas. É a camada entre o hardware e os aplicativos.\n\nExemplos: Windows 10/11, Linux, Android, iOS, macOS."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Camadas do sistema (Hardware → Kernel → SO → Aplicativos)",
+          "imagem": "https://picsum.photos/seed/info27/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Funções do SO",
+          "texto": "Gerenciamento de **processos**, **memória**, **arquivos**, **dispositivos** (drivers), **usuários** e interface com o usuário (GUI ou CLI)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Kernel (núcleo)",
+          "texto": "Núcleo central do SO. Gerencia diretamente o hardware: CPU, memória, dispositivos, processos e sistema de arquivos."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Representação do kernel no centro do sistema",
+          "imagem": "https://picsum.photos/seed/info28/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Programa, Processo e Thread",
+          "texto": "**Programa:** código armazenado em disco (passivo).\n**Processo:** programa em execução (ativo).\n**Thread:** unidade menor de execução dentro de um processo.\n**PID:** identificador único de cada processo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Multitarefa, Multiprocessamento, Multiusuário",
+          "texto": "**Multitarefa:** execução aparentemente simultânea de vários processos.\n**Multiprocessamento:** uso de múltiplas CPUs/cores.\n**Multiusuário:** vários usuários simultâneos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Interface GUI vs CLI",
+          "texto": "**GUI:** gráfica (Windows, macOS).\n**CLI:** linha de comando (CMD, PowerShell, Terminal)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Esquema programa, processo e threads",
+          "imagem": "https://picsum.photos/seed/info29/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Programa ≠ processo",
+          "texto": "Um programa armazenado em disco **não** é um processo em execução."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Shell",
+          "texto": "Interface entre o usuário e o kernel. Pode ser gráfico (GUI) ou linha de comando (CLI)."
+        }
+      ]
+    },
+    {
+      "titulo": "BIOS / UEFI / Boot",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "BIOS",
+          "texto": "Firmware tradicional. Inicializa e verifica componentes (POST). Suporte limitado a discos grandes (MBR)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "UEFI",
+          "texto": "Sucessora da BIOS. Interface gráfica. Suporte a discos >2 TB (GPT). Inicialização mais rápida. **Secure Boot:** impede execução de software não autorizado durante a inicialização."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Tela da BIOS vs. tela da UEFI",
+          "imagem": "https://picsum.photos/seed/info30/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Processo de inicialização (Boot)",
+          "texto": "1. **Ligação** – energia.\n2. **POST** – autoteste.\n3. **BIOS/UEFI** – localiza e carrega o bootloader.\n4. **Bootloader** – carrega o SO.\n5. **SO** – inicializa kernel e serviços.\n6. **Sistema pronto** – usuário interage."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Fluxo do boot com etapas ilustradas",
+          "imagem": "https://picsum.photos/seed/info31/800/400"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "BIOS/UEFI não é o SO",
+          "texto": "BIOS/UEFI é o firmware que carrega o sistema operacional, não o sistema em si."
+        }
+      ]
+    },
+    {
+      "titulo": "Arquivos e Sistemas de Arquivos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceitos básicos",
+          "texto": "**Arquivo:** unidade lógica de armazenamento.\n**Pasta/diretório:** contém arquivos e subpastas.\n**Caminho absoluto:** completo a partir da raiz (ex.: `C:\\Users\\joao\\Documentos\\relatorio.docx`).\n**Caminho relativo:** a partir do diretório atual (ex.: `Documentos\\relatorio.docx`).\n**Extensão:** sufixo que identifica o tipo.\n**Metadados:** informações sobre o arquivo (tamanho, data, atributos)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Árvore de diretórios com pastas e arquivos",
+          "imagem": "https://picsum.photos/seed/info32/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Sistemas de arquivos",
+          "tabela": {
+            "colunas": ["Sistema", "SO principal", "Características"],
+            "linhas": [
+              ["NTFS", "Windows", "Permissões, criptografia, arquivos grandes, journaling"],
+              ["FAT32", "Compatível", "Limite de 4 GB por arquivo"],
+              ["exFAT", "Windows/macOS", "Suporte a arquivos grandes, sem permissões"],
+              ["EXT4", "Linux", "Sistema padrão do Linux"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Partição, Formatação, Arquivo oculto, Temporário",
+          "texto": "**Partição:** divisão lógica de uma unidade.\n**Formatação:** preparação para receber um sistema de arquivos.\n**Arquivo oculto:** não é exibido por padrão.\n**Arquivo temporário:** usado pelo sistema/aplicativos, pode ser excluído."
+        }
+      ]
+    },
+    {
+      "titulo": "Compactação e Backup",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Compactação com perda e sem perda",
+          "texto": "**Com perda:** reduz tamanho com perda de qualidade (JPEG, MP3).\n**Sem perda:** mantém qualidade original (ZIP, PNG, FLAC)."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Formatos de compactação",
+          "tabela": {
+            "colunas": ["Formato", "Característica"],
+            "linhas": [
+              ["ZIP", "Padrão no Windows"],
+              ["RAR", "Melhor compressão, pago"],
+              ["7Z", "Alta compressão, open source"],
+              ["TAR/GZIP", "Usado em Linux"],
+              ["ISO", "Imagem de disco"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícones de arquivos compactados",
+          "imagem": "https://picsum.photos/seed/info33/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Tipos de backup",
+          "texto": "**Completo:** cópia integral dos dados.\n**Incremental:** apenas alterações desde o último backup.\n**Diferencial:** alterações desde o último backup completo.\n\n**Regra 3‑2‑1:**\n- 3 cópias dos dados\n- 2 mídias diferentes\n- 1 cópia fora do local principal"
+        }
+      ]
+    },
+    {
+      "titulo": "Multimídia e Codecs",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Tipos de mídia",
+          "texto": "**Texto:** TXT, DOCX, PDF\n**Imagem:** JPEG (com perda), PNG (sem perda), GIF, BMP\n**Áudio:** MP3 (com perda), WAV (sem perda), AAC, WMA\n**Vídeo:** MP4, AVI, MKV, MOV, WMV"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Codec",
+          "texto": "Programa que codifica e decodifica arquivos de mídia.\n\n**Codec de áudio:** MP3, AAC, FLAC\n**Codec de vídeo:** H.264, HEVC (H.265), VP9"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Código‑fonte de codec representado como tradutor",
+          "imagem": "https://picsum.photos/seed/info34/800/400"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu",
+          "texto": "Codec = tradutor de arquivos de mídia."
+        }
+      ]
+    },
+    {
+      "titulo": "Redes de Computadores",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Tipos de rede",
+          "tabela": {
+            "colunas": ["Tipo", "Abrangência"],
+            "linhas": [
+              ["PAN", "Pessoal (Bluetooth)"],
+              ["LAN", "Local (escritório, casa)"],
+              ["MAN", "Metropolitana (cidade)"],
+              ["WAN", "Ampla (Internet)"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Modelos Cliente‑servidor e P2P",
+          "texto": "**Cliente‑servidor:** cliente solicita, servidor fornece.\n**Peer‑to‑peer (P2P):** todos os nós são iguais."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Dispositivos de rede",
+          "tabela": {
+            "colunas": ["Dispositivo", "Função"],
+            "linhas": [
+              ["Hub", "Repete o sinal para todas as portas"],
+              ["Switch", "Encaminha dados apenas para o destino"],
+              ["Roteador", "Conecta redes diferentes (ex.: LAN → Internet)"],
+              ["Modem", "Modula/demodula sinais (fibra/cabo)"],
+              ["Access Point", "Cria rede Wi‑Fi"],
+              ["Gateway", "Interface entre redes com protocolos diferentes"],
+              ["Repetidor", "Amplifica o sinal"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Diagrama de rede com todos os dispositivos",
+          "imagem": "https://picsum.photos/seed/info35/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Endereçamento",
+          "texto": "**IP (Internet Protocol):**\n- IPv4: 32 bits (ex.: 192.168.1.1)\n- IPv6: 128 bits (ex.: 2001:0db8:85a3::8a2e:0370:7334)\n**MAC Address:** endereço físico da placa de rede (48 bits, hexadecimal).\n**Porta:** identifica serviço (ex.: 80 HTTP, 443 HTTPS).\n**DNS:** traduz nomes de domínio para IPs."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Comparação IPv4 × IPv6",
+          "imagem": "https://picsum.photos/seed/info36/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Protocolos de rede",
+          "tabela": {
+            "colunas": ["Protocolo", "Função"],
+            "linhas": [
+              ["TCP", "Conexão confiável, orientada a conexão"],
+              ["UDP", "Não confiável, mais rápido (streaming, VoIP)"],
+              ["HTTP/HTTPS", "Navegação web (HTTPS = seguro)"],
+              ["FTP", "Transferência de arquivos"],
+              ["SMTP", "Envio de e‑mail"],
+              ["POP3/IMAP", "Recebimento de e‑mail"],
+              ["SSH", "Acesso remoto seguro"],
+              ["DHCP", "Atribuição automática de IP"],
+              ["DNS", "Resolução de nomes"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Internet e Web",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceitos básicos",
+          "texto": "**Internet:** rede global de computadores.\n**Web (WWW):** serviço da Internet baseado em páginas HTTP.\n**Navegador:** programa para acessar a Web (Chrome, Firefox, Edge, Safari).\n**Site:** conjunto de páginas web.\n**URL:** endereço de um recurso (ex.: `https://www.exemplo.com/pagina`).\n**Domínio:** nome do site (ex.: `exemplo.com`)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Recursos do navegador",
+          "texto": "**Cache:** armazena cópias de páginas para acesso mais rápido.\n**Cookies:** pequenos arquivos que armazenam preferências e sessões.\n**Histórico:** registro de páginas visitadas.\n**Favoritos/Marcadores:** páginas salvas.\n**Aba anônima/privada:** não salva histórico/cookies.\n**Extensões:** plugins que adicionam funcionalidades."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "E‑mail",
+          "texto": "**Webmail:** acessado via navegador (Gmail, Outlook).\n**Cliente de e‑mail:** programa instalado (Thunderbird, Outlook)."
+        }
+      ]
+    },
+    {
+      "titulo": "Segurança da Informação",
+      "cards": [
+        {
+          "tipo": "importante",
+          "titulo": "Pilares da segurança",
+          "texto": "**Confidencialidade:** acesso apenas por autorizados.\n**Integridade:** dados não são alterados indevidamente.\n**Disponibilidade:** dados acessíveis quando necessário.\n**Autenticidade:** garante a origem dos dados.\n**Não repúdio:** impede a negação de autoria."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Triângulo CID",
+          "imagem": "https://picsum.photos/seed/info37/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Controles de acesso",
+          "texto": "**Autenticação:** verifica identidade (senha, biometria, token).\n**MFA/2FA:** dois ou mais fatores.\n**Controle de acesso:** quem pode fazer o quê."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Criptografia",
+          "texto": "**Criptografia simétrica:** mesma chave para cifrar e decifrar.\n**Criptografia assimétrica:** par de chaves (pública e privada).\n**Certificado digital:** identidade digital (ex.: ICP‑Brasil).\n**Assinatura digital:** garante autenticidade e integridade."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Malwares",
+          "tabela": {
+            "colunas": ["Tipo", "Característica"],
+            "linhas": [
+              ["Vírus", "Se replica e infecta arquivos"],
+              ["Worm", "Se replica via rede, sem arquivo hospedeiro"],
+              ["Trojan", "Parece legítimo, mas tem função maliciosa"],
+              ["Ransomware", "Criptografa dados e pede resgate"],
+              ["Spyware", "Coleta informações do usuário"],
+              ["Adware", "Exibe propagandas indesejadas"],
+              ["Keylogger", "Registra teclas digitadas"],
+              ["Rootkit", "Esconde a presença do malware"]
+            ]
+          }
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Ataques e ameaças",
+          "tabela": {
+            "colunas": ["Tipo", "Descrição"],
+            "linhas": [
+              ["Phishing", "Tentativa de obter dados via engano"],
+              ["Pharming", "Redirecionamento para site falso"],
+              ["Spoofing", "Falsificação de identidade (IP, e‑mail)"],
+              ["Engenharia social", "Manipulação psicológica para obter informações"],
+              ["Spam", "Mensagens não solicitadas em massa"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Proteção",
+          "texto": "**Firewall:** bloqueia acessos não autorizados.\n**Antivírus:** detecta e remove malwares.\n**Backup:** recuperação em caso de ataque.\n**Atualizações:** corrigem vulnerabilidades."
+        }
+      ]
+    },
+    {
+      "titulo": "Computação em Nuvem",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Modelos de implantação",
+          "texto": "**Pública:** serviços disponíveis para qualquer pessoa (AWS, Azure, Google Cloud).\n**Privada:** dedicada a uma organização.\n**Híbrida:** combinação de pública e privada."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Modelos de serviço (IaaS, PaaS, SaaS)",
+          "tabela": {
+            "colunas": ["Modelo", "O que oferece", "Exemplo"],
+            "linhas": [
+              ["IaaS", "Infraestrutura (servidores, rede)", "AWS EC2"],
+              ["PaaS", "Plataforma de desenvolvimento", "Google App Engine"],
+              ["SaaS", "Software pronto para uso", "Google Drive, Office 365"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Armazenamento em nuvem",
+          "texto": "Sincronização automática entre dispositivos, backup remoto, acesso de qualquer lugar.\n\nExemplos: OneDrive, Google Drive, Dropbox, iCloud."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícone de nuvem com dispositivos conectados",
+          "imagem": "https://picsum.photos/seed/info38/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Virtualização",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceitos",
+          "texto": "**Virtualização:** criação de ambientes virtuais isolados.\n**Máquina virtual (VM):** sistema operacional executado dentro de outro.\n**Sistema hospedeiro:** sistema real onde a VM roda.\n**Sistema convidado:** sistema dentro da VM.\n**Hypervisor:** software que gerencia VMs (tipo 1: bare‑metal; tipo 2: hospedado)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Esquema de virtualização com hypervisor",
+          "imagem": "https://picsum.photos/seed/info39/800/400"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplos",
+          "texto": "VirtualBox, VMware, Hyper‑V (Windows), KVM (Linux)."
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Funcionalidades Principais",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Explorador de Arquivos",
+          "texto": "Gerenciar pastas, diretórios e arquivos."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícone do Explorador de Arquivos",
+          "imagem": "https://picsum.photos/seed/info40/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Lixeira",
+          "texto": "Arquivos excluídos vão primeiro para a lixeira (podem ser recuperados).\n\n**Shift + Delete** exclui permanentemente, sem passar pela lixeira."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Lixeira (cheia e vazia)",
+          "imagem": "https://picsum.photos/seed/info41/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Barra de Tarefas",
+          "texto": "Fixar programas para acesso rápido."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Barra de Tarefas com ícones fixados",
+          "imagem": "https://picsum.photos/seed/info42/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "OneDrive",
+          "texto": "Armazenamento em nuvem integrado; backup automático e sincronização entre dispositivos."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícone do OneDrive e sincronização",
+          "imagem": "https://picsum.photos/seed/info43/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Área de Trabalho",
+          "texto": "Ícones de atalho, papel de parede."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Área de Trabalho do Windows",
+          "imagem": "https://picsum.photos/seed/info44/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Bibliotecas",
+          "texto": "Organizam pastas de diferentes locais em um grupo virtual (Documentos, Imagens, Músicas, Vídeos)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Bibliotecas no Explorador de Arquivos",
+          "imagem": "https://picsum.photos/seed/info45/800/400"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu sobre bibliotecas",
+          "texto": "Bibliotecas = organização virtual (não são pastas físicas)."
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Extensões e Nomes de Arquivo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Exibir extensões",
+          "texto": "Por padrão, extensões **não são exibidas** no Windows.\n\n**Para ativar:** Explorador de Arquivos → Exibir → Extensões de nome de arquivo."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Menu Exibir com a opção destacada",
+          "imagem": "https://picsum.photos/seed/info46/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Extensões comuns",
+          "tabela": {
+            "colunas": ["Extensão", "Tipo"],
+            "linhas": [
+              [".docx", "Word"],
+              [".xlsx", "Excel"],
+              [".pptx", "PowerPoint"],
+              [".pdf", "Documento PDF"],
+              [".exe", "Programa executável"],
+              [".msi", "Instalador"],
+              [".mp4", "Vídeo"],
+              [".mp3", "Áudio"],
+              [".jpg/.png", "Imagem"],
+              [".zip/.rar", "Compactado"],
+              [".txt", "Texto puro"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Símbolos proibidos",
+          "texto": "Não são permitidos nos nomes de arquivos e pastas no Windows:\n\n`?  \"  /  <  >  *  |  :`"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Lista de caracteres proibidos com alerta",
+          "imagem": "https://picsum.photos/seed/info47/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Atalhos de Teclado Essenciais",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Atalhos gerais",
+          "tabela": {
+            "colunas": ["Atalho", "Função"],
+            "linhas": [
+              ["Ctrl + C", "Copiar"],
+              ["Ctrl + V", "Colar"],
+              ["Ctrl + X", "Recortar"],
+              ["Ctrl + Z", "Desfazer"],
+              ["Ctrl + A", "Selecionar tudo"],
+              ["Ctrl + Shift + Esc", "Gerenciador de Tarefas"],
+              ["Shift + Esc", "Gerenciador do navegador (Chrome/Edge)"],
+              ["Shift + Delete", "Excluir permanentemente"],
+              ["Windows + D", "Mostrar área de trabalho"],
+              ["Alt + F4", "Fechar programa/janela"],
+              ["F2", "Renomear"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Teclado com teclas destacadas",
+          "imagem": "https://picsum.photos/seed/info48/800/400"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha!",
+          "texto": "`Shift + Delete` **NÃO** vai para a lixeira — exclui de forma permanente e imediata!"
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Ferramentas de Sistema",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Ferramentas e funções",
+          "tabela": {
+            "colunas": ["Ferramenta", "Função"],
+            "linhas": [
+              ["Desfragmentador de Disco", "Reorganiza arquivos fragmentados (menos necessário em SSD)"],
+              ["Limpeza de Disco", "Remove arquivos temporários e libera espaço"],
+              ["Restauração do Sistema", "Cria pontos de restauração para reverter alterações"],
+              ["Windows Update", "Atualizações automáticas de segurança e funcionalidades"],
+              ["Firewall do Windows", "Proteção contra acessos não autorizados"],
+              ["Windows Defender", "Antivírus integrado"],
+              ["Gerenciamento de Usuários", "Administrador (controle total) e Padrão (limitado)"],
+              ["Controle Parental", "Limita tempo de uso e acessos para crianças"],
+              ["UAC", "Solicita confirmação para alterações importantes"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícones de cada ferramenta",
+          "imagem": "https://picsum.photos/seed/info49/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Conceitos Importantes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Plug and Play",
+          "texto": "Dispositivos são reconhecidos e configurados automaticamente."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Drivers",
+          "texto": "Programas que permitem comunicação entre hardware e SO."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Virtualização no Windows",
+          "texto": "Windows permite criar máquinas virtuais (Hyper‑V)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Modo de Segurança",
+          "texto": "Inicia sistema com configurações mínimas para solução de problemas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Prompt de Comando (CMD) e PowerShell",
+          "texto": "**CMD:** interface de linha de comando clássica.\n**PowerShell:** versão moderna com mais recursos."
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Explorador de Arquivos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Explorador de Arquivos",
+          "texto": "**Nome antigo:** Windows Explorer.\n**Nome atual:** Explorador de Arquivos.\n**Atalho:** `Windows + E`.\n**Limite de caminho:** 260 caracteres.\n**Raiz do sistema:** C:\\ (NTFS)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Interface do Explorador de Arquivos com partes sinalizadas",
+          "imagem": "https://picsum.photos/seed/info50/800/400"
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Operações comuns",
+          "tabela": {
+            "colunas": ["Operação", "Atalho / Ação"],
+            "linhas": [
+              ["Criar", "Clique direito → Novo → Pasta/Arquivo"],
+              ["Copiar", "Ctrl + C ou clique direito → Copiar"],
+              ["Colar", "Ctrl + V ou clique direito → Colar"],
+              ["Recortar", "Ctrl + X ou clique direito → Recortar"],
+              ["Renomear", "F2 ou clique direito → Renomear"],
+              ["Excluir", "Delete (lixeira) ou Shift + Delete (permanente)"]
+            ]
+          }
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Estrutura de Diretórios",
+          "texto": "```text\nC:\\\n├── Windows         (arquivos do sistema)\n├── Program Files   (programas 64 bits)\n├── Program Files (x86) (programas 32 bits)\n├── Users           (dados dos usuários)\n│   ├── joao\n│   │   ├── Documentos\n│   │   ├── Downloads\n│   │   └── Imagens\n│   └── maria\n└── ProgramData     (dados compartilhados de programas)\n```"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Árvore de diretórios do Windows",
+          "imagem": "https://picsum.photos/seed/info51/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Busca, Visualização e Organização",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Busca e Localização",
+          "texto": "**Barra de Busca:** localizar arquivos e pastas.\n**Filtros:** refinar busca por data, tipo, tamanho.\n**Busca Avançada:** operadores como `data:>2023/01/01`.\n**Indexação:** Windows indexa conteúdo para buscas rápidas.\n**Opções de Pesquisa:** incluir conteúdo de arquivos, sistema, ocultos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Visualização e Organização",
+          "texto": "**Modos de Exibição:** Ícones grandes/pequenos, Lista, Detalhes, Lado a lado.\n**Ordenação:** por nome, data, tipo, tamanho.\n**Agrupar por:** organizar por data modificada, tipo, etc.\n**Painel de Detalhes:** informações do arquivo selecionado.\n**Painel de Visualização:** prévia do conteúdo.\n**Navegador:** árvore de diretórios à esquerda."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Configurações e Opções",
+          "texto": "**Exibir:** mostrar/ocultar arquivos ocultos, extensões.\n**Opções de Pasta:** configurações de navegação (ex.: abrir em nova janela).\n**Personalizar:** layout do explorador.\n**Acesso Rápido:** pastas favoritas e recentes.\n**Bibliotecas:** agrupar pastas de diferentes locais."
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Permissões, Segurança e Formatação",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Permissões e Segurança",
+          "texto": "**Propriedades:** clique direito → Propriedades.\n**Segurança:** permissões de acesso (ler, escrever, executar).\n**Atributos:** somente leitura, oculto, arquivo.\n**Compartilhamento:** compartilhar pastas na rede.\n**Criptografia:** proteger pastas com senha (EFS)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Formatação, Sistemas de Arquivos e Criptografia",
+          "texto": "**Formatação:** preparar unidade para receber o SO.\n**NTFS:** padrão do Windows, suporta permissões e arquivos grandes.\n**BitLocker:** criptografia completa do disco.\n**EFS (Encrypting File System):** criptografia de arquivos e pastas específicos."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu",
+          "texto": "BitLocker = criptografia total do disco | EFS = criptografia de arquivos/pastas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Compactação e Backup no Windows",
+          "texto": "**Compactar:** reduzir tamanho de arquivos (ZIP nativo, RAR com WinRAR, 7Z com 7‑Zip).\n**Descompactar:** extrair arquivos compactados.\n**Backup de Arquivos:** cópias de segurança.\n**Histórico de Arquivos:** versões anteriores (Windows 10/11).\n**Restauração:** recuperar arquivos excluídos ou modificados."
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Atalhos com a Tecla Windows e Gerenciador de Tarefas",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Atalhos WinKey",
+          "tabela": {
+            "colunas": ["Atalho", "Função"],
+            "linhas": [
+              ["Win + A", "Central de Ações"],
+              ["Win + C", "Copilot (IA)"],
+              ["Win + D", "Desktop"],
+              ["Ctrl + Win + D", "Novo desktop virtual"],
+              ["Win + E", "Explorador de Arquivos"],
+              ["Win + I", "Configurações"],
+              ["Win + K", "Conectar"],
+              ["Win + L", "Bloquear"],
+              ["Win + M", "Minimizar todas"],
+              ["Win + P", "Projetar"],
+              ["Win + R", "Executar (%temp%, msconfig, cmd)"],
+              ["Win + S", "Pesquisar"],
+              ["Win + V", "Área de transferência (histórico)"],
+              ["Win + Z", "Snap Layouts"]
+            ]
+          }
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Teclado com tecla Windows destacada",
+          "imagem": "https://picsum.photos/seed/info52/800/400"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Gerenciador de Tarefas",
+          "texto": "**Atalho direto:** `Ctrl + Shift + Esc`\n**Indireto:** `Ctrl + Alt + Del` → escolher.\n\n**Funcionalidades:**\n- **Processos:** visualizar e encerrar programas.\n- **Desempenho:** CPU, memória, disco, rede.\n- **Inicialização:** programas que iniciam com Windows.\n- **Detalhes:** informações avançadas de processos."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Interface do Gerenciador de Tarefas com abas destacadas",
+          "imagem": "https://picsum.photos/seed/info53/800/400"
+        }
+      ]
+    },
+    {
+      "titulo": "Windows — Tipos de Arquivo por Extensão",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Categorias de extensões",
+          "tabela": {
+            "colunas": ["Categoria", "Extensões"],
+            "linhas": [
+              ["Imagem", "JPG, JPEG, PNG, GIF, TIF, BMP"],
+              ["Áudio", "MP3, AAC, WAV, WMA"],
+              ["Vídeo", "MP4, MPEG, FLV, MKV, MOV, AVI, WMV"],
+              ["Compactação", "ZIP, 7Z, RAR, ISO"],
+              ["Executável", "EXE, MSI, BAT, BIN, APP, APK"],
+              ["Web", "HTML, HTM, CSS, JS"],
+              ["Word", "DOCX, DOTX (tema/modelo), DOC (antigo)"],
+              ["Excel", "XLSX, XLS (antigo)"],
+              ["PowerPoint", "PPTX, PPSX"],
+              ["LibreOffice Writer", "ODT"],
+              ["LibreOffice Calc", "ODS"],
+              ["LibreOffice Impress", "ODP"],
+              ["Texto puro", "TXT"],
+              ["Rich Text", "RTF"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Complementos: Kernel, Driver, Codec",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Kernel",
+          "texto": "Núcleo central do SO. Gerencia diretamente o hardware, controlando processos, memória, sistema de arquivos e comunicação."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Driver",
+          "texto": "Programa que permite ao SO se comunicar com um dispositivo. Cada hardware precisa de um driver específico. Sem o driver correto, o dispositivo não funciona."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Codec",
+          "texto": "Programa que codifica e decodifica arquivos de mídia. Necessário para reproduzir áudios e vídeos em determinados formatos.\nExemplos: H.264, MP3, AAC, HEVC (H.265)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Bizu",
+          "texto": "Kernel = núcleo do SO | Driver = ponte entre SO e hardware | Codec = tradutor de arquivos de mídia."
+        }
+      ]
+    },
+    {
+      "titulo": "Gerenciador de Configurações",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Configurações e Painel de Controle",
+          "texto": "**Configurações (Windows 10/11):** `Win + I`\n**Painel de Controle (clássico):** `Win + R` → `control`"
+        }
+      ]
+    },
+    {
+      "titulo": "Microsoft Office e LibreOffice (visão geral)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pacotes Office",
+          "texto": "**Microsoft Office:** Word (texto), Excel (planilha), PowerPoint (apresentações), Outlook (e‑mail).\n**LibreOffice:** Writer, Calc, Impress, Base, Draw, Math.\n\nAs funcionalidades básicas são semelhantes, com diferenças em menus e fórmulas."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Ícones do Microsoft Office e do LibreOffice",
+          "imagem": "https://picsum.photos/seed/info54/800/400"
+        }
+      ]
+    }
+  ]
+}
+;

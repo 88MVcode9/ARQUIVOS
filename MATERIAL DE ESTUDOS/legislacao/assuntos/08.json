@@ -1,0 +1,64 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['08.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 14.133/2021 — Crimes em Licitações e Contratos",
+  "icone": "📄",
+  "descricao": "Lei que estabelece os crimes contra a administração pública relacionados a licitações e contratos administrativos, substituindo as antigas figuras da Lei 8.666/93. Os crimes estão previstos nos arts. 337-E a 337-P do Código Penal, com penas severas e possibilidade de aumento.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Crimes licitatórios",
+          "texto": "São crimes praticados contra a administração pública no âmbito de licitações e contratos, previstos no Título XI do Código Penal (arts. 337-E a 337-P), inseridos pela Lei 14.133/2021. Substituem os antigos crimes da Lei 8.666/93."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Crimes (arts. 337-E a 337-P)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rol dos crimes",
+          "texto": "Os principais tipos penais são:",
+          "itens": [
+            "**Art. 337-E – Frustrar ou fraudar licitação:** impedir, frustrar ou fraudar o caráter competitivo da licitação – **reclusão de 2 a 4 anos + multa**.",
+            "**Art. 337-F – Patrocínio de contratação indevida:** patrocinar, direta ou indiretamente, interesse privado em licitação – **reclusão de 1 a 3 anos + multa**.",
+            "**Art. 337-G – Modificação ou pagamento irregular em contrato:** modificar ou pagar objeto contratual em desacordo com a licitação – **reclusão de 2 a 4 anos + multa**.",
+            "**Art. 337-H – Fraude em licitação com identidade:** utilizar identidade fictícia para obter vantagem – **reclusão de 2 a 5 anos + multa**.",
+            "**Art. 337-I – Fraude em execução de contrato:** fraudar a execução de contrato, especialmente por meio de fornecimento de material diverso – **reclusão de 2 a 4 anos + multa**.",
+            "**Art. 337-J – Admissão de vantagem indevida:** admitir, ainda que de forma não formal, vantagem indevida em razão de contrato – **reclusão de 2 a 4 anos + multa**.",
+            "**Art. 337-K – Inobservância de exigência legal:** deixar de observar exigências legais com intuito de obter vantagem – **detenção de 6 meses a 1 ano + multa**.",
+            "**Art. 337-L – Dispensa indevida:** dispensar ou inexigir licitação fora das hipóteses legais – **reclusão de 1 a 3 anos + multa**.",
+            "**Art. 337-M – Desvio de finalidade:** desviar finalidade de contrato ou licitação – **reclusão de 2 a 5 anos + multa**.",
+            "**Art. 337-N – Corrupção em licitação:** corromper ou tentar corromper agente público em licitação – **reclusão de 2 a 5 anos + multa**.",
+            "**Art. 337-O – Omissão de informação:** deixar de comunicar fato relevante à administração – **detenção de 6 meses a 1 ano + multa**.",
+            "**Art. 337-P – Sonegação ou fraude em documento:** sonegar ou fraudar documentos exigidos – **reclusão de 2 a 5 anos + multa**."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Aumento de Pena",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de aumento",
+          "texto": "As penas podem ser aumentadas de 1/3 até a metade se:", 
+          "itens": [
+            "O crime for cometido por **funcionário público** no exercício de suas funções;",
+            "O crime envolver **verbas públicas** de programas sociais ou de saúde;",
+            "O crime resultar em **dano ao erário** de valor elevado."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/08.jpg"
+    }
+  ]
+}
+;

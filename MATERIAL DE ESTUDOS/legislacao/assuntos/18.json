@@ -1,0 +1,422 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['18.json']=
+{
+  "materia": "Legislação",
+  "titulo": "RESUMO",
+  "descricao_geral": "Resumo completo das principais leis penais e especiais cobradas em concursos, abrangendo Código Penal (Parte Geral), Juizados Especiais, Prisão Temporária, Crimes Hediondos, Tortura, Organização Criminosa, Lavagem de Dinheiro, Licitações, Abuso de Autoridade, Lei de Drogas, Lei Maria da Penha, Crimes Ambientais, Preatencao e Discriminação, ECA, Estatuto do Desarmamento, CTB e Lei Orgânica das PMs. Inclui atencaos, penas, diferenças, jurisprudência e pegadinhas.",
+  "topicos": [
+    {
+      "titulo": "Código Penal – Parte Geral (Lei 2.848/1940, Títulos I a III)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Aplicação da lei penal",
+          "texto": "Princípio da legalidade (Art. 1º): não há crime sem lei anterior. Lei penal no tempo (Art. 2º): retroage só para beneficiar (novatio legis in mellius). Lei excepcional/temporária (Art. 3º): ultra-atividade. Tempo do crime (Art. 4º): teoria da atividade (ação/omissão). Lugar do crime (Art. 6º): teoria da ubiquidade (ação ou resultado). Extraterritorialidade (Art. 7º): incondicionada (crimes contra o Presidente, administração pública, etc.) e condicionada (depende de condições)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Teoria tripartite do crime",
+          "texto": "Crime = fato típico + ilicitude + culpabilidade. Fato típico: conduta (dolosa ou culposa), resultado, nexo e tipicidade. Ilicitude: contrariedade ao ordenamento. Culpabilidade: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Dolo, culpa e excludentes",
+          "texto": "Dolo (Art. 18): vontade consciente (direto ou eventual). Culpa: negligência, imprudência ou imperícia – só punível se prevista. Excludentes de ilicitude (Art. 23): estado de necessidade (Art. 24), legítima defesa (Art. 25), estrito cumprimento do dever legal e exercício regular de direito. Legítima defesa do agente de segurança pública (Art. 25, p.ú): inclui refém, com moderação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Imputabilidade, erro e concurso",
+          "texto": "Imputabilidade (Art. 26): capacidade de entender e determinar-se. Inimputáveis: doentes mentais e menores de 18 anos. Erro de proibição (Art. 21): inevitável isenta; evitável reduz de 1/6 a 1/3. Erro de tipo (Art. 20): inevitável exclui dolo e culpa; evitável exclui dolo, mas pune por culpa se prevista. Coação irresistível e obediência hierárquica (Art. 22) excluem culpabilidade se ordem não for manifestamente ilegal. Concurso de pessoas (Art. 29): autoria, coautoria e participação. Concurso de crimes (Arts. 69-71): material (soma), formal (exasperação) e continuado (aumento de 1/6 a 2/3)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Penas e extinção da punibilidade",
+          "texto": "Espécies (Art. 32): privativas de liberdade (reclusão/detenção), restritivas de direitos e multa. Regimes (Art. 33): fechado, semiaberto, aberto. Aplicação (Art. 59): juiz fixa conforme culpabilidade, antecedentes, etc. Limite máximo (Art. 75): 40 anos. Extinção (Arts. 107-120): morte, anistia, graça, indulto, abolitio criminis, prescrição, decadência, perempção, renúncia, perdão."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Pegadinhas (Cebraspe)",
+          "texto": "📌 Tempo do crime = teoria da atividade; lugar do crime = ubiquidade. Retroatividade só para beneficiar. Concurso material = soma; formal = exasperação; continuado = aumento. Erro de tipo inevitável = exclui dolo e culpa; evitável = exclui dolo, pune por culpa. Emoção/paixão e embriaguez voluntária não excluem imputabilidade. Coação irresistível e obediência hierárquica excluem culpabilidade apenas se ordem não manifestamente ilegal."
+        }
+      ]
+    },
+    {
+      "titulo": "Juizados Especiais (Lei 9.099/1995 e Lei 10.259/2001)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Juizados Especiais Estaduais (Lei 9.099/95)",
+          "texto": "**Princípios (CEIOS):** Celeridade, Economia processual, Informalidade, Oralidade, Simplicidade.\n**Competência cível:** até 40 SM; até 20 SM dispensa advogado.\n**Vedações (autores):** incapazes, presos, pessoas jurídicas de direito público, empresas públicas federais, massa falida, insolvente civil (exceto ME/EPP e espólio).\n**Causas vedadas:** alimentar, falimentar, fiscal, acidente de trabalho.\n**Citação:** por correio ou oficial; não se admite edital.\n**Recurso:** Recurso Inominado, prazo de 10 dias."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Juizados Especiais Criminais (JECRIM)",
+          "texto": "Infrações de Menor Potencial Ofensivo (IMPO): contravenções e crimes com pena máxima ≤ 2 anos.\n**Procedimento:** Termo Circunstanciado (TCO), sem inquérito policial.\n**Benefícios despenalizadores (ordem progressiva):**\n1. Composição Civil (reparação do dano) – renúncia à queixa/representação.\n2. Transação Penal (pena restritiva de direitos ou multa) – não gera reincidência/antecedentes; vedada se condenado definitivamente ou nos últimos 5 anos.\n3. Suspensão Condicional do Processo (sursis processual) – para crimes com pena mínima ≤ 1 ano; prazo de 2 a 4 anos; revogação obrigatória se processado por outro crime; não corre prescrição.\n**Exceções:** não se aplica à Lei Maria da Penha, Justiça Militar, crimes de trânsito graves (embriaguez, racha, excesso > 50 km/h)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Juizados Especiais Federais (JEF – Lei 10.259/2001)",
+          "texto": "**Competência:** causas da Justiça Federal até 60 SM (inclusive execuções de sentenças, mas **não** execuções fiscais).\n**Exclusões:** mandado de segurança, desapropriação, ações populares, execuções fiscais, improbidade, bens imóveis da União, anulação de ato administrativo federal (exceto previdenciário/fiscal), impugnação de demissão de servidor.\n**Competência territorial absoluta** (não se pode optar pela Vara Federal comum).\n**Conciliação obrigatória.**\n**Recurso:** Recurso Inominado para Turmas Recursais; Pedido de Uniformização para a TNU; Recurso Especial ao STJ se contrariar súmula/jurisprudência dominante."
+        }
+      ]
+    },
+    {
+      "titulo": "Prisão Temporária (Lei 7.960/1989)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Requisitos cumulativos",
+          "texto": "A prisão temporária é medida cautelar durante o inquérito policial. Requisitos (Art. 2º):\n1. Fundadas razões de autoria/participação em crimes do rol taxativo;\n2. Imprescindibilidade para as investigações;\n3. Ausência de residência fixa ou não fornecimento de identidade.\n**Não pode ser decretada de ofício pelo juiz.**\n**Incomunicabilidade:** revogada."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prazos e crimes",
+          "texto": "**Crimes comuns:** 5 dias, prorrogáveis por mais 5 (total 10 dias).\n**Crimes hediondos/equiparados (Lei 8.072/90):** 30 dias, prorrogáveis por mais 30 (total 60 dias).\n**Organização criminosa (Lei 12.850/2013):** 10 dias, prorrogáveis por mais 10 (total 20 dias).\n**Rol taxativo:** homicídio doloso, sequestro, roubo, extorsão, furto qualificado, estupro, tráfico de drogas, crimes contra o sistema financeiro, terrorismo, etc."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Condução coercitiva (STF – ADPF 444)",
+          "texto": "A condução coercitiva de investigado para interrogatório é **inconstitucional**. Só é permitida em flagrante ou com mandado de prisão (temporária, preventiva ou condenação)."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Hediondos (Lei 8.072/1990 e Lei 8.930/1994)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Rol de crimes hediondos e equiparados",
+          "texto": "Homicídio qualificado, latrocínio, estupro, estupro de vulnerável, extorsão qualificada pela morte, epidemia com morte, falsificação de medicamentos, tráfico de drogas (art. 33), terrorismo, tortura (equiparada), furto qualificado pelo emprego de explosivo, sequestro/cárcere privado contra menor de 18 anos, induzimento/auxílio a suicídio via redes sociais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Regime de cumprimento e progressão",
+          "texto": "**Início:** obrigatoriamente em regime fechado.\n**Progressão (Art. 112 LEP):**\n- Primário, sem morte: 40% da pena.\n- Primário, com morte: 50% da pena.\n- Reincidente: 60% ou mais (70% em casos específicos).\n**Vedações:** saída temporária (saidinha) vedada; livramento condicional mais rigoroso; inafiançáveis; insuscetíveis de anistia, graça e indulto (tortura, tráfico, terrorismo)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Crimes hediondos NÃO são imprescritíveis!",
+          "texto": "Prescrevem normalmente (art. 109 CP). Imprescritíveis são apenas racismo (e injúria racial equiparada) e ação de grupos armados contra a ordem constitucional. Pegadinha clássica!"
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes de Tortura (Lei 9.455/1997)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Definição e finalidades",
+          "texto": "Tortura é ato praticado por agente público ou particular, com violência ou grave ameaça, com finalidade específica:\n- Obter informação/confissão (tortura-prova);\n- Obrigar a fazer/deixar de fazer algo;\n- Motivação discriminatória;\n- Castigar alguém sob custódia.\n**Exigência de finalidade específica:** conduta sem essa finalidade pode ser lesão corporal, mas não tortura."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Penas e majorantes",
+          "texto": "**Penas:**\n- Tortura simples: 2 a 8 anos.\n- Com lesão grave: 4 a 10 anos.\n- Com resultado morte: 8 a 16 anos.\n- Omissão de agente público: 1 a 4 anos.\n**Majorantes (1/6 a 1/3):** vítima criança, adolescente, idoso, gestante, pessoa com deficiência ou agente público no exercício da função.\n**Agente público autor:** pena duplicada (aumento em dobro).\n**Perda do cargo:** efeito automático da condenação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Tortura NÃO é imprescritível",
+          "texto": "Tortura prescreve normalmente. É inafiançável, insuscetível de graça/anistia/indulto e equiparada a hediondo, mas **prescreve**. Pegadinha!"
+        }
+      ]
+    },
+    {
+      "titulo": "Organização Criminosa (Lei 12.850/2013)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Definição",
+          "texto": "Associação de **4 ou mais pessoas**, estruturalmente ordenada, com divisão de tarefas (informal), com objetivo de obter vantagem mediante prática de infrações com pena máxima > 4 anos ou transnacionais. Crime formal (consuma-se com a associação)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Diferenças: Organização x Associação x Tráfico",
+          "tabela": {
+            "colunas": ["Critério", "Organização Criminosa", "Associação Criminosa (CP)", "Associação para Tráfico (Lei 11.343)"],
+            "linhas": [
+              ["Nº mínimo", "4 pessoas", "3 pessoas", "2 pessoas"],
+              ["Estrutura", "Ordenada, divisão de tarefas", "Informal", "Informal"],
+              ["Objeto", "Infrações com pena > 4 anos ou transnacionais", "Qualquer crime", "Tráfico de drogas"],
+              ["Pena", "Reclusão 3 a 8 anos + multa", "Reclusão 1 a 3 anos", "Reclusão 3 a 15 anos"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Instrumentos de investigação",
+          "texto": "Colaboração premiada (redução de 1/3 a 2/3 ou perdão judicial), ação controlada (flagrante diferido), infiltração presencial e virtual (prazo 6 meses), captação ambiental de sinais, interceptação, acesso a dados. O juiz não participa das negociações da colaboração."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Infiltração virtual (Art. 10-A – Pacote Anticrime)",
+          "texto": "Permite ingresso dissimulado de policial em ambientes digitais (redes sociais, grupos de mensagens) com autorização judicial. Prazo: 6 meses, renovável. O agente pode usar perfis fictícios, mas acesso a conversas privadas exige decisão fundamentada."
+        }
+      ]
+    },
+    {
+      "titulo": "Lavagem de Dinheiro (Lei 9.613/1998)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "atencao e ciclo",
+          "texto": "Ocultar ou dissimular a origem, natureza, localização ou propriedade de bens/valores provenientes de infração penal, dando aparência lícita.\n**Fases:** 1. Colocação (placement), 2. Ocultação (layering), 3. Integração (integration)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crimes antecedentes e autonomia",
+          "texto": "Rol extenso (tráfico, corrupção, organização criminosa, terrorismo, crimes financeiros, contrabando, tráfico de pessoas, crimes ambientais, fraudes em licitações).\n**Autonomia:** não é necessária condenação definitiva pelo crime antecedente; basta indícios suficientes (art. 2º, §1º)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Penas",
+          "texto": "Pena-base: reclusão de 3 a 10 anos + multa.\n**Majorantes (1/3 a 2/3):** cometido de forma reiterada ou por organização criminosa.\n**Redução (1/3 a 2/3 ou perdão judicial):** colaboração efetiva (primário)."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes em Licitações e Contratos (Lei 14.133/2021 – Arts. 337-E a 337-P do CP)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Principais tipos penais",
+          "texto": "**Art. 337-E** – Frustrar/fraudar licitação: reclusão 2 a 4 anos + multa.\n**Art. 337-F** – Patrocínio de contratação indevida: 1 a 3 anos + multa.\n**Art. 337-G** – Modificação/pagamento irregular: 2 a 4 anos + multa.\n**Art. 337-H** – Fraude com identidade: 2 a 5 anos + multa.\n**Art. 337-L** – Dispensa indevida: 1 a 3 anos + multa.\n**Art. 337-N** – Corrupção em licitação: 2 a 5 anos + multa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Causas de aumento",
+          "texto": "A pena pode ser aumentada de 1/3 até a metade se:\n- Cometido por funcionário público;\n- Envolver verbas públicas de programas sociais/saúde;\n- Resultar em dano ao erário de valor elevado."
+        }
+      ]
+    },
+    {
+      "titulo": "Abuso de Autoridade (Lei 13.869/2019)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Elemento subjetivo e sujeitos",
+          "texto": "Crime próprio, cometido por agente público, com **dolo específico** (finalidade M-P-B): mero capricho, prejudicar outrem ou beneficiar-se. Não admite forma culposa.\n**Particular em concurso:** responde se tiver ciência da condição de agente público."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Condutas típicas e penas",
+          "texto": "Penas: apenas **detenção** (não reclusão) + multa.\n**Exemplos:**\n- Constranger a comparecer a repartição sem justa causa (Art. 3º) – 6 meses a 2 anos.\n- Usar algemas sem necessidade (Art. 5º) – 6 meses a 2 anos.\n- Invadir domicílio sem mandado (Art. 8º) – 1 a 4 anos.\n- Interceptar comunicação sem autorização (Art. 9º) – 1 a 4 anos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Efeitos da condenação",
+          "texto": "**Automático:** obrigação de reparar o dano.\n**Não automáticos (exigem reincidência específica e decisão motivada):** inabilitação para cargo (1 a 5 anos) e perda do cargo/emprego/função.\n**Ação penal:** pública incondicionada (admite-se ação privada subsidiária se MP inerte)."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei de Drogas (Lei 11.343/2006)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Usuário (Art. 28) – infração administrativa",
+          "texto": "Portar para consumo pessoal: infração administrativa, não crime. Penas: advertência, prestação de serviços (5 a 10 meses) ou curso educativo. Prescrição em 2 anos.\n**Critérios para diferenciar usuário de traficante (casuístico):** quantidade, local, circunstâncias, condição social, antecedentes – lei não fixa quantidade."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crimes de tráfico (Arts. 33 a 37)",
+          "texto": "**Art. 33 (tráfico):** reclusão 5 a 15 anos + multa (rol extenso de condutas).\n**Art. 34 (maquinário):** 3 a 10 anos.\n**Art. 35 (associação para tráfico – 2+ pessoas):** 3 a 10 anos.\n**Art. 36 (financiamento):** 8 a 10 anos.\n**Art. 37 (informante):** 3 a 6 anos.\n**Tráfico privilegiado (Art. 33, §4º):** primário, bons antecedentes, não dedicado a crimes, não integrante de ORCRIM – redução de 1/6 a 2/3. **Não é equiparado a hediondo.**"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Majorantes (Art. 40) e procedimento",
+          "texto": "Aumento de 1/6 a 2/3: transnacionalidade/interestadualidade, função pública, proximidade de escola/hospital, uso de violência/arma, envolvimento de menor, financiamento.\n**Prazos processuais:** IP com preso: 30 dias (duplicável); com solto: 90 dias (duplicável). Defesa prévia: 10 dias. Destruição de drogas (delegado): 30 dias (preso) ou 10 dias (solto); juiz: 10 dias.\n**Internação involuntária:** autorização de médico e comunicação ao MP em 72h."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei Maria da Penha (Lei 11.340/2006)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Âmbito de aplicação",
+          "texto": "Protege mulheres cis, trans e travestis contra violência doméstica, familiar ou em relação íntima de afeto. Não exige coabitação, vínculo matrimonial ou orientação sexual. Agressor pode ser homem ou mulher. Aplica-se mesmo a vítimas menores de idade (STJ, Tema 1186)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Formas de violência (Art. 7º)",
+          "texto": "Física, psicológica, sexual, patrimonial, moral e institucional (esta incluída recentemente)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Medidas protetivas de urgência",
+          "texto": "Suspensão do porte de arma, proibição de aproximação, afastamento do lar, proibição de contato, alimentos provisórios, monitoração eletrônica (Lei 15.383/2026) e afastamento urgente do lar por risco à integridade sexual/moral/patrimonial (Lei 15.411/2026).\n**Descumprimento (Art. 24-A):** reclusão de 2 a 5 anos (Lei 14.994/2024)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Procedimento penal",
+          "texto": "Ação penal pública incondicionada para lesão corporal (Súmula 542 STJ). Audiência de retratação (Art. 16) só pode ocorrer se a vítima manifestar expressamente antes do recebimento da denúncia (Lei 15.380/2026). Rito dos Juizados Especiais **não se aplica**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atualizações recentes",
+          "texto": "Pena do Art. 24-A fixada em 2 a 5 anos (Lei 14.994/2024). Monitoração eletrônica do agressor e afastamento por risco a outros bens jurídicos (Leis 15.383 e 15.411/2026)."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Ambientais (Lei 9.605/1998)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "5 categorias",
+          "texto": "1. Crimes contra a fauna (caça, tráfico, maus-tratos).\n2. Crimes contra a flora (desmatamento, incêndios).\n3. Crimes de poluição (contaminação de água, ar, solo).\n4. Crimes contra o ordenamento urbano e patrimônio cultural.\n5. Crimes contra a administração ambiental (fraudes em licenciamento, laudos falsos)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Responsabilidade penal da pessoa jurídica",
+          "texto": "Pessoas jurídicas podem ser responsabilizadas penalmente, independentemente da condenação da pessoa física (STF – superação da teoria da dupla imputação obrigatória). A reparação do dano ambiental é **imprescritível** na esfera civil, mas a ação penal prescreve normalmente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Penas e atenuantes",
+          "texto": "**Maus-tratos a cães e gatos:** reclusão 2 a 5 anos (Lei 14.064/2020).\n**Incêndio em florestas:** reclusão 2 a 4 anos (Lei 14.944/2024).\n**Atenuantes:** baixa instrução, arrependimento eficaz com reparação, comunicação prévia de perigo.\n**Agravantes:** reincidência, consequências graves, cometimento em domingos/feriados/noite/seca, fraude/abuso de confiança."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes de Preatencao e Discriminação (Racismo e Injúria Racial)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Racismo (Lei 7.716/89) e Injúria Racial (Art. 140, §3º, CP)",
+          "texto": "**Racismo:** conduta contra coletividade (ex.: impedir acesso a estabelecimento por raça/cor). Pena: reclusão 2 a 5 anos.\n**Injúria racial:** ofensa a pessoa específica usando elementos raciais. Com a Lei 14.532/2023, equiparada ao racismo – inafiançável e imprescritível.\n**Diferença:** racismo atinge grupo; injúria racial atinge indivíduo.\n**Ambos:** inafiançáveis, imprescritíveis, ação penal pública incondicionada."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Homofobia e transfobia",
+          "texto": "STF equiparou a homofobia e transfobia ao crime de racismo (ADI 4.277 e ADPF 132), enquanto não houver lei específica. Inafiançáveis e imprescritíveis."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Princípio da insignificância NÃO se aplica",
+          "texto": "Não se aplica aos crimes de racismo e injúria racial. A dignidade humana é bem jurídico infungível e indisponível – qualquer ofensa racial é relevante."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Majorante – Injúria racial com concurso de pessoas",
+          "texto": "Se cometida por duas ou mais pessoas, a pena é aumentada de 1/3 até a metade (Art. 140, §2º, CP)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estatuto da Criança e do Adolescente (ECA – Lei 8.069/1990)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Definições e princípios",
+          "texto": "Criança: até 12 anos incompletos; adolescente: 12 a 18 anos. Aplica-se excepcionalmente a 18-21 anos (art. 2º, p.ú).\n**Princípio da proteção integral** e prioridade absoluta (Art. 227 CF e Art. 3º ECA)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direitos fundamentais",
+          "texto": "Vida, saúde, alimentação, educação, liberdade, respeito, dignidade, convivência familiar e comunitária, profissionalização (proibido trabalho noturno, perigoso, insalubre; aprendiz a partir de 14 anos).\n**Direito à saúde mental (Art. 11-A – Lei 15.413/2026):** acesso a programas de saúde mental pelo SUS."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Família substituta (Guarda, Tutela, Adoção)",
+          "texto": "**Guarda:** provisória e revogável.\n**Tutela:** revogável, aplicada quando pais são falecidos ou perderam o poder familiar.\n**Adoção:** definitiva e irrevogável; adotante deve ter idade mínima de 18 anos e diferença de 16 anos para o adotando; ascendentes e irmãos não podem adotar; consentimento do adotando com ≥ 12 anos.\n**Abandono afetivo** é ilícito civil sujeito a reparação por danos morais (Lei 15.240/2025)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Medidas socioeducativas (Art. 112)",
+          "texto": "Advertência, reparação do dano, prestação de serviços à comunidade (até 6 meses), liberdade assistida (mínimo 6 meses), semiliberdade, internação (máximo 3 anos, reavaliação a cada 6 meses, liberdade compulsória aos 21 anos).\n**Internação provisória:** prazo máximo de 45 dias, improrrogável.\n**Remissão:** concedida pelo MP (exclui o processo) ou juiz (extingue/suspende o processo); não gera antecedentes; pode ser cumulada com medida socioeducativa, exceto semiliberdade e internação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crimes no ECA (atualizados)",
+          "texto": "**Art. 244-A – Exploração sexual:** reclusão 4 a 10 anos.\n**Art. 244-B – Corrupção de menores (crimes formais):** reclusão 6 a 14 anos (Súmula 500 STJ).\n**Art. 243 – Fornecimento de álcool:** detenção 2 a 4 anos; aumento se houver consumo efetivo (Lei 15.234/2025).\n**Estupro de vulnerável (Lei 15.280/2025):** simples 10 a 18 anos; com morte 20 a 40 anos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Conselho Tutelar e ECA Digital (Lei 15.211/2025)",
+          "texto": "**Conselho Tutelar:** 5 membros eleitos, mandato 4 anos, idade mínima 21 anos. Órgão autônomo não jurisdicional.\n**ECA Digital:** verificação de idade obrigatória em plataformas (vedada autodeclaração); contas de menores de 16 anos devem ser vinculadas a responsável e ter configuração máxima de privacidade; sanções pela ANPD."
+        }
+      ]
+    },
+    {
+      "titulo": "Estatuto do Desarmamento (Lei 10.826/2003)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Posse x Porte",
+          "texto": "**Posse (Art. 12):** arma dentro de residência ou local de trabalho (se proprietário/responsável). Pena: detenção 1 a 3 anos + multa. (Cabe fiança).\n**Porte (Art. 14):** arma na via pública (fora dos locais permitidos). Pena: reclusão 2 a 4 anos + multa. (Inafiançável).\n**Requisitos comuns:** 25 anos, idoneidade, ocupação lícita, curso de tiro, laudo psicológico, efetiva necessidade (mais rigorosa para porte)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crimes hediondos equiparados",
+          "texto": "**Art. 16** (posse/porte de arma de uso restrito ou com numeração suprimida/adulterada): reclusão 3 a 6 anos + multa – hediondo, inafiançável.\n**Art. 17** (comércio ilegal): reclusão 4 a 8 anos – hediondo.\n**Art. 18** (tráfico internacional): reclusão 8 a 15 anos – hediondo.\n**Os demais:** dolosos comuns (Art. 12, 14, 15). O único crime culposo é o Art. 13 (omissão de cautela)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Sistemas de controle",
+          "texto": "**SINARM** (PF): armas de uso permitido – emite CRAF.\n**SIGMA** (Exército): armas de uso restrito / CACs.\n**Porte Policial:** válido nacionalmente, para agentes de segurança (dedicação exclusiva para agentes prisionais).\n**Porte Rural:** para residentes em área rural com 25 anos ou mais, que dependam da arma para subsistência (válido por 5 anos)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas",
+          "texto": "⚠️ Arma com numeração raspada: crime hediondo (Art. 16), mesmo que de uso permitido.\n⚠️ Registro vencido em casa: atípico (mera irregularidade); na rua: crime (Art. 14 ou 16).\n⚠️ Guia de trânsito: necessária para transporte de arma; desviar da rota configura porte ilegal."
+        }
+      ]
+    },
+    {
+      "titulo": "Código de Trânsito Brasileiro (CTB – Lei 9.503/1997)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Pontuação e suspensão da CNH",
+          "texto": "**Pontos:** leve 3, média 4, grave 5, gravíssima 7.\n**Suspensão por 12 meses:**\n- 40 pontos (sem gravíssima) ou EAR (qualquer infração).\n- 30 pontos (1 gravíssima).\n- 20 pontos (2 ou mais gravíssimas)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Validade da CNH e exame toxicológico",
+          "texto": "Validade (Lei 14.071/2020):\n- Até 50 anos: 10 anos.\n- 50 a 69 anos: 5 anos.\n- 70 anos ou mais: 3 anos.\n**Exame toxicológico:** obrigatório para categorias C, D e E a cada 2 anos e 6 meses (para menores de 70 anos)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Crimes de trânsito (Arts. 302 a 306)",
+          "texto": "**Homicídio culposo (302):** detenção 2 a 4 anos; se com embriaguez: reclusão 2 a 5 anos.\n**Lesão corporal culposa (303):** detenção 6 meses a 3 anos; se com embriaguez: reclusão 1 a 5 anos.\n**Fuga do local (305):** detenção 6 meses a 1 ano (ou multa).\n**Embriaguez ao volante (306):** detenção 6 meses a 3 anos + multa + suspensão. Crime de perigo abstrato (basta comprovação da alteração da capacidade, não exige dano)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Causas de aumento (até 1/3)",
+          "texto": "Reincidência específica, faixa de pedestre/ciclovia, veículo de transporte coletivo/carga perigosa, rodovia com sinalização proibitiva."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei Orgânica Nacional das PMs (LONPM – Lei 14.751/2023)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Natureza e princípios",
+          "texto": "Instituições militares permanentes, forças auxiliares e reserva do Exército. Princípios: hierarquia, disciplina, direitos humanos, legalidade, eficiência, uso racional e progressivo da força."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Hierarquia padronizada",
+          "texto": "Oficiais: Coronel a 2º Tenente. Praças especiais: Subtenente e Sargentos. Praças: Cabo e Soldado.\nQuadros: QOEM (bacharel em Direito + CCEM), QOE (especialistas), QOC (complementar), QP (praças de nível superior)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Garantias (Art. 18)",
+          "texto": "Livre porte de arma em todo o território (inclusive reserva/reforma), identidade militar com fé pública, prisão em unidade militar até trânsito em julgado, estabilidade após 3 anos, assistência médica/psicológica/odontológica gratuita."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Vedações e competências",
+          "texto": "**Vedações:** greve, filiação partidária na ativa, inelegibilidade (para concorrer deve se licenciar).\n**Competências:** polícia ostensiva, preservação da ordem, polícia judiciária militar (presidência de IPM)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas",
+          "texto": "Porte de arma é livre (dispensa PF); estabilidade após 3 anos; PMs têm polícia judiciária militar; militar da ativa é inelegível; greve proibida."
+        }
+      ]
+    }
+  ]
+}
+;

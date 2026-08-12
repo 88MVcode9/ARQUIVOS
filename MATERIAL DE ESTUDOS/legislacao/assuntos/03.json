@@ -1,0 +1,155 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 7.960/1989 — Prisão Temporária",
+  "icone": "🔒",
+  "descricao": "Lei que disciplina a prisão temporária, medida cautelar excepcional, de natureza administrativa e não punitiva, aplicável durante o inquérito policial para garantir a investigação. Só pode ser decretada para crimes específicos (rol taxativo), mediante requisitos cumulativos, e com prazo determinado. Não pode ser decretada de ofício pelo juiz. A incomunicabilidade do preso foi revogada. O STF declarou inconstitucional a condução coercitiva para interrogatório.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a prisão temporária",
+          "texto": "A Lei nº 7.960/1989 institui a prisão temporária como medida cautelar de natureza administrativa, aplicável exclusivamente durante o inquérito policial. Seu objetivo é garantir as investigações, evitando que o suspeito destrua provas, fuja ou atrapalhe a apuração. Não tem caráter punitivo e deve cessar quando a necessidade desaparecer."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Durante investigação de um roubo qualificado, a polícia tem indícios de que João participou do crime, mas ele não tem residência fixa e pode fugir. O delegado representa ao juiz pela prisão temporária de João por 5 dias, prorrogáveis por mais 5, para colher provas sem interferência."
+        }
+      ]
+    },
+    {
+      "titulo": "Requisitos Cumulativos (Art. 2º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos legais",
+          "texto": "Para a decretação da prisão temporária, os seguintes requisitos devem estar presentes **simultaneamente** (não são alternativos):",
+          "itens": [
+            "1. Existirem **fundadas razões de autoria ou participação** do indiciado em um dos crimes previstos no rol taxativo da lei;",
+            "2. A prisão for **imprescindível** para as investigações policiais;",
+            "3. O indiciado **não tiver residência fixa** ou **não fornecer elementos necessários ao esclarecimento de sua identidade**."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "Os requisitos são **cumulativos**. Não basta apenas a suspeita; é necessário preencher todos os três. A ausência de qualquer um deles impede a decretação da prisão temporária."
+        }
+      ]
+    },
+    {
+      "titulo": "Rol Taxativo de Crimes (Art. 1º, III)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Crimes que admitem prisão temporária",
+          "texto": "A prisão temporária só pode ser decretada para os crimes expressamente listados no art. 1º, III, da Lei 7.960/1989 (rol taxativo). Entre eles:",
+          "itens": [
+            "Homicídio doloso (art. 121, CP);",
+            "Sequestro e cárcere privado (art. 148, CP);",
+            "Roubo (art. 157, CP);",
+            "Extorsão (art. 158, CP);",
+            "Furto qualificado (art. 155, §4º, CP);",
+            "Estupro (art. 213, CP);",
+            "Epidemia com resultado morte (art. 267, §1º, CP);",
+            "Envenenamento de água ou alimentos (art. 270, CP);",
+            "Falsificação de medicamentos (art. 273, CP);",
+            "Tráfico de drogas (Lei 11.343/2006);",
+            "Crimes contra o sistema financeiro (Lei 7.492/86);",
+            "Crimes previstos na Lei de Terrorismo (Lei 13.260/2016) e na Lei de Organizações Criminosas (Lei 12.850/2013)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Rol taxativo",
+          "texto": "A lista é **exaustiva**. Não se admite prisão temporária para crimes que não estejam no rol, ainda que graves. A analogia in malam partem é vedada."
+        }
+      ]
+    },
+    {
+      "titulo": "Prazos da Prisão Temporária",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo regra geral",
+          "texto": "Para os crimes comuns (não hediondos), o prazo da prisão temporária é de **5 dias**, prorrogável por igual período (mais 5 dias), totalizando até **10 dias**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo para crimes hediondos e equiparados",
+          "texto": "Para os crimes hediondos e equiparados (incluídos os listados na Lei 8.072/90), o prazo é de **30 dias**, prorrogável por igual período (mais 30 dias), totalizando até **60 dias**."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Esgotamento do prazo",
+          "texto": "Esgotado o prazo legal (com ou sem prorrogação), o preso deve ser **imediatamente libertado**, sob pena de constrangimento ilegal. A prisão temporária não pode se prolongar além do limite."
+        }
+      ]
+    },
+    {
+      "titulo": "Competência e Legitimidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode decretar e requerer",
+          "texto": "A prisão temporária é decretada **exclusivamente pelo juiz criminal competente**.\n\n**Legitimados para requerer:**\n- **Autoridade policial** (delegado), com manifestação prévia do Ministério Público;\n- **Ministério Público** (diretamente).\n\n**O juiz não pode decretar de ofício** (nem no inquérito, nem no processo)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo para decisão do juiz",
+          "texto": "O juiz deve decidir sobre o pedido de prisão temporária no prazo máximo de **24 horas** a contar do recebimento dos autos."
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimento e Formalidades",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Representação ou requerimento",
+          "texto": "A prisão temporária é instaurada mediante:\n- **Representação** da autoridade policial (com parecer do MP); ou\n- **Requerimento** do Ministério Público.\n\nAmbos devem ser fundamentados, indicando os elementos de prova e a necessidade da medida."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Incomunicabilidade (revogada)",
+          "texto": "A lei original previa a possibilidade de incomunicabilidade do preso temporário, mas esse dispositivo foi **totalmente revogado** por ser inconstitucional (viola o direito de defesa e a CF). Atualmente, o preso temporário tem direito a comunicação com advogado e familiares."
+        }
+      ]
+    },
+    {
+      "titulo": "Condução Coercitiva (Entendimento do STF)",
+      "cards": [
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "STF — ADPF 444",
+          "texto": "O Supremo Tribunal Federal firmou entendimento de que a **condução coercitiva de investigados para interrogatório é inconstitucional**. A pessoa só pode ser levada à delegacia de forma coercitiva se houver:\n- **Flagrante delito**; ou\n- **Mandado de prisão** (temporária, preventiva ou em decorrência de condenação).\n\nAssim, a condução coercitiva não pode ser usada como substituta da prisão temporária ou preventiva."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**STJ:** A prisão temporária não pode ser decretada com base em meras suspeitas; exige-se fundadas razões, lastreadas em elementos concretos de autoria ou participação.",
+            "**STJ:** A falta de residência fixa, por si só, não é suficiente para a prisão temporária; é necessário que a imprescindibilidade para as investigações também esteja demonstrada.",
+            "**STF (ADI 1.849):** A incomunicabilidade do preso temporário foi revogada, sendo assegurado o direito à assistência de advogado.",
+            "**STF (ADPF 444):** A condução coercitiva para interrogatório é inconstitucional, não podendo ser utilizada como meio de obtenção de prova."
+          ]
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

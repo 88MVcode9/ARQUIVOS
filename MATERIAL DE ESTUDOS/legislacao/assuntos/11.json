@@ -1,0 +1,207 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['11.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 11.340/2006 — Lei Maria da Penha",
+  "icone": "👩",
+  "descricao": "Lei que cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do art. 226, §8º, da CF. Estabelece medidas protetivas de urgência, define as formas de violência (física, psicológica, sexual, patrimonial, moral e institucional) e prevê assistência à mulher em situação de violência. Aplica-se a mulheres cisgênero, transexuais e travestis, no âmbito de relações domésticas, familiares ou de afeto, independentemente de orientação sexual. O agressor pode ser homem ou mulher.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Lei Maria da Penha",
+          "texto": "A Lei nº 11.340/2006 protege mulheres contra qualquer tipo de violência no âmbito doméstico, familiar ou de relações íntimas de afeto. Não exige coabitação nem vínculo matrimonial. Aplica-se a **mulheres cisgênero, transexuais e travestis** com identidade social feminina, conforme entendimento do STF."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Ana mora com o namorado Pedro, que a humilha diariamente e controla o dinheiro dela. Ana pode solicitar medidas protetivas, pois a lei protege mulheres em relacionamentos de afeto, mesmo sem casamento ou coabitação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode ser agressor?",
+          "texto": "O sujeito ativo pode ser **qualquer pessoa**, independentemente do gênero (homem ou mulher), desde que a violência seja praticada contra a mulher no âmbito da relação doméstica, familiar ou de afeto. Exemplos: irmão agredindo irmã, sogra agredindo nora, companheira agredindo companheira em relação homoafetiva."
+        }
+      ]
+    },
+    {
+      "titulo": "Âmbito de Aplicação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando a lei se aplica",
+          "texto": "A lei se aplica nas seguintes hipóteses:",
+          "itens": [
+            "**Violência doméstica:** ocorrida em unidade doméstica (espaço de convivência permanente, mesmo que sem vínculo familiar).",
+            "**Violência familiar:** ocorrida entre membros da família (natural, adotiva, ou por afinidade).",
+            "**Violência em relação íntima de afeto:** independentemente de orientação sexual, coabitação ou vínculo patrimonial."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Dica importante",
+          "texto": "A lei não exige coabitação, vínculo matrimonial nem relação heterossexual. Basta a existência de relação íntima de afeto."
+        },
+        {
+          "tipo": "jurisprudencia",
+          "titulo": "STJ — Tema 1186",
+          "texto": "A Lei Maria da Penha prevalece sobre o Estatuto da Criança e do Adolescente (ECA). Se a vítima for do sexo feminino e sofrer violência doméstica/familiar, aplica-se a lei especializada, independentemente de idade (mesmo que menor de idade)."
+        }
+      ]
+    },
+    {
+      "titulo": "Formas de Violência (Art. 7º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipos de violência",
+          "texto": "A lei reconhece seis formas de violência:",
+          "itens": [
+            "**Física:** ofensa à integridade corporal (espancamento, empurrões, etc.).",
+            "**Psicológica:** humilhação, ameaça, isolamento, controle excessivo, perseguição.",
+            "**Sexual:** forçar relação sexual, impedir uso de contraceptivo, obrigar a práticas sexuais não desejadas.",
+            "**Patrimonial:** destruir, reter, subtrair ou danificar bens, documentos ou instrumentos de trabalho.",
+            "**Moral:** calúnia, injúria ou difamação contra a mulher.",
+            "**Institucional:** ação ou omissão de agente público que dificulte ou impeça o acesso a serviços públicos essenciais (saúde, segurança, assistência social)."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Memorização",
+          "texto": "📌 Lembre-se das **6 formas**: Física, Psicológica, Sexual, Patrimonial, Moral e Institucional.\n📌 A violência institucional foi incluída por atualização legislativa recente."
+        }
+      ]
+    },
+    {
+      "titulo": "Medidas Protetivas de Urgência (Arts. 22 a 24)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas protetivas",
+          "texto": "O juiz pode determinar, de imediato, as seguintes medidas (Art. 22):",
+          "itens": [
+            "Suspensão do porte de arma do agressor (com recolhimento da arma).",
+            "Proibição de aproximação da vítima e de seus familiares (com distância mínima).",
+            "Afastamento do lar ou domicílio compartilhado.",
+            "Proibição de contato com a vítima por qualquer meio (telefone, redes sociais, mensagens).",
+            "Prestação de alimentos provisórios (com natureza de título executivo judicial).",
+            "Monitoração eletrônica do agressor (tornozeleira), com perímetro de circulação definido e alertas à vítima — medida expressamente prevista por atualização legal (Lei nº 15.383/2026).",
+            "Afstandamento urgente do agressor do domicílio quando houver **risco atual ou iminente à integridade sexual, moral ou patrimonial** (Lei nº 15.411/2026)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Natureza das medidas",
+          "texto": "As medidas protetivas de urgência:",
+          "itens": [
+            "São **independentes** da existência de inquérito policial ou ação penal.",
+            "Têm natureza de **tutela inibitória** e não se subordinam a prazo predeterminado (duram enquanto persistir a situação de risco — STJ, Tema 1249).",
+            "Podem ser concedidas em **qualquer fase** do processo, inclusive antes do recebimento da denúncia."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Descumprimento de medida (Art. 24-A)",
+          "texto": "Descumprir medida protetiva de urgência configura crime com pena de **reclusão de 2 a 5 anos** (atualização pela Lei nº 14.994/2024). A pena é aplicada sem prejuízo das sanções penais pela violência cometida."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Maria obteve medida protetiva que proíbe João de se aproximar a menos de 500 metros. João aparece em frente à casa dela. Além de configurar o crime do art. 24-A (descumprimento), João pode responder pela violência cometida, se houver."
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimento Penal e Ação Penal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação penal pública incondicionada (Art. 41)",
+          "texto": "Nos crimes de **lesão corporal** praticados contra a mulher no âmbito doméstico, a ação penal é **pública incondicionada** — não depende de representação da vítima (Súmula 542 STJ).\n\nNos demais crimes (ex.: ameaça, calúnia, injúria), a ação é pública condicionada à representação da vítima, salvo se a violência for qualificada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Audiência de retratação (Art. 16, atualizado)",
+          "texto": "A audiência para a vítima manifestar o desejo de se retratar da representação **somente pode ser designada se a vítima apresentar manifestação expressa por escrito ou oralmente antes do recebimento da denúncia** (Lei nº 15.380/2026). A retratação é possível apenas nos crimes de ação penal pública condicionada (ex.: ameaça)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competência para julgamento",
+          "texto": "A competência para processar e julgar os crimes de violência doméstica contra a mulher é do **Juizado de Violência Doméstica e Familiar contra a Mulher**, com atribuições cíveis e criminais. As ações são concentradas para garantir celeridade e proteção integral."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha de prova",
+          "texto": "A lesão corporal leve ou culposa praticada contra a mulher no âmbito doméstico **NÃO** se submete à Lei nº 9.099/95 (Juizados Especiais Criminais). O rito é o da Lei Maria da Penha, com ação penal pública incondicionada."
+        }
+      ]
+    },
+    {
+      "titulo": "Atendimento à Vítima e Políticas Públicas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Atendimento multidisciplinar",
+          "texto": "A lei prevê que a vítima tenha acesso a atendimento:",
+          "itens": [
+            "**Policial:** com atendimento humanizado e informação sobre direitos.",
+            "**Judicial:** com prioridade na tramitação dos processos.",
+            "**Psicossocial:** com assistência de equipe multidisciplinar (psicólogos, assistentes sociais).",
+            "**Defensoria Pública:** para orientação jurídica e patrocínio em juízo."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Políticas públicas integradas",
+          "texto": "A lei determina a criação de políticas públicas para:",
+          "itens": [
+            "Prevenção da violência doméstica.",
+            "Atendimento e acompanhamento da mulher em situação de violência.",
+            "Reinserção social da vítima e de seus dependentes.",
+            "Capacitação permanente de agentes públicos (polícia, saúde, educação)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF e STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores já pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**STF (ADPF 291):** A proteção da lei se estende a **mulheres transexuais e travestis** com identidade social feminina.",
+            "**STJ, Tema 1186:** A Lei Maria da Penha prevalece sobre o ECA para vítimas do sexo feminino (independentemente da idade).",
+            "**STJ, Tema 1249:** Medidas protetivas têm natureza de tutela inibitória, **não se subordinam a prazo predeterminado** e não dependem de boletim de ocorrência ou inquérito.",
+            "**Súmula 542 STJ:** A ação penal por lesão corporal decorrente de violência doméstica é **pública incondicionada**.",
+            "**STF:** O descumprimento de medida protetiva (art. 24-A) é crime autônomo, não absorvido pelo crime de violência que deu origem à medida."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Atualizações Legislativas Recentes (2024–2026)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Leis de atualização",
+          "texto": "As seguintes leis trouxeram alterações relevantes:",
+          "itens": [
+            "**Lei nº 14.994/2024:** Fixou a pena para descumprimento de medida protetiva em **2 a 5 anos de reclusão** (art. 24-A) e tornou o feminicídio crime autônomo no Código Penal (pena de 20 a 40 anos).",
+            "**Lei nº 15.380/2026:** Condicionou a audiência de retratação à manifestação expressa da vítima **antes do recebimento da denúncia**.",
+            "**Lei nº 15.383/2026:** Previu expressamente a **monitoração eletrônica do agressor** como medida protetiva autônoma.",
+            "**Lei nº 15.411/2026:** Ampliou o afastamento do lar para hipóteses de **risco à integridade sexual, moral ou patrimonial**, além do risco físico e psicológico já previsto."
+          ]
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/11.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

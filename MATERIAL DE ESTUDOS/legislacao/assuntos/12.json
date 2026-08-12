@@ -1,0 +1,165 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['12.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 9.605/1998 — Crimes Ambientais",
+  "icone": "🌿",
+  "descricao": "Lei que define os crimes contra o meio ambiente, estabelecendo penas para quem causa danos à fauna, flora, poluição e patrimônio cultural. Aplica-se a pessoas físicas e jurídicas, com responsabilidade administrativa, civil e penal. A reparação do dano ambiental é imprescritível na esfera civil.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Lei 9.605/1998",
+          "texto": "A Lei nº 9.605/1998, conhecida como Lei de Crimes Ambientais, dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente. Ela protege a fauna, a flora, o patrimônio cultural, o ordenamento urbano e a administração ambiental, estabelecendo penas de reclusão, multas e outras sanções."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Uma empresa que despeja resíduos tóxicos em um rio comete crime ambiental e pode ser punida com reclusão e multa, além de sanções administrativas. O administrador da empresa também pode responder criminalmente pelo ato."
+        }
+      ]
+    },
+    {
+      "titulo": "5 Categorias de Crimes Ambientais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Categorias previstas na lei",
+          "texto": "A Lei 9.605/1998 divide os crimes ambientais em cinco grandes categorias:",
+          "itens": [
+            "**Crimes contra a fauna** — caça, tráfico de animais silvestres, maus-tratos.",
+            "**Crimes contra a flora** — desmatamento, incêndios florestais, destruição de vegetação nativa.",
+            "**Crimes de poluição** — contaminação de água, ar e solo, lançamento de resíduos tóxicos.",
+            "**Crimes contra o ordenamento urbano e o patrimônio cultural** — danos a bens tombados, construção irregular.",
+            "**Crimes contra a administração ambiental** — fraudes em licenciamentos, laudos falsos, obstrução de fiscalização."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Penas (Atualizadas)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas previstas para pessoas físicas",
+          "texto": "A lei estabelece as seguintes penas para infrações específicas:",
+          "itens": [
+            "**Maus-tratos a cães e gatos:** reclusão de 2 a 5 anos (Lei 14.064/2020).",
+            "**Incêndio em florestas:** reclusão de 2 a 4 anos (Lei 14.944/2024).",
+            "**Poluição que cause danos à saúde humana ou morte de animais:** reclusão de 1 a 4 anos + multa.",
+            "**Multas:** podem chegar a R$ 50 milhões, dependendo da gravidade e extensão do dano."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Substituição de penas (Art. 7º)",
+          "texto": "As penas restritivas de liberdade podem ser substituídas por **penas restritivas de direitos** (prestação de serviços à comunidade, por exemplo) em crimes ambientais culposos ou em crimes dolosos com pena menor, desde que:",
+          "itens": [
+            "O dano seja **reparado ou evitado** (condição essencial).",
+            "A culpabilidade e as circunstâncias do crime autorizem a substituição."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Responsabilidade Penal da Pessoa Jurídica",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Pessoas físicas e jurídicas",
+          "texto": "A lei aplica-se tanto a **pessoas físicas** quanto a **pessoas jurídicas** (empresas, associações, fundações) que cometam crimes ambientais no interesse ou benefício da entidade."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Responsabilidade independente (STF)",
+          "texto": "A pessoa jurídica pode ser responsabilizada penalmente **independentemente da condenação da pessoa física** (administradores, diretores) que cometeu o ato. O STF consolidou o entendimento de que **não é obrigatória a denúncia conjunta** da pessoa física para que a empresa seja processada. A chamada 'teoria da dupla imputação obrigatória' foi superada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipos de responsabilidade",
+          "texto": "Pessoas jurídicas respondem em três esferas:",
+          "itens": [
+            "**Administrativa:** multas aplicadas por órgãos ambientais (Ibama, órgãos estaduais), embargos, suspensão de atividades.",
+            "**Civil:** obrigação de reparar o dano causado ao meio ambiente (obrigação **imprescritível**).",
+            "**Penal:** aplicação de penas restritivas de direitos, multas e, em casos extremos, liquidação forçada."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dica de prova",
+          "texto": "📌 A responsabilidade penal da pessoa jurídica **não depende** da identificação ou punição da pessoa física que executou a ação. Bancas adoram afirmar que a denúncia deve ser conjunta — marque **ERRADO**."
+        }
+      ]
+    },
+    {
+      "titulo": "Atenuantes e Agravantes (Arts. 14 e 15)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Circunstâncias atenuantes",
+          "texto": "A pena pode ser reduzida nas seguintes hipóteses:",
+          "itens": [
+            "**Baixo grau de instrução ou escolaridade** do agente.",
+            "**Arrependimento eficaz** com manifesta reparação do dano antes do julgamento.",
+            "**Comunicação prévia de perigo iminente** (aviso às autoridades)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Circunstâncias agravantes",
+          "texto": "A pena pode ser aumentada quando:",
+          "itens": [
+            "**Reincidência** em crime ambiental.",
+            "**Consequências danosas graves** para o meio ambiente ou saúde pública.",
+            "**Cometimento em domingos, feriados, à noite, em épocas de seca ou calamidade**.",
+            "**Cometimento mediante fraude ou abuso de confiança**."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Fundamento Constitucional e Regulamentação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Proteção constitucional (Art. 225, CF)",
+          "texto": "A Constituição Federal, em seu art. 225, estabelece que todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao poder público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Decreto 6.514/2008 — Sanções administrativas",
+          "texto": "O Decreto nº 6.514/2008 regulamenta as sanções administrativas da Lei 9.605/1998, prevendo medidas como:",
+          "itens": [
+            "**Advertência.**",
+            "**Multa simples ou diária.**",
+            "**Embargo de obra ou atividade.**",
+            "**Suspensão de atividades.**",
+            "**Interdição de estabelecimento.**"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Reparação do Dano Ambiental (Imprescritibilidade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Obrigação de reparar",
+          "texto": "A obrigação de reparar o dano ambiental é **imprescritível** na esfera civil, ou seja, a vítima (coletividade) pode cobrar a reparação a qualquer tempo, independentemente do prazo prescricional. A ação de reparação civil por dano ambiental é **imprescritível**, conforme entendimento consolidado no STJ e STF."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Importante: diferença entre esferas",
+          "texto": "A **ação penal** para crimes ambientais prescreve normalmente, conforme o art. 109 do Código Penal. O que é imprescritível é a **ação civil de reparação do dano ambiental**. Essa é uma pegadinha frequente em provas."
+        }
+      ]
+    },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/12.jpg"
+       }
+      ]
+    }
+;

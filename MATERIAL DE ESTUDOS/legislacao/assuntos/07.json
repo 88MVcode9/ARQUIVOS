@@ -1,0 +1,95 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['07.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 9.613/1998 — Lavagem de Dinheiro",
+  "icone": "💸",
+  "descricao": "Lei que define os crimes de lavagem ou ocultação de bens, direitos e valores, estabelecendo penas e procedimentos. Reprime a dissimulação de ativos provenientes de infrações penais, com foco em organizações criminosas e corrupção.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Ciclo da Lavagem",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O crime de lavagem",
+          "texto": "Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes de infração penal, com a finalidade de lhes dar aparência lícita."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "As 3 fases do ciclo",
+          "texto": "A lavagem de dinheiro divide-se em três etapas, ainda que nem sempre presentes:",
+          "itens": [
+            "**1. Colocação (placement):** introdução dos valores ilícitos no sistema financeiro (ex.: depósito fracionado).",
+            "**2. Ocultação (layering):** realização de operações para dificultar o rastreamento (ex.: transferências internacionais, conversão em criptomoedas).",
+            "**3. Integração (integration):** reintegração do dinheiro na economia formal, aparentando origem lícita (ex.: investimento em empresas)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Antecedentes (rol extenso)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rol de crimes antecedentes (art. 1º)",
+          "texto": "A lavagem pode ter como origem qualquer **infração penal**, não apenas crimes. O rol é extenso, mas os principais cobrados são:",
+          "itens": [
+            "Tráfico de drogas;",
+            "Corrupção (ativa e passiva);",
+            "Organização criminosa;",
+            "Terrorismo;",
+            "Crimes contra o sistema financeiro;",
+            "Contrabando e descaminho;",
+            "Tráfico de pessoas;",
+            "Crimes ambientais;",
+            "Fraude em licitações."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Autonomia do crime de lavagem",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Independência do crime antecedente",
+          "texto": "O crime de lavagem é **autônomo** em relação ao crime antecedente. Ou seja, **não é necessária condenação definitiva** pelo crime anterior para que se processe a lavagem. Basta a existência de indícios suficientes da infração penal antecedente (art. 2º, §1º)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "A competência para julgar a lavagem é do mesmo juízo que julgaria o crime antecedente, salvo se houver conexão ou prevenção. A lavagem pode ser processada separadamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Penas e Causas de Aumento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pena-base",
+          "texto": "Reclusão de **3 a 10 anos** + multa (art. 1º, caput)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Majorantes (art. 1º, §2º)",
+          "texto": "A pena é aumentada de 1/3 a 2/3 se o crime for cometido de forma:",
+          "itens": [
+            "**Reiterada** (habitualidade na lavagem);",
+            "**Por organização criminosa** (envolvimento de ORCRIM)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Redução de pena (art. 2º, §2º)",
+          "texto": "O colaborador que, voluntariamente, prestar informações que levem à identificação dos autores ou à recuperação dos bens, pode ter a pena reduzida de **1/3 a 2/3** ou receber **perdão judicial** (se for primário e a colaboração for efetiva)."
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/07.jpg"
+    }
+  ]
+}
+;

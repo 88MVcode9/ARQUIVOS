@@ -1,0 +1,133 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 9.455/1997 — Crimes de Tortura",
+  "icone": "⚖️",
+  "descricao": "Lei que define os crimes de tortura, estabelecendo penas e proteção às vítimas. Tortura é todo ato que cause sofrimento físico ou mental, com violência ou grave ameaça, com finalidade específica (obter informação, castigar, discriminar, etc.). Crime inafiançável, insuscetível de graça e anistia, equiparado a hediondo, mas NÃO imprescritível. A condenação acarreta automaticamente a perda do cargo público.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Tipos de Tortura",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição legal (Art. 1º)",
+          "texto": "Tortura é todo ato praticado por agente público ou particular, com violência ou grave ameaça, que cause sofrimento físico ou mental, com uma das seguintes finalidades específicas:\n\n1. **Tortura-prova:** obter informação, confissão ou declaração.\n2. **Tortura para ação/omissão:** obrigar alguém a fazer ou deixar de fazer algo.\n3. **Tortura discriminatória:** motivada por raça, religião, etnia, orientação sexual, etc.\n4. **Tortura-castigo:** submeter alguém sob guarda ou autoridade a sofrimento como castigo."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Exigência de finalidade específica",
+          "texto": "A conduta só se configura tortura se houver uma **finalidade específica** (obter confissão, castigar, discriminar, etc.). Se faltar essa finalidade, o fato pode configurar lesão corporal, maus-tratos ou constrangimento ilegal, mas **não** tortura. Essa é uma pegadinha clássica em provas."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um policial agride um suspeito para forçá-lo a confessar um crime. Isso configura tortura (tortura-prova). Se o policial agride o suspeito por mera violência, sem objetivo de obter informação ou castigar, pode ser lesão corporal, não tortura."
+        }
+      ]
+    },
+    {
+      "titulo": "Penas e Majorantes (Art. 1º, §§ 3º e 4º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas previstas",
+          "texto": "A lei estabelece as seguintes penas para o crime de tortura:",
+          "itens": [
+            "**Tortura simples:** reclusão de 2 a 8 anos.",
+            "**Tortura com lesão grave:** reclusão de 4 a 10 anos.",
+            "**Tortura com resultado morte:** reclusão de 8 a 16 anos.",
+            "**Omissão (agente público que deixa de evitar a tortura):** reclusão de 1 a 4 anos."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de aumento de pena (majorantes)",
+          "texto": "A pena é aumentada de 1/6 (um sexto) a 1/3 (um terço) se a vítima for:",
+          "itens": [
+            "**Criança** ou **adolescente** (menor de 18 anos).",
+            "**Idoso** (maior de 60 anos).",
+            "**Gestante**.",
+            "**Pessoa com deficiência**.",
+            "**Agente público** no exercício da função."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Agente público como autor",
+          "texto": "Se o agente for **agente público** (policial, servidor, etc.) e cometer tortura, a pena pode ser **duplicada** (aumento em dobro) — previsão no § 4º do art. 1º."
+        }
+      ]
+    },
+    {
+      "titulo": "Efeitos Automáticos da Condenação (Art. 1º, § 5º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Consequências para servidores públicos",
+          "texto": "A condenação por crime de tortura, quando o agente for funcionário público, acarreta automaticamente:",
+          "itens": [
+            "**Perda do cargo, função ou emprego público.**",
+            "**Interdição para seu exercício pelo dobro do prazo da pena aplicada.**"
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Efeito automático",
+          "texto": "Diferentemente de outras leis em que a perda do cargo pode ser facultativa ou condicionada, na Lei de Tortura a perda do cargo é **efeito automático** da condenação (embora exija motivação na sentença). Isso é muito cobrado em provas."
+        }
+      ]
+    },
+    {
+      "titulo": "Natureza Constitucional e Regime de Cumprimento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Previsão constitucional (Art. 5º, XLIII, CF)",
+          "texto": "A Constituição Federal considera a tortura crime **inafiançável** e **insuscetível de graça, anistia e indulto**. A lei recebe o mesmo tratamento dos crimes hediondos, embora esteja em lei própria (Lei 9.455/1997)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Tortura NÃO é imprescritível!",
+          "texto": "Cuidado: a tortura **prescreve normalmente**, conforme as regras do Código Penal (art. 109). O que é imprescritível na CF são apenas o racismo e a ação de grupos armados contra a ordem constitucional. Bancas adoram afirmar que tortura é imprescritível — marque **ERRADO**!"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dica de prova",
+          "texto": "📌 Tortura = 3 I's: **I**nafiançável, **I**nsuscetível de graça/anistia/**i**ndulto, e **equiparada a hediondo**. Mas **prescreve**!"
+        }
+      ]
+    },
+    {
+      "titulo": "Extraterritorialidade da Lei (Art. 2º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Aplicação fora do Brasil",
+          "texto": "A lei brasileira aplica-se ao crime de tortura **mesmo que cometido fora do território nacional**, desde que a vítima seja brasileira ou que o agente se encontre em local sob jurisdição brasileira (extraterritorialidade incondicionada). Esse é um ponto cobrado em provas de carreiras jurídicas e policiais."
+        }
+      ]
+    },
+    {
+      "titulo": "Conduta do Policial em Ocorrências de Tortura",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Procedimento recomendado",
+          "texto": "Em ocorrência envolvendo tortura, o policial deve:",
+          "itens": [
+            "**Atender a vítima** com respeito, garantir atendimento médico se houver lesões.",
+            "**Identificar o autor** e, em flagrante, efetuar a prisão (crime inafiançável).",
+            "**Registrar provas** (testemunhas, laudos periciais, imagens, etc.).",
+            "**Encaminhar o preso** à delegacia para lavratura do auto de prisão em flagrante."
+          ]
+        }
+      ]
+    },
+     {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/05.jpg"
+       }
+   ]
+}
+;

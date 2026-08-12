@@ -1,0 +1,306 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['15.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 10.826/2003 — Estatuto do Desarmamento",
+  "icone": "🔫",
+  "descricao": "Lei que regula o registro, posse, porte, comercialização, importação e exportação de armas de fogo, acessórios e munições no Brasil. Estabelece requisitos rigorosos para a aquisição e circulação de armas, com distinção clara entre posse (dentro da residência) e porte (na via pública). Prevé crimes específicos, com penas que variam de detenção a reclusão, incluindo hipóteses de crimes hediondos.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o Estatuto do Desarmamento",
+          "texto": "A Lei nº 10.826/2003, conhecida como Estatuto do Desarmamento, regula quem pode ter arma, onde pode guardar e em quais situações pode andar armado no Brasil. A regra geral é: ter arma em casa (posse) é difícil mas possível; andar armado na rua (porte) é exceção, só para casos muito específicos."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Carlos tem 30 anos, fez curso de tiro, passou no teste psicológico e conseguiu registro da PF para manter uma pistola dentro de casa (POSSE). Já Maria não conseguiu o PORTE porque não comprovou risco profissional real — ela só pode transportar a arma desmuniciada e lacrada até o clube de tiro, com Guia de Trânsito."
+        }
+      ]
+    },
+    {
+      "titulo": "POSSE x PORTE — Diferença Fundamental",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro comparativo: Posse x Porte",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "POSSE (Art. 12)",
+              "PORTE (Art. 14)"
+            ],
+            "linhas": [
+              [
+                "Conceito",
+                "Ter arma DENTRO de casa ou local de trabalho (se for o responsável ou dono da empresa)",
+                "Andar armado FORA de casa (transporte/uso na rua)"
+              ],
+              [
+                "Autorização",
+                "Polícia Federal (SINARM) — CRAF",
+                "Polícia Federal (excepcional, discricionária)"
+              ],
+              [
+                "Pena ilegal",
+                "Detenção de 1 a 3 anos + multa",
+                "Reclusão de 2 a 4 anos + multa"
+              ],
+              [
+                "Exigência principal",
+                "Efetiva necessidade (comprovação de interesse legítimo)",
+                "Comprovação de RISCO REAL (mais rigoroso)"
+              ],
+              [
+                "Validade",
+                "5 anos",
+                "5 anos"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Gatilho mental",
+          "texto": "📌 **Posse** = arma FICA em local fechado (residência/comércio). Pena MENOR (detenção).\n📌 **Porte** = arma ACOMPANHA a pessoa na rua. Pena MAIOR (reclusão)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Extensão do conceito de 'residência' (jurisprudência)",
+          "texto": "O conceito de residência abrange todo o perímetro da propriedade privada (quintal, chácara anexa, escritório no mesmo terreno). Transportar a arma do quarto para o quintal (dentro da propriedade) NÃO configura porte ilegal — ainda está no âmbito da posse. O porte só se configura quando a arma sai para a via pública sem Guia de Trânsito ou autorização."
+        }
+      ]
+    },
+    {
+      "titulo": "Requisitos Comuns para Posse e Porte",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos legais",
+          "texto": "Para obter autorização de posse ou porte, o interessado deve preencher os seguintes requisitos (Art. 6º, caput e incisos):",
+          "itens": [
+            "1. **Idade mínima:** 25 anos.",
+            "2. **Idoneidade:** certidões negativas (federal, estadual, eleitoral, militar).",
+            "3. **Ocupação lícita + residência fixa.**",
+            "4. **Capacidade técnica:** curso e teste de tiro.",
+            "5. **Aptidão psicológica:** laudo de psicólogo credenciado (validade ≤ 1 ano).",
+            "6. **Justificativa de efetiva necessidade** (mais rigorosa para porte)."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Direito vs. Fato",
+          "texto": "A lei permite a posse, mas na prática a PF exige 'efetiva necessidade' — não basta apenas o desejo de autodefesa. O porte é ainda mais restrito, geralmente concedido a quem comprova risco profissional real, como agentes de segurança ou residentes em áreas rurais isoladas."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Armas e Sistemas de Controle",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipos de armas",
+          "texto": "A lei classifica as armas em três categorias:",
+          "itens": [
+            "**Uso Permitido:** civis que preencham requisitos (defesa pessoal, caça, tiro esportivo).",
+            "**Uso Restrito:** forças de segurança, CACs autorizados (armas automáticas, certos calibres).",
+            "**Uso Proibido:** ninguém (exceto autorizações excepcionais para algumas armas de guerra)."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "SINARM x SIGMA",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "SINARM",
+              "SIGMA"
+            ],
+            "linhas": [
+              [
+                "Sigla",
+                "Sistema Nacional de Armas",
+                "Sistema de Gerenciamento Militar"
+              ],
+              [
+                "Administrado por",
+                "Polícia Federal",
+                "Exército Brasileiro"
+              ],
+              [
+                "Destinado a",
+                "Armas de USO PERMITIDO (civis)",
+                "Armas de USO RESTRITO / militar / CACs"
+              ],
+              [
+                "Documento emitido",
+                "CRAF (Certificado de Registro)",
+                "Registro próprio do Exército"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "PORTE POLICIAL e PORTE RURAL",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Porte Policial x Porte Rural",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Porte Policial (Institucional)",
+              "Porte Rural (Caçador de Subsistência)"
+            ],
+            "linhas": [
+              [
+                "Validade",
+                "Indeterminada",
+                "5 anos (renovável)"
+              ],
+              [
+                "Abrangência",
+                "Nacional",
+                "Local (área rural onde reside)"
+              ],
+              [
+                "Público",
+                "Policiais federais, civis, militares, rodoviários, ferroviários (em serviço ou autorizados). Guarda Municipal tem porte institucional com limitações.",
+                "Residentes em área rural com 25 anos ou mais"
+              ],
+              [
+                "Requisito principal",
+                "Integrante das forças de segurança (Art. 144 da CF) com dedicação exclusiva (para agentes prisionais).",
+                "DEPENDER da arma para subsistência alimentar da família"
+              ],
+              [
+                "Arma permitida",
+                "Armas institucionais (conforme regulamento)",
+                "Tiro simples, 1 ou 2 canos, calibre até 16, alma lisa"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Agente Prisional e Porte",
+          "texto": "O agente prisional **tem direito ao porte** apenas se tiver **dedicação exclusiva** ao cargo. Se não houver dedicação exclusiva, NÃO tem direito ao porte institucional. Essa regra é frequentemente cobrada em provas."
+        }
+      ]
+    },
+    {
+      "titulo": "CRIMES DA LEI DE ARMAS — Artigos e Penas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rol de crimes",
+          "texto": "A lei prevê os seguintes crimes, com penas específicas:",
+          "itens": [
+            "**Art. 12 — Posse irregular (uso permitido):** detenção de 1 a 3 anos + multa.",
+            "**Art. 13 — Omissão de cautela** (arma acessada por menor/incapaz): detenção de 1 a 2 anos (crime CULPOSO).",
+            "**Art. 14 — Porte ilegal (uso permitido):** reclusão de 2 a 4 anos + multa.",
+            "**Art. 15 — Disparo de arma de fogo:** reclusão de 2 a 4 anos + multa.",
+            "**Art. 16 — Posse/porte de arma de uso restrito ou com numeração raspada/suprimida/adulterada:** reclusão de 3 a 6 anos + multa (crime HEDIONDO).",
+            "**Art. 17 — Comércio ilegal de arma:** reclusão de 4 a 8 anos (crime HEDIONDO).",
+            "**Art. 18 — Tráfico internacional de arma:** reclusão de 8 a 15 anos (crime HEDIONDO)."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Memorização rápida",
+          "texto": "📌 **CULPOSO** → só o Art. 13 (omissão de cautela).\n📌 **HEDIONDOS** → Arts. 16, 17 e 18.\n📌 **Os demais** → dolosos comuns."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Arma com numeração raspada (Art. 16)",
+          "texto": "A posse ou porte de arma com numeração raspada, suprimida ou adulterada é conduta equiparada a crime de uso restrito, mesmo que a arma originalmente fosse de uso permitido. Pena: reclusão de 3 a 6 anos + multa. É crime **inafiançável** (a fiança não pode ser concedida na delegacia) e **hediondo**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferença prática entre posse irregular e porte ilegal",
+          "texto": "Embora ambos sejam crimes, a distinção é essencial para concurso:\n\n**Posse irregular (art. 12):** arma dentro de residência ou local de trabalho (se for o proprietário ou responsável). Pena: detenção de 1 a 3 anos + multa. **É cabível fiança** (valor fixado pelo juiz).\n\n**Porte ilegal (art. 14):** arma fora desses locais, na via pública ou em transporte. Pena: reclusão de 2 a 4 anos + multa. **Não cabe fiança** (art. 14, §1º).\n\n**Crimes hediondos equiparados:**\n- **Art. 16** (posse/porte de arma de uso restrito ou com numeração raspada/adulterada): reclusão de 3 a 6 anos + multa – **inafiançável** e equiparado a hediondo.\n- **Art. 17** (comércio ilegal de arma): reclusão de 4 a 8 anos – hediondo.\n- **Art. 18** (tráfico internacional de arma): reclusão de 8 a 15 anos – hediondo.\n\n📌 **Pegadinha:** o crime do art. 16 é hediondo **mesmo que a arma seja de uso permitido**, se tiver numeração suprimida/adulterada."
+        }
+      ]
+    },
+    {
+      "titulo": "Aumento de Pena e Causas de Agravação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Hipóteses de aumento (até 50%)",
+          "texto": "A pena pode ser aumentada em até 50% (metade) nas seguintes hipóteses:",
+          "itens": [
+            "**Uso de arma de uso restrito ou proibido.**",
+            "**Reincidência específica** (já condenado por crime da Lei de Armas).",
+            "**Associação criminosa ou risco agravado** (ex.: uso em contexto de organização criminosa)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Guia de Trânsito (GT) e CACs",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Guia de Trânsito",
+          "texto": "A Guia de Trânsito é necessária para o transporte de arma entre locais (residência, clube de tiro, estande, etc.). A arma deve estar **desmuniciada, acondicionada em estojo ou caixa**, com a rota definida. Desviar da rota ou transportar a arma pronta para uso fora do local autorizado configura crime de porte ilegal (Art. 14 ou Art. 16)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Colecionadores, Atiradores e Caçadores (CACs)",
+          "texto": "Os CACs possuem regramento próprio fiscalizado pelo **Exército Brasileiro (SIGMA)**. O deslocamento da arma do acervo até o local de tiro/caça exige a **Guia de Tráfego** válida, emitida pelo Exército. O atirador desportivo ou caçador possui o direito de transitar com a arma desde que:",
+          "itens": [
+            "Esteja com a Guia de Tráfego válida.",
+            "A arma esteja acondicionada e desmuniciada.",
+            "Não haja desvio da rota autorizada."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência e Súmulas Importantes (STJ/STF)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores já pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**Registro vencido + POSSE em casa** → atípico (mera irregularidade administrativa).",
+            "**Registro vencido + PORTE na rua** → crime (Art. 14 ou 16).",
+            "**Arma incapaz de disparo** (totalmente quebrada) → crime impossível (atípico).",
+            "**Princípio da insignificância** → aplicável a pequena quantidade de munição (caso a caso)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Reclusão x Detenção — Diferença",
+          "texto": "**Reclusão:** pena MAIS GRAVE → pode iniciar em regime fechado.\n**Detenção:** pena MAIS LEVE → NÃO inicia em regime fechado.\n**Prisão:** termo genérico (flagrante, preventiva, etc.)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Dolo x Culpa",
+          "texto": "**Dolo:** intenção ou assunção do risco (ex.: porte consciente sem autorização).\n**Culpa:** descuido, negligência, imprudência (ex.: disparo acidental por falta de cuidado). O Art. 13 é o único crime culposo do Estatuto."
+        }
+      ]
+    },
+    {
+      "titulo": "Vacatio Legis e Entrega Espontânea",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entrega voluntária de armas",
+          "texto": "A lei previu regras de regularização e entrega espontânea de armas à Polícia Federal, com extinção da punibilidade para quem entregasse voluntariamente a arma (campanhas de desarmamento e indenização). A entrega espontânea na delegacia/PF **afasta a tipicidade penal** da posse irregular, desde que feita antes de uma apreensão ou flagrante."
+        }
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "titulo": "Mapa-mental",
+      "imagem": "./IMAGENS/15.jpg"
+    }
+  ]
+};

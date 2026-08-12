@@ -1,0 +1,345 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['16.json']=
+{
+  "materia": "Legislação",
+  "titulo": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
+  "icone": "🚗",
+  "descricao": "Lei que institui o Código de Trânsito Brasileiro, estabelecendo normas de circulação, conduta, habilitação, registro de veículos, infrações, penalidades e crimes de trânsito. Tem como base os princípios da segurança, fluidez, educação e responsabilidade. Aplica-se a todos os usuários das vias públicas (motoristas, pedestres, ciclistas). Contém regras atualizadas sobre pontuação para suspensão da CNH, validade do documento, exame toxicológico para categorias C, D e E, além de competências de fiscalização.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o CTB",
+          "texto": "O Código de Trânsito Brasileiro (Lei nº 9.503/1997) é o principal diploma normativo que regula o trânsito no Brasil. Define direitos e deveres de todos os usuários (motoristas, pedestres, ciclistas, passageiros) e estabelece infrações, penalidades, medidas administrativas e crimes de trânsito."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Carlos, motorista profissional (categoria C), foi flagrado com 0,35 mg/L de álcool no ar expelido. Ele responderá pelo crime do art. 306 (direção sob influência de álcool) e terá a CNH suspensa. Além disso, como é categoria C, deverá fazer exame toxicológico periódico a cada 2 anos e 6 meses."
+        }
+      ]
+    },
+    {
+      "titulo": "Pontuação e Suspensão da CNH (Lei nº 14.071/2020)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Sistema de pontuação",
+          "texto": "As infrações são classificadas em quatro graus, com pontuação na CNH:",
+          "itens": [
+            "**Leve:** 3 pontos",
+            "**Média:** 4 pontos",
+            "**Grave:** 5 pontos",
+            "**Gravíssima:** 7 pontos"
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regras para suspensão por pontuação (em 12 meses)",
+          "texto": "A suspensão do direito de dirigir ocorre quando o motorista atinge os seguintes limites, no período de 12 meses:",
+          "itens": [
+            "**40 pontos:** se não cometer nenhuma infração gravíssima (ou para motoristas com EAR - Exercício de Atividade Remunerada, independentemente da gravidade).",
+            "**30 pontos:** se cometer 1 infração gravíssima.",
+            "**20 pontos:** se cometer 2 ou mais infrações gravíssimas."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha",
+          "texto": "A contagem é sempre em 12 meses, independentemente de quando a infração foi cometida. O motorista com EAR tem limite único de 40 pontos, mesmo que cometa gravíssimas."
+        }
+      ]
+    },
+    {
+      "titulo": "Validade da CNH e Exame Toxicológico",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Validade da CNH (Lei nº 14.071/2020)",
+          "texto": "A validade da Carteira Nacional de Habilitação (CNH) passou a ser:",
+          "itens": [
+            "**Até 50 anos de idade:** 10 anos.",
+            "**De 50 a 69 anos:** 5 anos.",
+            "**70 anos ou mais:** 3 anos.",
+            "O médico perito pode reduzir esses prazos se julgar necessário."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exame toxicológico (Lei nº 14.599/2023)",
+          "texto": "O exame toxicológico é obrigatório para condutores das categorias **C, D e E**, nos seguintes momentos:",
+          "itens": [
+            "Na obtenção ou renovação da CNH.",
+            "Periodicamente, a cada **2 anos e 6 meses**, para motoristas com menos de 70 anos.",
+            "A recusa ou resultado positivo (para substâncias proibidas) impede a renovação ou pode acarretar a suspensão."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Infrações e Medidas Administrativas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penalidades administrativas",
+          "texto": "O CTB prevê as seguintes penalidades, além da pontuação:",
+          "itens": [
+            "**Multa** (valor variável conforme a gravidade da infração).",
+            "**Advertência por escrito** (para infrações leves, a critério da autoridade).",
+            "**Suspensão do direito de dirigir** (por pontuação ou por decisão judicial).",
+            "**Cassação da CNH** (aplicada em casos de crimes de trânsito, reincidência ou quando o motorista for condenado à suspensão por mais de 2 vezes no prazo de 5 anos).",
+            "**Recolhimento do veículo** (em casos de irregularidades graves, como falta de licenciamento).",
+            "**Recolhimento da CNH** (em flagrante de crime de trânsito, por exemplo)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Competência para fiscalização",
+          "texto": "A fiscalização de trânsito é exercida por:",
+          "itens": [
+            "**Polícia Rodoviária Federal (PRF):** nas rodovias federais.",
+            "**Polícia Militar (PM):** nos municípios e rodovias estaduais, com competência para polícia ostensiva de trânsito, respeitando as atribuições dos órgãos de trânsito estaduais e municipais (art. 24, §2º, do CTB).",
+            "**Órgãos de trânsito municipais e estaduais:** responsáveis pelo licenciamento, vistorias e aplicação de multas."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Imobilização de Veículos – Parada x Estacionamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Parada e Estacionamento – PEGADINHA FREQUENTE!",
+          "texto": "**Parada:** imobilização do veículo pelo tempo estritamente necessário apenas para embarque ou desembarque de passageiros.\n\n**Estacionamento:** imobilização por tempo superior ao necessário para embarque/desembarque – qualquer tempo a mais para carga/descarga ou espera já se caracteriza como estacionamento.\n\n📌 **Dica:** se o motorista desliga o veículo ou sai do carro, presume-se estacionamento.\n\n⚠️ **Pegadinha:** A banca pode perguntar se esperar alguns minutos com o veículo parado é estacionamento – se ultrapassar o tempo para embarque/desembarque, **é estacionamento**."
+        }
+      ]
+    },
+    {
+      "titulo": "Manobras e Movimentação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Ultrapassagem x Transposição de Faixa",
+          "texto": "**Ultrapassagem:** mover-se à frente de outro veículo no mesmo sentido, saindo de sua faixa e retornando à faixa de origem após a manobra.\n\n**Transposição de Faixa:** apenas a mudança de uma faixa para outra na mesma direção (sem a obrigação de retornar à faixa original).\n\n🧠 **Mnemônico:** \"Ultrapassagem = sai e volta / Transposição = só muda de faixa\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação de Veículos por Tipo e Posição",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipos de veículos",
+          "texto": "**Caminhonete:** veículo de carga com Peso Bruto Total (PBT) de até 3.500 kg.\n\n**Camioneta:** veículo misto (transporte de passageiros e carga no mesmo compartimento).\n\n**Motocicleta:** veículo de 2 rodas dirigido na posição montada (pernas abertas no tanque).\n\n**Motoneta:** veículo de 2 rodas dirigido na posição sentada (pernas juntas/apoiadas no piso).\n\n**Ciclomotor:** veículo de 2 ou 3 rodas de até 50 cm³ (ou 4 kW se elétrico) e velocidade máxima de 50 km/h.\n\n📌 **Dica:** a diferença entre motocicleta e motoneta é a **posição do condutor** – montado vs sentado."
+        }
+      ]
+    },
+    {
+      "titulo": "Conceitos de Peso e Carga",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tara, PBT e PBTC",
+          "texto": "**Tara:** o peso \"vazio\" do veículo (peso próprio + combustível + fluidos + estepe + ferramentas), sem motorista, passageiros ou carga.\n\n**Peso Bruto Total (PBT):** o peso máximo transmitido ao solo (Tara + Carga/Lotação).\n\n**PBTC (Combinado):** a soma do PBT do veículo trator + o PBT do reboque/semirreboque.\n\n🧠 **Mnemônico:** \"Tara = vazio / PBT = cheio / PBTC = combinado.\""
+        }
+      ]
+    },
+    {
+      "titulo": "Vias e Espaços Públicos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rodovia, Estrada, Calçada, Passeio e Acostamento",
+          "texto": "**Rodovia vs. Estrada:** ambas são vias rurais, mas a **Rodovia** é pavimentada e a **Estrada** não é pavimentada.\n\n**Calçada vs. Passeio:** a **Calçada** inclui o espaço para pedestres + mobiliário urbano (postes, lixeiras) + sinalização. O **Passeio** é apenas a parte da calçada (ou pista) destinada à circulação exclusiva de pedestres/ciclistas.\n\n**Acostamento:** parte da via destinada a emergências (parada/estacionamento) ou circulação de pedestres/bicicletas quando não houver local próprio.\n\n📌 **Dica de Ouro:** A condução de bicicleta a pé equipara o cidadão ao pedestre em direitos e deveres."
+        }
+      ]
+    },
+    {
+      "titulo": "Categorias das Vias Urbanas e Velocidades — TACL",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Vias Urbanas (TACL) – Velocidades máximas",
+          "texto": "A classificação das vias urbanas segue o mnemônico **TACL**:\n\n- **T**rânsito Rápido: acessos especiais, trânsito livre, sem cruzamentos em nível e sem travessia de pedestres em nível – **80 km/h**.\n- **A**rterial: liga regiões da cidade, possui cruzamentos em nível (geralmente com semáforo) – **60 km/h**.\n- **C**oletora: coleta e distribui o trânsito das vias arteriais/trânsito rápido – **40 km/h**.\n- **L**ocal: destinada apenas ao acesso local ou a áreas residenciais restritas – **30 km/h**.\n\n🧠 **Mnemônico:** \"TACL – 80, 60, 40, 30\"."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Resumo das velocidades urbanas",
+          "tabela": {
+            "colunas": ["Tipo de Via", "Velocidade Máxima"],
+            "linhas": [
+              ["Trânsito Rápido", "80 km/h"],
+              ["Arterial", "60 km/h"],
+              ["Coletora", "40 km/h"],
+              ["Local", "30 km/h"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Velocidades em Vias Rurais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rodovias – Pista Simples",
+          "texto": "**Pista Simples:**\n- **100 km/h** – automóveis, caminhonete, camioneta e motocicleta.\n- **90 km/h** – demais veículos (caminhões, ônibus, etc.)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Rodovias – Pista Dupla",
+          "texto": "**Pista Dupla:**\n- **110 km/h** – automóveis, caminhonete, camioneta e motocicleta.\n- **90 km/h** – demais veículos (caminhões, ônibus, etc.)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estradas (vias rurais não pavimentadas)",
+          "texto": "**Estradas:** via rural não pavimentada – **60 km/h** para todos os veículos."
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Resumo das velocidades rurais",
+          "tabela": {
+            "colunas": ["Tipo de Via", "Veículos", "Velocidade Máxima"],
+            "linhas": [
+              ["Rodovia – Pista Simples", "Automóveis, caminhonete, camioneta, motocicleta", "100 km/h"],
+              ["Rodovia – Pista Simples", "Demais veículos", "90 km/h"],
+              ["Rodovia – Pista Dupla", "Automóveis, caminhonete, camioneta, motocicleta", "110 km/h"],
+              ["Rodovia – Pista Dupla", "Demais veículos", "90 km/h"],
+              ["Estrada (não pavimentada)", "Todos os veículos", "60 km/h"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Infrações – Pontuação por Grau",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pontos por infração",
+          "texto": "As infrações são classificadas em quatro graus:",
+          "itens": [
+            "**Gravíssima (GG):** 7 pontos",
+            "**Grave (G):** 5 pontos",
+            "**Média (M):** 4 pontos",
+            "**Leve (L):** 3 pontos"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Hierarquia das Normas de Trânsito – Pirâmide",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pirâmide de Jil/Sigov (Hierarquia das normas)",
+          "texto": "A ordem de obediência e hierarquia das normas de trânsito, de cima para baixo, é:\n\n1. **Ordem do Agente** – a autoridade de trânsito tem precedência sobre qualquer sinalização.\n2. **Semaforização** – os sinais luminosos prevalecem sobre a sinalização vertical e horizontal.\n3. **Sinalização** – as placas e marcas viárias.\n4. **Normas gerais** – as regras do CTB e demais legislações.\n\n🧠 **Mnemônico:** \"Ordem, Semáforo, Sinal, Norma\" (OSSN).\n\n⚠️ **Pegadinha:** A ordem do agente prevalece sobre qualquer sinalização – se o agente mandar parar, o motorista deve obedecer, mesmo que o semáforo esteja verde."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de Placas de Sinalização",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Formatos das placas",
+          "texto": "Os formatos das placas indicam sua função:\n\n- **Círculo** – placas de **regulamentação** (obrigações ou proibições).\n- **Quadrado** – placas de **indicação** (informativas ou de serviços).\n- **Losango** – placas de **advertência** (perigos ou riscos).\n\n🧠 **Mnemônico:** \"Círculo = Regra / Quadrado = Informação / Losango = Cuidado\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Alcoolismo e Direção – Níveis de Concentração",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Níveis de álcool no ar expelido",
+          "texto": "Os níveis de concentração de álcool por litro de ar alveolar e suas consequências são:\n\n- **0,00 – 0,04 mg/L:** **Medida Administrativa (ME)** – recolhimento da CNH e multa.\n- **0,05 – 0,33 mg/L:** **Medida Administrativa (MA)** – infração gravíssima (7 pontos), multa de R$ 2.934,70, suspensão do direito de dirigir e recolhimento do veículo.\n- **≥ 0,34 mg/L:** **Medida Administrativa (MA) + Crime** – além das penalidades administrativas, configura crime do art. 306 do CTB (embriaguez ao volante), com detenção de 6 meses a 3 anos, multa e suspensão da CNH.\n\n📌 **Dica:** a recusa ao teste de bafômetro também gera infração gravíssima (7 pontos) e multa, mas não configura crime (STF)."
+        }
+      ]
+    },
+    {
+      "titulo": "Órgãos de Trânsito – Competências",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "CONTRAN, SENTRAN e DETRAN",
+          "texto": "**CONTRAN (Conselho Nacional de Trânsito):** órgão máximo normativo federal – estabelece regras gerais, resoluções e regulamentações do CTB.\n\n**SENTRAN (Secretaria Nacional de Trânsito):** órgão executivo federal, vinculado ao Ministério da Infraestrutura – coordena e executa a política nacional de trânsito.\n\n**DETRAN (Departamento Estadual de Trânsito):** órgão estadual responsável pela execução das políticas de trânsito nos Estados, como habilitação, licenciamento, vistorias e aplicação de multas.\n\n📌 **Dica:** CONTRAN é normativo; SENTRAN é executivo federal; DETRAN é executivo estadual."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes de Trânsito — Arts. 302 a 306 do CTB",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Homicídio culposo na direção (Art. 302)",
+          "texto": "Art. 302: praticar homicídio culposo na direção de veículo automotor — **detenção de 2 a 4 anos, suspensão ou proibição da CNH**.",
+          "itens": [
+            "**§3º (aumento):** se o agente estiver sob influência de álcool ou substância psicoativa, a pena é de **reclusão de 2 a 5 anos** (e suspensão)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lesão corporal culposa (Art. 303)",
+          "texto": "Art. 303: praticar lesão corporal culposa na direção de veículo — **detenção de 6 meses a 3 anos, suspensão**.",
+          "itens": [
+            "**§2º (aumento):** se o agente estiver sob influência de álcool ou substância, a pena é de **reclusão de 1 a 5 anos** (e suspensão)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fuga do local do acidente (Art. 305)",
+          "texto": "Art. 305: deixar de prestar socorro à vítima ou fugir do local — **detenção de 6 meses a 1 ano** (ou multa), se o fato não constituir crime mais grave. A fuga também é agravante para os crimes dos arts. 302 e 303."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Embriaguez ao volante (Art. 306)",
+          "texto": "Art. 306: conduzir veículo com capacidade psicomotora alterada em razão de álcool ou substância psicoativa — **detenção de 6 meses a 3 anos, multa e suspensão ou proibição de obter CNH** (crime de perigo abstrato). Aplica-se a condutores com concentração de álcool igual ou superior a 0,05 mg/L de ar alveolar ou qualquer quantidade de substância psicoativa."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Memorização das penas",
+          "texto": "📌 **Homicídio culposo simples:** detenção 2 a 4 anos.\n📌 **Homicídio culposo + embriaguez:** reclusão 2 a 5 anos.\n📌 **Lesão culposa simples:** detenção 6 meses a 3 anos.\n📌 **Lesão culposa + embriaguez:** reclusão 1 a 5 anos.\n📌 **Embriaguez (art. 306):** detenção 6 meses a 3 anos."
+        }
+      ]
+    },
+    {
+      "titulo": "Agravações e Causas de Aumento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de aumento de pena",
+          "texto": "As penas dos crimes de trânsito podem ser aumentadas (até 1/3) se:",
+          "itens": [
+            "Reincidência específica em crime de trânsito.",
+            "Prática do crime em faixa de pedestre, ciclovia ou em local de grande circulação.",
+            "Utilização de veículo de transporte coletivo ou de carga perigosa.",
+            "Prática do crime na faixa de domínio de rodovia ou em via com sinalização proibitiva."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram os seguintes entendimentos:",
+          "itens": [
+            "**STJ:** O crime do art. 306 (embriaguez ao volante) é de **perigo abstrato**, bastando a comprovação da alteração da capacidade psicomotora por exame clínico ou etílico.",
+            "**STF (RE 888.332):** O estado de embriaguez ao volante exige comprovação por exame de sangue ou equivalente; a recusa ao teste não é crime, mas gera multa e penalidades administrativas.",
+            "**STJ (Tema 964):** A aplicação da suspensão da CNH por acúmulo de pontos exige processo administrativo com contraditório e ampla defesa.",
+            "**STJ:** A competência para julgar crimes de trânsito é do Juizado Especial Criminal, salvo nos casos de homicídio culposo (que podem ser julgados pelo Tribunal do Júri se houver dolo eventual)."
+          ]
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/16.jpg"
+        }
+      ]
+    }
+  ]
+};
