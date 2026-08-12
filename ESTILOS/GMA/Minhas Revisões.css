@@ -1,137 +1,191 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  min-height: 100vh;
-  background: #0D1117; /* fundo escuro */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 48px 16px 64px;
-  color: #e6edf3;
-}
-
-header {
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-header h1 {
-  margin: 0 0 8px;
-  font-size: clamp(22px, 4vw, 30px);
-  color: #e6edf3; /* texto claro */
-  letter-spacing: -0.02em;
-}
-
-header p {
-  margin: 0;
-  color: #8b949e; /* cinza claro */
-  font-size: 15px;
-}
-
-/* ===== CARDS ===== */
-.radio-inputs {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  max-width: 780px;
-  user-select: none;
-  gap: 16px;
-}
-
-.card-link {
-  text-decoration: none;
-}
-
-.radio-tile {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 140px;
-  min-height: 140px;
-  border-radius: 0.75rem;
-  border: 2px solid #30363d;           /* borda escura */
-  background-color: #161B22;           /* fundo do card */
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
-  transition: 0.15s ease;
-  cursor: pointer;
-  position: relative;
-  padding: 18px 10px;
-  color: #8b949e;                      /* texto cinza */
-}
-
-/* círculo indicador (bolinha) */
-.radio-tile:before {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 0.75rem;
-  height: 0.75rem;
-  border: 2px solid #30363d;
-  background-color: #161B22;
-  border-radius: 50%;
-  top: 0.5rem;
-  left: 0.5rem;
-  opacity: 0;
-  transform: scale(0);
-  transition: 0.25s ease;
-}
-
-/* hover / foco – azul */
-.radio-tile:hover,
-.card-link:focus-visible .radio-tile {
-  border-color: #2563eb;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6), 0 0 0 4px rgba(37, 99, 235, 0.25);
-  color: #e6edf3;
-}
-
-.radio-tile:hover:before,
-.card-link:focus-visible .radio-tile:before {
-  transform: scale(1);
-  opacity: 1;
-  background-color: #2563eb;
-  border-color: #2563eb;
-}
-
-.radio-tile:hover .radio-icon svg,
-.card-link:focus-visible .radio-icon svg {
-  color: #3b82f6; /* azul mais claro no hover */
-}
-
-.radio-tile:hover .radio-label,
-.card-link:focus-visible .radio-label {
-  color: #e6edf3;
-}
-
-.radio-tile:active {
-  transform: scale(0.96);
-}
-
-.radio-icon svg {
-  width: 2rem;
-  height: 2rem;
-  color: #8b949e; /* ícone cinza */
-  transition: 0.375s ease;
-}
-
-.radio-label {
-  margin-top: 10px;
-  color: #8b949e;
-  transition: 0.375s ease;
-  text-align: center;
-  font-size: 13px;
-  line-height: 1.3;
-}
-
-/* ===== RESPONSIVO ===== */
-@media (max-width: 480px) {
-  .radio-tile {
-    width: 42vw;
-    min-height: 120px;
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
-}
+
+  body {
+    min-height: 100vh;
+    background: #0D1117;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px 16px 64px;
+    color: #e6edf3;
+    background-image: radial-gradient(ellipse at 20% 20%, rgba(37, 99, 235, 0.05) 0%, transparent 50%),
+                      radial-gradient(ellipse at 80% 80%, rgba(37, 99, 235, 0.03) 0%, transparent 50%);
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+
+  header h1 {
+    margin: 0 0 8px;
+    font-size: clamp(26px, 5vw, 36px);
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, #93bbfc 40%, #2563eb 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  header p {
+    margin: 0;
+    color: #8b949e;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+  }
+
+  /* ===== CARDS GRID ===== */
+  .radio-inputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 820px;
+    user-select: none;
+    gap: 20px;
+  }
+
+  .card-link {
+    text-decoration: none;
+    display: block;
+    transition: transform 0.2s ease;
+  }
+
+  .card-link:hover {
+    transform: translateY(-6px);
+  }
+
+  .card-link:active {
+    transform: scale(0.96);
+  }
+
+  .radio-tile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    min-height: 140px;
+    border-radius: 1rem;
+    border: 2px solid #30363d;
+    background: #161B22;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+    cursor: pointer;
+    position: relative;
+    padding: 20px 12px;
+    color: #8b949e;
+  }
+
+  /* Círculo indicador (bolinha) - versão azul */
+  .radio-tile::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 0.75rem;
+    height: 0.75rem;
+    border: 2px solid #30363d;
+    background-color: #161B22;
+    border-radius: 50%;
+    top: 0.75rem;
+    left: 0.75rem;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.25s cubic-bezier(0.2, 0.9, 0.4, 1);
+  }
+
+  /* HOVER / FOCUS */
+  .radio-tile:hover,
+  .card-link:focus-visible .radio-tile {
+    border-color: #2563eb;
+    background: #1a2a4a;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6), 0 0 0 4px rgba(37, 99, 235, 0.25);
+    color: #e6edf3;
+  }
+
+  .radio-tile:hover::before,
+  .card-link:focus-visible .radio-tile::before {
+    transform: scale(1);
+    opacity: 1;
+    background-color: #2563eb;
+    border-color: #2563eb;
+  }
+
+  .radio-tile:hover .radio-icon svg,
+  .card-link:focus-visible .radio-icon svg {
+    color: #3b82f6;
+  }
+
+  .radio-tile:hover .radio-label,
+  .card-link:focus-visible .radio-label {
+    color: #e6edf3;
+  }
+
+  .radio-tile:active {
+    transform: scale(0.96);
+  }
+
+  /* ÍCONE */
+  .radio-icon svg {
+    width: 2.2rem;
+    height: 2.2rem;
+    color: #8b949e;
+    transition: color 0.3s ease;
+    stroke-width: 1.8;
+  }
+
+  .radio-label {
+    margin-top: 12px;
+    color: #8b949e;
+    transition: color 0.3s ease;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+
+  /* ===== RESPONSIVIDADE ===== */
+  @media (max-width: 640px) {
+    .radio-inputs {
+      gap: 14px;
+    }
+    .radio-tile {
+      width: 42vw;
+      min-height: 120px;
+      padding: 16px 10px;
+    }
+    .radio-icon svg {
+      width: 1.8rem;
+      height: 1.8rem;
+    }
+    .radio-label {
+      font-size: 13px;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .radio-tile {
+      width: 80vw;
+      min-height: 100px;
+    }
+  }
+
+  /* ===== SCROLLBAR ===== */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #161B22;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2563eb;
+    border-radius: 8px;
+  }
