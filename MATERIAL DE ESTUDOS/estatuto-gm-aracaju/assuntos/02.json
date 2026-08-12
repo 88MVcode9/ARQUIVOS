@@ -1,0 +1,75 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Legislacao Municipal de Aracaju",
+  "titulo": "Poderes Executivo e Legislativo + Processo Legislativo (LOMA)",
+  "icone": "🏛️",
+  "descricao": "Complemento da Lei Organica. Aborda as regras para Prefeito e Vice-Prefeito (requisitos, substituicao, sucessao, idades minimas), as funcoes da Camara de Vereadores, o processo de criacao de leis municipais (Emendas a LOMA, Leis Complementares e Ordinarias), a promulgacao da Emenda pela Mesa, regras de vacancia conjunta, e o auxilio do TCE/SE no controle externo.",
+  "topicos": [
+    {
+      "titulo": "Poder Executivo Municipal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prefeito e Vice-Prefeito — Requisitos e Idades",
+          "texto": "Chefiam o Executivo Municipal. Requisitos basicos:\n\n- **Idade minima:** **21 (vinte e um) anos** para Prefeito e Vice-Prefeito.\n- Estar em pleno exercicio dos direitos politicos.\n- Ser eleito pelo voto direto (maioria absoluta em 1º turno ou maioria simples em 2º).\n\n[ATENCAO] PEGADINHA CLASSICA: A banca adora inverter as idades minimas!\n- **Prefeito/Vice:** 21 anos.\n- **Vereador:** 18 anos (art. 29, IV, CF).\n\n[ERRADO] Afirmacao errada: 'A idade minima para Prefeito e de 18 anos, igual a do Vereador.' **FALSO!** Sao 21 anos para Prefeito/Vice e 18 para Vereador."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Substituicao e Sucessao do Prefeito",
+          "texto": "**Substituicao:** O Vice-Prefeito assume temporariamente em caso de impedimento eventual do Prefeito (ex.: viagem, licenca, doenca).\n\n**Sucessao:** O Vice-Prefeito assume definitivamente em caso de vaga (morte, renuncia, cassacao, condenacao).\n\n[ATENCAO] PEGADINHA CLASSICA: A banca adora inverter: 'O Vice-Prefeito apenas substitui, nunca sucede.'\n\n**FALSO!** Ele **substitui** (impedimento eventual) **E sucede** (vaga definitiva)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Vacancia Conjunta — Prefeito e Vice Vagando Juntos",
+          "texto": "Se houver vaga simultanea do Prefeito e do Vice-Prefeito (morte, renuncia ou cassacao de ambos), assume **interinamente** o **Presidente da Camara Municipal**.\n\n**Regra de novas eleicoes:**\n- Se a vaga dupla ocorrer nos **primeiros 2 (dois) anos** do mandato: convocacao de **eleicao direta** em ate **90 (noventa) dias**.\n- Se a vaga dupla ocorrer nos **ultimos 2 (dois) anos** do mandato: **eleicao indireta** feita pelos vereadores, em ate **30 (trinta) dias**.\n\n[DICA] A diferenca entre os prazos e o tipo de eleicao e crucial – a banca adora trocar \"90 dias\" por \"30 dias\" ou \"direta\" por \"indireta\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Poder Legislativo Municipal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Camara de Vereadores — Composicao e Funcoes",
+          "texto": "Orgao legislativo do Municipio. Composta por vereadores eleitos para mandato de **4 (quatro) anos**.\n\n**Funcoes principais:**\n- **Legislar:** criar leis municipais (ordinarias, complementares, emendas a LOMA).\n- **Fiscalizar:** controle externo da Prefeitura, com auxilio do Tribunal de Contas.\n\n**Idade minima do Vereador:** **18 (dezoito) anos** (art. 29, IV, CF).\n\n[DICA] O Vereador tem 18 anos; o Prefeito tem 21. A banca adora confundir!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Controle Externo e o TCE/SE",
+          "texto": "A fiscalizacao das contas da Prefeitura e exercida pela Camara Municipal com o auxilio do **Tribunal de Contas do Estado de Sergipe (TCE/SE)**.\n\n**Regra:** O Municipio de Aracaju **NAO possui** Tribunal de Contas proprio, pois a Constituicao Federal (art. 31, §1º) proibe a criacao de novos Tribunais de Contas Municipais.\n\n[ATENCAO] PEGADINHA: A banca pode afirmar que Aracaju possui Tribunal de Contas Municipal proprio. **FALSO!** O auxilio e do TCE/SE (Estadual), e nao ha TC Municipal em Aracaju."
+        }
+      ]
+    },
+    {
+      "titulo": "Processo Legislativo Municipal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Especies normativas e quoruns",
+          "texto": "**1. Emenda a LOMA:** altera a Lei Organica.\n- Aprovacao: **2 turnos**, com **intervalo minimo de 10 dias**.\n- Quorum: **2/3 (dois tercos)** dos membros da Camara.\n- **Promulgacao:** pela **Mesa da Camara Municipal** – **NAO vai para sancao ou veto do Prefeito!**\n\n**2. Lei Complementar:**\n- Quorum: **Maioria absoluta** (metade + 1 dos membros da Camara).\n- Exige lei especifica para materias que a LOMA exija.\n\n**3. Lei Ordinaria:**\n- Quorum: **Maioria simples** (metade + 1 dos presentes a sessao).\n\n[DICA] Resumo dos Quoruns:\n- LOMA (Emenda) = 2/3 dos membros.\n- Lei Complementar = Maioria absoluta.\n- Lei Ordinaria = Maioria simples."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "[ATENCAO] SUPER PEGADINHA: Promulgacao da Emenda a LOMA",
+          "texto": "[ERRADO] Afirmacao errada: 'O Prefeito pode vetar uma Emenda a Lei Organica do Municipio.'\n\n**FALSO!** A Emenda a LOMA **NAO** e enviada ao Prefeito para sancao ou veto. Ela e **promulgada diretamente pela Mesa da Camara Municipal**.\n\nSe a prova disser que \"o Prefeito vetou uma Emenda a LOMA\" ou que \"a Emenda depende de sancao do Prefeito\", a afirmacao e **FALSA**.\n\n[DICA] Lembre-se: a LOMA e a \"Constituicao do Municipio\" – assim como a Emenda Constitucional nao vai para sancao do Presidente, a Emenda a LOMA nao vai para sancao do Prefeito."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "BIZU DO MESTRE: Quoruns e Prazos",
+          "texto": "[DICA] **LOMA (Emenda)** = 2/3 dos membros, 2 turnos, 10 dias de intervalo. Promulgacao pela Mesa.\n[DICA] **Lei Complementar** = Maioria absoluta (metade +1 dos membros).\n[DICA] **Lei Ordinaria** = Maioria simples (metade +1 dos presentes).\n[DICA] **Vacancia conjunta (P + VP)** = Presidente da Camara assume; eleicao: direta em 90 dias (1º bienio) ou indireta em 30 dias (2º bienio).\n[DICA] **Controle externo** = Camara + TCE/SE (nao ha TC Municipal em Aracaju).\n[DICA] **Idades:** Prefeito/Vice = 21 anos; Vereador = 18 anos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "[ATENCAO] PEGADINHAS RESGATADAS — LOMA",
+          "texto": "[ERRADO] 'O Vice-Prefeito apenas substitui, nunca sucede.' → **ERRADO** (substitui E sucede).\n[ERRADO] 'A idade minima para Prefeito e 18 anos.' → **ERRADO** (sao 21 anos).\n[ERRADO] 'O Prefeito sanciona ou veta a Emenda a LOMA.' → **ERRADO** (promulgada pela Mesa).\n[ERRADO] 'Aracaju possui Tribunal de Contas Municipal.' → **ERRADO** (o auxilio e do TCE/SE).\n[ERRADO] 'A eleicao indireta para Prefeito ocorre em 90 dias.' → **ERRADO** (indireta = 30 dias, direta = 90 dias).\n[ERRADO] 'Na vacancia conjunta, assume o Vice-Presidente da Camara.' → **ERRADO** (assume o Presidente da Camara)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

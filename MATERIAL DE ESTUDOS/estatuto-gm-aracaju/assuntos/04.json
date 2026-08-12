@@ -1,0 +1,165 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Legislação Municipal de Aracaju",
+  "titulo": "Estrutura, Carreira e Controles da Polícia Municipal de Aracaju (PMA)",
+  "icone": "👮‍♂️",
+  "descricao": "Manual completo da Polícia Municipal de Aracaju. Abrange a criação da GMA (Lei 1.659/1990), a mudança para PMA (LC 224/2026), subordinação à SSM/AJU, jornada de 42h semanais, estrutura hierárquica (Guarda, Subinspetor, Inspetor, Inspetor Especial), regras de promoção vertical e progressão horizontal, exigência de Comandante efetivo, órgãos de controle (Corregedoria e Ouvidoria), princípios mínimos de atuação (Lei 13.022/2014), regras de porte de armamento e equipamentos não letais, abono por encargo excepcional, e principais atribuições operacionais.",
+  "topicos": [
+    {
+      "titulo": "Criação e Evolução da Corporação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei Municipal nº 1.659/1990",
+          "texto": "Instituiu a Guarda Municipal de Aracaju (GMA), determinando suas atribuições originais, focadas primordialmente no zelo ao patrimônio público."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lei Complementar nº 224/2026",
+          "texto": "Alterou a nomenclatura de Guarda Municipal de Aracaju (GMA) para Polícia Municipal de Aracaju (PMA)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 SUPER PEGADINHA",
+          "texto": "O examinador pode afirmar: 'A LC nº 224/2026 alterou o nome para Polícia Municipal e, com isso, ampliou suas competências para incluir ações de polícia judiciária militar e alterou sua estrutura funcional para assemelhar-se à PMSE.'\n\n**GABARITO: FALSO!** A alteração da nomenclatura ocorreu **SEM ALTERAÇÃO** das competências e da estrutura funcional. Continuam sendo servidores civis com atribuições protetivas e comunitárias."
+        }
+      ]
+    },
+    {
+      "titulo": "Subordinação e Jornada de Trabalho",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Secretaria de Lotação (Lei 6.260/2026)",
+          "texto": "A Polícia Municipal/Guarda Municipal é subordinada à Secretaria de Segurança Municipal e Cidadania de Aracaju (SSM/AJU). NÃO é vinculada à SMTT nem diretamente à SSP/SE."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Jornada de Trabalho (LC nº 194/2023)",
+          "texto": "Define a jornada de trabalho padrão de **42 (quarenta e duas) horas semanais**, podendo ser adotado sistema de escalas (plantão) para atender ao interesse público (ex.: 12x36 ou 24x72).\n\n📌 **BIZU DO MESTRE:** 42 horas é um número fora do padrão (44h do setor privado ou 40h do servidor comum). Circule esse número no seu resumo!\n\n⚠️ **Pegadinha:** A banca pode afirmar que a jornada é de 40 horas semanais. **FALSO!** São 42 horas."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrutura Hierárquica e Cargos de Chefia",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Escada hierárquica da PMA (LC nº 194/2023)",
+          "texto": "A estrutura de carreira da PMA é dividida em níveis, da base ao topo:\n\n- **Guarda Municipal** – cargo inicial, de nível médio (ou superior, conforme edital). Execução direta do patrulhamento preventivo.\n- **Subinspetor (1ª classe)** – primeiro cargo de chefia intermediária, exige nível superior completo. Coordenação de equipes e supervisão operacional.\n- **Inspetor** – cargo de coordenação e supervisão. Gestão de unidades e planejamento tático.\n- **Inspetor Especial** – cargo de alta chefia e gestão estratégica. Comando geral da corporação.\n\n📌 **Dica:** A evolução da carreira não é automática – depende de requisitos como tempo de serviço, capacitação e disponibilidade de vagas.\n\n⚠️ **Pegadinha:** Afirmação errada: 'Todos os agentes da PMA podem chegar a Inspetor Especial independentemente de vagas ou qualificação.' **FALSO!** A carreira tem vagas limitadas e exige qualificação específica para cada nível."
+        }
+      ]
+    },
+    {
+      "titulo": "Promoção vs. Progressão – Diferença Crucial",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Progressão Horizontal (mesmo cargo)",
+          "texto": "Ocorre dentro do **mesmo cargo**, com avanço de nível ou referência salarial (ex.: Guarda Municipal Classe A → Classe B).\n\n**Requisitos:**\n- **Tempo de serviço mínimo:** a cada **5 (cinco) anos** de efetivo exercício;\n- **Avaliação de desempenho** com conceito satisfatório;\n- Cumprimento de carga horária de capacitação.\n\n📌 **Dica:** A progressão é por antiguidade e avaliação, não depende de concurso interno."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Promoção Vertical (mudança de cargo/patente)",
+          "texto": "É a mudança de **cargo/patente** (ex.: Guarda → Subinspetor, Subinspetor → Inspetor).\n\n**Requisitos:**\n- **Estar há pelo menos 3 (três) anos** no cargo atual;\n- **Disponibilidade de vagas** (não é automática);\n- **Conclusão de cursos de capacitação/aperfeiçoamento** (ex.: Curso de Formação de Supervisores);\n- **Não ter sofrido penalidade disciplinar** nos últimos 2 (dois) anos;\n- **Análise por antiguidade ou merecimento**;\n- Ser aprovado em **processo seletivo interno** (prova ou análise de currículo).\n\n⚠️ **PEGADINHA CLÁSSICA:**\n❌ 'A promoção vertical ocorre automaticamente a cada 5 anos.' **FALSO!** A progressão (horizontal) é por tempo. A promoção (vertical) exige **MÉRITO, SELEÇÃO E VAGA DISPONÍVEL**, não é automática.\n\n📌 **Bizu:** Progressão = horizontal (mesma função, avança em nível por tempo). Promoção = vertical (sobe de cargo/patente, exige mérito e vaga)."
+        }
+      ]
+    },
+    {
+      "titulo": "Regra de Ouro: Comando e Subcomando",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode ser Comandante?",
+          "texto": "O Comandante e o Subcomandante da PMA **devem ser nomeados dentre os integrantes efetivos do quadro de carreira da própria instituição**. NÃO podem ser escolhidos de fora (ex.: Coronel da PM aposentado).\n\n**Requisitos adicionais:**\n- Pertencer ao último nível da carreira (Inspetor Especial ou equivalente);\n- Ter experiência comprovada em gestão e segurança pública;\n- Atender às exigências do Plano de Carreira (LC 194/2023).\n\n📌 **Dica:** A regra garante que o comando seja exercido por quem conhece a realidade da corporação e tem vínculo efetivo com a instituição.\n\n⚠️ **SUPER PEGADINHA:**\n❌ 'O Prefeito pode nomear qualquer cidadão de fora, com notório saber, para ser o Comandante da PMA.' **FALSO!** O Comandante deve ser, obrigatoriamente, **integrante efetivo do quadro de carreira** da corporação."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Interno — Corregedoria",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Corregedoria da PMA?",
+          "texto": "A Corregedoria é o órgão de **controle interno** da Polícia Municipal, responsável por apurar infrações disciplinares cometidas pelos agentes da corporação, garantindo a regularidade do serviço e a integridade da instituição.\n\n**Principais atribuições:**\n- Apurar faltas disciplinares (art. 42 da Lei 8.112/90, aplicável subsidiariamente).\n- Receber denúncias internas e externas contra agentes.\n- Instaurar Processos Administrativos Disciplinares (PAD) e Sindicâncias.\n- Aplicar penalidades administrativas (advertência, suspensão, demissão).\n\n**Requisito:** O Corregedor deve ser um **servidor de carreira** da corporação, com experiência e idoneidade comprovada.\n\n📌 **Dica:** A Corregedoria é **interna** — seus membros pertencem à própria estrutura da PMA.\n\n⚠️ **PEGADINHA:** Afirmação errada: 'A Corregedoria da PMA é composta por membros externos, indicados pelo Prefeito, sem vínculo com a corporação.' **FALSO!** A Corregedoria é composta por **servidores de carreira da própria corporação**, não por agentes externos."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Externo — Ouvidoria",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a Ouvidoria da PMA?",
+          "texto": "A Ouvidoria é o órgão de **controle externo** e de **participação social**, responsável por receber, apurar e encaminhar reclamações, denúncias, sugestões e elogios da população sobre o serviço prestado pela Polícia Municipal.\n\n**Principais atribuições:**\n- Receber manifestações da sociedade (denúncias, elogios, críticas).\n- Encaminhar as demandas aos órgãos competentes.\n- Propor melhorias na prestação do serviço.\n- Garantir o direito do cidadão de fiscalizar a atuação da corporação.\n\n**Característica:** A Ouvidoria atua de forma **independente** e **imparcial**, sem subordinação direta à Corregedoria ou ao comando da PMA.\n\n📌 **Dica:** A Ouvidoria é o canal do cidadão para dialogar com a corporação — diferente da Corregedoria, que é interna.\n\n⚠️ **PEGADINHA:** Afirmação errada: 'A Ouvidoria da PMA é um órgão exclusivamente punitivo, que aplica penalidades aos agentes.' **FALSO!** A Ouvidoria não pune — ela recebe manifestações e as encaminha. A punição cabe à Corregedoria ou à administração."
+        }
+      ]
+    },
+    {
+      "titulo": "Princípios Mínimos de Atuação (Lei 13.022/2014)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Princípios norteadores da PMA",
+          "texto": "A atuação da Polícia Municipal é guiada pelos princípios do **Estatuto Geral das Guardas Municipais** (Lei 13.022/2014), aplicáveis a Aracaju:\n\n- **Proteção dos direitos humanos** — respeito à dignidade da pessoa.\n- **Patrulhamento preventivo e comunitário** — atuação próxima à comunidade, com foco na prevenção.\n- **Uso progressivo da força** — utilização gradual e proporcional, de acordo com a reação do infrator.\n- **Compromisso com a evolução social** — adaptação às demandas da sociedade e melhoria contínua.\n\n📌 **Dica:** Esses princípios são aplicáveis a todas as guardas municipais do Brasil, não só a Aracaju, e estão na lei federal.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a PMA atua com princípios exclusivamente militares, como hierarquia rígida e disciplina castrense. **FALSO!** Embora haja hierarquia, os princípios são os da Lei 13.022/2014, com ênfase em direitos humanos e comunidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Uso de Equipamentos e Armamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Porte de arma de fogo e equipamentos letais",
+          "texto": "A PMA, como instituição de segurança municipal, pode autorizar o porte de arma de fogo a seus agentes, observadas as normas do Estatuto do Desarmamento (Lei 10.826/2003) e a regulamentação municipal.\n\n**Regras gerais:**\n- O porte é autorizado mediante treinamento, qualificação técnica e psicológica.\n- O uso da arma de fogo é **excepcional**, sempre após o esgotamento de meios não letais.\n- A corporação deve manter controle rigoroso do armamento.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a PMA não pode portar armas de fogo, por ser uma guarda municipal. **FALSO!** A Lei 13.022/2014, art. 6º, autoriza o porte de armas de fogo, desde que cumpridos os requisitos legais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Priorização de equipamentos de menor potencial ofensivo",
+          "texto": "A Lei 13.022/2014 e a regulamentação local incentivam o uso de **equipamentos de menor potencial ofensivo (não letais)**, como:\n- Spray de pimenta (gás de pimenta).\n- Bastão de contenção.\n- Algemas (instrumento de contenção, não armamento).\n- Equipamentos de proteção (coletes, capacetes).\n\n**Regra:** O uso de força letal é **última ratio**, somente quando absolutamente necessário para proteção da vida do agente ou de terceiros.\n\n📌 **Dica:** A PMA deve priorizar a desescalada do conflito, utilizando meios não letais sempre que possível.\n\n⚠️ **PEGADINHA AVANÇADA:** Afirmação errada: 'A PMA utiliza exclusivamente armas não letais, estando proibida de portar qualquer tipo de arma de fogo.' **FALSO!** A corporação pode portar armas de fogo, mas **prioriza** o uso de equipamentos não letais. A vedação total não existe na legislação."
+        }
+      ]
+    },
+    {
+      "titulo": "Vantagem Operacional – Abono por Encargo Excepcional",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "O que é o Abono por Encargo Excepcional?",
+          "texto": "É uma **gratificação** paga ao agente da PMA que é convocado pelo Comando para realizar atividades **fora da sua escala ordinária**, para atender a situações excepcionais de interesse público.\n\n**Características:**\n- É uma remuneração extra, não incorporada ao salário base;\n- Não gera direito adquirido;\n- O valor e as condições são definidos em regulamento municipal.\n\n**Exemplo:** Um agente é chamado em seu dia de folga para reforçar a segurança em um grande evento municipal – recebe o abono.\n\n⚠️ **Pegadinha:** A banca pode afirmar que o abono é incorporado ao salário. **FALSO!** É uma verba transitória, sem incorporação."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Atribuições Operacionais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Atribuições cobradas em prova",
+          "texto": "- Zelar por bens, praças, parques e instalações da Prefeitura;\n- Promover a segurança nos terminais de transporte coletivo urbano de Aracaju;\n- Prestar socorro em casos de calamidade pública e emergência (Defesa Civil);\n- Realizar a segurança pessoal do Prefeito e de dignatários em visita oficial.\n\n📌 **Dica:** A PMA atua na prevenção e proteção, nunca em investigação criminal ou policiamento ostensivo repressivo (isso é função das polícias Civil e Militar)."
+        }
+      ]
+    },
+    {
+      "titulo": "Resumo Final – Estrutura e Carreira da PMA",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO – PMA COMPLETO",
+          "texto": "📌 **Criação:** Lei 1.659/1990 (GMA) → LC 224/2026 (PMA) – nome mudou, competências NÃO.\n📌 **Subordinação:** SSM/AJU (NÃO é SMTT, NÃO é SSP/SE).\n📌 **Jornada:** 42 horas semanais (exceção! não é 40 nem 44).\n📌 **Hierarquia:** Guarda → Subinspetor → Inspetor → Inspetor Especial (G-S-I-IE).\n📌 **Progressão (horizontal):** mesmo cargo, avança por tempo (5 anos) e avaliação.\n📌 **Promoção (vertical):** muda de cargo, exige 3 anos no cargo, vaga, capacitação, mérito e seleção.\n📌 **Comandante:** deve ser efetivo da carreira (não pode ser de fora).\n📌 **Corregedoria:** controle interno, servidor de carreira.\n📌 **Ouvidoria:** controle externo, canal do cidadão, não pune.\n📌 **Princípios:** direitos humanos, preventivo, uso progressivo da força, evolução social.\n📌 **Armamento:** pode portar arma de fogo (com requisitos), mas prioriza equipamentos não letais.\n📌 **Abono:** encargo excepcional, fora da escala, não incorpora."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ PEGADINHAS RESGATADAS (ACUMULADAS)",
+          "texto": "❌ 'A LC 224/2026 ampliou competências da PMA.' → **ERRADO** (só mudou o nome).\n❌ 'A PMA é subordinada à SMTT.' → **ERRADO** (é SSM/AJU).\n❌ 'A jornada é de 40 horas semanais.' → **ERRADO** (é 42h).\n❌ 'Progressão e promoção são a mesma coisa.' → **ERRADO** (horizontal vs vertical).\n❌ 'Promoção é automática a cada 5 anos.' → **ERRADO** (exige mérito, vaga e seleção).\n❌ 'O Prefeito pode nomear um Coronel aposentado como Comandante.' → **ERRADO** (deve ser efetivo da PMA).\n❌ 'A Corregedoria é composta por membros externos.' → **ERRADO** (servidores de carreira).\n❌ 'A Ouvidoria aplica penalidades.' → **ERRADO** (recebe manifestações, não pune).\n❌ 'A PMA atua com princípios exclusivamente militares.' → **ERRADO** (princípios da Lei 13.022/2014).\n❌ 'A PMA não pode portar armas de fogo.' → **ERRADO** (pode, com requisitos).\n❌ 'A PMA usa apenas armas não letais.' → **ERRADO** (prioriza, mas pode usar letais).\n❌ 'O abono por encargo excepcional incorpora ao salário.' → **ERRADO** (é transitório)."
+        },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

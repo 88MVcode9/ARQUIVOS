@@ -1,0 +1,229 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Legislação Municipal de Aracaju",
+  "titulo": "RESUMO",
+  "descricao_geral": "Resumo completo das principais leis municipais de Aracaju e da legislação federal aplicável às Guardas Municipais, cobradas em concursos. Abrange o Estatuto Geral das Guardas Municipais (Lei 13.022/2014), a Lei Orgânica do Município de Aracaju (LOMA), o Estatuto dos Servidores de Aracaju (LC 153/2016) e a estrutura da Polícia Municipal de Aracaju (PMA). Inclui princípios, competências, requisitos, prazos, hierarquia, carreira, controle interno/externo, processo legislativo, regime disciplinar, vencimentos, adicionais, e pegadinhas frequentes.",
+  "topicos": [
+    {
+      "titulo": "Estatuto Geral das Guardas Municipais (Lei nº 13.022/2014)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Natureza e princípios",
+          "texto": "As guardas municipais são órgãos de segurança pública (art. 144, §8º, CF), de caráter civil, comunitário e preventivo. Princípios: proteção dos direitos humanos, preservação da vida, redução do sofrimento, proximidade com a comunidade e atuação em parceria com os demais órgãos de segurança."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Competências (Art. 4º)",
+          "texto": "Zelar por bens, equipamentos e instalações municipais; prestar socorro em acidentes/calamidades; exercer policiamento administrativo (posturas, uso do solo); atuar na segurança de escolas, hospitais e terminais municipais; cooperar com outros entes, respeitando as competências de cada um."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha federal clássica",
+          "texto": "A GM NÃO realiza investigação criminal (Polícia Civil) nem policiamento ostensivo repressivo (Polícia Militar). A lei veda atribuições próprias das polícias Civil e Militar."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Porte de arma e uniforme",
+          "texto": "A Lei 13.022/2014 autoriza o porte de arma de fogo, respeitando o Estatuto do Desarmamento (curso de tiro, aptidão psicológica e autorização do Comandante). O uniforme deve ser distinto dos uniformes das polícias estaduais (preferencialmente azul-marinho)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Requisitos para investidura (Art. 10)",
+          "texto": "Nacionalidade brasileira, gozo dos direitos políticos, quitação militar e eleitoral, nível médio completo, idade mínima de 18 anos, aptidão física/mental/psicológica, idoneidade moral (investigação social e certidões). A lei não exige nível superior nem idade máxima."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Limites de efetivo (Art. 7º)",
+          "texto": "Até 50.000 hab: 0,4%; de 50.001 a 500.000 hab: 0,3% (mínimo 200); acima de 500.000 hab: 0,2% (mínimo 1.500). Percentuais decrescentes com o aumento da população."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Corregedoria e Ouvidoria (Art. 13)",
+          "texto": "Corregedoria (controle interno): obrigatória em municípios com mais de 50.000 hab OU em qualquer município que utilize arma de fogo. Ouvidoria (controle externo e independente): recebe elogios, denúncias e reclamações da população."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Cargos de comando (Arts. 14 e 15)",
+          "texto": "Os cargos em comissão e funções de confiança devem ser providos por membros de carreira. O comando da Guarda é privativo de integrante da carreira (a exceção dos 4 primeiros anos já expirou)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prisão especial e uniforme (Arts. 18 e 19)",
+          "texto": "Prisão especial: em caso de prisão antes da condenação definitiva, o guarda tem direito a cela isolada. Uniforme: preferencialmente azul-marinho, nitidamente distinto das Forças Armadas e polícias estaduais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Jurisprudência do STF (ADPF 995)",
+          "texto": "As Guardas Municipais integram o sistema de segurança pública. Podem realizar busca pessoal e prisão em flagrante, desde que haja fundada suspeita e a ação esteja ligada à tutela dos bens/serviços municipais ou a crimes em andamento. A vedação à investigação criminal permanece."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 GM pode andar armada, mas NÃO investiga. Corregedoria obrigatória se usar arma ou tiver >50.000 hab. Comandante deve ser da carreira."
+        }
+      ]
+    },
+    {
+      "titulo": "Lei Orgânica do Município de Aracaju (LOMA) – Executivo e Legislativo",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Prefeito e Vice-Prefeito – requisitos e idades",
+          "texto": "Idade mínima: 21 anos para ambos. Estar em pleno exercício dos direitos políticos, eleitos por voto direto (maioria absoluta em 1º turno ou maioria simples em 2º). PEGADINHA: Prefeito/Vice = 21 anos; Vereador = 18 anos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Substituição e sucessão",
+          "texto": "Vice-Prefeito substitui em impedimento eventual e sucede em vaga definitiva. PEGADINHA: Não é só substituto; também sucede."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Vacância conjunta (Prefeito e Vice)",
+          "texto": "Se ambos vagarem, assume interinamente o Presidente da Câmara. Nos primeiros 2 anos: eleição direta em até 90 dias. Nos últimos 2 anos: eleição indireta pelos vereadores em até 30 dias."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Câmara de Vereadores – funções e controle externo",
+          "texto": "Mandato de 4 anos. Funções: legislar e fiscalizar (controle externo da Prefeitura, com auxílio do TCE/SE). Aracaju NÃO possui Tribunal de Contas Municipal – o auxílio é do TCE/SE."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Processo Legislativo – quóruns",
+          "texto": "Emenda à LOMA: 2 turnos com intervalo mínimo de 10 dias; 2/3 dos membros; promulgada pela Mesa da Câmara (não vai a sanção/veto). Lei Complementar: maioria absoluta. Lei Ordinária: maioria simples."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Super pegadinha",
+          "texto": "Emenda à LOMA NÃO vai para sanção/veto do Prefeito – é promulgada pela Mesa da Câmara. Se a prova disser que o Prefeito vetou uma Emenda, a afirmativa é FALSA."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 LOMA = 2/3, 2 turnos, 10 dias, promulgação pela Mesa. LC = maioria absoluta. Lei ordinária = maioria simples. Vacância conjunta: direta em 90 dias (1º bienio), indireta em 30 dias (2º bienio). Idades: Prefeito 21, Vereador 18."
+        }
+      ]
+    },
+    {
+      "titulo": "Estatuto dos Servidores de Aracaju (LC 153/2016)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Formas de provimento",
+          "texto": "Originário: nomeação. Derivados: reversão (aposentado por invalidez ou interesse da administração), reintegração (demissão ilegal), readaptação (limitação funcional em cargo compatível), recondução (retorno ao cargo anterior por inabilitação em estágio probatório ou reintegração do antigo ocupante)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Posse, exercício e estágio probatório",
+          "texto": "Posse: investidura (assinatura do termo, inspeção médica, apresentação de requisitos). Exercício: efetivo trabalho. Estágio probatório: 3 anos de efetivo exercício para adquirir estabilidade (não é 2 anos!)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Formas de vacância",
+          "texto": "Exoneração (a pedido ou de ofício – NÃO é punição), demissão (penalidade), aposentadoria, posse em outro cargo inacumulável, falecimento."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Férias e concessões (gala e nojo)",
+          "texto": "Férias: 30 dias, fracionamento em até 3 períodos (um mínimo de 14 dias), abono de 1/3. Concessões: casamento (gala) – até 8 dias; falecimento (nojo) – até 8 dias para cônjuge/companheiro, pais, filhos, irmãos ou dependentes."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Licenças",
+          "texto": "Saúde: perícia médica oficial. Família: até 180 dias/ano (primeiros 90 integrais). Gestante: 180 dias (Lei municipal). Paternidade: 5 dias. Capacitação: até 3 meses a cada 5 anos. Prêmio (assiduidade): 3 meses a cada 5 anos, exige não ter faltas injustificadas nem punição de suspensão no período."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Vencimento vs remuneração e adicionais",
+          "texto": "Vencimento = valor fixo do cargo (base). Remuneração = vencimento + vantagens. Adicional noturno: 20% sobre o vencimento, hora noturna = 52'30''. Periculosidade: 30% sobre o vencimento. Insalubridade: 10% a 40% (laudo). Periculosidade e insalubridade NÃO se acumulam. Os adicionais incidem sobre o vencimento, não sobre a remuneração total."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prescrição disciplinar e causas interruptivas",
+          "texto": "Advertência: 180 dias. Suspensão: 2 anos. Demissão/cassação de aposentadoria/disponibilidade: 5 anos. O prazo conta da ciência do fato pela autoridade competente. Interrompem: abertura de sindicância/PAD, notificação oficial, decisão condenatória recorrível (atos administrativos). Inquérito policial ou ação penal NÃO interrompem a prescrição administrativa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Regime disciplinar",
+          "texto": "Penalidades: advertência (infrações leves), suspensão (infrações graves ou reincidência), demissão (falta grave, ex.: improbidade, abandono de cargo >30 dias). Exoneração não é penalidade."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 Estágio: 3 anos. Férias: 30 dias, fracionamento em 3, mínimo 14. Gala/Nojo: 8 dias. Licença capacitação: 3 meses/5 anos. Prêmio: 3 meses/5 anos (assiduidade). Adicional noturno: 20%, hora 52'30''. Periculosidade: 30% – NÃO acumula com insalubridade. Prescrição: advertência 180 dias, suspensão 2 anos, demissão 5 anos (ciência). Interrupção: só atos administrativos."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrutura e Carreira da Polícia Municipal de Aracaju (PMA)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Criação e evolução",
+          "texto": "Lei 1.659/1990: criou a Guarda Municipal de Aracaju (GMA). LC 224/2026: alterou a nomenclatura para Polícia Municipal de Aracaju (PMA), mas SEM ALTERAÇÃO de competências e estrutura – continuam servidores civis com atribuições protetivas."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Subordinação e jornada",
+          "texto": "Subordinada à Secretaria de Segurança Municipal e Cidadania (SSM/AJU). Jornada: 42 horas semanais (Lei Complementar 194/2023), com possibilidade de escalas (ex.: 12x36)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Hierarquia",
+          "texto": "Guarda Municipal → Subinspetor (1ª classe) → Inspetor → Inspetor Especial (G-S-I-IE). Cada nível exige qualificação e disponibilidade de vagas."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Progressão horizontal vs Promoção vertical",
+          "texto": "Progressão (horizontal): mesmo cargo, avança por tempo (5 anos) e avaliação de desempenho. Promoção (vertical): mudança de cargo/patente, exige 3 anos no cargo atual, vaga disponível, capacitação, mérito, seleção interna e ausência de punições nos últimos 2 anos. Promoção NÃO é automática."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Comando e subcomando",
+          "texto": "Devem ser nomeados dentre os integrantes efetivos do quadro de carreira da própria PMA. Não podem ser escolhidos de fora (ex.: Coronel da PM aposentado)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Corregedoria e Ouvidoria",
+          "texto": "Corregedoria: controle interno, composta por servidores de carreira, apura infrações disciplinares e aplica penalidades. Ouvidoria: controle externo, recebe manifestações da população (denúncias, elogios), não aplica penalidades."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Princípios de atuação (Lei 13.022/2014)",
+          "texto": "Proteção dos direitos humanos, patrulhamento preventivo e comunitário, uso progressivo da força, compromisso com a evolução social. Não são princípios exclusivamente militares."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Armamento e equipamentos",
+          "texto": "A PMA pode portar arma de fogo (com requisitos do Estatuto do Desarmamento), mas prioriza equipamentos de menor potencial ofensivo (spray de pimenta, bastão, algemas). O uso de força letal é última ratio."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Abono por encargo excepcional",
+          "texto": "Gratificação paga ao agente convocado para atividades fora da escala ordinária, por situação excepcional de interesse público. É transitória, não incorpora ao salário base."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 PMA: criada pela Lei 1.659/1990, nome alterado pela LC 224/2026 (sem mudança de competências). Subordinada à SSM/AJU. Jornada: 42h. Hierarquia: G-S-I-IE. Progressão (horizontal) = 5 anos; promoção (vertical) = 3 anos + vaga + mérito. Comandante deve ser efetivo. Corregedoria: interna e punitiva; Ouvidoria: externa e não punitiva. Pode portar arma (prioriza não letais). Abono por encargo excepcional não incorpora."
+        }
+      ]
+    },
+    {
+      "titulo": "Tabela Resumo – Pegadinhas Finais",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas mais cobradas",
+          "texto": "❌ 'A GM realiza investigação criminal.' → ERRADO (vedado).\n❌ 'Corregedoria só é obrigatória se o município tiver >50.000 hab.' → ERRADO (se usar arma, é obrigatória também).\n❌ 'Emenda à LOMA vai a sanção/veto do Prefeito.' → ERRADO (promulgada pela Mesa).\n❌ 'O Vice-Prefeito apenas substitui.' → ERRADO (substitui E sucede).\n❌ 'Estágio probatório dura 2 anos.' → ERRADO (3 anos).\n❌ 'Licença nojo dura 3 dias.' → ERRADO (8 dias).\n❌ 'Adicional noturno incide sobre a remuneração.' → ERRADO (incide sobre o vencimento).\n❌ 'Periculosidade e insalubridade podem ser acumuladas.' → ERRADO (vedadas).\n❌ 'Promoção vertical é automática a cada 5 anos.' → ERRADO (exige mérito, vaga e seleção).\n❌ 'O Prefeito pode nomear um Coronel aposentado como Comandante da PMA.' → ERRADO (deve ser efetivo da PMA).\n❌ 'A Ouvidoria aplica penalidades.' → ERRADO (recebe manifestações, não pune)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Checklist final",
+          "texto": "✅ GM: princípios comunitários, NÃO investiga, pode portar arma, corregedoria obrigatória se usar arma ou >50.000 hab.\n✅ LOMA: Prefeito 21 anos, Vereador 18. Vacância conjunta: direta 90 dias (1º bienio), indireta 30 dias (2º bienio). Emenda à LOMA: 2/3, 2 turnos, 10 dias, promulgação pela Mesa.\n✅ Estatuto dos Servidores: estágio 3 anos. Férias 30 dias (fracionamento 3, mínimo 14). Gala/Nojo 8 dias. Licença capacitação 3 meses/5 anos. Adicional noturno 20%, hora 52'30''. Periculosidade 30% (não acumula). Prescrição: advertência 180d, suspensão 2a, demissão 5a (ciência).\n✅ PMA: SSM/AJU, jornada 42h. Hierarquia: G-S-I-IE. Progressão 5 anos, promoção 3 anos + vaga + mérito. Comandante efetivo. Corregedoria (interna) e Ouvidoria (externa). Pode portar arma (prioriza não letais). Abono excepcional não incorpora."
+        }
+      ]
+    }
+  ]
+}
+;

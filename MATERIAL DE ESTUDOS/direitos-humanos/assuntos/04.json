@@ -1,0 +1,168 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Direitos Humanos",
+  "titulo": "Sistemas de Proteção",
+  "icone": "⚖️",
+  "descricao": "Os principais sistemas — global e regionais — responsáveis por proteger os Direitos Humanos no plano internacional.",
+  "topicos": [
+    {
+      "titulo": "Sistema global (ONU)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Origem",
+          "texto": "Criado no âmbito da **Organização das Nações Unidas**, tem como marco a Declaração Universal dos Direitos Humanos de 1948, complementada posteriormente pelos dois grandes Pactos de 1966 (direitos civis e políticos; e direitos econômicos, sociais e culturais)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrutura em dois pilares",
+          "texto": "O Sistema Global de Proteção dos Direitos Humanos da ONU é dividido em **dois grandes pilares**:\n\n**1. Órgãos Principais (baseados na Carta da ONU):**\n- **Conselho de Direitos Humanos da ONU** — órgão político-consultivo da ONU, substituiu a Comissão de Direitos Humanos em 2006. Ele conduz a **Revisão Periódica Universal (RPU)**, que avalia o cumprimento dos compromissos de direitos humanos por **todos** os Estados-membros da ONU a cada 4-5 anos.\n- **Alto Comissariado das Nações Unidas para os Direitos Humanos (ACNUDH)** — órgão técnico-científico que coordena as atividades do Sistema das Nações Unidas no campo dos direitos humanos.\n\n**2. Órgãos de Tratados (Comitês):**\nSão órgãos de **monitoramento** criados pelos próprios tratados internacionais. Cada tratado tem seu comitê específico, composto por expertises independentes eleitos pelos Estados-partes. Esses comitês recebem relatórios periódicos dos Estados e emitem **pareceres/recomendações**, mas **não proferem sentenças judiciais vinculantes definitivas** (diferente do sistema interamericano).\n\n📌 **Comitês principais:**\n- **Comitê de Direitos Humanos** (Pacto Internacional de Direitos Civis e Políticos — PIDCP)\n- **Comitê contra a Tortura** (Convenção contra a Tortura)\n- **Comitê CEDAW** (Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher)\n- **Comitê sobre os Direitos da Criança** (Convenção sobre os Direitos da Criança)\n- **Comitê de Prevenção da Tortura** (CAT — órgão distinto do Comitê contra a Tortura)\n- **Comitê de Direitos Econômicos, Sociais e Culturais** (PIDESC)"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "DUDH vs. Pactos de 1966",
+          "texto": "**Declaração Universal (1948):** É uma Resolução da Assembleia Geral da ONU. Juridicamente, nasceu sem força cogente (não era um tratado), embora hoje tenha valor de jus cogens e força moral/política universal.\n\n**Pactos de 1966 (PIDCP e PIDESC):** São Tratados Internacionais. Criam obrigações vinculantes e juridicamente obrigatórias aos Estados que os ratificam."
+        }
+      ]
+    },
+    {
+      "titulo": "Revisão Periódica Universal (RPU)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "O que é a RPU",
+          "texto": "A **Revisão Periódica Universal (RPU)** é um mecanismo do Conselho de Direitos Humanos da ONU que avalia o cumprimento dos compromissos de direitos humanos por **todos** os Estados-membros da ONU a cada 4-5 anos. É um processo de revisão por pares, no qual os Estados apresentam relatórios sobre sua situação de direitos humanos e recebem recomendações dos demais Estados. A RPU é um dos principais instrumentos de monitoramento do Sistema Global."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistemas regionais",
+      "subtopicos": [
+        {
+          "titulo": "Sistema Interamericano",
+          "cards": [
+            {
+              "tipo": "conteudo",
+              "texto": "Vinculado à **Organização dos Estados Americanos (OEA)**, tem como principal instrumento a **Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica, 1969)**, da qual o Brasil é signatário."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Órgãos",
+              "itens": [
+                "**Comissão Interamericana de Direitos Humanos** — recebe petições e pode recomendar medidas",
+                "**Corte Interamericana de Direitos Humanos** — julga casos e profere sentenças vinculantes aos Estados que reconheceram sua jurisdição"
+              ]
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Petição por indivíduos",
+              "texto": "Qualquer pessoa ou ONG pode peticionar à **Comissão Interamericana**. No entanto, o indivíduo **NÃO pode acionar a Corte diretamente** — apenas a Comissão ou outros Estados podem levar um caso para julgamento da Corte."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Requisitos para peticionar na Comissão",
+              "texto": "Para que uma petição seja admitida, devem ser observados os seguintes requisitos:",
+              "itens": [
+                "**Esgotamento dos recursos internos:** a vítima deve ter esgotado todas as vias judiciais do país antes de recorrer à Comissão. **Exceção:** demora injustificada ou inexistência de devido processo legal no país.",
+                "**Prazo de 6 meses:** a petição deve ser apresentada em até 6 meses a contar da data em que a pessoa foi notificada da decisão definitiva do país.",
+                "**Proibição de litispendência/bis in idem internacional:** o assunto não pode estar pendente de julgamento em outro organismo internacional (ex.: Comitê de Direitos Humanos da ONU)."
+              ]
+            },
+            {
+              "tipo": "bizu",
+              "titulo": "Lembrete de Ouro",
+              "texto": "O indivíduo **NÃO aciona a Corte IDH diretamente**. A petição vai primeiro para a **Comissão**. Se o Estado não cumprir as recomendações, a Comissão (ou outro Estado) remete o caso para a Corte."
+            },
+            {
+              "tipo": "exemplo",
+              "titulo": "Condenações do Brasil na Corte IDH",
+              "texto": "Além do caso Maria da Penha (omissão em violência doméstica), o Brasil já foi condenado em outros casos emblemáticos:",
+              "itens": [
+                "**Caso Ximenes Lopes** — primeira condenação do Brasil (maus-tratos em clínica de saúde mental).",
+                "**Caso Guerrilha do Araguaia** — violação do direito à verdade e à localização dos mortos durante a ditadura militar; a Corte afastou a Lei de Anistia.",
+                "**Caso Fazenda Brasil Verde** — condenação por trabalho escravo moderno.",
+                "**Caso Herzog** — assassinio do jornalista Vladimir Herzog durante a ditadura, reconhecendo a imprescritibilidade dos crimes contra a humanidade."
+              ]
+            },
+            {
+              "tipo": "importante",
+              "titulo": "Posição do STF sobre o Pacto de San José",
+              "texto": "O STF pacificou que os tratados de direitos humanos aprovados sem o quórum de emenda constitucional (Art. 5º, § 3º) possuem **status supralegal** (acima das leis ordinárias, abaixo da Constituição). **Exceção:** o Pacto de São José da Costa Rica, no que tange à **prisão do depositário infiel**, teve seu efeito **paralisado** pelo STF, conferindo ao tratado **efeito paraconstitucional ou supralegal intransponível** nesse aspecto específico. Essa posição foi consagrada pela **Súmula Vinculante 25**, que veda a prisão civil do depositário infiel, mesmo havendo previsão constitucional expressa no art. 5º, LXVII, da CF/88."
+            }
+          ]
+        },
+        {
+          "titulo": "Sistema Europeu e Sistema Africano",
+          "cards": [
+            {
+              "tipo": "conteudo",
+              "titulo": "Sistema Europeu",
+              "texto": "Baseado na **Convenção Europeia de Direitos Humanos** (1950), com a **Corte Europeia de Direitos Humanos** como órgão jurisdicional — considerado o sistema regional mais consolidado do mundo."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Sistema Africano",
+              "texto": "Baseado na **Carta Africana dos Direitos Humanos e dos Povos** (Carta de Banjul, 1981), com a Comissão e a Corte Africana de Direitos Humanos e dos Povos."
+            }
+          ]
+        }
+      ],
+      "cards": []
+    },
+    {
+      "titulo": "Hierarquia dos Tratados de Direitos Humanos no Brasil",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tratados aprovados com quórum especial (Art. 5º, § 3º da CF)",
+          "texto": "Aprovados em cada casa do Congresso Nacional (Câmara e Senado), em 2 turnos, por 3/5 dos votos. Equivalem a **Emendas Constitucionais**.\n\n📌 **Exemplos:** Convenção da ONU sobre Direitos das Pessoas com Deficiência (e seu Protocolo), Tratado de Marraqueche, Convenção Interamericana contra o Racismo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tratados aprovados pelo rito comum",
+          "texto": "Possuem status **supralegal** (ficam acima de todas as leis ordinárias e códigos, mas abaixo da Constituição Federal).\n\n📌 **Exemplo principal:** Pacto de San José da Costa Rica (que tornou inexigível a prisão civil do depositário infiel no Brasil — Súmula Vinculante 25 do STF)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 **Quórum de 3/5 em 2 turnos** = Emenda Constitucional.\n**Rito comum** = Supralegal."
+        }
+      ]
+    },
+    {
+      "titulo": "Mecanismos Nacionais de Proteção",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Incidente de Deslocamento de Competência (IDC)",
+          "texto": "Previsto no **Art. 109, V-A, da CF/88**, o IDC é uma ferramenta processual que permite transferir investigações ou processos da Justiça Estadual para a **Justiça Federal** em casos de **grave violação de Direitos Humanos**, quando o Estado local demonstrar incapacidade de dar resposta adequada. O pedido é feito pelo Procurador-Geral da República ao Superior Tribunal de Justiça (STJ)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Detalhes sobre o IDC",
+          "itens": [
+            "**Legitimidade EXCLUSIVA:** Apenas o Procurador-Geral da República (PGR) pode suscitar o IDC.",
+            "**Competência para julgar:** O pedido é julgado pelo Superior Tribunal de Justiça (STJ).",
+            "**Finalidade:** Evitar que o Brasil seja responsabilizado internacionalmente por omissão ou ineficiência da Justiça Estadual na apuração de graves violações de direitos humanos (ex.: Caso Dorothy Stang, Caso Marielle Franco)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Relação entre os sistemas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Convivência, não hierarquia",
+          "texto": "O sistema global e os sistemas regionais **não competem entre si**: convivem de forma complementar, e a vítima costuma poder escolher a via mais favorável (princípio pro homine / pro persona)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

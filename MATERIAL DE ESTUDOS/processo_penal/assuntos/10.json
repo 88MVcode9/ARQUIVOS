@@ -1,0 +1,278 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['10.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "RESUMO",
+  "descricao_geral": "Resumo completo do Processo Penal Militar, com base no Código de Processo Penal Militar (CPPM – DL 1.002/1969) e na Lei nº 8.457/1992. Abrange a aplicação da lei processual penal militar, a Polícia Judiciária Militar (PJM), a ação penal militar, as prisões cautelares (flagrante, preventiva e temporária), a menagem (palavra de honra), a liberdade provisória (sem fiança), os processos especiais de deserção e insubmissão, a estrutura dos Conselhos de Justiça, e a comparação entre o Inquérito Policial Militar (IPM) e o Inquérito Policial comum. Inclui atencaos, prazos, diferenças, jurisprudência (STM/STF/STJ) e pegadinhas.",
+  "topicos": [
+    {
+      "titulo": "Aplicação da Lei Processual Penal Militar (Arts. 1º a 4º do CPPM)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Aplicação no tempo (Art. 2º)",
+          "texto": "A lei processual penal militar aplica-se imediatamente, alcançando os processos em andamento, mas preserva os atos já praticados (tempus regit actum). Se a lei processual também tiver conteúdo material benéfico, aplica-se a retroatividade da norma penal mais favorável (norma híbrida)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Interpretação e supletoriedade (Art. 3º)",
+          "texto": "Interpretação literal. Na falta de disposição expressa, aplicam-se, sucessivamente: CPP comum, jurisprudência, costumes militares, princípios gerais e analogia (vedada para criar crimes). \n**Ordem (CJCPA):** CPP → Jurisprudência → Costumes → Princípios → Analogia (proibida in malam partem).\n**ANPP e suspensão condicional do processo** não se aplicam automaticamente no processo penal militar."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Aplicação no espaço (Art. 4º)",
+          "texto": "Aplica-se em todo o território nacional e fora dele, em navios/aeronaves militares ou em missões oficiais. Em tempo de guerra, aplica-se com alcance ampliado."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prazo para denúncia (Art. 46)",
+          "texto": "Réu preso: 5 dias (improrrogável). Réu solto: 15 dias (prorrogável por igual período). Descumprimento: relaxamento da prisão e queixa subsidiária."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Fiança – NÃO EXISTE",
+          "texto": "No processo penal militar NÃO EXISTE FIANÇA (Art. 270 do CPPM). A liberdade provisória é concedida sem caução. Pegadinha clássica!"
+        }
+      ]
+    },
+    {
+      "titulo": "Polícia Judiciária Militar (PJM) – Arts. 7º e 8º do CPPM",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Atribuições (Art. 8º)",
+          "texto": "A PJM apura crimes militares e sua autoria, cumpre mandados de prisão, representa por prisão preventiva, realiza diligências requisitadas pelo juiz/MPM e lavra autos de prisão em flagrante."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Quem exerce a PJM (Art. 7º)",
+          "texto": "Na União: Ministros da Defesa, Comandantes das Forças, Chefes de Estado-Maior, Comandantes de Regiões/Distritos/Forças. Nos Estados: Comandante-Geral, Subcomandante, Chefes de Estado-Maior, Comandantes de batalhões/subunidades."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Delegação para instaurar IPM",
+          "texto": "A PJM pode ser delegada a oficial da ativa, por portaria específica para cada IPM. O encarregado deve ser de posto superior ao indiciado. Se não houver, do mesmo posto, mas o mais antigo. Se o indiciado for reserva/reformado, pode ser qualquer oficial."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Encarregado e Escrivão do IPM (Arts. 11 e 15)",
+          "texto": "Encarregado: oficial da ativa (Capitão ou superior). Escrivão: Tenente (se indiciado oficial) ou Subtenente/Sargento (se praça)."
+        }
+      ]
+    },
+    {
+      "titulo": "Ação Penal Militar (Arts. 29 a 46 do CPPM)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Regra geral (Art. 29)",
+          "texto": "Ação penal militar é pública, promovida por denúncia do Ministério Público Militar (MPM), incondicionada (regra). Exceção: crimes dos Arts. 136 a 141 do CPM (requisição do Ministro da Defesa ou Comandante Militar) – condição de procedibilidade, irretratável e vinculante (MP deve denunciar)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Ação privada subsidiária (Art. 44, p.ú.)",
+          "texto": "Se o MPM não denunciar no prazo (5 dias para réu preso; 15 para solto), a vítima pode oferecer queixa subsidiária em 60 dias. O MPM atua ativamente (adita, repudia, retoma a titularidade por desídia do querelante)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Obrigatoriedade e proibição de desistência (Arts. 30 e 32)",
+          "texto": "MP denuncia se houver prova do fato e indícios de autoria. Após oferecida a denúncia, não pode desistir da ação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Requisitos da denúncia (Art. 35) e rejeição (Art. 37)",
+          "texto": "Requisitos: narrativa do fato, qualificação do acusado, rol de testemunhas e classificação do crime. Rejeição: falta de justa causa, ilegitimidade, vícios formais. A rejeição não faz coisa julgada material – nova denúncia pode ser oferecida se sanados os vícios."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Distinção: Requisição x Representação",
+          "texto": "Requisição (CPPM): ordem superior, irretratável, vinculante (MP deve denunciar). Representação (CPP comum): vontade da vítima, retratável, não vinculante. No processo penal militar, a exceção é sempre requisição, não representação."
+        }
+      ]
+    },
+    {
+      "titulo": "Prisões Cautelares no Processo Penal Militar (Arts. 243 a 255 do CPPM)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Prisão em flagrante (Arts. 243-244)",
+          "texto": "Qualquer pessoa PODE prender em flagrante; militares DEVEM prender. Espécies: próprio, impróprio, presumido (ficto). Desertor/insubmisso: a condição já autoriza a prisão (não exige flagrante de outro crime). APF: comunicação ao juiz e nota de culpa em 24h. Testemunhas: duas testemunhas de apresentação (instrumentárias), mesmo que não tenham visto o crime."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prisão preventiva (Arts. 254-255)",
+          "texto": "Decretada pelo juiz. Fundamentos: ordem pública, conveniência da instrução, periculosidade, segurança da aplicação da lei, e **manutenção da hierarquia e disciplina (exclusivo da Justiça Militar)**. Requer prova da existência do crime e indícios de autoria (justa causa)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Medidas cautelares diversas (Art. 319 do CPP)",
+          "texto": "Aplicam-se subsidiariamente ao processo penal militar, desde que compatíveis com o rito castrense (ex.: comparecimento em juízo, proibição de contato, suspensão do exercício da função pública militar)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Fundamento exclusivo da Justiça Militar",
+          "texto": "A **manutenção das normas de hierarquia e disciplina** (Art. 255, V) é fundamento exclusivo para a prisão preventiva na Justiça Militar. Não existe no processo penal comum. Pegadinha!"
+        }
+      ]
+    },
+    {
+      "titulo": "Menagem – Palavra de Honra (Arts. 263 a 269 do CPPM)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Menagem",
+          "texto": "Medida cautelar substitutiva da prisão preventiva, **exclusiva da Justiça Militar**, baseada na palavra de honra do militar. O acusado aguarda o julgamento em liberdade ou no quartel, mediante compromisso solene."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Requisitos (Art. 263)",
+          "texto": "Pena máxima ≤ 4 anos + primário (sem condenação por crime doloso). É faculdade do juiz (não é direito automático), podendo ser negada mediante fundamentação concreta."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Espécies",
+          "texto": "Menagem em liberdade (residência) ou menagem no quartel (recolhimento com regalias)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Cassação (Art. 268)",
+          "texto": "Causas: descumprimento de condição, novo crime doloso, mau comportamento, fuga. Exige oitiva prévia e decisão fundamentada."
+        }
+      ]
+    },
+    {
+      "titulo": "Liberdade Provisória e Medidas de Segurança (Arts. 270 a 276 do CPPM)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Liberdade provisória – sem fiança",
+          "texto": "NÃO EXISTE FIANÇA na Justiça Militar. A liberdade provisória é concedida sem pagamento, com compromisso de comparecer aos atos."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Casos obrigatórios (Art. 270)",
+          "texto": "Crime sem pena de prisão, crime culposo (exceto segurança nacional), crime de detenção ≤ 2 anos (exceto deserção, desacato, resistência)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Vedações",
+          "texto": "Deserção, crimes contra a segurança externa, crimes que abalam hierarquia/disciplina, risco de fuga ou destruição de provas."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Medidas de segurança provisórias (Arts. 275-276)",
+          "texto": "Aplicáveis provisoriamente se houver indícios de inimputabilidade/semi-imputabilidade. Exige laudo pericial psiquiátrico. Decisão irrecorrível, mas revisável periodicamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Processos Especiais: Deserção e Insubmissão",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Desertor (Art. 187, CPM)",
+          "texto": "Militar que abandona o serviço ou se ausenta por mais de 8 dias consecutivos. Crime permanente. Consuma-se no 9º dia. Pena: detenção de 6 meses a 2 anos. Prescrição: conta da cessação da permanência (captura, apresentação ou declaração de deserção). NÃO tem menagem automática."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Insubmisso (Art. 183, CPM)",
+          "texto": "Jovem convocado que não se apresenta no dia e local marcados. Crime instantâneo. Pena: impedimento de 3 meses a 1 ano. TEM menagem automática no quartel (Art. 183, §3º). Exige inspeção de saúde obrigatória."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Desertor x Insubmisso",
+          "tabela": {
+            "colunas": ["Critério", "Desertor", "Insubmisso"],
+            "linhas": [
+              ["Condição", "Já era militar", "Nunca foi militar"],
+              ["O que fez", "Abandonou o serviço", "Não se apresentou à convocação"],
+              ["Natureza", "Crime permanente", "Crime instantâneo"],
+              ["Pena", "Detenção de 6 meses a 2 anos", "Impedimento de 3 meses a 1 ano"],
+              ["Menagem", "Não tem automática", "Tem automática no quartel"],
+              ["Rito especial", "Praça sem estabilidade: julgamento monocrático", "Inspeção de saúde obrigatória antes do julgamento"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Conselhos de Justiça (Lei 8.457/1992)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Composição",
+          "texto": "1 Juiz-Auditor (presidente) + 4 Juízes Militares (oficiais da ativa). O Juiz-Auditor preside, instrui, redige a sentença e VOTA no mérito (absolver/condenar) junto com os oficiais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Hierarquia dos Juízes Militares",
+          "texto": "Devem ser de posto superior ao do acusado. Na falta, do mesmo posto e mais antigo. Nunca inferior."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Conselho Permanente",
+          "texto": "Julgam Praças. Duração: 3 meses (trimestral)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Conselho Especial",
+          "texto": "Julgam Oficiais. Constituído por processo, dissolvido ao final."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Competência residual do Juiz-Auditor",
+          "texto": "Julgamento monocrático para crimes culposos, contravenções e deserção de praça sem estabilidade. Crimes dolosos contra a vida de civil: competência do Tribunal do Júri (remessa pelo Juiz-Auditor)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "Praça = Permanente (trimestral) | Oficial = Especial (por processo)"
+        }
+      ]
+    },
+    {
+      "titulo": "Inquérito Policial Militar (IPM) x Inquérito Policial Comum (IP)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Comparativo IPM x IP comum",
+          "tabela": {
+            "colunas": ["Critério", "IPM (Militar)", "IP Comum (CPP)"],
+            "linhas": [
+              ["Base legal", "Arts. 9º a 27 do CPPM", "Arts. 4º a 23 do CPP"],
+              ["Condução", "Oficial militar (encarregado)", "Delegado de Polícia"],
+              ["Posto mínimo do encarregado", "Capitão ou Capitão-Tenente", "N/A"],
+              ["Escrivão", "Oficial ou Sargento (conforme indiciado)", "Escrivão de polícia"],
+              ["Prazo (preso)", "20 dias (improrrogável)", "10 dias (prorrogável)"],
+              ["Prazo (solto)", "40 dias (+20 prorrogáveis)", "30 dias (prorrogável)"],
+              ["Incomunicabilidade", "Permitida por 3 dias (Art. 17 – Súmula 3 STF)", "Não recepcionada (CF/88)"],
+              ["Arquivamento", "NÃO pode pela autoridade militar (Art. 24)", "NÃO pode pelo delegado (Art. 17, CPP)"],
+              ["Reabertura", "Possível com novas provas (Art. 25)", "Possível com novas provas (Súmula 524 STF)"],
+              ["Valor probatório", "Alto (perícias aproveitadas no processo)", "Baixo (mera informação – Art. 155, CPP)"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Características do IPM (E-P-S-I-D-O-D)",
+          "texto": "Escrito, Provisório, Sigiloso, Inquisitivo, Discricionário, Oficioso, Dispensável (Art. 28)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Características do IP comum (IDOSO)",
+          "texto": "Inquisitivo, Dispensável, Oficial, Sigiloso, Oficioso, Indisponível."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Incomunicabilidade – DIFERENÇA CRUCIAL",
+          "texto": "No IPM, a incomunicabilidade é VÁLIDA por até 3 dias (Art. 17 do CPPM, Súmula 3 STF). No IP comum, a incomunicabilidade é INCONSTITUCIONAL (não foi recepcionada pela CF/88). Pegadinha clássica!"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 IPM: 20/40 dias, incomunicabilidade permitida (3 dias), não pode arquivar, valor probatório alto.\n📌 IP comum: 10/30 dias, incomunicabilidade vedada, não pode arquivar, valor probatório baixo (art. 155)."
+        }
+      ]
+    }
+  ]
+}
+;

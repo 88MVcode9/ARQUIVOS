@@ -1,0 +1,126 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['07.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Processos Especiais: Deserção e Insubmissão",
+  "icone": "🏃",
+  "descricao": "Análise completa dos crimes de deserção (Art. 187 do CPM) e insubmissão (Art. 183 do CPM), com seus ritos processuais especiais previstos no CPPM. Abrange conceitos, consumação, prazos, diferenças entre desertor e insubmisso, procedimentos de captura e apresentação, inspeção de saúde, julgamento monocrático para praças sem estabilidade, e jurisprudência relevante. Foco nas pegadinhas de concurso: a consumação no 9º dia, a inspeção de saúde obrigatória para o insubmisso, e a diferenciação do rito para praças sem estabilidade.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Abrangência",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a deserção? (Art. 187 do CPM)",
+          "texto": "A deserção é o crime militar cometido pelo militar que, já tendo se incorporado às fileiras da Força Armada ou da Polícia Militar, **abandona o serviço ou se ausenta injustificadamente por mais de 8 (oito) dias consecutivos** (Art. 187 do CPM).\n\n**Natureza:** é um **crime permanente** – enquanto o militar estiver ausente, a infração permanece sendo cometida.\n\n**Pena:** detenção de 6 meses a 2 anos (Art. 187, caput).\n\n**Agravante (Art. 187, §1º):** se a deserção ocorrer em tempo de guerra, a pena é aumentada."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a insubmissão? (Art. 183 do CPM)",
+          "texto": "A insubmissão é o crime militar cometido pelo jovem convocado para o serviço militar obrigatório que **não se apresenta no dia e local marcados para a incorporação** (Art. 183 do CPM).\n\n**Natureza:** é um crime **instantâneo** – consuma-se no momento da não apresentação.\n\n**Pena:** impedimento de 3 meses a 1 ano (Art. 183, caput).\n\n**Diferença crucial (CAI MUITO!):**\n- **Desertor:** já era militar (servia ativamente) e abandonou o serviço;\n- **Insubmisso:** nunca foi militar (não se apresentou à convocação), portanto não chegou a servir."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Desertor x Insubmisso",
+          "tabela": {
+            "colunas": ["Critério", "Desertor", "Insubmisso"],
+            "linhas": [
+              ["Condição", "Já era militar (servia ativamente)", "Nunca foi militar (não se apresentou)"],
+              ["O que fez", "Abandonou o serviço", "Não atendeu à convocação"],
+              ["Crime", "Deserção (Art. 187, CPM)", "Insubmissão (Art. 183, CPM)"],
+              ["Natureza", "Crime permanente", "Crime instantâneo"],
+              ["Pena", "Detenção de 6 meses a 2 anos", "Impedimento de 3 meses a 1 ano"],
+              ["Captura/apresentação", "Não tem direito à menagem automática", "Tem direito ao quartel por menagem (Art. 183, §3º)"],
+              ["Procedimento", "Praça sem estabilidade: rito mais célere", "Exige inspeção de saúde obrigatória"]
+            ]
+          }
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha clássica – Menagem",
+          "texto": "📌 **O insubmisso tem direito ao quartel por menagem** quando se apresenta ou é capturado (Art. 183, §3º do CPM e Art. 300 do CPPM).\n\n📌 **O desertor, ao ser capturado ou se apresentar, NÃO tem direito à menagem automática** – deve aguardar a decisão do juiz, que pode conceder ou não, dependendo das circunstâncias.\n\n🧠 **Mnemônico:** “Insubmisso (I) = Menagem (M) – I-M = Sim. Desertor (D) = Menagem (M) – D-M = Não.”"
+        }
+      ]
+    },
+    {
+      "titulo": "Consumação e Regras Práticas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo de consumação da deserção – ATENÇÃO!",
+          "texto": "O CPM (Art. 187) estabelece que a deserção se consuma quando o militar se ausenta **por mais de 8 (oito) dias consecutivos**.\n\n**Contagem matemática (cai muito!):**\n- Se o militar faltar ao serviço no **dia 1** (primeiro dia de ausência), ele fica ausente:\n  - Até o **8º dia** – é apenas **infração disciplinar** (falta grave).\n  - No **9º dia** (após completar 8 dias de ausência) – **consuma-se o crime de deserção**.\n\n📌 **Dica:** A deserção se consuma no **9º dia de ausência injustificada**, pois a lei exige \"mais de 8 dias\" – ou seja, o 9º dia é o marco.\n\n💡 **Exemplo:** O militar deveria comparecer no dia 10. Não comparece. O dia 10 é o 1º dia de ausência. A deserção se consuma no dia 18 (9º dia)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Deserção – Crime permanente",
+          "texto": "A deserção é **crime permanente** (Art. 187, caput). Isso significa que:\n\n- O crime se prolonga no tempo enquanto o militar permanecer ausente;\n- A prescrição conta do **dia em que o militar se apresenta, é capturado ou é declarado desertor** (cessação da permanência);\n- O flagrante pode ocorrer a qualquer momento, enquanto o militar estiver na condição de desertor.\n\n**Prescrição:** O prazo prescricional começa a contar da **cessação da permanência** (dia da captura, apresentação ou declaração de deserção), e não do início da ausência.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a prescrição da deserção começa no dia da ausência – **ERRADO.** Começa no dia em que cessa a permanência."
+        }
+      ]
+    },
+    {
+      "titulo": "Processo e Ritos Especiais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Rito da deserção para praças sem estabilidade",
+          "texto": "O processo de deserção para **praças sem estabilidade** (menos de 10 anos de serviço) possui rito diferenciado, mais célere, previsto no CPPM (Arts. 451 e seguintes):\n\n- **Julgamento monocrático:** o Juiz Auditor pode julgar a deserção sem a formação do Conselho de Justiça, em decisão singular (Art. 452 do CPPM);\n- **Procedimento sumário:** prazos reduzidos, com menos formalidades;\n- **Exclusão do serviço ativo:** se condenado, a praça pode ser excluída diretamente.\n\n**Para praças com estabilidade (≥ 10 anos):**\n- O processo segue o rito ordinário, com Conselho de Justiça e ampla defesa.\n- A exclusão depende de decisão em Conselho de Disciplina.\n\n⚠️ **Pegadinha:** A banca pode afirmar que todas as deserções são julgadas pelo Conselho de Justiça – **ERRADO.** Praças sem estabilidade podem ser julgadas monocraticamente pelo Juiz Auditor."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Rito da insubmissão – Inspeção de saúde obrigatória",
+          "texto": "Quando o insubmisso é capturado ou se apresenta voluntariamente, ele **não vai direto para o julgamento**. O CPPM prevê um procedimento especial:\n\n1. **Inspeção de saúde obrigatória (Art. 300 do CPPM):** para verificar se o jovem está apto para o serviço militar;\n2. **Inclusão nas fileiras:** se apto, ele é incorporado e passa a cumprir o serviço militar obrigatório;\n3. **Julgamento:** a ação penal pela insubmissão prossegue, mas o réu já está servindo.\n\n**Efeito:** a inspeção de saúde e a inclusão são condições de procedibilidade para o julgamento da insubmissão. Se o insubmisso for inapto, pode ser dispensado do serviço, e o processo pode ser extinto.\n\n📌 **Dica:** A inspeção de saúde é obrigatória – o juiz não pode julgar a insubmissão sem que ela seja realizada.\n\n⚠️ **Pegadinha:** A banca pode afirmar que o insubmisso, ao se apresentar, é imediatamente julgado – **ERRADO.** Primeiro passa pela inspeção de saúde."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Menagem para o insubmisso (Art. 183, §3º do CPM)",
+          "texto": "Art. 183, §3º: 'O insubmisso que se apresentar voluntariamente ou for capturado será recolhido ao quartel, onde ficará em menagem, até que seja submetido à inspeção de saúde.'\n\n**Regra:** o insubmisso tem direito à **menagem no quartel** (não à liberdade plena), enquanto aguarda a inspeção de saúde e a inclusão.\n\n**Por que a menagem?** Porque o insubmisso ainda não é militar – ele deve ser incorporado para cumprir o serviço obrigatório.\n\n⚠️ **Pegadinha:** O desertor NÃO tem direito à menagem automática; o insubmisso SIM."
+        }
+      ]
+    },
+    {
+      "titulo": "Captura e Apresentação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Captura do desertor e do insubmisso",
+          "texto": "**Desertor:**\n- Qualquer pessoa pode capturá-lo (Art. 243 do CPPM).\n- Deve ser apresentado à autoridade militar competente.\n- Pode ser preso em flagrante a qualquer momento.\n- O desertor capturado pode ser recolhido à prisão ou, se o juiz entender cabível, pode ser colocado em liberdade provisória (mas não em menagem automática).\n\n**Insubmisso:**\n- Qualquer pessoa pode capturá-lo (Art. 243 do CPPM).\n- Deve ser apresentado à autoridade militar competente.\n- Após a captura, é recolhido ao quartel, em menagem, até a inspeção de saúde.\n- Não há prisão preventiva automática – a menagem é a regra."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STM/STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram importantes teses sobre deserção e insubmissão:",
+          "itens": [
+            "**STM (Súmula 12):** 'A deserção se consuma no 9º dia de ausência injustificada, sendo crime permanente.'",
+            "**STM (Súmula 13):** 'A praça sem estabilidade pode ser julgada monocraticamente pelo Juiz Auditor no processo de deserção.'",
+            "**STM (HC 20.089):** 'O insubmisso tem direito à menagem no quartel até a realização da inspeção de saúde, nos termos do Art. 183, §3º do CPM.'",
+            "**STJ (HC 301.429):** 'A prescrição da deserção conta da cessação da permanência (captura, apresentação ou declaração de deserção), não do início da ausência.'"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **Desertor:** já é militar, abandonou o serviço, crime permanente, pena de 6 meses a 2 anos, NÃO tem menagem automática.\n📌 **Insubmisso:** nunca foi militar, não se apresentou à convocação, crime instantâneo, pena de 3 meses a 1 ano, TEM menagem automática no quartel.\n📌 **Consumação da deserção:** no 9º dia de ausência injustificada.\n📌 **Prescrição da deserção:** começa a contar da cessação da permanência (captura, apresentação ou declaração).\n📌 **Praça sem estabilidade:** julgamento monocrático pelo Juiz Auditor (rito mais célere).\n📌 **Insubmisso:** inspeção de saúde obrigatória antes do julgamento."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'A deserção se consuma no 8º dia.' → **ERRADO** (consome-se no 9º dia).\n❌ 'A deserção é crime instantâneo.' → **ERRADO** (é crime permanente).\n❌ 'A insubmissão é crime permanente.' → **ERRADO** (é crime instantâneo).\n❌ 'O desertor tem direito à menagem automática.' → **ERRADO** (não tem; só o insubmisso tem).\n❌ 'O insubmisso, ao se apresentar, é imediatamente julgado.' → **ERRADO** (passa primeiro pela inspeção de saúde).\n❌ 'A prescrição da deserção começa no dia da ausência.' → **ERRADO** (começa no dia da cessação da permanência)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Deserção e Insubmissão",
+          "imagem": "./IMAGENS/07.jpg"
+        }
+      ]
+    }
+  ]
+};

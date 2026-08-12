@@ -1,0 +1,149 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Menagem — Palavra de Honra no Processo Penal Militar",
+  "icone": "🏰",
+  "descricao": "Análise completa da menagem, medida cautelar substitutiva da prisão preventiva, exclusiva da Justiça Militar, baseada na palavra de honra do militar (Arts. 263 a 269 do CPPM). Abrange conceito, requisitos, natureza jurídica, espécies, compromisso de honra, causas de cassação, procedimento, e jurisprudência. Foco nas pegadinhas de concurso: a não automaticidade da concessão, a cassação por mau comportamento, e a distinção entre menagem em liberdade e no quartel.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Natureza Jurídica",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a menagem?",
+          "texto": "A menagem é uma medida cautelar **exclusiva do processo penal militar**, que substitui a prisão preventiva pelo compromisso de honra do militar. O acusado fica em liberdade (ou em local especial) sob sua **palavra de honra**, confiando-se na sua conduta e na sua idoneidade.\n\n**Natureza jurídica:**\n- É uma medida cautelar **substitutiva** da prisão preventiva;\n- Tem caráter **pessoal e intuitu personae** (depende da confiança no acusado);\n- É uma faculdade do juiz, não um direito do acusado;\n- Baseia-se no princípio da **presunção de inocência** e na **confiança na honra do militar**.\n\n📖 **Analogia:** A menagem é como uma \"prisão domiciliar com honra\" – o militar promete, sob sua palavra, que não fugirá e cumprirá as obrigações."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um tenente é acusado de crime com pena máxima de 3 anos, não tem condenações anteriores e possui bons antecedentes. O juiz concede a menagem, permitindo que ele aguarde o julgamento em sua residência, desde que compareça a todos os atos do processo e não se ausente sem autorização."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Menagem – EXCLUSIVA da Justiça Militar",
+          "texto": "A menagem é uma medida cautelar **exclusiva do processo penal militar**, que substitui a prisão preventiva pelo compromisso de honra do militar. O acusado fica em liberdade (ou em local especial) sob sua **palavra de honra**, confiando-se na sua conduta e na sua idoneidade.\n\n**Não existe** menagem no processo penal comum (CPP).\n\n⚠️ **Pegadinha:** A banca pode perguntar se a menagem existe no processo penal comum – **ERRADO**. É exclusiva da Justiça Militar."
+        }
+      ]
+    },
+    {
+      "titulo": "Requisitos para a Concessão (Art. 263) – CAI MUITO!",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos cumulativos",
+          "texto": "Art. 263: 'A menagem poderá ser concedida, a requerimento do indiciado ou do réu, quando a pena máxima prevista para o crime não for superior a 4 (quatro) anos de reclusão ou detenção, e o acusado não tiver sofrido condenação anterior por crime doloso.'\n\n**Requisitos objetivos:**\n1. **Pena máxima do crime ≤ 4 anos** – não pode ser superior a 4 anos de reclusão ou detenção;\n2. **Não ter condenação anterior** por crime doloso (primariedade);\n3. **Não ser reincidente** – se houver reincidência, não cabe menagem (art. 263, parágrafo único).\n\n**Requisitos subjetivos (avaliação do juiz):**\n- **Juízo de conveniência e oportunidade:** mesmo preenchendo os requisitos objetivos, o juiz pode negar a menagem se entender que a medida é inconveniente para a ordem pública, para a instrução criminal ou para a preservação da hierarquia e disciplina;\n- **Antecedentes do acusado:** o juiz analisa a conduta pregressa, o comportamento na tropa e a idoneidade moral;\n- **Circunstâncias do crime:** a gravidade concreta do fato e a repercussão na corporação.\n\n⚠️ **Pegadinha:** A menagem **não é um direito automático** do acusado, mesmo preenchendo os requisitos. O juiz pode negá-la mediante fundamentação concreta."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Discricionariedade vinculada",
+          "texto": "📌 A concessão da menagem é um ato **discricionário**, mas deve ser fundamentado. O juiz não pode negar a menagem por mero arbítrio – deve apontar razões concretas que justifiquem a necessidade da prisão preventiva (ex.: periculosidade, risco de fuga, comprometimento da hierarquia).\n\n**Súmula 8 do STM:** 'A menagem, embora discricionária, não pode ser indeferida sem fundamentação concreta que demonstre a inconveniência da medida.'"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 **Requisitos:** \"Pena até 4, primário, e juiz achar bem.\"\n\n🧠 **Lembrete:** A primariedade se refere a **crime doloso** – condenação por crime culposo não impede a menagem."
+        }
+      ]
+    },
+    {
+      "titulo": "Espécies de Menagem",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Menagem em liberdade",
+          "texto": "O acusado permanece em sua residência, em liberdade, mas sujeito a condições:\n- Comparecimento a todos os atos do processo;\n- Não se ausentar da comarca ou do território nacional sem autorização;\n- Não frequentar determinados lugares (se imposto);\n- Não praticar novos crimes ou atos que comprometam a disciplina.\n\n**Exemplo:** O militar acusado de crime leve responde ao processo em casa, comparecendo ao juízo quando intimado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Menagem no quartel",
+          "texto": "O acusado permanece recolhido no quartel, em local especial (não em cela comum), com restrições de circulação, mas com regalias:\n- Pode receber visitas;\n- Pode trabalhar na unidade (se autorizado);\n- Não é submetido ao regime disciplinar comum de preso.\n\n**Exemplo:** O militar fica no quartel, mas pode exercer funções internas, mantendo contato com a tropa, sob palavra de honra de não fugir."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Menagem em liberdade x Menagem no quartel",
+          "tabela": {
+            "colunas": ["Critério", "Menagem em liberdade", "Menagem no quartel"],
+            "linhas": [
+              ["Local", "Residência ou local indicado", "Quartel ou dependência militar"],
+              ["Regime", "Liberdade com restrições", "Recolhimento com regalias"],
+              ["Natureza", "Menos gravosa", "Mais gravosa (próxima à prisão)"],
+              ["Quando se aplica", "Crimes leves, bons antecedentes", "Crimes de maior gravidade, necessidade de maior controle"],
+              ["Exemplo", "Tenente com bons antecedentes", "Sargento com risco de fuga ou influência em testemunhas"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Compromisso de Honra (Art. 264)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "O que é o compromisso de honra?",
+          "texto": "Art. 264: 'Concedida a menagem, o acusado prestará, perante o juiz, o compromisso solene de honra de comparecer a todos os atos do processo e de não se afastar do lugar em que deva permanecer, sem autorização.'\n\n**Características:**\n- É um ato solene, prestado perante o juiz;\n- O militar assume, sob sua **palavra de honra**, o compromisso de cumprir as condições;\n- O não cumprimento pode gerar a **cassação** da menagem;\n- O compromisso é registrado nos autos, com a assinatura do militar.\n\n📌 **Dica:** A palavra de honra do militar tem valor jurídico, e seu descumprimento é considerado grave, podendo agravar a situação processual e disciplinar."
+        }
+      ]
+    },
+    {
+      "titulo": "Cassação da Menagem (Art. 268)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas de cassação da menagem",
+          "texto": "Art. 268: 'A menagem será cassada, com o recolhimento do acusado à prisão preventiva, quando:'\n\n- **I – Descumprir qualquer condição** imposta na decisão concessiva (ex.: ausentar-se sem autorização, faltar a ato processual);\n- **II – Praticar novo crime doloso** durante o gozo da menagem;\n- **III – Comportar-se de modo irregular ou inconveniente** que demonstre falta de idoneidade moral para continuar sob palavra de honra (ex.: ameaçar testemunhas, tentar destruir provas);\n- **IV – For declarada a fuga** ou houver tentativa de fuga;\n- **V – For constatado que, após a concessão, surgiram elementos que demonstram a inconveniência da medida** (ex.: novas provas de maior gravidade).\n\n**Efeito da cassação:** O militar é recolhido imediatamente à prisão preventiva, e a menagem é revogada.\n\n⚠️ **Pegadinha:** A cassação não depende de nova decisão judicial? – Depende de decisão fundamentada, após oitiva do acusado (devido processo legal)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Procedimento para cassação",
+          "texto": "A cassação da menagem deve obedecer aos seguintes passos:\n\n1. **Comunicação** da irregularidade ao juiz (ex.: por parte da autoridade policial ou do MP);\n2. **Oitiva do acusado** (contraditório prévio, salvo em caso de fuga);\n3. **Decisão fundamentada** do juiz, com a demonstração do descumprimento ou da nova causa;\n4. **Recolhimento** do militar à prisão preventiva.\n\n📌 **Dica:** A cassação não é automática – exige-se um procedimento mínimo, respeitando a ampla defesa."
+        }
+      ]
+    },
+    {
+      "titulo": "Procedimento para Concessão",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Como solicitar a menagem",
+          "texto": "A menagem é concedida a requerimento do indiciado ou do réu (art. 263, caput), ou pode ser proposta de ofício pelo juiz (art. 263, §1º).\n\n**Fluxo:**\n1. O acusado (ou seu defensor) requer a menagem, demonstrando o preenchimento dos requisitos;\n2. O MP se manifesta (podendo opinar pela concessão ou não);\n3. O juiz decide, fundamentadamente, podendo conceder ou negar.\n\n**Prazo:** A decisão deve ser proferida no prazo de 5 dias (art. 263, §2º)."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STM/STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram importantes teses sobre a menagem:",
+          "itens": [
+            "**STM (Súmula 8):** 'A menagem, embora discricionária, não pode ser indeferida sem fundamentação concreta que demonstre a inconveniência da medida.'",
+            "**STM (HC 20.089):** 'A prática de novo crime doloso durante a menagem é causa de cassação automática, mas exige oitiva prévia do acusado para validade do ato.'",
+            "**STF (HC 118.751):** 'A condução coercitiva para interrogatório é inconstitucional, inclusive no âmbito militar, não podendo ser usada como forma de cassar a menagem sem fundamento.'",
+            "**STJ (HC 301.429):** 'A menagem, por ser medida cautelar substitutiva, não pode ser concedida se o acusado já estiver preso preventivamente – a prisão preventiva e a menagem são mutuamente excludentes.'"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **Menagem = exclusiva do processo penal militar (não existe no comum).**\n📌 **Requisitos:** pena máxima ≤ 4 anos + primário (crime doloso) + juiz avaliar conveniência.\n📌 **Não é automática –** mesmo preenchendo os requisitos, o juiz pode negar se justificar.\n📌 **Compromisso de honra:** prestado perante o juiz, solene.\n📌 **Espécies:** em liberdade (residência) ou no quartel (recolhimento com regalias).\n📌 **Cassação (Art. 268):** descumprimento, novo crime, mau comportamento, fuga.\n📌 **Efeito da cassação:** recolhimento à prisão preventiva (não é automático – exige decisão fundamentada)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'A menagem é um direito do acusado.' → **ERRADO** (é faculdade do juiz, não direito).\n❌ 'A menagem é concedida automaticamente se preenchidos os requisitos.' → **ERRADO** (juiz pode negar fundamentadamente).\n❌ 'A cassação da menagem é automática em caso de novo crime.' → **ERRADO** (exige oitiva prévia e decisão fundamentada).\n❌ 'A menagem existe no processo penal comum.' → **ERRADO** (é exclusiva da Justiça Militar)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Menagem",
+          "imagem": "./IMAGENS/05.jpg"
+        }
+      ]
+    }
+  ]
+};

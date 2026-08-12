@@ -1,0 +1,119 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Legislação Federal Aplicável",
+  "titulo": "Estatuto Geral das Guardas Municipais (Lei nº 13.022/2014)",
+  "icone": "🇧🇷",
+  "descricao": "Lei federal que estabelece o marco normativo para todas as Guardas Municipais do Brasil. Define princípios (comunitária, preventiva), competências (resguardar bens, serviços e instalações) e vedações. É a lei que a LOMA de Aracaju e a LC 224/2026 devem respeitar. Muita pegadinha misturando atribuições da GM com as da Polícia Militar.",
+  "topicos": [
+    {
+      "titulo": "Princípios Fundamentais",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Natureza e princípios",
+          "texto": "As guardas municipais são **órgãos de segurança pública** (art. 144, §8º, CF), de caráter **civil, comunitário e preventivo**. Seus princípios são: proteção dos direitos humanos, preservação da vida, redução do sofrimento, proximidade com a comunidade e atuação em parceria com os demais órgãos de segurança."
+        }
+      ]
+    },
+    {
+      "titulo": "Competências e Atribuições",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "O que a GM PODE fazer (Art. 4º)",
+          "texto": "I - Zelar pelos bens, equipamentos e instalações do Município;\nII - Prestar socorro e auxílio à população em casos de acidentes, incêndios e calamidades;\nIII - Exercer atividades de policiamento administrativo (fiscalização de posturas, uso do solo);\nIV - Atuar na segurança de escolas municipais, hospitais e terminais;\nV - Cooperar com a União, Estados e outros Municípios, respeitando as competências de cada um."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 PEGADINHA FEDERAL CLÁSSICA",
+          "texto": "A banca coloca: 'A Lei 13.022/2014 autoriza a Guarda Municipal a realizar investigação criminal e policiamento ostensivo militar.' FALSO! A lei veda expressamente a atribuição de atividades próprias das polícias Civil e Militar (como inquérito policial e policiamento ostensivo de rua com viés repressivo). A guarda atua na proteção do patrimônio público e na prevenção, nunca na repressão penal."
+        }
+      ]
+    },
+    {
+      "titulo": "Armamento e Uniforme",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Regras de porte de arma",
+          "texto": "A Lei 13.022/2014 autoriza o porte de arma de fogo para os integrantes das guardas municipais, respeitando os requisitos do Estatuto do Desarmamento (Lei 10.826/2003) – curso de tiro, aptidão psicológica e autorização do Comandante. O uniforme deve ser distinto do usado pelas polícias estaduais (não pode haver confusão visual com a PM, por exemplo)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "BIZU DO MESTRE",
+          "texto": "📌 Guarda Municipal **pode andar armada** (desde que cumpra os requisitos legais).\n📌 Guarda Municipal **não pode** fazer operações de choque ou missões típicas da Força Nacional.\n📌 Guarda Municipal **pode** fazer segurança de autoridades municipais (Prefeito) e escolta de bens."
+        }
+      ]
+    },
+    {
+      "titulo": "Requisitos para Investidura (Art. 10)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos básicos para ser Guarda Municipal",
+          "texto": "A Lei 13.022/2014 exige, taxativamente:\n\n- Nacionalidade brasileira;\n- Gozo dos direitos políticos;\n- Quitação com as obrigações militares e eleitorais;\n- **Nível médio completo** de escolaridade;\n- **Idade mínima de 18 anos**;\n- Aptidão física, mental e psicológica;\n- Idoneidade moral comprovada por investigação social e certidões judiciais.\n\n⚠️ **PEGADINHA:** A banca adora inventar exigência de nível superior ou idade máxima. A lei não exige nem um nem outro!"
+        }
+      ]
+    },
+    {
+      "titulo": "Limites do Efetivo (Art. 7º)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Limites máximos por população",
+          "texto": "A lei fixa limites máximos para o efetivo da Guarda Municipal, conforme a população do município:\n\n- **Até 50.000 habitantes** → até 0,4% da população;\n- **De 50.001 a 500.000 habitantes** → até 0,3% da população (mínimo de 200 integrantes);\n- **Acima de 500.000 habitantes** → até 0,2% da população (mínimo de 1.500 integrantes).\n\n📌 **Dica:** Grave os percentuais decrescentes com o aumento da população – e os mínimos de 200 e 1.500."
+        }
+      ]
+    },
+    {
+      "titulo": "Controle Interno e Externo (Art. 13)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Corregedoria e Ouvidoria",
+          "texto": "**Corregedoria (Controle Interno):** apura infrações disciplinares da tropa. É **obrigatória** em municípios com mais de **50.000 habitantes** OU em **qualquer município que utilize arma de fogo**.\n\n**Ouvidoria (Controle Externo e Independente):** recebe e examina elogios, denúncias, reclamações e sugestões da população.\n\n🚨 **SUPER PEGADINHA:** Se a Guarda usar arma de fogo, a Corregedoria é obrigatória mesmo que o município tenha menos de 50.000 habitantes! A banca sempre tenta inverter essa regra."
+        }
+      ]
+    },
+    {
+      "titulo": "Cargos de Direção e Comando (Arts. 14 e 15)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Provimento e comando",
+          "texto": "**Art. 14:** Os cargos em comissão e funções de confiança da Guarda Municipal devem ser providos por **membros de carreira** do quadro.\n\n**Art. 15:** O comando da Guarda deve ser exercido por **integrante da carreira** (a exceção temporária dos 4 primeiros anos da lei já expirou).\n\n⚠️ **PEGADINHA:** A banca pode dizer que o Prefeito pode nomear um civil para comandar a GM – FALSO! O comando é privativo de membro da carreira."
+        }
+      ]
+    },
+    {
+      "titulo": "Prerrogativas e Uniforme (Arts. 18 e 19)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prisão especial e padronização",
+          "texto": "**Prisão Especial (Art. 18):** Em caso de prisão antes da condenação definitiva, o guarda municipal tem direito a **recolhimento em cela isolada** dos demais presos comuns.\n\n**Uniforme (Art. 19):** Uso de uniforme preferencialmente na cor **azul-marinho**, devendo ser nitidamente **distinto** dos uniformes das Forças Armadas e das polícias estaduais.\n\n📌 **Dica:** A prisão especial é uma prerrogativa funcional, não é privilégio pessoal – está ligada à função."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência do STF (ADPF 995)",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "⚖️ ATUALIZAÇÃO JURISPRUDENCIAL",
+          "texto": "O STF, na ADPF 995, firmou o entendimento de que as Guardas Municipais **integram o sistema de segurança pública**.\n\nAlém disso, STF/STJ reconhecem que guardas municipais podem realizar **busca pessoal e prisão em flagrante**, desde que:\n- Haja **fundada suspeita**;\n- A ação esteja **diretamente ligada** à tutela dos bens, serviços e instalações municipais **ou** a crimes em andamento.\n\n⚠️ **ATENÇÃO:** Isso não significa que a GM vira polícia judiciária – a vedação à investigação criminal permanece. A atuação é pontual, preventiva e vinculada ao patrimônio municipal."
+        }
+      ]
+    },
+    {
+      "titulo": "Mapa-mental",
+      "cards": [
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental - Estatuto GM",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    }
+  ]
+};

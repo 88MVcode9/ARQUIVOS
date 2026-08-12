@@ -1,0 +1,159 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['08.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Conselhos de Justiça – Lei nº 8.457/1992",
+  "icone": "🏛️",
+  "descricao": "Análise completa dos Conselhos de Justiça, órgãos julgadores colegiados de primeira instância da Justiça Militar, instituídos pela Lei nº 8.457/1992. Abrange a estrutura (Juiz-Auditor + 4 Juízes Militares), as regras de hierarquia (posto superior ao acusado ou mais antigo), as espécies (Conselho Permanente para Praças, com duração trimestral; Conselho Especial para Oficiais, constituído por processo), o papel do Juiz-Auditor (preside, instrui e vota no mérito), e a competência residual do Juiz-Auditor isolado (julgamento monocrático em casos específicos, como contravenções ou crimes culposos, além da remessa ao Júri para crimes dolosos contra a vida de civil).",
+  "topicos": [
+    {
+      "titulo": "Conceito e Base Legal (Lei nº 8.457/1992)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são os Conselhos de Justiça?",
+          "texto": "Os Conselhos de Justiça são os órgãos julgadores colegiados da primeira instância da Justiça Militar (da União e dos Estados). São responsáveis por julgar os crimes militares, com exceção das hipóteses de competência monocrática do Juiz-Auditor ou do Tribunal do Júri.\n\n**Base legal:** Lei nº 8.457/1992 (reestruturou a Justiça Militar da União e organizou a composição dos Conselhos), em complemento ao CPPM (Decreto-Lei nº 1.002/1969).\n\n**Natureza:** são órgãos colegiados, com composição mista (togado + militares), refletindo o princípio da hierarquia e disciplina."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrutura e Hierarquia",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Composição do Conselho",
+          "texto": "Art. 4º da Lei 8.457/1992: 'Os Conselhos de Justiça serão compostos por um Juiz-Auditor, que os presidirá, e por quatro Juízes Militares, oficiais da ativa, sorteados na forma da lei.'\n\n**Composição:**\n- **1 Juiz-Auditor:** juiz de carreira, bacharel em Direito, concursado. É o presidente do Conselho, responsável pela direção da instrução processual e pela regularidade formal do julgamento.\n- **4 Juízes Militares:** oficiais da ativa, sorteados para compor o Conselho. Eles participam do julgamento do mérito (condenação ou absolvição).\n\n📌 **Importante:** a presença do Juiz-Auditor e dos 4 oficiais é obrigatória para a validade da sessão de julgamento."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Hierarquia dos Juízes Militares – POSTO SUPERIOR (CAI MUITO!)",
+          "texto": "Os Juízes Militares que compõem o Conselho devem, em regra, ser de **posto superior ao do acusado** (Art. 4º, §1º, da Lei 8.457/1992 e Art. 57 do CPPM).\n\n**Regras:**\n- Se houver oficial de posto superior disponível, ele deve compor o Conselho;\n- Se não houver oficial de posto superior disponível, pode ser designado oficial do **mesmo posto**, desde que seja o **mais antigo** (regra de antiguidade);\n- No **Conselho Especial** (para Oficiais), a exigência de patente superior é ainda mais rigorosa;\n- No **Conselho Permanente** (para Praças), os oficiais julgadores podem ser capitães, majores ou tenentes-coronéis, conforme a disponibilidade.\n\n⚠️ **Pegadinha:** A banca pode afirmar que qualquer oficial pode julgar um réu de posto superior – **ERRADO**. O oficial julgador deve ser de posto superior ou, no mínimo, mais antigo se do mesmo posto."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico da hierarquia",
+          "texto": "📌 **“Superior ou mais antigo – nunca inferior para julgar.”**\n\n🧠 **Lembrete:** a hierarquia é um dos pilares da Justiça Militar – um oficial não pode ser julgado por um subordinado."
+        }
+      ]
+    },
+    {
+      "titulo": "O Papel do Juiz-Auditor (Presidente do Conselho)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Funções do Juiz-Auditor",
+          "texto": "O Juiz-Auditor é o membro civil (togado) do Conselho de Justiça. Suas funções são múltiplas:\n\n- **Presidir a instrução processual:** conduz as audiências, ouve testemunhas, determina diligências;\n- **Orientar os Juízes Militares:** esclarece dúvidas sobre a lei e o procedimento;\n- **Redigir a sentença:** materializa a decisão do Conselho em documento formal;\n- **VOTAR NO MÉRITO (surpresa!):** O Juiz-Auditor **vota junto com os 4 oficiais** no julgamento das questões de fato e de direito (condenação/absolvição, fixação da pena). Não é um mero observador – ele integra o colegiado com direito a voto.\n\n**Voto de desempate:** Em caso de empate, o voto do Juiz-Auditor pode ser decisivo (dependendo das regras de quórum, mas ele vota como qualquer membro).\n\n⚠️ **Pegadinha:** A banca pode afirmar que o Juiz-Auditor não vota na absolvição ou condenação – **ERRADO**. Ele vota no mérito, juntamente com os oficiais."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Juiz-Auditor x Juiz Militar – Diferença de natureza",
+          "texto": "| Critério | Juiz-Auditor | Juiz Militar |\n|----------|--------------|--------------|\n| Natureza | Civil (magistrado de carreira) | Militar da ativa (oficial) |\n| Formação | Bacharel em Direito, concursado | Formação militar, posto definido |\n| Função | Presidir, instruir, redigir, e votar | Julgar o mérito (absolver/condenar) |\n| Vínculo | Permanente (carreira) | Temporário (escalado para o Conselho) |"
+        }
+      ]
+    },
+    {
+      "titulo": "Conselho Permanente (Praças – Trimestral)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o Conselho Permanente?",
+          "texto": "O Conselho Permanente é o órgão julgador competente para julgar **Praças** (soldados, cabos, sargentos, subtenentes, e equivalentes nas Polícias Militares).\n\n**Características:**\n- **Duração:** 3 (três) meses (trimestral) – Art. 4º, §2º, da Lei 8.457/1992;\n- **Juízes Militares:** oficiais da ativa, sorteados para compor o Conselho durante todo o trimestre;\n- **Processos:** julga todos os processos de Praças que tramitam no período;\n- **Presidência:** presidido por um Juiz-Auditor da respectiva Auditoria.\n\n📌 **Exemplo:** O Conselho Permanente que funciona de janeiro a março julga as deserções e outros crimes de Praças ocorridos nesse período.\n\n⚠️ **Pegadinha:** O Conselho Permanente não é dissolvido ao final de cada processo – ele permanece ativo por 3 meses, julgando vários processos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Conselho Permanente – dura 3 meses",
+          "texto": "O Conselho Permanente é o órgão julgador competente para julgar **Praças** (soldados, cabos, sargentos, subtenentes, e equivalentes nas Polícias Militares).\n\n**Características:**\n- **Duração:** 3 (três) meses (trimestral) – Art. 4º, §2º, da Lei 8.457/1992;\n- **Juízes Militares:** oficiais da ativa, sorteados para compor o Conselho durante todo o trimestre;\n- **Processos:** julga todos os processos de Praças que tramitam no período;\n- **Presidência:** presidido por um Juiz-Auditor da respectiva Auditoria.\n\n📌 **Exemplo:** O Conselho Permanente que funciona de janeiro a março julga as deserções e outros crimes de Praças ocorridos nesse período.\n\n⚠️ **Pegadinha:** O Conselho Permanente não é dissolvido ao final de cada processo – ele permanece ativo por 3 meses, julgando vários processos."
+        }
+      ]
+    },
+    {
+      "titulo": "Conselho Especial (Oficiais – Por Processo)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o Conselho Especial?",
+          "texto": "O Conselho Especial é o órgão julgador competente para julgar **Oficiais** (tenentes, capitães, majores, tenentes-coronéis, coronéis e oficiais-generais).\n\n**Características:**\n- **Duração:** é constituído **exclusivamente para cada processo** – é dissolvido ao final do julgamento;\n- **Juízes Militares:** oficiais da ativa de **posto superior ao do acusado** (ou, na falta, do mesmo posto e mais antigos);\n- **Processos:** julga apenas o processo para o qual foi constituído;\n- **Presidência:** presidido por um Juiz-Auditor da respectiva Auditoria.\n\n📌 **Exemplo:** Um Capitão é acusado de um crime. O Conselho Especial será formado por um Juiz-Auditor + 4 oficiais de patente superior a Capitão (Majores ou Coronéis). Julgado o caso, o Conselho é dissolvido.\n\n⚠️ **Pegadinha:** O Conselho Especial NÃO é trimestral – ele é formado para cada processo e extinto após a decisão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Conselho Especial – constituído por processo",
+          "texto": "O Conselho Especial é o órgão julgador competente para julgar **Oficiais** (tenentes, capitães, majores, tenentes-coronéis, coronéis e oficiais-generais).\n\n**Características:**\n- **Duração:** é constituído **exclusivamente para cada processo** – é dissolvido ao final do julgamento;\n- **Juízes Militares:** oficiais da ativa de **posto superior ao do acusado** (ou, na falta, do mesmo posto e mais antigos);\n- **Processos:** julga apenas o processo para o qual foi constituído;\n- **Presidência:** presidido por um Juiz-Auditor da respectiva Auditoria.\n\n📌 **Exemplo:** Um Capitão é acusado de um crime. O Conselho Especial será formado por um Juiz-Auditor + 4 oficiais de patente superior a Capitão (Majores ou Coronéis). Julgado o caso, o Conselho é dissolvido.\n\n⚠️ **Pegadinha:** O Conselho Especial NÃO é trimestral – ele é formado para cada processo e extinto após a decisão."
+        }
+      ]
+    },
+    {
+      "titulo": "Comparação – Conselho Permanente x Conselho Especial",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Resumo comparativo",
+          "tabela": {
+            "colunas": ["Critério", "Conselho Permanente", "Conselho Especial"],
+            "linhas": [
+              ["Julgados", "Praças (Soldados, Cabos, Sargentos, Subtenentes)", "Oficiais (Tenentes, Capitães, Majores, Coronéis, Generais)"],
+              ["Duração", "3 meses (trimestral)", "Por processo (dissolvido ao final)"],
+              ["Juízes Militares", "Oficiais sorteados para o trimestre", "Oficiais de posto superior ao acusado (ou mais antigos)"],
+              ["Processos julgados", "Vários processos no trimestre", "Apenas o processo específico"],
+              ["Exemplo", "Conselho que funciona de jan-mar julga 20 processos de Praças", "Conselho formado para julgar o Capitão X, depois é dissolvido"]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 **“Praça = Permanente (trimestral) | Oficial = Especial (por processo)”**\n\n🧠 **Dica:** A letra 'P' de Praça combina com 'Permanente'. A letra 'E' de Especial combina com 'Oficial' (mas é Especial)."
+        }
+      ]
+    },
+    {
+      "titulo": "Competência Residual do Juiz-Audor Isolado (Monocrático)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando o Juiz-Auditor julga sozinho?",
+          "texto": "Nem todos os processos na Justiça Militar são julgados por Conselhos de Justiça. O CPPM e a Lei 8.457/1992 preveem hipóteses de **competência monocrática do Juiz-Auditor** (sem a participação dos oficiais):\n\n- **Crimes culposos** de menor gravidade (ex.: lesão corporal culposa, homicídio culposo, quando a pena não justifica a formação de Conselho);\n- **Contravenções penais militares** (quando a lei prevê pena de prisão simples ou multa);\n- **Infrações de menor potencial ofensivo** (quando aplicável, desde que não haja necessidade de Conselho);\n- **Decisões interlocutórias** (ex.: concessão de liberdade provisória, homologação de transação penal, quando cabível);\n- **Processos de deserção de praça sem estabilidade** (julgamento monocrático, como visto no tópico anterior).\n\n📌 **Importante:** O Juiz-Auditor, nessas hipóteses, atua como juiz singular, proferindo sentença sem a participação de oficiais."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Crime doloso contra a vida de civil – COMPETÊNCIA DO TRIBUNAL DO JÚRI",
+          "texto": "Nos **crimes dolosos contra a vida praticados por militar contra civil**, a competência é do **Tribunal do Júri** (Justiça Comum – Art. 9º, §1º, do CPPM e Art. 5º, XXXVIII, CF).\n\n**Papel do Juiz-Audor:**\n- O Juiz-Auditor instrui o processo (realiza as diligências preliminares) e, em seguida, **remete os autos ao Tribunal do Júri** para julgamento.\n- Ele **não julga** o mérito – a decisão sobre a absolvição ou condenação cabe ao Júri popular.\n\n**Fundamento:** a Emenda Constitucional nº 45/2004 alterou a competência, retirando da Justiça Militar os crimes dolosos contra a vida de civil cometidos por militares.\n\n⚠️ **Pegadinha:** A banca pode afirmar que o Conselho de Justiça julga crimes dolosos contra a vida de civil – **ERRADO**. É competência do Tribunal do Júri."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STM/STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram importantes teses sobre os Conselhos de Justiça:",
+          "itens": [
+            "**STM (Súmula 5):** 'A composição do Conselho de Justiça é matéria de ordem pública, devendo os Juízes Militares ser de posto superior ao do acusado, sob pena de nulidade.'",
+            "**STM (Súmula 6):** 'O Juiz-Auditor integra o Conselho de Justiça com direito a voto no mérito, não sendo mero observador.'",
+            "**STF (HC 118.751):** 'A condução coercitiva para interrogatório é inconstitucional, inclusive no âmbito militar, não podendo ser usada como forma de coação no processo.'",
+            "**STJ (HC 301.429):** 'A competência do Conselho de Justiça é definida pela condição do acusado (Praça ou Oficial) no momento do fato, não no momento do julgamento.'"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **Composição:** 1 Juiz-Auditor (civil, presidente) + 4 Juízes Militares (oficiais da ativa).\n📌 **Hierarquia dos juízes:** oficial de posto superior ao acusado (ou mais antigo, se mesmo posto).\n📌 **Juiz-Auditor:** preside, instrui, redige sentença e VOTA no mérito (absolver/condenar).\n📌 **Conselho Permanente:** julga Praças, duração de 3 meses (trimestral).\n📌 **Conselho Especial:** julga Oficiais, constituído por processo, dissolvido ao final.\n📌 **Juiz-Auditor isolado (monocrático):** julga crimes culposos, contravenções e deserção de praça sem estabilidade.\n📌 **Crime doloso contra a vida de civil:** competência do Tribunal do Júri (remessa pelo Juiz-Auditor)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'O Conselho Permanente julga Oficiais.' → **ERRADO** (julga Praças).\n❌ 'O Conselho Especial é trimestral.' → **ERRADO** (é por processo).\n❌ 'O Juiz-Auditor não vota no mérito.' → **ERRADO** (vota junto com os oficiais).\n❌ 'Qualquer oficial pode julgar um oficial de posto superior.' → **ERRADO** (exige-se posto superior ou mais antigo).\n❌ 'O Conselho de Justiça julga crimes dolosos contra a vida de civil.' → **ERRADO** (é competência do Tribunal do Júri)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Conselhos de Justiça",
+          "imagem": "./IMAGENS/08.jpg"
+        }
+      ]
+    }
+  ]
+};

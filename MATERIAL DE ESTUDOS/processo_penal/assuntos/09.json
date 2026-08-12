@@ -1,0 +1,210 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['09.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Tipos de inqueritos",
+  "icone": "📋",
+  "descricao": "Análise completa e comparativa entre o Inquérito Policial Militar (IPM – Arts. 9º a 27 do CPPM) e o Inquérito Policial comum (CPP). Abrange conceitos, características (escrito, sigiloso, inquisitivo, etc.), formas de instauração, prazo, encarregado, escrivão, diligenciamento, relatório, arquivamento, reabertura, valor probatório, e peculiaridades como a incomunicabilidade no IPM, a detenção do indiciado, e a aplicação da Súmula Vinculante 14. Inclui as diferenças cruciais entre os dois procedimentos, com foco nas pegadinhas de prova e nos pontos exigidos pelos tribunais (STM, STJ, STF).",
+  "topicos": [
+    {
+      "titulo": "Inquérito Policial Militar (IPM) – Arts. 9º a 27 do CPPM",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o IPM? (Art. 9º)",
+          "texto": "O Inquérito Policial Militar (IPM) é o procedimento investigatório preliminar, conduzido pela Polícia Judiciária Militar, que tem por finalidade apurar a existência de crime militar, identificar sua autoria e reunir elementos de informação para subsidiar a ação penal militar. Seu destinatário final é o Ministério Público Militar (MPM), que decidirá se oferece denúncia, promove o arquivamento ou requisita diligências complementares.\n\n**Natureza:** é um procedimento administrativo, inquisitivo, sigiloso, escrito, provisório e dispensável (Art. 28)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um soldado é acusado de deserção. A autoridade militar instaura o IPM para ouvir testemunhas, verificar a ausência, e apurar se a deserção ocorreu. O IPM será remetido ao MPM, que decidirá se denuncia o soldado ou arquiva o caso."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características do IPM (campeãs de prova)",
+          "texto": "As principais características do IPM são:\n\n- **Escrito:** toda a investigação deve ser documentada por escrito (Art. 9º, caput).\n- **Provisório:** as provas colhidas (perícias, exames) já valem para o processo, mas o IPM em si é uma peça informativa.\n- **Sigiloso:** pode ser sigiloso para terceiros, mas o advogado do indiciado tem acesso aos autos já documentados (SV 14).\n- **Inquisitivo:** não há contraditório pleno nem ampla defesa, pois ainda não há acusação formal.\n- **Discricionário:** a autoridade encarregada escolhe as diligências que entende necessárias.\n- **Indisponível:** a autoridade policial militar não pode arquivar o IPM (Art. 24).\n- **Oficioso:** pode ser instaurado de ofício pela autoridade militar.\n- **Dispensável:** o MPM pode oferecer denúncia sem IPM, se houver provas suficientes (Art. 28).\n\n🧠 **Mnemônico:** “E-P-S-I-D-O-D” (Escrito, Provisório, Sigiloso, Inquisitivo, Discricionário, Oficioso, Dispensável)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Modos de instauração (Art. 10) – CAI MUITO!",
+          "texto": "O IPM pode ser instaurado pelas seguintes formas (Art. 10):\n\na) **De ofício** pela autoridade militar (ex.: comandante que toma conhecimento de um crime).\nb) **Por determinação ou delegação** da autoridade superior (ex.: superior que determina a instauração).\nc) **Por requisição do Ministério Público Militar** (ex.: o MPM requisita a investigação).\nd) **Por decisão do Superior Tribunal Militar** (STM).\ne) **A requerimento da parte ofendida** (vítima ou seu representante).\nf) **Em decorrência de sindicância** que revele indícios de crime militar.\n\n⚠️ **Pegadinha:** A instauração de ofício é possível apenas nos crimes de ação pública incondicionada. Nos crimes que dependem de requisição (arts. 136 a 141 do CPM), o IPM só pode ser instaurado após a requisição."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas preliminares (Art. 12) – OBRIGATÓRIAS",
+          "texto": "Art. 12: 'Ao tomar conhecimento de uma infração penal militar, a autoridade deverá, de imediato:'\n\n1. **Dirigir-se ao local** do fato, preservando o estado das coisas;\n2. **Apreender** instrumentos e objetos relacionados ao crime;\n3. **Efetuar a prisão** do infrator (se for o caso);\n4. **Colher provas** que sirvam ao esclarecimento;\n5. Se a infração **não for militar** (evidentemente), comunicar à autoridade policial competente e apresentar o infrator;\n6. Se o infrator for **Oficial-General**, comunicar ao Ministro da Defesa e ao Chefe de Estado-Maior.\n\n⚠️ **Pegadinha:** A autoridade deve, ao tomar conhecimento, realizar essas medidas imediatamente – não pode postergar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Encarregado do IPM (Arts. 13 a 15)",
+          "texto": "O IPM é presidido por um oficial da ativa, chamado de **encarregado** (Art. 15).\n\n**Posto mínimo:** deve ser **Capitão ou Capitão-Tenente** (oficial). Em crimes contra a segurança nacional, deve ser oficial superior (Major, Tenente-Coronel ou Coronel).\n\n**Atribuições (Art. 13):**\n- Ouvir o ofendido, indiciado e testemunhas;\n- Promover reconhecimentos, acareações, exames, perícias, buscas e apreensões;\n- Proteger testemunhas;\n- Proceder à reprodução simulada dos fatos (desde que não ofenda a moralidade ou a hierarquia);\n- Solicitar ao Procurador-Geral a assistência de procurador para casos complexos (Art. 14).\n\n**Escrivão (Art. 11):** designado pelo encarregado:\n- Se o indiciado for **oficial**: escrivão será Segundo ou Primeiro-Tenente;\n- Se o indiciado for **praça**: escrivão será Sargento, Subtenente ou Suboficial.\n\n⚠️ **Pegadinha:** O encarregado **sempre** é oficial (nunca praça)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Defensor (Art. 16-A – NOVO!)",
+          "texto": "Art. 16-A: 'Em investigações sobre uso da força letal por policiais militares ou bombeiros militares, o indiciado deve ser citado e pode constituir defensor em até 48 horas. Se não o fizer, a autoridade deve intimar a corporação para indicar defensor.'\n\n**Garantia extra:** assegura ao militar envolvido em uso de força letal o direito à defesa técnica desde o início da investigação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Incomunicabilidade (Art. 17) – VÁLIDA no IPM!",
+          "texto": "Art. 17: 'O encarregado pode manter o preso incomunicável por até 3 dias, mediante despacho fundamentado.'\n\n**Diferente do processo comum:** no IPM, a incomunicabilidade é permitida por 3 dias (Súmula 3 do STF reconhece a constitucionalidade desse dispositivo no âmbito militar).\n\n⚠️ **Pegadinha:** No processo penal comum, a incomunicabilidade não foi recepcionada (CF/88). Mas no processo penal militar, o Art. 17 do CPPM permanece válido (Súmula 3 STF).\n\n📌 **Lembrete:** a incomunicabilidade não impede o contato com o advogado (SV 14) – apenas restringe contato com outras pessoas."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Detenção do indiciado (Art. 18)",
+          "texto": "Art. 18: 'A pedido do encarregado, o indiciado pode ser detido, independentemente de flagrante, por até 30 dias.'\n\n**Prorrogação:** +20 dias pelo Comandante da Região, Distrito Naval ou Zona Aérea.\n\n**Alternativas:** o encarregado pode solicitar ao juiz a prisão preventiva ou a menagem.\n\n⚠️ **Pegadinha:** A detenção a pedido do encarregado não é prisão preventiva – é uma medida administrativa, com prazo fixo (30 + 20)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inquirição (Art. 19)",
+          "texto": "Art. 19: 'Testemunhas e indiciado devem ser ouvidos entre 7h e 18h (exceto em urgência). Cada testemunha: máximo 4h consecutivas, com descanso de 30 min se ultrapassar. Depoimento não concluído até as 18h é encerrado e retomado no dia seguinte.'\n\n**Regra:** o depoimento não pode ultrapassar o horário limite, sob pena de nulidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazos do IPM (Art. 20) – DECORE!",
+          "texto": "Art. 20: os prazos para conclusão do IPM são:\n\n- **Preso:** 20 dias (contados da execução da ordem de prisão);\n- **Solto:** 40 dias (contados da instauração);\n- **Prorrogação (solto):** +20 dias pela autoridade superior, se houver exames/perícias em andamento ou diligências indispensáveis;\n- **Prorrogação além disso:** só por dificuldade insuperável, a juízo do Ministro de Estado competente.\n\n⚠️ **Pegadinha:** O prazo para preso é **improrrogável** – se não concluído, o preso deve ser solto (salvo se já houver denúncia)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Relatório, remessa e arquivamento (Arts. 22-25)",
+          "texto": "**Relatório (Art. 22):** minucioso, com diligências, ouvidos, resultados, e conclusão sobre indícios e eventual prisão preventiva.\n\n**Remessa (Art. 23):** ao Auditor da Circunscrição onde ocorreu o crime. Se for fora do país, à 11ª Circunscrição (Brasília).\n\n**Arquivamento (Art. 24):** a autoridade militar **NÃO PODE arquivar** o IPM, mesmo que conclua pela inexistência de crime. Deve remeter ao juiz e ao MPM.\n\n**Novo IPM (Art. 25):** se novas provas surgirem, pode ser instaurado outro, desde que não haja caso julgado ou extinção da punibilidade.\n\n**Devolução (Art. 26):** os autos não podem ser devolvidos à autoridade policial, salvo por requisição do MPM para diligências.\n\n**Auto de flagrante suficiente (Art. 27):** se o auto de prisão em flagrante já tiver todos os elementos, pode dispensar o IPM. Exceto se o crime deixar vestígios e depender de perícia."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Reabertura do IPM arquivado",
+          "texto": "No processo penal militar, a reabertura do IPM arquivado é possível, mas com regras mais rígidas:\n\n- **Requisito:** surgimento de novas provas ou informações relevantes (Art. 25 do CPPM);\n- **Controle:** o MPM e o STM têm papel fiscalizador mais rigoroso, especialmente em crimes contra a segurança nacional;\n- **Não faz coisa julgada material:** o arquivamento não impede nova investigação, mas exige justificativa robusta.\n\n**Diferença para o IP comum:** no IP comum, o arquivamento também não faz coisa julgada (Súmula 524 STF), mas o controle é menos rigoroso, e a reabertura pode ser feita com mais facilidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Valor probatório das peças do IPM",
+          "texto": "As perícias, exames e avaliações realizados no IPM têm **alto valor probatório** no processo penal militar, desde que:\n\n- Observadas as formalidades legais (ex.: laudo pericial com dois peritos, contraditório mitigado);\n- As peças sejam ratificadas em juízo ou submetidas a contraditório no processo;\n- Não haja manifestação contrária de uma das partes.\n\n**Diferença para o IP comum:** no processo comum, o art. 155 do CPP proíbe o juiz de fundamentar sua decisão exclusivamente nos elementos do inquérito. No processo militar, o formalismo e a natureza inquisitiva conferem maior peso a esses elementos, podendo dispensar a repetição de perícias complexas em juízo."
+        }
+      ]
+    },
+    {
+      "titulo": "Inquérito Policial Comum – Visão Geral",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o Inquérito Policial (IP)?",
+          "texto": "O Inquérito Policial (IP) é um procedimento administrativo investigatório, conduzido pela polícia judiciária (Polícia Civil ou Federal), que tem como finalidade apurar a existência de infração penal e identificar sua autoria, reunindo elementos de informação para subsidiar a ação penal.\n\n**Objetivo:** subsidiar o Ministério Público (ou o ofendido, nos crimes privados) na decisão de oferecer denúncia/queixa ou arquivar.\n\n📌 **Base legal:** Arts. 4º a 23 do CPP."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Características do IP comum – MNEMÔNICO IDOSO",
+          "texto": "O IP comum tem as seguintes características, resumidas pelo mnemônico **IDOSO**:\n\n- **I**nquisitivo – não há contraditório pleno, mas há garantias mínimas (direito ao silêncio, assistência de advogado).\n- **D**ispensável – o MP pode denunciar sem IP, se tiver provas suficientes.\n- **O**ficial – conduzido por órgão oficial do Estado (Delegado de Polícia).\n- **S**igiloso – para terceiros, mas o advogado tem acesso (SV 14).\n- **O**ficioso – a autoridade deve agir de ofício (ação pública incondicionada).\n- **I**ndisponível – o delegado não pode arquivar; só o juiz, a pedido do MP.\n\n⚠️ **Atenção:** o IP é peça informativa – não é processo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Instauração do IP (Art. 5º CPP)",
+          "texto": "O IP pode ser instaurado pelas seguintes formas (Art. 5º):\n\n1. **De ofício** – pela autoridade policial (crimes de ação pública incondicionada).\n2. **Por requisição** – do juiz ou do Ministério Público.\n3. **A requerimento do ofendido** – em crimes de ação pública condicionada à representação, ou em ação privada (com representação).\n\n**Auto de Prisão em Flagrante (APF):** uma vez lavrado, o IP já está instaurado, sem necessidade de portaria.\n\n**Notitia Criminis:** o conhecimento do crime pode ser:\n- Direta/Espontânea (autoridade presencia);\n- Indireta/Provocada (informação de terceiros);\n- Coercitiva (flagrante);\n- Inqualificada (denúncia anônima – deve ser verificada antes de instaurar)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diligências (Art. 6º CPP)",
+          "texto": "Ao tomar conhecimento do crime, a autoridade policial **deverá** (Art. 6º):\n\n- Ir ao local e preservá-lo;\n- Apreender objetos;\n- Ouvir vítima e testemunhas;\n- Realizar reconhecimento e acareações;\n- Determinar perícias;\n- Investigar a vida pregressa do indiciado.\n\n**Diligência proibida:** reprodução simulada dos fatos, se contrária à moralidade ou ordem pública.\n\n⚠️ **Condução coercitiva:** vedada pelo STF (ADPF 444) – não pode ser usada para interrogatório."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Indiciamento (Lei 12.830/2013)",
+          "texto": "O indiciamento é ato privativo do delegado de polícia (Lei 12.830/2013, Art. 2º, §6º), fundamentado em análise técnico-jurídica, com:\n\n- Autoria (quem cometeu);\n- Materialidade (provas da ocorrência);\n- Circunstâncias (como ocorreu).\n\n**O que NÃO pode:**\n- Juiz não pode determinar indiciamento;\n- MP não pode determinar indiciamento;\n- Indiciamento não torna o investigado réu (a denúncia é que faz).\n\n**Desindicamento:** possível por decisão judicial que revogue o ato.\n\n**Sujeito passivo:** qualquer pessoa maior de idade, exceto magistrados e membros do MP (STF – Inq 2.411) – nesses casos, os autos devem ser encaminhados à autoridade competente."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazos do IP comum",
+          "texto": "Os prazos para conclusão do IP são (Art. 10, CPP):\n\n- **Indiciado preso:** 10 dias (prorrogável apenas em situações excepcionais);\n- **Indiciado solto:** 30 dias (prorrogável).\n\n**Observações:**\n- O prazo começa com a instauração do IP;\n- O descumprimento do prazo não gera nulidade do processo (IP é peça informativa);\n- A extrapolação pode gerar relaxamento da prisão (se ilegal por excesso de prazo).\n\n**Leis especiais:** podem prever prazos diferentes (ex.: Lei de Drogas – 15/30 dias)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Arquivamento do IP (Súmula 524 STF)",
+          "texto": "O arquivamento do IP é ato privativo do juiz, a requerimento do MP (o delegado não pode arquivar).\n\n**Hipóteses:**\n- Falta de provas;\n- Inexistência do crime;\n- Excludentes de ilicitude/culpabilidade;\n- Prescrição;\n- ANPP (acordo de não persecução penal).\n\n**Desarquivamento:** pode ocorrer quando surgirem novas provas (Súmula 524 STF) – o arquivamento não gera coisa julgada material definitiva.\n\n**Vícios no IP:** irregularidades no IP não anulam o processo penal (pois o IP é dispensável)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Acesso do advogado e direitos do investigado",
+          "texto": "**Súmula Vinculante 14 do STF:** o advogado tem acesso aos autos e às provas já documentadas, mas não a diligências em andamento.\n\n**Direitos do investigado:**\n- Direito ao silêncio;\n- Assistência de advogado;\n- Respeito à dignidade;\n- Não ser submetido a condução coercitiva (ADPF 444)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Valor probatório do IP comum (Art. 155 CPP)",
+          "texto": "Art. 155: 'Os elementos informativos colhidos no inquérito não são provas chanceladas pelo contraditório e ampla defesa, possuindo desvalor legal preestabelecido. Isoladamente, nunca devem legitimar a fundamentação de uma sentença.'\n\n**Regra:** o juiz não pode fundamentar sua decisão exclusivamente nos elementos do IP – deve basear-se nas provas produzidas em juízo, com contraditório.\n\n**Exceção:** provas cautelares não repetíveis (ex.: perícia de local) podem ser valoradas, desde que observado o contraditório diferido."
+        }
+      ]
+    },
+    {
+      "titulo": "Comparação – IPM x IP Comum",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Quadro comparativo",
+          "tabela": {
+            "colunas": ["Critério", "IPM (Militar)", "IP Comum (CPP)"],
+            "linhas": [
+              ["Base legal", "Arts. 9º a 27 do CPPM", "Arts. 4º a 23 do CPP"],
+              ["Condução", "Oficial militar (encarregado)", "Delegado de Polícia Civil/Federal"],
+              ["Posto mínimo do encarregado", "Capitão ou Capitão-Tenente", "N/A (delegado de carreira)"],
+              ["Escrivão", "Oficial ou Sargento (conforme indiciado)", "Escrivão de polícia"],
+              ["Prazo (preso)", "20 dias (improrrogável)", "10 dias (prorrogável excepcionalmente)"],
+              ["Prazo (solto)", "40 dias (+20 prorrogáveis)", "30 dias (prorrogável)"],
+              ["Incomunicabilidade", "Permitida por 3 dias (Art. 17)", "Não recepcionada (CF/88)"],
+              ["Arquivamento", "Não pode pela autoridade militar (Art. 24)", "Não pode pelo delegado (Art. 17 CPP)"],
+              ["Reabertura", "Possível com novas provas (Art. 25)", "Possível com novas provas (Súmula 524 STF)"],
+              ["Valor probatório", "Alto (perícias aproveitadas no processo)", "Baixo (mera informação – art. 155 CPP)"],
+              ["Sigilo", "Regra, com acesso do defensor (SV 14)", "Regra, com acesso do defensor (SV 14)"],
+              ["Caráter", "Inquisitivo e formalista", "Inquisitivo, mas com mais garantias"]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Pegadinhas comparativas",
+          "texto": "📌 **IPM:** incomunicabilidade permitida por 3 dias (Súmula 3 STF) – VÁLIDO.\n📌 **IP comum:** incomunicabilidade NÃO é permitida (CF/88).\n📌 **IPM:** encarregado deve ser oficial (nunca praça).\n📌 **IP comum:** delegado pode ser civil (não precisa ser bacharel em Direito? Sim, pode, mas a Lei 12.830/2013 exige bacharel em Direito para delegado).\n📌 **IPM:** prisão do indiciado a pedido do encarregado – até 30+20 dias.\n📌 **IP comum:** prisão preventiva só por ordem judicial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Incomunicabilidade – DIFERENÇA CRUCIAL (CAI MUITO!)",
+          "texto": "📌 **IPM (militar):** a incomunicabilidade é VÁLIDA por até 3 dias (Art. 17 do CPPM, Súmula 3 STF).\n📌 **IP comum (CPP):** a incomunicabilidade é INCONSTITUCIONAL (não foi recepcionada pela CF/88).\n\n⚠️ **Pegadinha:** A banca pode afirmar que a incomunicabilidade no IPM é inconstitucional – **ERRADO**. É válida no processo penal militar.\n\n📌 **Regra geral:** no processo penal militar, a incomunicabilidade existe; no processo penal comum, não."
+        }
+      ]
+    },
+    {
+      "titulo": "Peculiaridades Finais do IPM (Complementações)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Reabertura do IPM arquivado",
+          "texto": "No processo penal militar, a reabertura do IPM arquivado é possível, mas com regras mais rígidas:\n\n- **Requisito:** surgimento de novas provas ou informações relevantes (Art. 25 do CPPM);\n- **Controle:** o MPM e o STM têm papel fiscalizador mais rigoroso, especialmente em crimes contra a segurança nacional;\n- **Não faz coisa julgada material:** o arquivamento não impede nova investigação, mas exige justificativa robusta e controle mais apertado.\n\n**Diferença:** no IP comum, o arquivamento também não faz coisa julgada (Súmula 524 STF), mas o controle é menos rigoroso, e a reabertura pode ser feita com mais facilidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Valor probatório das peças do IPM no processo",
+          "texto": "As perícias, exames e avaliações realizados no IPM têm **alto valor probatório** no processo penal militar, desde que:\n\n- Observadas as formalidades legais (ex.: laudo pericial com dois peritos, contraditório mitigado);\n- As peças sejam ratificadas em juízo ou submetidas a contraditório no processo;\n- Não haja manifestação contrária de uma das partes.\n\n**Diferença para o IP comum:** no processo comum, o art. 155 do CPP proíbe o juiz de fundamentar sua decisão exclusivamente nos elementos do inquérito. No processo militar, o formalismo e a natureza inquisitiva conferem maior peso a esses elementos, podendo dispensar a repetição de perícias complexas em juízo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prisão administrativa ou preventiva durante o IPM",
+          "texto": "Durante o IPM, o indiciado pode ser submetido a:\n\n- **Prisão em flagrante** (Art. 243 e seguintes do CPPM);\n- **Detenção a pedido do encarregado** (Art. 18 – até 30 dias, prorrogável por mais 20);\n- **Prisão preventiva** (decretada pelo juiz, a requerimento do encarregado ou do MPM);\n- **Menagem** (substitutiva da preventiva, quando cabível).\n\n**Prazos de custódia:**\n- IPM com indiciado preso: 20 dias (improrrogável – os autos devem ser remetidos ao juiz para decisão);\n- IPM com indiciado solto: 40 dias (prorrogável por mais 20).\n\n⚠️ **Atenção:** o descumprimento do prazo para preso pode gerar relaxamento da prisão, salvo se a denúncia já tiver sido oferecida ou se houver prisão preventiva fundamentada."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **IPM:** escrito, sigiloso, inquisitivo, indisponível, oficioso, dispensável.\n📌 **Encarregado:** oficial, Capitão ou superior. Escrivão: oficial (se indiciado oficial) ou Sargento/Subtenente (se praça).\n📌 **Prazo IPM:** 20 dias (preso) / 40 dias (solto, +20 prorrogáveis).\n📌 **Incomunicabilidade:** permitida no IPM (3 dias – Art. 17, CPPM) – válida (Súmula 3 STF).\n📌 **IPM não pode ser arquivado pela autoridade militar (Art. 24) – só o juiz/MP.**\n📌 **Valor probatório do IPM:** alto (perícias aproveitadas no processo).\n📌 **IP comum:** prazo 10/30 dias, incomunicabilidade não recepcionada, valor probatório baixo (art. 155 CPP)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'O encarregado do IPM pode ser praça.' → **ERRADO** (deve ser oficial).\n❌ 'O IPM tem o mesmo prazo do IP comum.' → **ERRADO** (20/40 dias vs 10/30 dias).\n❌ 'A incomunicabilidade no IPM é inconstitucional.' → **ERRADO** (é válida – Súmula 3 STF).\n❌ 'O IPM pode ser arquivado pelo encarregado.' → **ERRADO** (não pode – Art. 24).\n❌ 'O IPM é dispensável, mas o MP sempre precisa dele para denunciar.' → **ERRADO** (dispensável – Art. 28).\n❌ 'As provas do IPM não têm valor no processo militar.' → **ERRADO** (têm alto valor probatório)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – IPM x IP comum",
+          "imagem": "./IMAGENS/09.jpg"
+        }
+      ]
+    }
+  ]
+};

@@ -1,0 +1,129 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Direitos Humanos",
+  "titulo": "Características",
+  "icone": "📖",
+  "descricao": "As principais características atribuídas pela doutrina aos Direitos Humanos — tema recorrente em provas objetivas.",
+  "topicos": [
+    {
+      "titulo": "Características clássicas",
+      "subtopicos": [
+        {
+          "titulo": "Universalidade e historicidade",
+          "cards": [
+            {
+              "tipo": "conteudo",
+              "titulo": "Universalidade",
+              "texto": "Aplicam-se a **todo ser humano**, sem distinção de nacionalidade, raça, gênero, religião ou qualquer outra condição."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Historicidade",
+              "texto": "Não nasceram prontos: foram **conquistados gradualmente** ao longo da história, e continuam evoluindo (daí a ideia de \"gerações\" ou \"dimensões\")."
+            }
+          ]
+        },
+        {
+          "titulo": "Irrenunciabilidade e inalienabilidade",
+          "cards": [
+            {
+              "tipo": "conteudo",
+              "titulo": "Irrenunciabilidade",
+              "texto": "O titular **não pode abrir mão** definitivamente de um direito humano, ainda que queira — por exemplo, ninguém pode validamente \"vender\" sua própria liberdade."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Inalienabilidade",
+              "texto": "Por não terem conteúdo patrimonial disponível, os Direitos Humanos **não podem ser transferidos** a terceiros."
+            }
+          ]
+        },
+        {
+          "titulo": "Imprescritibilidade e indivisibilidade",
+          "cards": [
+            {
+              "tipo": "conteudo",
+              "titulo": "Imprescritibilidade",
+              "texto": "Não se perdem pelo **decurso do tempo** — o titular pode exigir sua proteção a qualquer momento."
+            },
+            {
+              "tipo": "conteudo",
+              "titulo": "Indivisibilidade",
+              "texto": "Direitos civis, políticos, econômicos, sociais e culturais formam um **conjunto único**: não é possível garantir uns e ignorar outros."
+            }
+          ]
+        }
+      ],
+      "cards": []
+    },
+    {
+      "titulo": "Outras características cobradas em prova",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "texto": "Além das anteriores, a doutrina costuma citar:",
+          "itens": [
+            "**Interdependência** — o exercício pleno de um direito frequentemente depende de outro (ex.: educação e trabalho).",
+            "**Relatividade/limitabilidade** — nenhum direito é absoluto; pode ceder diante de outro direito igualmente relevante, mediante ponderação.",
+            "**Vedação do retrocesso** — uma vez alcançado certo nível de proteção, o Estado não pode simplesmente suprimi-lo sem justificativa.",
+            "**Efetividade** — o Estado não deve apenas reconhecer os direitos, mas criar meios reais para seu cumprimento.",
+            "**Inviolabilidade** — impede a ação do Estado ou de terceiros para desrespeitá-los sem consequência juridicamente prevista.",
+            "**Inerência (ou Essencialidade)** — pertencem à pessoa pela sua simples condição de ser humano, independentemente de concessão estatal.",
+            "**Complementaridade** — os direitos devem ser interpretados de forma conjunta e integrada, garantindo a proteção integral do indivíduo.",
+            "**Exigibilidade** — os indivíduos têm o poder de exigir do Estado a efetivação e proteção desses direitos, inclusive por meios judiciais e internacionais."
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Cuidado com \"absoluto\"",
+          "texto": "É comum a banca afirmar que \"os Direitos Humanos são absolutos e não comportam qualquer limitação\". Essa afirmação está **errada**: mesmo direitos centrais, como a liberdade de expressão, podem sofrer restrições proporcionais para proteger outros direitos."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Vedação do Retrocesso (Efeito Cliquete)",
+          "texto": "A metáfora do **Efeito Cliquete** (effet de cliquet), muito cobrada em provas, ilustra a vedação do retrocesso: uma vez subido um degrau na proteção de um direito humano, não se pode voltar atrás. O Estado não pode reduzir ou suprimir o patamar de proteção já alcançado."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚠️ A Exceção da Relatividade (Pegadinha Avançada!)",
+          "texto": "Embora a regra seja a relatividade (nenhum direito é absoluto), a doutrina e a jurisprudência majoritárias apontam **duas vedações praticamente absolutas**: a proibição da **tortura e tratamentos desumanos** e a proibição da **escravidão e trabalho escravo**. Atenção em prova: se a questão afirmar 'os Direitos Humanos são relativos' -> **certo**; se perguntar se a proibição da tortura pode ser relativizada -> **errado**."
+        }
+      ]
+    },
+    {
+      "titulo": "Universalismo x Relativismo Cultural (Debate em Provas)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Universalismo",
+          "texto": "Os Direitos Humanos aplicam-se a **todos**, em qualquer lugar do mundo, independentemente da cultura local."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Relativismo Cultural",
+          "texto": "Defende que os direitos devem ser interpretados conforme a cultura, tradição e costumes de cada sociedade."
+        },
+        {
+          "tipo": "contexto",
+          "texto": "A ordem internacional de direitos humanos (ONU e sistemas regionais) **rejeita o relativismo cultural** quando este serve como justificativa para violações da dignidade humana."
+        }
+      ]
+    },
+    {
+      "titulo": "Diferenciação conceitual estrita (Direitos Humanos vs. Direitos Fundamentais)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Conceito e plano de eficácia",
+          "texto": "Embora muitas vezes sejam usados como sinônimos na prática, as bancas cobram a diferença técnica:\n\n**Direitos Humanos** — são aqueles consagrados no **direito internacional** (tratados, convenções, resoluções da ONU). Têm aplicação no plano internacional.\n\n**Direitos Fundamentais** — são aqueles **positivados no direito interno** (inseridos no texto de uma Constituição rígida, como a CF/88). Têm aplicação no plano constitucional interno.\n\nEssa distinção de plano de eficácia (internacional vs. constitucional) é fundamental para questões de prova."
+        },
+               {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

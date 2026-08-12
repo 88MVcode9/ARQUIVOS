@@ -1,0 +1,127 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Tipos de Prisões Cautelares no Processo Penal Militar",
+  "icone": "⛓️",
+  "descricao": "Análise completa das prisões cautelares no processo penal militar, com base nos Arts. 243 a 255 do CPPM (DL 1.002/1969). Abrange a prisão em flagrante (quem pode prender, espécies, regras para desertor/insubmisso, prazo para lavratura do auto, comunicação ao juiz), a prisão preventiva (requisitos, fundamento exclusivo de hierarquia e disciplina, prazos), e a aplicação subsidiária de medidas cautelares diversas (art. 319 do CPP). Foco nas pegadinhas de concurso, como a diferença entre \"pode\" e \"deve\" prender, as espécies de flagrante, e o fundamento especial da hierarquia e disciplina.",
+  "topicos": [
+    {
+      "titulo": "Prisão em Flagrante – Art. 243 a 244",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a prisão em flagrante?",
+          "texto": "A prisão em flagrante é a prisão de alguém que está cometendo, acabou de cometer ou é perseguido logo após cometer um crime militar. No âmbito do CPPM, a prisão em flagrante tem regras próprias, mas compartilha a mesma essência do direito penal comum.\n\n**Finalidade:** garantir a imediata apresentação do autor à autoridade competente, a colheita de provas e a segurança da investigação."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem pode prender? (Art. 243)",
+          "texto": "Art. 243: 'Qualquer pessoa poderá prender quem esteja em flagrante delito, ou seja desertor ou insubmisso. Os militares, nesses casos, têm o dever de prender.'\n\n**Regras:**\n- **Qualquer pessoa do povo** – tem a faculdade (pode) de prender quem esteja em flagrante de crime militar, ou que seja desertor ou insubmisso.\n- **Militares** – têm o **dever** de prender nessas mesmas situações. A omissão pode caracterizar crime militar (ex.: art. 196 do CPM – deixar de prender desertor).\n\n📌 **Diferença crucial (pegadinha):** \"pode\" para civis; \"deve\" para militares.\n\n⚠️ **Exceção:** A captura de desertor e insubmisso não exige que estejam cometendo um crime no momento – a própria condição de desertor/insubmisso autoriza a prisão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de flagrante (Art. 244)",
+          "texto": "Art. 244: 'Considera-se em flagrante delito quem está cometendo a infração, quem acaba de cometê-la, quem é perseguido logo após, e quem é encontrado depois com objetos que façam presumir ser o autor da infração.'\n\n**Classificação doutrinária:**\n\n- **Flagrante próprio (real):** o agente está cometendo o crime ou acabou de cometê-lo (ainda no local).\n- **Flagrante impróprio (quase-flagrante):** o agente é perseguido logo após o crime, pela autoridade ou por particulares, em situação que indique sua autoria.\n- **Flagrante presumido (ficto):** o agente é encontrado depois, com objetos, armas ou vestígios que façam presumir ser o autor do crime (ex.: encontrado com a arma do crime horas depois).\n\n⚠️ **Pegadinha:** Mesmo que não haja testemunhas do crime, o auto de prisão em flagrante (APF) deve ser lavrado com **duas testemunhas da apresentação do preso** (testemunhas instrumentárias)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prisão de desertor e insubmisso (peculiaridade militar)",
+          "texto": "O CPPM trata de forma específica a captura de **desertor** e **insubmisso**:\n\n**Desertor (Art. 243, p.ú.):**\n- O militar ou civil pode prender o desertor a qualquer tempo, dentro do prazo da deserção (ou mesmo após, se ainda não prescrito).\n- A prisão do desertor não depende de flagrante de outro crime – a condição de desertor já autoriza a captura.\n- Após a captura, o desertor deve ser apresentado à autoridade militar para os procedimentos disciplinares e penais.\n\n**Insubmisso:**\n- Aquele que não se apresenta ao serviço militar obrigatório no prazo legal.\n- A insubmissão autoriza a prisão imediata, sendo o insubmisso conduzido à junta de serviço militar para incorporação ou julgamento.\n\n⚠️ **Pegadinha:** A prisão de desertor e insubmisso não exige flagrante de outro delito – a condição especial já justifica a captura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazo para lavratura do Auto de Prisão em Flagrante (APF)",
+          "texto": "O CPPM não fixa um prazo específico em horas para a conclusão do APF, mas a interpretação sistemática com a CF/88 e a jurisprudência estabelece:\n\n- O APF deve ser lavrado **imediatamente** (no menor tempo possível);\n- A comunicação ao juiz competente e ao Ministério Público Militar deve ser feita em **até 24 horas** (art. 5º, LXII, CF e art. 248, CPPM);\n- A entrega da **nota de culpa** ao preso também deve ocorrer em até 24 horas (art. 5º, LXIV, CF).\n\n**Fluxo prático:**\n1. Captura → condução à autoridade militar;\n2. Lavratura do APF (com as testemunhas);\n3. Comunicação imediata ao juiz e ao MP;\n4. Entrega da nota de culpa ao preso.\n\n⚠️ **Pegadinha:** A banca pode perguntar se o prazo para lavratura do APF é de 24 horas – o correto é que a **comunicação** ao juiz é em 24h; o auto deve ser lavrado o mais rápido possível."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Testemunhas do APF (pegadinha clássica)",
+          "texto": "📌 Mesmo que não haja testemunhas da infração penal, o auto de prisão em flagrante deve ser lavrado com a presença de **duas testemunhas que presenciaram a apresentação do preso** (testemunhas de reconhecimento ou instrumentárias).\n\n**Exceção:** Se não houver testemunhas disponíveis, o auto pode ser lavrado com a assinatura de duas pessoas que tenham visto o preso ser trazido, garantindo a regularidade formal."
+        }
+      ]
+    },
+    {
+      "titulo": "Prisão Preventiva – Arts. 254 e 255",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a prisão preventiva?",
+          "texto": "Art. 254: 'A prisão preventiva poderá ser decretada pelo juiz, antes do julgamento, nos termos do artigo seguinte, quando for necessária para garantir a ordem pública, a conveniência da instrução criminal, a segurança da aplicação da lei penal, ou a manutenção das normas de hierarquia e disciplina.'\n\n**Natureza:** é medida cautelar, excepcional, decretada pelo juiz (não pela autoridade policial), fundamentada em requisitos concretos.\n\n**Prazo:** a prisão preventiva não tem prazo máximo fixado em lei, mas deve ser mantida apenas enquanto durarem os motivos que a justificaram (princípio da proporcionalidade e da duração razoável do processo)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Motivos para decretação (Art. 255) – SUPER COBRADO!",
+          "texto": "Art. 255: 'A prisão preventiva pode ser decretada quando:'\n\n- I – **Garantia da ordem pública:** para evitar a reiteração criminosa ou a comoção social;\n- II – **Conveniência da instrução criminal:** para evitar que o acusado destrua provas, ameace testemunhas ou dificulte a instrução;\n- III – **Periculosidade do acusado:** quando o acusado demonstra ser perigoso (ex.: reincidência, violência);\n- IV – **Segurança da aplicação da lei penal:** para garantir que, em caso de condenação, a pena possa ser cumprida (ex.: risco de fuga);\n- V – **Manutenção das normas de hierarquia e disciplina** – fundamento **EXCLUSIVO** da Justiça Militar, que não existe no processo penal comum.\n\n⚠️ **Pegadinha:** O inciso V é exclusivo do processo penal militar! A banca pode afirmar que esse fundamento existe na justiça comum – **ERRADO**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Hierarquia e disciplina – fundamento EXCLUSIVO da Justiça Militar",
+          "texto": "O inciso V do Art. 255 do CPPM prevê a **manutenção das normas de hierarquia e disciplina** como fundamento autônomo para a prisão preventiva.\n\n**Por que é exclusivo?**\n- A Justiça Militar visa não apenas a punição do crime, mas também a preservação da disciplina castrense, essencial para a eficiência e a ordem das Forças Armadas e das Polícias Militares.\n- Um militar que comete um crime grave pode gerar desmoralização da tropa, comprometendo a hierarquia – a prisão preventiva pode ser decretada para restabelecer a ordem.\n\n**No processo penal comum (CPP):** não existe esse fundamento – a prisão preventiva no CPP tem outros motivos (ordem pública, conveniência da instrução, etc.).\n\n⚠️ **Pegadinha:** A banca pode afirmar que a \"manutenção da hierarquia e disciplina\" também fundamenta a preventiva no processo comum – **ERRADO**. É exclusivo do processo penal militar."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Fundamento exclusivo: hierarquia e disciplina",
+          "texto": "📌 O fundamento da **manutenção das normas de hierarquia e disciplina** é uma peculiaridade do direito penal militar, prevista no Art. 255, V, do CPPM.\n\n**Justificativa:** A Justiça Militar visa não apenas a punição do crime, mas também a preservação da disciplina castrense, essencial para a eficiência e a ordem das Forças Armadas e das Polícias Militares.\n\n**Exemplo:** Um militar que comete um crime grave pode gerar desmoralização da tropa, comprometendo a hierarquia – a prisão preventiva pode ser decretada para restabelecer a ordem.\n\n⚠️ **Pegadinha:** A banca pode dizer que a \"manutenção da hierarquia e disciplina\" também fundamenta a preventiva no processo comum – **ERRADO**. É exclusivo do processo penal militar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos para decretação da preventiva",
+          "texto": "Para a decretação da prisão preventiva, além de um dos motivos do Art. 255, o juiz deve verificar:\n\n- **Fumus comissi delicti:** prova da existência do crime e indícios suficientes de autoria;\n- **Periculum libertatis:** perigo gerado pela liberdade do acusado (um dos motivos do Art. 255);\n- **Fundamentação concreta:** não basta invocar genericamente os motivos – é necessário demonstrar, com elementos dos autos, por que a preventiva é necessária.\n\n**Súmula 9 do STM:** 'Para a decretação da prisão preventiva militar, é indispensável a existência de elementos concretos de autoria e materialidade, além da demonstração de um dos motivos do Art. 255 do CPPM.'\n\n⚠️ **Pegadinha:** A preventiva não pode ser decretada com base em meras suspeitas – exige lastro probatório mínimo (justa causa)."
+        }
+      ]
+    },
+    {
+      "titulo": "Medidas Cautelares Diversas da Prisão (Subsidiariedade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Aplicação do Art. 319 do CPP ao processo penal militar",
+          "texto": "O CPPM é de 1969 e previa basicamente a prisão preventiva e o flagrante. No entanto, com a alteração trazida pela Lei nº 12.403/2011 no CPP comum, os tribunais superiores pacificaram o entendimento de que as **medidas cautelares diversas da prisão** (previstas no art. 319 do CPP comum) também se aplicam **subsidiariamente** ao processo penal militar, visando a adequação ao princípio da proporcionalidade e da presunção de inocência.\n\n**Exemplos de medidas cautelares (Art. 319, CPP):**\n- Comparecimento periódico em juízo;\n- Proibição de ausentar-se da comarca;\n- Proibição de frequentar determinados lugares;\n- Proibição de contato com determinadas pessoas;\n- Suspensão do exercício da função pública militar (adaptação específica);\n- Recolhimento domiciliar noturno ou em dias de folga.\n\n**Fundamento:** A prisão preventiva é medida extrema; deve ser utilizada apenas quando as medidas alternativas forem insuficientes.\n\n⚠️ **Pegadinha:** A banca pode afirmar que as cautelares do art. 319 do CPP não se aplicam ao processo penal militar – **ERRADO**, aplicam-se subsidiariamente, desde que compatíveis com o rito castrense."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Suspensão do exercício da função pública militar",
+          "texto": "Uma das medidas cautelares possíveis é a **suspensão do exercício da função pública militar** (adaptação do inciso VI do art. 319 do CPP). O militar pode ser afastado do cargo ou da função, sem perda de vencimentos, para evitar que continue a cometer crimes ou influencie testemunhas.\n\n**Prazo:** a suspensão pode ser decretada pelo juiz, por prazo determinado, e deve ser revista periodicamente.\n\n**Exemplo:** Um capitão acusado de tráfico de influência pode ser afastado do comando durante a investigação para evitar que continue praticando o crime."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dica de prova – medidas cautelares",
+          "texto": "📌 **Ordem de preferência (princípio da subsidiariedade):**\n1. Medidas cautelares alternativas (art. 319, CPP);\n2. Prisão preventiva (art. 255, CPPM);\n3. Prisão temporária (Lei 7.960/89).\n\n**Regra:** a prisão preventiva só deve ser aplicada quando as medidas cautelares alternativas forem inadequadas ou insuficientes."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STF/STJ/STM)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram importantes teses sobre a prisão em flagrante e a preventiva no âmbito militar:",
+          "itens": [
+            "**STM (Súmula 9):** Para a decretação da prisão preventiva militar, é indispensável a existência de elementos concretos de autoria e materialidade, além da demonstração de um dos motivos do Art. 255 do CPPM.",
+            "**STM (Súmula 10):** A prisão preventiva não pode ser decretada com base exclusivamente no fundamento da ordem pública se não houver demonstração de perigo real (exige-se fundamentação concreta).",
+            "**STF (HC 118.751):** A condução coercitiva para interrogatório é inconstitucional, inclusive no âmbito militar (ADPF 444), salvo se houver ordem judicial para condução com fundamento em prisão preventiva ou flagrante.",
+            "**STF (HC 73.044):** A incomunicabilidade do preso militar (Art. 17 do CPPM) foi revogada, sendo assegurado o direito à assistência de advogado e contato com familiares.",
+            "**STJ (HC 301.429):** A prisão temporária é aplicável no processo penal militar, desde que observados os requisitos da Lei 7.960/89, e pode ser representada pela autoridade policial militar.",
+            "**STM:** O flagrante de desertor não exige que o crime esteja sendo cometido no momento – a condição de desertor já autoriza a prisão."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **Flagrante:** qualquer pessoa PODE prender; militares DEVEM prender.\n📌 **Espécies:** próprio, impróprio, presumido (ficto).\n📌 **Desertor/insubmisso:** não precisam estar cometendo crime – a condição já autoriza a prisão.\n📌 **APF:** lavrado imediatamente; comunicação ao juiz em 24h; nota de culpa em 24h.\n📌 **Preventiva:** só juiz; fundamentação concreta; cinco motivos (o inciso V é exclusivo militar).\n📌 **Hierarquia e disciplina:** fundamento exclusivo da Justiça Militar.\n📌 **Medidas cautelares alternativas:** aplicam-se subsidiariamente (art. 319, CPP).\n📌 **Testemunhas do APF:** duas testemunhas de apresentação, mesmo que não tenham visto o crime."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Prisões Cautelares Militares",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+};

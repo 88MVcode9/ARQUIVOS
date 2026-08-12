@@ -1,0 +1,255 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Direitos Humanos",
+  "titulo": "RESUMO",
+  "descricao": "Resumo completo dos principais tópicos de Direitos Humanos cobrados em concursos, abrangendo características, classificação, gerações/dimensões, sistemas de proteção (global e regionais), tratados internacionais (status no Brasil, processo de incorporação), jurisprudência do STF, princípios doutrinários, proteção a grupos vulneráveis, e mecanismos nacionais de proteção. Inclui atencaos, diferenças técnicas, mnemônicos e pegadinhas frequentes.",
+  "topicos": [
+    {
+      "titulo": "Características dos Direitos Humanos",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Universalidade",
+          "texto": "Aplicam-se a todo ser humano, sem distinção de nacionalidade, raça, gênero, religião ou qualquer outra condição."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Historicidade",
+          "texto": "Não nasceram prontos; foram conquistados gradualmente ao longo da história, evoluindo em gerações/dimensões."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Irrenunciabilidade",
+          "texto": "O titular não pode abrir mão definitivamente de um direito humano (ex.: não pode 'vender' sua liberdade)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Inalienabilidade",
+          "texto": "Por não terem conteúdo patrimonial disponível, não podem ser transferidos a terceiros."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Imprescritibilidade",
+          "texto": "Não se perdem pelo decurso do tempo; o titular pode exigir sua proteção a qualquer momento."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Indivisibilidade",
+          "texto": "Direitos civis, políticos, econômicos, sociais e culturais formam um conjunto único: não é possível garantir uns e ignorar outros."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Outras características cobradas em prova",
+          "texto": "Interdependência (um direito depende de outro), relatividade/limitabilidade (nenhum direito é absoluto, salvo exceções como proibição de tortura e escravidão), vedação do retrocesso (efeito cliquete), efetividade (exigência de meios reais de cumprimento), inviolabilidade (proteção contra desrespeito), inerência (pertencem à pessoa por sua condição humana), complementaridade (interpretação conjunta) e exigibilidade (possibilidade de cobrança judicial)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Atenção: Relatividade e exceções absolutas",
+          "texto": "Regra: os DH são relativos e podem ser limitados por ponderação. Exceções praticamente absolutas: proibição de tortura e tratamentos desumanos; proibição de escravidão e trabalho escravo. Essas vedações não admitem relativização."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Vedação do Retrocesso (Efeito Cliquete)",
+          "texto": "Uma vez subido um degrau na proteção de um direito, o Estado não pode reduzir ou suprimir esse patamar sem justificativa equivalente. Metáfora do cliquete: não se pode voltar atrás."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação dos Direitos Humanos",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Quanto ao conteúdo",
+          "texto": "**Civis e políticos:** liberdade individual e participação política (vida, liberdade, voto, expressão).\n**Econômicos, sociais e culturais (DESC):** prestações positivas do Estado (educação, saúde, moradia, trabalho).\n**Difusos e coletivos:** titularidade transindividual (meio ambiente, paz, patrimônio comum)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Quanto à eficácia e exigibilidade",
+          "texto": "Direitos civis e políticos: em regra, exigibilidade imediata (abstenção do Estado).\nDireitos sociais, econômicos e culturais: em regra, exigibilidade progressiva (ação do Estado), mas o núcleo do mínimo existencial pode ser exigido judicialmente.\nDireitos difusos e coletivos: dependem de instrumentos coletivos (ex.: ação civil pública)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Quanto ao papel do Estado (Status de Jellinek)",
+          "texto": "**Status Negativo (Libertatis):** Estado deve se abster (1ª geração – civis).\n**Status Positivo (Civitatis):** indivíduo exige prestações (2ª geração – sociais).\n**Status Ativo (Politicus):** participação na formação da vontade do Estado (direitos políticos).\n**Status Passivo (Subiecti):** submissão aos deveres impostos pelo Estado (deveres fundamentais)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "Negativo = abstenção (1ª); Positivo = prestação (2ª); Ativo = participação (voto); Passivo = deveres (transversal)."
+        }
+      ]
+    },
+    {
+      "titulo": "Gerações (Dimensões) dos Direitos Humanos",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "1ª Geração – Liberdade",
+          "texto": "Direitos civis e políticos, surgidos com as revoluções liberais (séc. XVIII). Exigem abstenção do Estado. Exemplos: vida, liberdade, propriedade, voto, liberdade de expressão."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "2ª Geração – Igualdade",
+          "texto": "Direitos sociais, econômicos e culturais, surgidos no séc. XX. Exigem prestações positivas do Estado. Exemplos: educação, saúde, trabalho, moradia, previdência."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "3ª Geração – Fraternidade/Solidariedade",
+          "texto": "Direitos difusos e coletivos, de titularidade transindividual. Exemplos: meio ambiente equilibrado, paz, desenvolvimento, patrimônio comum da humanidade."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "4ª, 5ª e 6ª Gerações",
+          "texto": "**4ª (Bobbio):** engenharia genética, biotecnologia, bioética.\n**4ª (Bonavides):** democracia direta, informação, globalização política.\n**5ª (Bobbio/Bonavides):** direito à paz.\n**6ª (Uadi Lammêgo Bulos):** direito à água potável (em discussão)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Marcos históricos essenciais",
+          "texto": "Magna Carta (1215), Petition of Right (1628), Habeas Corpus Act (1679), Bill of Rights inglesa (1689), Declaração de Direitos da Virgínia (1776), Declaração de Independência dos EUA (1776), Declaração dos Direitos do Homem e do Cidadão (1789), DUDH (1948), Pactos de 1966 (PIDCP e PIDESC)."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Lembrete",
+          "texto": "As gerações não se substituem; são cumulativas e complementares. A terminologia 'dimensões' é preferível para evitar a ideia de substituição."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistemas de Proteção",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Sistema Global (ONU)",
+          "texto": "Baseado na Carta da ONU (1945), DUDH (1948) e nos Pactos de 1966 (PIDCP e PIDESC). A Carta Internacional dos DH = DUDH + PIDCP + PIDESC.\n**Estrutura em dois pilares:**\n1. Órgãos principais (baseados na Carta): Conselho de Direitos Humanos (substituiu a Comissão em 2006) – realiza a Revisão Periódica Universal (RPU) a cada 4-5 anos; e o Alto Comissariado (ACNUDH).\n2. Órgãos de tratados (Comitês): monitoramento, emitem recomendações (não sentenças vinculantes). Ex.: Comitê de Direitos Humanos (PIDCP), Comitê contra a Tortura, CEDAW, Comitê sobre os Direitos da Criança, etc."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Sistema Interamericano",
+          "texto": "Vinculado à OEA. Principal instrumento: Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica, 1969). Brasil ratificou em 1992 e reconheceu a jurisdição da Corte em 1998.\n**Órgãos:** Comissão Interamericana (recebe petições, recomenda medidas) e Corte Interamericana (julga casos, sentenças vinculantes).\n**Petição:** indivíduos e ONGs podem peticionar à Comissão, mas **não** acionam a Corte diretamente – apenas a Comissão ou Estados podem levar casos à Corte.\n**Requisitos para petição:** esgotamento dos recursos internos (exceto demora injustificada), prazo de 6 meses, proibição de litispendência internacional."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Sistemas Europeu e Africano",
+          "texto": "**Europeu:** baseado na Convenção Europeia de DH (1950), com a Corte Europeia de DH – o sistema regional mais consolidado.\n**Africano:** baseado na Carta Africana dos DH e dos Povos (Carta de Banjul, 1981), com Comissão e Corte Africana."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Condenações do Brasil na Corte IDH",
+          "texto": "Caso Maria da Penha (violência doméstica), Caso Ximenes Lopes (maus-tratos em clínica de saúde mental), Caso Guerrilha do Araguaia (direito à verdade, afastamento da Lei de Anistia), Caso Fazenda Brasil Verde (trabalho escravo), Caso Herzog (assassinato durante a ditadura, imprescritibilidade)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tratados Internacionais de Direitos Humanos – Status no Brasil",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Hierarquia no ordenamento brasileiro",
+          "texto": "**Status de emenda constitucional:** aprovados pelo rito do Art. 5º, § 3º (2 turnos, 3/5 em cada Casa). Exemplos: Convenção sobre os Direitos das Pessoas com Deficiência (CDPD) e seu Protocolo, Tratado de Marraqueche, Convenção Interamericana contra o Racismo, Convenção CEDAW (2024).\n**Status supralegal:** aprovados pelo rito comum (maioria simples). Ficam acima das leis ordinárias, abaixo da CF. Exemplo: Pacto de San José da Costa Rica (paralisou a prisão civil do depositário infiel – SV 25).\n**Bloco de Constitucionalidade:** inclui os tratados com status de emenda como paradigma para controle concentrado de constitucionalidade."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Processo de incorporação",
+          "texto": "Quatro etapas: 1) Assinatura pelo Presidente; 2) Aprovação pelo Congresso (Decreto Legislativo); 3) Ratificação internacional; 4) Promulgação por Decreto Presidencial.\n**Denúncia (saída):** exige participação do Congresso (princípio da simetria das formas), não pode ser feita apenas pelo Presidente."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Controle de Convencionalidade",
+          "texto": "**Difuso:** qualquer juiz, em caso concreto, verifica a compatibilidade entre a lei interna e os tratados de DH. Se incompatível, aplica a norma internacional (status supralegal/constitucional).\n**Concentrado:** STF, em ADI/ADPF, analisa a constitucionalidade das leis à luz dos tratados com status de emenda (Bloco de Constitucionalidade)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha: Extradição x Entrega ao TPI",
+          "texto": "A CF veda a extradição de brasileiro nato (Art. 5º, LI). No entanto, a entrega (surrender) ao Tribunal Penal Internacional, prevista no Estatuto de Roma, é permitida (Art. 5º, § 4º). A proibição constitucional de extradição não se aplica à entrega ao TPI."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais Tratados e Convenções Ratificados pelo Brasil",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Lista essencial",
+          "itens": [
+            "Declaração Universal dos Direitos Humanos (1948) – resolução, mas com valor de jus cogens.",
+            "Pacto Internacional sobre Direitos Civis e Políticos (PIDCP, 1966).",
+            "Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (PIDESC, 1966).",
+            "Convenção Americana de Direitos Humanos – Pacto de San José (1969) – status supralegal.",
+            "Convenção sobre os Direitos das Pessoas com Deficiência (CDPD, 2006) – status constitucional.",
+            "Tratado de Marraqueche (2013) – status constitucional.",
+            "Convenção Interamericana contra o Racismo (2017) – status constitucional.",
+            "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher (CEDAW, 1979) – status constitucional (2024) e seu Protocolo.",
+            "Convenção de Belém do Pará (1994) – violência contra a mulher.",
+            "Convenção contra a Tortura (ONU, 1984).",
+            "Convenção 169 da OIT – povos indígenas e tribais."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Mecanismos Nacionais de Proteção e Legislação",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Incidente de Deslocamento de Competência (IDC)",
+          "texto": "Previsto no Art. 109, V-A, da CF. Permite transferir investigações/processos da Justiça Estadual para a Federal em casos de grave violação de DH, quando o Estado local for incapaz. Legitimidade exclusiva do Procurador-Geral da República, julgado pelo STJ."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Lei de Migração (Lei 13.445/2017)",
+          "texto": "Garante aos migrantes direitos fundamentais em igualdade com nacionais, adota o princípio do non-refoulement (não devolução) e veda a criminalização da migração."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Mecanismo Nacional de Prevenção e Combate à Tortura (Lei 12.847/2013)",
+          "texto": "Cria o MNPCT para prevenir e combater a tortura no Brasil, em conformidade com o Protocolo Facultativo à Convenção contra a Tortura."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Lei 13.344/2016 – Tráfico de Pessoas e Trabalho Escravo",
+          "texto": "Institui o Sistema Nacional de Prevenção e Combate ao Tráfico de Pessoas e ao Trabalho Escravo, com planos anuais e comitês de monitoramento."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência do STF e Temas Sensíveis",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "Criminalização da homofobia e transfobia",
+          "texto": "STF (ADO 26 e MI 4733) equiparou a homofobia e a transfobia ao crime de racismo, enquanto não houver lei específica, tornando-as inafiançáveis e imprescritíveis."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Prisão civil do depositário infiel",
+          "texto": "Súmula Vinculante 25: é ilícita a prisão civil do depositário infiel, com base no status supralegal do Pacto de San José (art. 7º, § 7º). O art. 5º, LXVII da CF continua em vigor, mas a SV 25 paralisou sua aplicação."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Status supralegal dos tratados de DH",
+          "texto": "RE 466.343: tratados de DH aprovados pelo rito comum têm status supralegal, acima das leis ordinárias e abaixo da CF."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Lei de Anistia e Corte IDH",
+          "texto": "A Corte IDH, no caso Gomes Lund (Guerrilha do Araguaia), afastou a Lei de Anistia. No Brasil, o STF julgou a ADPF 153 em 2010 e manteve a lei, mas o debate continua e a jurisprudência internacional pressiona o Brasil."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pena de Morte na CADH e CF",
+          "texto": "A CADH não proíbe a pena de morte, mas impõe restrições (menores de 18, maiores de 70, gestantes, crimes políticos). A CF/88 só admite pena de morte em caso de guerra declarada (Art. 5º, XLVII)."
+        }
+      ]
+    },
+    {
+      "titulo": "Diferenciação Conceitual: Direitos Humanos x Direitos Fundamentais",
+      "cards": [
+        {
+          "tipo": "atencao",
+          "titulo": "atencao e plano de eficácia",
+          "texto": "**Direitos Humanos:** consagrados no direito internacional (tratados, convenções, resoluções da ONU). Aplicação no plano internacional.\n**Direitos Fundamentais:** positivados no direito interno (Constituição). Aplicação no plano constitucional.\nEmbora usados como sinônimos, a distinção técnica é cobrada em provas."
+        }
+      ]
+    }
+  ]
+};

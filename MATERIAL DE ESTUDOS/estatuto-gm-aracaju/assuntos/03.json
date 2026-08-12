@@ -1,0 +1,160 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Legislação Municipal de Aracaju",
+  "titulo": "Estatuto dos Servidores de Aracaju (LC nº 153/2016) - Completo",
+  "icone": "⚖️",
+  "descricao": "Manual completo do servidor público municipal. Abrange todas as regras do Estatuto dos Servidores de Aracaju, incluindo provimento, posse, exercício, estágio probatório, vacância, concessões (gala e nojo), férias, licenças (saúde, família, gestante/paternidade, capacitação, prêmio), vencimento vs remuneração, adicionais (noturno, periculosidade, insalubridade), prazos de prescrição disciplinar, causas interruptivas e regime disciplinar com penalidades (advertência, suspensão, demissão). Foco em prazos, percentuais e pegadinhas.",
+  "topicos": [
+    {
+      "titulo": "Formas de Provimento",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Originário e derivados",
+          "texto": "**Originário:** Nomeação – única forma de ingresso sem vínculo anterior com o Município.\n**Derivados:**\n- Reversão: retorno do aposentado por invalidez (quando cessa a doença) ou no interesse da administração;\n- Reintegração: retorno do servidor demitido ilegalmente, com ressarcimento de tudo;\n- Readaptação: servidor com limitação física/mental é realocado para cargo compatível;\n- Recondução: retorno do servidor estável ao cargo anterior por inabilitação em estágio probatório de outro cargo ou reintegração do antigo ocupante."
+        }
+      ]
+    },
+    {
+      "titulo": "Posse, Exercício e Estágio Probatório",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fases do ingresso",
+          "texto": "| Fase | Significado | Detalhe Crucial |\n|------|-------------|----------------|\n| Posse | Investidura no cargo – assinatura do termo | Exige inspeção médica oficial (exames pré-admissionais) e apresentação de requisitos (idade, escolaridade) |\n| Exercício | Efetivo trabalho | A banca costuma inverter: primeiro assina (posse), depois trabalha (exercício) |\n| Estágio Probatório | Período de avaliação para adquirir estabilidade | Duração de 3 (três) anos de efetivo exercício. Cuidado: se disser '2 anos' ou '24 meses' (regra antiga) está ERRADO! |"
+        }
+      ]
+    },
+    {
+      "titulo": "Formas de Vacância do Cargo",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Eventos que vagam o cargo público",
+          "texto": "O cargo público torna-se vago nas seguintes hipóteses:\n\n- **Exoneração:** a pedido do servidor ou de ofício (ex.: reprovação no estágio probatório, insuficiência de desempenho). **NÃO É PUNIÇÃO.**\n- **Demissão:** penalidade aplicada em PAD, por falta grave. **É PUNIÇÃO.**\n- **Aposentadoria:** voluntária, compulsória (aos 75 anos) ou por invalidez.\n- **Posse em outro cargo inacumulável:** quando o servidor toma posse em cargo que não pode acumular (ex.: dois cargos de professor).\n- **Falecimento:** morte do servidor.\n\n⚠️ **Pegadinha:** A banca pode confundir exoneração com demissão. Exoneração não é punitiva; demissão é punitiva."
+        }
+      ]
+    },
+    {
+      "titulo": "Férias e Concessões (Gala e Nojo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Férias (Art. 77 e segs.)",
+          "texto": "Direito a **30 (trinta) dias** de férias anuais, após 12 meses de exercício (período aquisitivo).\n\n**Fracionamento:** Podem ser fracionadas em até **3 (três) períodos**, sendo um deles de, no mínimo, **14 (catorze) dias** corridos.\n\n**Abono constitucional:** O servidor recebe **1/3 (um terço) a mais** do que o salário normal (adicional de férias).\n\n📌 **Dica:** O fracionamento em 3 períodos e o mínimo de 14 dias é uma pegadinha comum – a banca adora dizer que pode ser fracionado em até 5 períodos ou que o mínimo é de 10 dias."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concessões – Casamento (Gala) e Falecimento (Nojo)",
+          "texto": "O servidor tem direito a se ausentar do serviço sem prejuízo da remuneração nas seguintes situações:\n\n- **Casamento (Gala):** até **8 (oito) dias consecutivos**.\n- **Falecimento (Nojo):** até **8 (oito) dias consecutivos** para cônjuge, companheiro(a), pais, filhos, irmãos, ou pessoas que vivam sob sua dependência econômica.\n- **Falecimento de parente não enquadrado:** pode ser concedida licença por motivo de força maior, a critério da Administração.\n\n📌 **Bizu:** '8 por gala, 8 por nojo'.\n\n⚠️ **Pegadinha:** A banca adora trocar os prazos (ex.: 3 dias, 5 dias, 10 dias). Em Aracaju, são **8 dias para ambos**."
+        }
+      ]
+    },
+    {
+      "titulo": "Licenças do Servidor",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença para tratamento de saúde",
+          "texto": "Concedida ao servidor que apresente atestado médico oficial, com perícia da junta médica municipal.\n\n**Características:**\n- Prazo: conforme necessidade médica, com reavaliação periódica.\n- Remuneração: integral, se for doença comprovada.\n- Se a doença for incurável ou incapacitante, pode levar à aposentadoria por invalidez.\n\n⚠️ **Pegadinha:** A banca pode afirmar que o prazo máximo é de 3 meses ou que não exige perícia. **FALSO!** Exige perícia oficial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença por motivo de doença em pessoa da família",
+          "texto": "Concedida ao servidor que necessite acompanhar cônjuge, companheiro(a), pais, filhos, irmãos, ou dependentes econômicos, com doença grave comprovada.\n\n**Características:**\n- Prazo: até **180 (cento e oitenta) dias** por ano, com remuneração integral nos primeiros 90 dias e parcial nos seguintes (a critério da Administração).\n- Exige perícia médica.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a licença é ilimitada ou sem perícia. **FALSO!** Tem limite de 180 dias/ano e exige comprovação médica."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença à gestante e à paternidade",
+          "texto": "**Licença-maternidade:**\n- Prazo: **180 (cento e oitenta) dias** (conforme a Lei Municipal, em conformidade com a Lei 11.770/2008, que prorroga para 180 dias em empresas públicas e órgãos públicos).\n- Remuneração: integral.\n\n**Licença-paternidade:**\n- Prazo: **5 (cinco) dias** (art. 7º, XIX, CF) – podendo ser estendido em casos específicos por lei municipal.\n- Remuneração: integral.\n\n📌 **Dica:** A licença-maternidade na administração municipal costuma ser de 180 dias, mas confira o texto da LC 153/2016 – a regra da CF é 120 dias, mas a LC pode estender para 180, como ocorre em Aracaju.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a licença-paternidade é de 15 dias (regra de alguns estados), mas na LC 153/2016 é de **5 dias** (regra geral da CF para municípios que não têm lei específica)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença para capacitação (aperfeiçoamento)",
+          "texto": "Concedida ao servidor estável para realizar cursos de aperfeiçoamento, pós-graduação ou mestrado, relacionados à sua área de atuação.\n\n**Características:**\n- Prazo: até **3 (três) meses** a cada **5 (cinco) anos** de serviço.\n- Remuneração: integral, se o curso for de interesse da Administração.\n- Exige aprovação do superior imediato e compatibilidade com o serviço.\n\n⚠️ **Pegadinha:** A banca pode afirmar que a licença capacitação é de 6 meses ou 1 ano. **FALSO!** O prazo é de até **3 meses**, a cada **5 anos**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Licença-prêmio (assiduidade) – Requisitos e Interrupção",
+          "texto": "Concedida ao servidor que **não tiver faltado injustificadamente** por **5 (cinco) anos** de efetivo exercício (quinquênio).\n\n**Duração:** **3 (três) meses (90 dias)**, que podem ser usufruídos em **pecúnia** (dinheiro) ou em **descanso**, a critério da Administração.\n\n**Perda do direito à licença-prêmio (interrupção):** O servidor perde o direito à licença-prêmio do quinquênio se, durante os 5 anos:\n- Sofrer **penalidade disciplinar de suspensão**;\n- Faltar ao serviço **injustificadamente** por mais de um limite fixado na lei local (geralmente mais de 30 dias interpolados);\n- Licenciar-se para **tratar de interesses particulares** (licença a pedido, sem remuneração).\n\n⚠️ **PEGADINHA:**\n❌ 'A licença-prêmio é automática após 5 anos, independentemente de faltas.' **FALSO!** Exige assiduidade e não pode ter sofrido suspensão no período.\n❌ 'O servidor pode usufruir a licença-prêmio a qualquer momento, sem critério.' **FALSO!** A Administração pode definir quando e se será em pecúnia ou descanso."
+        }
+      ]
+    },
+    {
+      "titulo": "Vencimento vs Remuneração e Adicionais",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Vencimento e Remuneração",
+          "texto": "**Vencimento (básico):** É o valor fixo do cargo, o padrão base pago ao servidor. É imutável e sobre ele não incidem descontos que não sejam previstos em lei.\n\n**Remuneração:** É o vencimento **acrescido das vantagens pecuniárias** (adicionais, gratificações, abonos, etc.).\n\n**Fórmula:** Remuneração = Vencimento + Vantagens.\n\n⚠️ **PEGADINHA CLÁSSICA:**\n❌ 'O adicional de periculosidade incide sobre a remuneração.'\n\n**FALSO!** Os adicionais (noturno, periculosidade, insalubridade) incidem sobre o **vencimento básico**, não sobre a remuneração total.\n\n📌 **Exemplo:** Se o vencimento é R$ 3.000,00 e o servidor tem adicional de periculosidade (30%), o adicional será R$ 900,00 (sobre os R$ 3.000,00), e não sobre a remuneração com outras vantagens."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Adicional Noturno – Detalhamento Completo",
+          "texto": "**Horário:** Serviço prestado entre **22h e 5h**.\n\n**Percentual:** **20% (vinte por cento)** sobre o valor da hora normal (art. 73 da CLT, aplicado aos servidores).\n\n**Hora ficta (reduzida):** A hora noturna é computada como **52 minutos e 30 segundos (52'30'')** – a cada 52'30'' trabalhados à noite, computa-se 1 hora inteira de serviço.\n\n**Exemplo:** Se o servidor trabalha das 22h às 5h (7 horas relógio), computa-se 7 × 60 = 420 minutos; 420 ÷ 52,5 = 8 horas noturnas. Ele recebe como se tivesse trabalhado 8 horas.\n\n⚠️ **PEGADINHA:**\n❌ 'A hora noturna tem 60 minutos.' **FALSO!** São 52 minutos e 30 segundos.\n❌ 'O adicional noturno é de 25%.' **FALSO!** São 20%."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Periculosidade e Insalubridade – Regras e Vedação",
+          "texto": "**Adicional de Periculosidade:**\n- Devido ao servidor exposto a atividades perigosas (armas, explosivos, inflamáveis, energia elétrica).\n- Percentual: **30% (trinta por cento)** sobre o vencimento base.\n\n**Adicional de Insalubridade:**\n- Devido ao servidor exposto a agentes químicos, biológicos ou físicos prejudiciais à saúde.\n- Percentuais: **10%, 20% ou 40%**, conforme laudo pericial.\n\n**Regra de ouro:** A **periculosidade e a insalubridade NÃO podem ser acumuladas** (vedação expressa na legislação), salvo se houver previsão legal específica em contrário (o que é raro).\n\n⚠️ **PEGADINHA:**\n❌ 'O servidor pode acumular adicional de periculosidade e insalubridade.' **FALSO!** É vedada a acumulação.\n❌ 'O adicional de periculosidade incide sobre a remuneração.' **FALSO!** Incide sobre o vencimento base."
+        }
+      ]
+    },
+    {
+      "titulo": "Prazos de Prescrição Disciplinar e Causas Interruptivas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prescrição da pretensão punitiva",
+          "texto": "A Administração Municipal tem prazos para instaurar processo disciplinar e aplicar penalidades, contados da data da **ciência do fato pela autoridade competente** (e não da data do fato em si):\n\n- **Advertência:** prescreve em **180 (cento e oitenta) dias**.\n- **Suspensão:** prescreve em **2 (dois) anos**.\n- **Demissão, Cassação de Aposentadoria ou Disponibilidade:** prescreve em **5 (cinco) anos**.\n\n**Regra:** O prazo começa a correr da data em que a Administração tomou conhecimento do fato, não da data do fato em si.\n\n⚠️ **PEGADINHA:**\n❌ 'O prazo para demissão é de 3 anos.' **FALSO!** São 5 anos.\n❌ 'O prazo começa a contar da data do fato.' **FALSO!** Começa da data da ciência pela autoridade competente.\n❌ 'O prazo para suspensão é de 1 ano.' **FALSO!** São 2 anos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas interruptivas da prescrição",
+          "texto": "A prescrição **se interrompe** (reinicia a contagem do zero) nos seguintes atos administrativos:\n\n1. **Abertura de sindicância ou Processo Administrativo Disciplinar (PAD)** – desde que devidamente instaurado;\n2. **Notificação oficial do servidor** sobre a acusação formal;\n3. **Decisão condenatória recorrível** (quando ainda cabe recurso).\n\n⚠️ **PEGADINHA PESADA:**\n❌ 'O mero inquérito policial ou ação penal interrompe a prescrição administrativa.'\n\n**FALSO!** A prescrição administrativa só é interrompida por **atos administrativos** (sindicância, PAD, notificação oficial), nunca por inquérito policial ou ação penal, que são esferas autônomas.\n\n📌 **Dica:** A interrupção ocorre uma única vez; se houver nova interrupção, o prazo recomeça do zero novamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Regime Disciplinar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Responsabilidades e cumulatividade",
+          "texto": "O servidor responde nas esferas Civil, Penal e Administrativa. As sanções podem acumular-se (independentes entre si). A única exceção que vincula a esfera administrativa é se o juiz criminal absolver afirmando categoricamente que o fato não existiu (negativa do fato) ou que não foi ele o autor (negativa de autoria). Se faltarem provas no processo penal, o PAD pode continuar punindo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Penalidades (PAD e Sindicância)",
+          "texto": "- **Advertência:** verbal ou por escrito, para infrações leves (ex.: falta injustificada, deixar de bater ponto);\n- **Suspensão:** para infrações mais graves ou reincidência; servidor fica sem receber (pode ser convertida em multa);\n- **Demissão:** falta grave (ex.: improbidade administrativa, abandono de cargo – faltar mais de 30 dias consecutivos)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 PEGADINHA DE PAD",
+          "texto": "Afirmação errada: 'O servidor da Polícia Municipal cometeu infração leve; logo, deve ser aplicada a penalidade de exoneração.' **FALSO!** Exoneração NÃO É PUNIÇÃO. Exoneração ocorre a pedido do servidor ou em reprovação no estágio probatório. A penalidade punitiva de rua é DEMISSÃO."
+        }
+      ]
+    },
+    {
+      "titulo": "Resumo Final – Estatuto dos Servidores",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 MNEMÔNICO – LC 153/2016 (Completo)",
+          "texto": "📌 **Provimento:** Nomeação (originário) + Reversão, Reintegração, Readaptação, Recondução (derivados).\n📌 **Fases:** Posse → Exercício → Estágio Probatório (3 anos).\n📌 **Vacância:** Exoneração, Demissão, Aposentadoria, Posse inacumulável, Falecimento.\n📌 **Férias:** 30 dias, fracionamento em até 3, mínimo 14, abono 1/3.\n📌 **Gala e Nojo:** 8 dias (casamento e falecimento).\n📌 **Licenças:** Saúde (perícia), Família (180 dias/ano), Gestante (180 dias), Paternidade (5 dias), Capacitação (3 meses/5 anos), Prêmio (3 meses/5 anos, com assiduidade).\n📌 **Vencimento vs Remuneração:** Vencimento = base; Remuneração = base + vantagens. Adicionais incidem sobre o VENCIMENTO!\n📌 **Adicional Noturno:** 20%, hora 52'30''.\n📌 **Periculosidade:** 30% sobre o vencimento – NÃO acumula com insalubridade.\n📌 **Insalubridade:** 10% a 40% – NÃO acumula com periculosidade.\n📌 **Prescrição:** Advertência = 180 dias; Suspensão = 2 anos; Demissão = 5 anos (contados da ciência).\n📌 **Interrupção:** Sindicância, PAD, notificação, decisão recorrível (atos administrativos)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ PEGADINHAS RESGATADAS (ACUMULADAS)",
+          "texto": "❌ 'Exoneração é penalidade.' → **ERRADO** (é forma de vacância, não punição).\n❌ 'Estágio probatório: 2 anos.' → **ERRADO** (são 3 anos).\n❌ 'Licença nojo: 3 dias.' → **ERRADO** (são 8 dias).\n❌ 'Licença-paternidade: 15 dias.' → **ERRADO** (regra geral: 5 dias).\n❌ 'Licença capacitação: 6 meses.' → **ERRADO** (3 meses a cada 5 anos).\n❌ 'Adicional noturno: 25%.' → **ERRADO** (20%).\n❌ 'Hora noturna tem 60 minutos.' → **ERRADO** (52'30'').\n❌ 'Adicional de periculosidade: 20%.' → **ERRADO** (30%).\n❌ 'Periculosidade e insalubridade podem ser acumuladas.' → **ERRADO** (vedadas).\n❌ 'Adicional de periculosidade incide sobre a remuneração.' → **ERRADO** (incide sobre o vencimento).\n❌ 'Licença-prêmio é automática a cada 5 anos.' → **ERRADO** (exige assiduidade e não ter punições).\n❌ 'Prescrição para demissão: 3 anos.' → **ERRADO** (5 anos).\n❌ 'Prescrição para suspensão: 1 ano.' → **ERRADO** (2 anos).\n❌ 'Prescrição começa da data do fato.' → **ERRADO** (começa da data da ciência).\n❌ 'Inquérito policial interrompe a prescrição administrativa.' → **ERRADO** (só atos administrativos interrompem)."
+        },
+                {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

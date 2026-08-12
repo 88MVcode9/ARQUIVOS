@@ -1,0 +1,145 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Liberdade Provisória e Medidas de Segurança no Processo Penal Militar",
+  "icone": "🔓",
+  "descricao": "Análise completa da liberdade provisória e das medidas de segurança provisórias no processo penal militar, com base nos Arts. 270 a 276 do CPPM (DL 1.002/1969). Abrange a regra de ouro (inexistência de fiança), hipóteses de concessão obrigatória, vedações expressas (deserção, crimes contra a segurança externa), condições e obrigações do liberado, e a aplicação provisória de medidas de segurança (com exigência de laudo pericial). Foco nas pegadinhas de concurso: a diferença entre liberdade provisória e fiança, a não automática concessão se presentes os requisitos da preventiva, e as causas de revogação.",
+  "topicos": [
+    {
+      "titulo": "Conceito e Regra de Ouro — Sem Fiança!",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a liberdade provisória?",
+          "texto": "A liberdade provisória no processo penal militar é a medida cautelar que permite ao indiciado ou réu aguardar o julgamento em liberdade, sem a imposição de prisão preventiva, desde que preenchidos os requisitos legais. Diferente do processo penal comum, **NÃO EXISTE FIANÇA** na Justiça Militar (Arts. 270 a 272 do CPPM).\n\n**Natureza jurídica:**\n- É uma medida cautelar **substitutiva** da prisão preventiva;\n- Não tem caráter punitivo;\n- Visa garantir a presença do acusado ao processo e a aplicação da lei penal.\n\n**Regra de ouro:** No âmbito militar, **não se paga para ser solto** – a liberdade provisória é concedida ou negada com base em critérios objetivos e subjetivos, nunca mediante caução."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um soldado é acusado de lesão corporal culposa (sem intenção). Ele não tem antecedentes e o crime é de menor potencial ofensivo. O juiz concede a liberdade provisória, e ele responde ao processo em liberdade, sem precisar pagar fiança."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Pegadinha clássica",
+          "texto": "❌ 'Na Justiça Militar, a liberdade provisória depende de fiança.' → **ERRADO.** A fiança NÃO EXISTE no processo penal militar (art. 270, caput). A liberdade provisória é concedida sem qualquer pagamento.\n\n🧠 **Mnemônico:** \"Militar não paga para ser solto – FIANÇA É DO COMUM!\""
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Liberdade provisória sem fiança – regra absoluta",
+          "texto": "No processo penal militar, a liberdade provisória **NUNCA** depende de fiança (Art. 270 do CPPM). O militar não paga para ser solto – a liberdade é concedida ou negada com base em critérios objetivos e subjetivos, nunca mediante caução.\n\n**Fundamento:** a fiança é incompatível com os princípios da hierarquia e disciplina, pois a liberdade do militar não pode ser \"comprada\".\n\n📌 **Regra de ouro:** \"Militar não paga para ser solto – FIANÇA É DO COMUM!\"\n\n⚠️ **Pegadinha:** A banca pode afirmar que a liberdade provisória na Justiça Militar depende de fiança – **ERRADO**. Fiança não existe no processo penal militar."
+        }
+      ]
+    },
+    {
+      "titulo": "Hipóteses de Liberdade Provisória Obrigatória (Art. 270)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando a liberdade provisória é obrigatória?",
+          "texto": "Art. 270: 'A liberdade provisória será concedida, mediante compromisso de comparecer a todos os atos do processo, nos seguintes casos:'\n\n- **I – Crime sem pena de prisão** (ex.: crimes punidos apenas com multa);\n- **II – Crime culposo** (sem intenção), **salvo** se cometido contra a segurança nacional (ex.: crime culposo contra a segurança externa do país – nesse caso, não há liberdade provisória);\n- **III – Crime com pena de detenção ≤ 2 anos**, exceto nos casos de:\n  - **Deserção** (art. 187 do CPM);\n  - **Desacato a superior ou militar de serviço** (art. 160 do CPM);\n  - **Resistência** (art. 163 do CPM);\n  - **Outros crimes que, pela gravidade, exijam a prisão preventiva** (a critério do juiz).\n\n📌 **Dica:** A regra é a liberdade; a prisão preventiva é a exceção."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Um cabo causa um acidente de trânsito sem querer (crime culposo). Ele não tem antecedentes. O juiz **deve** conceder a liberdade provisória, pois o crime é culposo e não há risco à segurança nacional."
+        }
+      ]
+    },
+    {
+      "titulo": "Vedações Expressas à Liberdade Provisória (Exceções)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando NÃO se concede liberdade provisória?",
+          "texto": "Mesmo que o crime se enquadre nas hipóteses do Art. 270, a liberdade provisória **não será concedida** (será vedada) nas seguintes situações:\n\n- **Crimes contra a segurança externa do país** (Arts. 136 a 141 do CPM) – são crimes de alta gravidade, que comprometem a soberania nacional;\n- **Crimes contra a ordem política e social** (quando a gravidade exigir a preventiva);\n- **Deserção** (Art. 187 do CPM) – o desertor, ao ser capturado, não tem direito automático à liberdade provisória; deve permanecer preso ou sob as cautelas específicas da deserção até que haja revogação ou solução do processo;\n- **Crimes de insubordinação grave, violência contra superior ou que abalem a hierarquia e disciplina**, quando preenchidos os requisitos da prisão preventiva (Art. 255 do CPPM);\n- **Quando houver fundado receio de fuga, destruição de provas ou reiteração criminosa** (aplicação subsidiária do art. 312 do CPP).\n\n⚠️ **Pegadinha:** A liberdade provisória não é automática para todos os crimes de detenção ≤ 2 anos. As exceções são **taxativas** e devem ser observadas!"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico das vedações",
+          "texto": "📌 **“Não tem liberdade se for: (1) Segurança Externa, (2) Deserção, (3) Violência/Hierarquia, (4) Risco de fuga.”**"
+        }
+      ]
+    },
+    {
+      "titulo": "Condições e Obrigações do Liberado (Arts. 271 e 272)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Compromissos do acusado em liberdade provisória",
+          "texto": "O beneficiário da liberdade provisória deve assumir, perante o juiz, o compromisso formal de cumprir as seguintes obrigações (Art. 271 e 272):\n\n- **Comparecer a todos os atos do processo** para os quais for intimado, sob pena de revogação;\n- **Não mudar de residência** sem prévia autorização da autoridade judiciária militar;\n- **Não se ausentar por mais de 8 (oito) dias** de sua residência sem comunicar ao juiz onde poderá ser encontrado;\n- **Não frequentar determinados lugares** ou manter contato com certas pessoas (se imposto como condição especial);\n- **Não praticar novos crimes** durante o período da liberdade provisória.\n\n**Consequência do descumprimento:** O juiz pode **revogar** a liberdade provisória e decretar a prisão preventiva, se as condições forem descumpridas injustificadamente (Art. 273).\n\n💡 **Dica:** A liberdade provisória não é uma \"carta branca\" – o acusado deve cumprir rigorosamente as obrigações."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Ausência por mais de 8 dias – pegadinha!",
+          "texto": "📌 A regra dos **8 dias** é uma peculiaridade do CPPM. Se o militar se ausentar de sua residência por mais de 8 dias sem comunicar o juiz, a liberdade provisória pode ser revogada.\n\n⚠️ **Pegadinha:** A banca pode perguntar qual o prazo para comunicação – é **8 dias**, não 30 ou 15 como em outros contextos."
+        }
+      ]
+    },
+    {
+      "titulo": "Medidas de Segurança Provisórias (Arts. 275 e 276)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Aplicação provisória de medida de segurança",
+          "texto": "Art. 275: 'Se houver indícios de que o acusado é inimputável ou semi-imputável, por doença mental ou desenvolvimento mental incompleto ou retardado, o juiz poderá determinar, provisoriamente, a aplicação de medida de segurança, antes do julgamento definitivo.'\n\n**Requisitos:**\n- Indícios de **inimputabilidade** (doença mental, perturbação da saúde mental);\n- **Laudo pericial psiquiátrico** – é obrigatório para a decisão;\n- A medida pode ser **internação em manicômio judiciário** ou **tratamento ambulatorial** (Art. 276);\n- A decisão é **provisória** e deve cessar assim que desaparecerem os motivos que a autorizaram.\n\n**Natureza da decisão:** A decisão que aplica a medida de segurança provisória é **irrecorrível** (Art. 275, parágrafo único), mas pode ser revista a qualquer tempo, se a condição do acusado se alterar.\n\n⚠️ **Pegadinha:** A medida de segurança provisória não é uma pena – é uma medida cautelar de proteção, aplicada antes da condenação definitiva."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Um militar é acusado de homicídio. Durante o IPM, a perícia médica indica que ele sofre de grave transtorno mental e não tem condições de compreender o caráter ilícito do ato. O juiz determina a internação provisória em manicômio judiciário para tratamento, até que a perícia definitiva seja concluída."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Revisão da medida de segurança",
+          "texto": "A medida de segurança provisória deve ser **revisada periodicamente** (a cada 6 meses, por analogia com o CP comum, art. 97, §4º). Se o laudo pericial demonstrar que o acusado não mais apresenta risco, a medida deve ser revogada.\n\n**Prazo máximo:** A medida de segurança provisória não pode ultrapassar o prazo máximo da pena prevista para o crime (princípio da proporcionalidade)."
+        }
+      ]
+    },
+    {
+      "titulo": "Revogação da Liberdade Provisória (Art. 273)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quando a liberdade provisória é revogada?",
+          "texto": "Art. 273: 'A liberdade provisória será revogada, com a decretação da prisão preventiva, quando:'\n\n- **Descumprimento injustificado das condições** impostas (ex.: faltar a ato processual, mudar de residência sem autorização);\n- **Prática de novo crime doloso** durante o gozo da liberdade;\n- **Fuga ou tentativa de fuga**;\n- **Surgimento de novas provas** que demonstrem a necessidade da prisão preventiva (ex.: periculosidade comprovada).\n\n**Procedimento:** A revogação deve ser precedida de **oitiva do acusado** (contraditório), salvo em caso de fuga.\n\n⚠️ **Pegadinha:** A revogação não é automática – depende de decisão fundamentada do juiz, com demonstração do descumprimento ou da nova situação."
+        }
+      ]
+    },
+    {
+      "titulo": "Jurisprudência Relevante (STM/STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores pacificaram importantes teses sobre a liberdade provisória no âmbito militar:",
+          "itens": [
+            "**STM (Súmula 11):** 'A liberdade provisória não se confunde com fiança, sendo vedada a fixação de caução no processo penal militar.'",
+            "**STM (HC 20.089):** 'A prática de novo crime doloso durante a liberdade provisória é causa de revogação, mas exige oitiva prévia do acusado para validade do ato.'",
+            "**STF (HC 118.751):** 'A condução coercitiva para interrogatório é inconstitucional, inclusive no âmbito militar, não podendo ser usada como meio de revogar a liberdade provisória.'",
+            "**STJ:** 'A liberdade provisória no processo penal militar não é um direito absoluto; pode ser negada se houver fundamentação concreta sobre a necessidade da prisão preventiva (ex.: risco à hierarquia e disciplina).'"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Finais e Pegadinhas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo para provas",
+          "texto": "📌 **Fiança:** NÃO EXISTE no processo penal militar (regra de ouro).\n📌 **Liberdade provisória:** concedida sem pagamento, com compromisso de comparecer aos atos.\n📌 **Casos obrigatórios (Art. 270):** crime sem pena de prisão, crime culposo (exceto segurança nacional), detenção ≤ 2 anos (exceto deserção, desacato, resistência).\n📌 **Vedações:** deserção, crimes contra segurança externa, crimes que abalam hierarquia/disciplina.\n📌 **Obrigações do liberado:** comparecer aos atos, não mudar de residência sem autorização, não se ausentar por mais de 8 dias sem comunicar.\n📌 **Medida de segurança provisória:** exige laudo pericial psiquiátrico; decisão irrecorrível; revisão periódica.\n📌 **Revogação:** descumprimento de condições, novo crime, fuga."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'Na Justiça Militar, a liberdade provisória depende de fiança.' → **ERRADO** (fiança não existe).\n❌ 'A liberdade provisória é automática para todo crime de detenção ≤ 2 anos.' → **ERRADO** (exceções: deserção, desacato, resistência).\n❌ 'O desertor tem direito à liberdade provisória.' → **ERRADO** (deserção é exceção).\n❌ 'A medida de segurança provisória não precisa de perícia.' → **ERRADO** (exige laudo psiquiátrico obrigatório).\n❌ 'A decisão sobre medida de segurança é recorrível.' → **ERRADO** (é irrecorrível, mas pode ser revista).\n❌ 'O militar pode se ausentar por 30 dias sem comunicar.' → **ERRADO** (o prazo é de 8 dias)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Liberdade Provisória e Medidas de Segurança",
+          "imagem": "./IMAGENS/06.jpg"
+        }
+      ]
+    }
+  ]
+};

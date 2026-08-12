@@ -1,0 +1,164 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Processo Penal",
+  "titulo": "Ação Penal Militar e seu exercício",
+  "icone": "⚔️",
+  "descricao": "Regras gerais da ação penal militar, com base nos Arts. 29 a 33 do CPPM (DL 1.002/1969). Abrange a ação pública incondicionada (regra geral), exceções com requisição, ação privada subsidiária da pública, prazos para denúncia, requisitos formais, proibição de desistência, aditamento do MP na subsidiária, diferença entre requisição e representação, rejeição da denúncia, e jurisprudência relevante. Foco nas pegadinhas de concurso, como os prazos de 5/15 dias, a irretratabilidade da requisição, e a possibilidade de reoferecimento da denúncia rejeitada.",
+  "topicos": [
+    {
+      "titulo": "01 — Conceito e Regras Gerais (Arts. 29 a 33)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é a ação penal militar?",
+          "texto": "A ação penal militar é o instrumento processual pelo qual o Estado (representado pelo Ministério Público Militar) busca a aplicação da lei penal militar ao autor de um crime. No processo penal militar, a ação é regida por regras próprias, previstas no Código de Processo Penal Militar (CPPM – DL 1.002/1969)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regra geral: ação pública incondicionada (Art. 29)",
+          "texto": "Art. 29, caput: 'A ação penal militar é pública, promovida por denúncia do Ministério Público Militar.'\n\n**Características:**\n- **Pública:** o MP Militar é o titular exclusivo da ação;\n- **Incondicionada:** não depende de autorização, representação ou requisição (regra geral);\n- **Oficiosa:** pode ser iniciada de ofício pelo MP, desde que haja justa causa.\n\n**Exceção (Art. 29, parágrafo único):** Nos crimes dos Arts. 136 a 141 do Código Penal Militar (CPM), a ação penal depende de **requisição** do Ministro da Defesa ou do Comandante Militar (não é representação da vítima, mas sim uma ordem administrativa)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Requisição (Arts. 136 a 141 do CPM) – IRRETRATÁVEL",
+          "texto": "Nos crimes previstos nos Arts. 136 a 141 do CPM (crimes contra a segurança externa do país, contra autoridades estrangeiras, etc.), a ação penal depende de **requisição** do Ministro da Defesa ou do Comandante Militar.\n\n**Natureza da requisição:**\n- É **condição de procedibilidade** – sem ela, a ação penal não pode ser iniciada;\n- É **irretratável** – uma vez expedida, não pode ser revogada;\n- É **vinculante** – o Ministério Público Militar **não tem discricionariedade** para recusar a denúncia. Deve oferecê-la, desde que haja justa causa.\n\n**Distinção crucial:** A requisição é uma **ordem administrativa** de autoridade superior (Ministro da Defesa ou Comandante Militar), **NÃO** se confunde com a representação da vítima. A vontade da vítima particular não tem o condão de iniciar ou barrar a persecução nesses casos.\n\n⚠️ **Pegadinha:** A banca afirma que a requisição é uma mera sugestão e o MP pode deixar de denunciar – **ERRADO**. É vinculante e irretratável!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação privada subsidiária da pública (Art. 44, p.ú.)",
+          "texto": "O CPPM também admite a **ação privada subsidiária da pública**, quando o Ministério Público Militar não oferece denúncia no prazo legal (desídia, inércia injustificada).\n\n**Requisitos:**\n- O MP deve ter deixado de oferecer a denúncia dentro do prazo (5 dias para réu preso; 15 para réu solto);\n- A vítima ou seu representante legal pode oferecer **queixa** (ação privada) no prazo de **60 dias** (contados do término do prazo do MP);\n- A queixa deve ser instruída com os mesmos requisitos da denúncia.\n\n**Atuação do Ministério Público Militar (MPM) na subsidiária – ATIVA!**\nNo processo penal militar, se o MPM ficar inerte e a vítima propor a ação penal privada subsidiária da pública, o MPM **não assume uma postura passiva**. Ele pode (e deve) intervir ativamente:\n\n- **Aditar a queixa** – complementando ou corrigindo a acusação;\n- **Repudiar a queixa** – se entender que é caso de arquivamento (ausência de justa causa);\n- **Fornecer elementos de prova** – para auxiliar a instrução;\n- **Interpor recursos** – como fiscal da lei;\n- **Retomar a titularidade da ação** – em caso de negligência (desídia) do querelante (vítima), reassumindo a condução do processo.\n\n**Efeito prático:** o MPM não é um mero espectador – ele fiscaliza e pode retomar o processo se a vítima abandonar a causa.\n\n📌 **Dica:** A banca pode afirmar que o MPM fica inerte na ação privada subsidiária – **ERRADO**. Ele atua ativamente.\n\n**Efeito:** uma vez oferecida a queixa, o MP não pode mais se manifestar no processo (substituição processual), salvo se retomar a titularidade por desídia do querelante.\n\n📌 **Dica:** A ação privada subsidiária é uma garantia contra a inércia do MP, mas é excepcional – a regra é a ação pública."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Situação prática",
+          "texto": "Um soldado é acusado de furto. O IPM é concluído e os autos são remetidos ao MPM. O indiciado está preso. O MPM tem 5 dias para oferecer denúncia. Se não o fizer, a vítima pode oferecer queixa subsidiária no prazo de 60 dias. Se a vítima oferecer a queixa e depois abandonar o processo, o MPM pode retomar a titularidade."
+        }
+      ]
+    },
+    {
+      "titulo": "02 — Obrigatoriedade e Proibição de Desistência (Arts. 30 e 32)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Obrigatoriedade da denúncia (Art. 30)",
+          "texto": "Art. 30: 'O Ministério Público Militar oferecerá denúncia quando houver prova da existência do fato típico e indícios suficientes de autoria.'\n\n**Regra:** o MP é obrigado a denunciar se estiverem presentes:\n- **Prova da existência do fato** (materialidade);\n- **Indícios suficientes de autoria** (elementos que indiquem quem cometeu o crime).\n\nSe esses requisitos não estiverem presentes, o MP deve **promover o arquivamento** (com fundamentação) ou **requisitar diligências complementares**.\n\n⚠️ **Pegadinha:** O MP não pode denunciar com base em meras suspeitas – exige-se lastro probatório mínimo (justa causa)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Proibição de desistência (Art. 32)",
+          "texto": "Art. 32: 'Apresentada a denúncia, não poderá o Ministério Público Militar desistir da ação penal, sem prejuízo da faculdade de promover a absolvição do acusado.'\n\n**Regra:** uma vez oferecida a denúncia, o MP **não pode desistir** da ação penal. O processo deve prosseguir até o julgamento final.\n\n**Exceção (implícita):** O MP pode, no curso do processo, pedir a **absolvição** do réu se as provas não confirmarem a acusação – mas isso não é desistência, é uma manifestação de mérito.\n\n🧠 **Mnemônico:** “Denúncia dada, ação é eterna – MP não pode voltar atrás.”"
+        }
+      ]
+    },
+    {
+      "titulo": "03 — Prazo para Oferecimento da Denúncia (Art. 46)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prazos do CPPM – DIFERENÇA CRUCIAL",
+          "texto": "O CPPM estabelece prazos específicos para o oferecimento da denúncia, que **diferem do CPP comum** (onde é 5 dias para réu preso e 15 para solto, mas com interpretações distintas). No CPPM, a regra é mais rígida:\n\n**Art. 46, alínea 'a':** Se o indiciado estiver **preso**, o prazo para denúncia é de **5 (cinco) dias** a contar do recebimento dos autos do IPM.\n- **Natureza:** é um prazo rigoroso, pois o réu está custodiado.\n- **Consequência do descumprimento:** o juiz pode relaxar a prisão ou o MP perde a prioridade (a vítima pode oferecer queixa subsidiária).\n\n**Art. 46, alínea 'b':** Se o indiciado estiver **solto**, o prazo para denúncia é de **15 (quinze) dias** a contar do recebimento dos autos do IPM.\n- **Prorrogação:** o prazo pode ser prorrogado por igual período, mediante despacho fundamentado do juiz, se houver necessidade de diligências imprescindíveis.\n\n⚠️ **Pegadinha Clássica:** A banca pode afirmar que o prazo para denúncia no CPPM é sempre de 5 dias (confundindo com o CPP comum) – **ERRADO**. A regra dos 5 dias é para **réu preso**; para **réu solto** é 15 dias."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Comparação: CPPM x CPP comum",
+          "tabela": {
+            "colunas": ["Critério", "CPPM (Militar)", "CPP (Comum)"],
+            "linhas": [
+              ["Réu preso", "5 dias (Art. 46, a)", "5 dias (Art. 46, CPP)"],
+              ["Réu solto", "15 dias (Art. 46, b)", "15 dias (Art. 46, CPP)"],
+              ["Prorrogação", "Possível, com fundamento", "Possível, com fundamento"],
+              ["Efeito do descumprimento", "Relaxamento da prisão; queixa subsidiária", "Relaxamento da prisão; queixa subsidiária"]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico dos prazos",
+          "texto": "📌 **“Preso = 5 (P5) / Solto = 15 (S15)”**\n\n🧠 **Lembrete:** O prazo começa a contar do **recebimento dos autos** pelo MPM, não da conclusão do IPM."
+        }
+      ]
+    },
+    {
+      "titulo": "04 — Direito de Representação (Art. 33)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Qualquer pessoa pode provocar o MP (Art. 33)",
+          "texto": "Art. 33: 'Qualquer pessoa poderá provocar a iniciativa do Ministério Público Militar, dando-lhe informações sobre a existência de crime e a respectiva autoria.'\n\n**Regra:** qualquer pessoa (física ou jurídica) pode comunicar ao MP a ocorrência de um crime militar, para que ele tome as providências cabíveis.\n\n**Natureza:** é um direito do cidadão, mas não obriga o MP a oferecer denúncia – cabe ao MP avaliar a justa causa.\n\n**Exemplo:** Um cidadão presencia um militar cometendo um crime e comunica ao MPM, que pode instaurar procedimento investigatório."
+        }
+      ]
+    },
+    {
+      "titulo": "05 — Requisitos da Denúncia (Art. 35) e Rejeição (Art. 37)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos formais da denúncia (Art. 35)",
+          "texto": "Art. 35: 'A denúncia conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou, quando possível, os elementos que a identifiquem, o rol de testemunhas e a classificação do crime.'\n\n**Requisitos essenciais:**\n- **Narrativa clara do fato** – com todas as circunstâncias de tempo, lugar, modo e motivo;\n- **Qualificação do acusado** – nome, posto/graduação (se militar), dados pessoais;\n- **Rol de testemunhas** – com limites por tipo de conselho (máximo de 8 para Conselho Especial, e 3 para Conselho Permanente, por exemplo – Art. 63, caput, CPPM);\n- **Classificação do crime** – indicação do dispositivo legal infringido.\n\n📌 **Dica:** A falta de qualquer requisito essencial pode levar à rejeição da denúncia."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Rejeição da denúncia (Art. 37)",
+          "texto": "Art. 37: 'O juiz, ao receber a denúncia, verificará se estão presentes os requisitos legais. Em caso negativo, rejeitará a denúncia.'\n\n**Hipóteses de rejeição:**\n- Falta de justa causa (ausência de provas ou indícios);\n- Ilegitimidade do MP;\n- Ausência de requisitos formais (Art. 35);\n- Extinção da punibilidade (prescrição, morte, etc.).\n\n**Efeito:** a rejeição **não faz coisa julgada material** – o MP pode oferecer nova denúncia se sanar os vícios (dentro do prazo prescricional). A rejeição por falta de justa causa não impede novo oferecimento se surgirem novas provas.\n\n⚠️ **Pegadinha:** A rejeição da denúncia por falta de justa causa não impede o MP de oferecer nova denúncia depois, se obtiver os elementos faltantes."
+        }
+      ]
+    },
+    {
+      "titulo": "06 — Complementações Específicas da Ação Penal Militar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Extensão do aditamento na ação privada subsidiária",
+          "texto": "No processo penal militar, se o Ministério Público Militar (MPM) ficar inerte e a vítima propor a **ação penal privada subsidiária da pública**, o MPM não assume apenas uma postura passiva. Ele pode (e deve) intervir, sendo permitido:\n\n- **Aditar a queixa** – complementando ou corrigindo a acusação;\n- **Repudiar a queixa** – se entender que é caso de arquivamento;\n- **Fornecer elementos de prova** – para auxiliar a instrução;\n- **Interpor recursos** – como fiscal da lei;\n- **Retomar a titularidade da ação** – em caso de negligência (desídia) do querelante (vítima), reassumindo a condução do processo.\n\n📌 **Dica:** A atuação do MPM na subsidiária é ativa, não passiva. Ele fiscaliza e pode retomar o processo se a vítima abandonar a causa."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Distinção entre \"Requisição\" e \"Representação\" – CAI MUITO!",
+          "texto": "A regra geral no direito penal militar é a **ação pública incondicionada**. Quando há exceção, ela exige **requisição**, e **NÃO** representação da vítima.\n\n**Requisição (Arts. 136 a 141 do CPM):**\n- É uma **ordem administrativa** de autoridade superior (Ministro da Defesa ou Comandante Militar);\n- É **irretratável** – uma vez expedida, não pode ser revogada;\n- É **vinculante** – o MPM **deve** denunciar, se houver justa causa;\n- A vontade da vítima particular **não tem o condão** de iniciar ou barrar a persecução nesses casos.\n\n**Representação (CPP comum):**\n- É a manifestação de vontade da vítima ou de seu representante legal;\n- É **retratável** – pode ser revogada antes do oferecimento da denúncia;\n- O MP **pode** denunciar, mas não está obrigado (tem margem de discricionariedade).\n\n⚠️ **Pegadinha:** A banca pode confundir os institutos – lembre-se: no processo penal militar, a exceção é sempre **requisição** (ordem superior), nunca representação da vítima."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Consequência processual da ausência de justa causa",
+          "texto": "O Art. 30 do CPPM exige prova da existência do fato típico e indícios suficientes de autoria (**justa causa**). Se o juiz verificar que a denúncia foi oferecida sem esse suporte probatório mínimo, ele **rejeitará a denúncia** (Art. 37).\n\n**Efeito:** a decisão de rejeição por falta de justa causa **não faz coisa julgada material**, permitindo que o MPM ofereça uma nova denúncia assim que obtiver os elementos que faltavam, desde que o crime não esteja prescrito.\n\n📌 **Dica:** A rejeição por falta de justa causa não é definitiva – o MP pode tentar novamente com novas provas."
+        }
+      ]
+    },
+    {
+      "titulo": "07 — Jurisprudência Relevante (STF/STJ)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Entendimentos consolidados",
+          "texto": "Os tribunais superiores já pacificaram importantes teses sobre a ação penal militar:",
+          "itens": [
+            "**STF (HC 118.751):** A condução coercitiva para interrogatório é inconstitucional, inclusive no âmbito militar (ADPF 444), salvo se houver ordem judicial para condução com fundamento em prisão preventiva ou flagrante.",
+            "**STJ (HC 301.429):** A prisão temporária é aplicável no processo penal militar, desde que observados os requisitos da Lei 7.960/89 e os prazos do CPPM.",
+            "**STJ (EREsp 1.486.118):** A suspensão condicional do processo (art. 89 da Lei 9.099/95) não é aplicável ao processo penal militar, por ausência de previsão legal e incompatibilidade com o rito castrense.",
+            "**STF (ADI 1.849):** A incomunicabilidade do preso militar foi revogada (Lei 8.072/90, art. 18), garantindo-se o contato com advogado e familiares.",
+            "**STJ:** A denúncia militar deve ser rejeitada se não houver justa causa, mas a rejeição não impede nova denúncia com fundamentos novos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "08 — Dicas Finais para Provas",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Pegadinhas e pontos-chave",
+          "texto": "📌 **Art. 29:** ação pública incondicionada (regra); exceção: arts. 136 a 141 CPM (requisição).\n📌 **Requisição:** irretratável, vinculante – MP deve denunciar.\n📌 **Art. 30:** MP denuncia se houver prova do fato e indícios de autoria.\n📌 **Art. 32:** MP não pode desistir da denúncia.\n📌 **Art. 33:** qualquer pessoa pode provocar o MP.\n📌 **Prazo para denúncia (Art. 46):** 5 dias (réu preso) / 15 dias (réu solto).\n📌 **Ação privada subsidiária:** se MP não denuncia no prazo, vítima pode oferecer queixa em 60 dias.\n📌 **MP na subsidiária:** pode aditar, repudiar, intervir e retomar a titularidade em caso de desídia.\n📌 **Distinção:** requisição (ordem superior) ≠ representação (vítima).\n📌 **Requisitos da denúncia (Art. 35):** narrativa, qualificação, testemunhas, classificação.\n📌 **Rejeição (Art. 37):** pode ser sanada com nova denúncia (não faz coisa julgada material)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas clássicas",
+          "texto": "❌ 'A requisição é uma mera sugestão ao MP.' → **ERRADO** (é vinculante e irretratável).\n❌ 'O prazo para denúncia no CPPM é sempre de 5 dias.' → **ERRADO** (5 dias para preso; 15 para solto).\n❌ 'A rejeição da denúncia por falta de justa causa impede nova denúncia.' → **ERRADO** (pode ser reoferecida com novas provas).\n❌ 'Na ação privada subsidiária, o MP atua passivamente.' → **ERRADO** (atua ativamente, pode aditar e retomar a titularidade).\n❌ 'A representação da vítima é a exceção no processo penal militar.' → **ERRADO** (a exceção é a requisição, não representação)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Ação Penal Militar",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+};

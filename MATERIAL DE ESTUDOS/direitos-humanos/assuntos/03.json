@@ -1,0 +1,232 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Direitos Humanos",
+  "titulo": "Gerações dos Direitos Humanos",
+  "icone": "📖",
+  "descricao": "A teoria das gerações (ou dimensões) explica a evolução histórica dos Direitos Humanos a partir do lema da Revolução Francesa: liberdade, igualdade e fraternidade.",
+  "topicos": [
+    {
+      "titulo": "Evolução Histórica — Documentos Essenciais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Magna Carta (1215)",
+          "texto": "Primeiro relato de direitos humanos. Limitou o poder do rei pela primeira vez na Inglaterra, garantindo liberdades civis: devido processo legal e proteção contra impostos abusivos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Petition of Right (1628) e Habeas Corpus Act (1679)",
+          "texto": "Consolidação dos direitos civis contra a arbitrariedade da Coroa na Inglaterra. O Habeas Corpus Act é um dos primeiros marcos da proteção contra a prisão arbitrária."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bill of Rights inglesa (1689)",
+          "texto": "Marco da transição do absolutismo para a monarquia parlamentarista na Inglaterra. É um dos documentos fundamentais do constitucionalismo moderno."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Declaração de Direitos da Virgínia (1776) e Declaração de Independência dos EUA (1776)",
+          "texto": "Primeiro documento constitucional a consagrar direitos fundamentais inalienáveis antes mesmo da Revolução Francesa. A Virgínia influenciou diretamente a Revolução Francesa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Declaração dos Direitos do Homem e do Cidadão (1789)",
+          "texto": "Marco supremo do liberalismo e da 1ª Dimensão/Geração na França."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Declaração Universal dos Direitos Humanos (1948)",
+          "texto": "Marco histórico da ONU, adotada em 10 de dezembro de 1948 pela Resolução 217-A, como resposta aos crimes do nazismo. É uma resolução da Assembleia Geral, não um tratado, mas possui valor moral e político universal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pactos Internacionais de 1966 (International Bill of Rights)",
+          "texto": "Complementam a DUDH e tornam os direitos juridicamente vinculantes para os Estados que os ratificam:\n\n**Carta Internacional dos Direitos Humanos** = DUDH (1948) + PIDCP (1966) + PIDESC (1966)\n\n- **PIDCP** — Pacto Internacional dos Direitos Civis e Políticos\n- **PIDESC** — Pacto Internacional dos Direitos Econômicos, Sociais e Culturais"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Classificação de Karel Vasak (1979)",
+          "texto": "Apresentada no Instituto Internacional de Direitos Humanos de Estrasburgo, baseada nos princípios da Revolução Francesa: **Liberdade, Igualdade e Fraternidade**, correspondendo às três primeiras gerações."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos Humanos na CF/1988",
+          "texto": "A Constituição Brasileira de 1988 consagra a **dignidade da pessoa humana**, cidadania, valores sociais do trabalho, e garante direitos à vida, igualdade, liberdade, segurança e propriedade, entre outros."
+        }
+      ]
+    },
+    {
+      "titulo": "As três gerações clássicas",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "1ª geração — Liberdade",
+          "texto": "Direitos **civis e políticos**, ligados à ideia de abstenção do Estado. Surgem com as revoluções liberais (séc. XVIII): vida, liberdade, propriedade, participação política.\n\n**Valor-fonte:** Liberdade\n**Característica:** Direitos negativos — exigem abstenção do Estado\n**Período:** Final do século XVII e século XIX (revoluções liberais / revolução francesa)\n\n💡 **Exemplos:** liberdade de expressão, reunião, associação, pensamento, igualdade perante..."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "1ª geração — Dia a dia",
+          "texto": "Você pode falar o que pensa (liberdade de expressão), se reunir com amigos (liberdade de reunião), criar uma associação de bairro (liberdade de associação), votar nas eleições (direito ao voto) e ter sua casa protegida (direito de propriedade) — tudo isso sem o Estado te impedir."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "2ª geração — Igualdade",
+          "texto": "Direitos **sociais, econômicos e culturais**, que exigem prestações positivas do Estado. Ganham força a partir do início do séc. XX, com as Constituições Mexicana (1917) e de Weimar (1919).\n\n**Valor-fonte:** Igualdade\n**Característica:** Direitos positivos — exigem ação positiva do Estado\n**Período:** Século XX (Revolução Industrial)\n\n💡 **Exemplos:** educação, saúde, trabalho, moradia, alimentação, cultura, lazer, previdência social."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "2ª geração — Dia a dia",
+          "texto": "Seu filho tem direito a estudar na escola pública (educação), quando você fica doente vai ao SUS (saúde), você tem direito ao emprego com carteira assinada (trabalho), pode se aposentar (previdência) e ter uma casa digna (moradia). O Estado DEVE fornecer isso, não só permitir — é obrigação dele!"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "3ª geração — Fraternidade/Solidariedade",
+          "texto": "Direitos **difusos e coletivos**, de titularidade transindividual: meio ambiente, paz, desenvolvimento, autodeterminação dos povos, patrimônio comum da humanidade.\n\n**Valor-fonte:** Solidariedade/Fraternidade\n**Característica:** Direitos difusos e coletivos — transcendem fronteiras nacionais\n**Período:** Final do século XX (Pós-2ª Guerra Mundial)\n\n💡 **Exemplos:** direito ao desenvolvimento, meio ambiente saudável, direito à paz, direito à comunicação, direitos do consumidor."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "3ª geração — Dia a dia",
+          "texto": "Você tem direito a respirar ar limpo (meio ambiente), o Brasil não pode poluir o Rio de Janeiro sem prejudicar outros países (meio ambiente é de todos), você pode reclamar quando compra um produto estragado (direito do consumidor), e o mundo quer a paz entre nações (direito à paz). São direitos que transcendem fronteiras — todos os povos precisam cooperar!"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "Lembre do lema francês na ordem: **Liberdade → Igualdade → Fraternidade**, que corresponde exatamente à 1ª, 2ª e 3ª geração."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Para Leigos",
+          "texto": "Imagine que os direitos fundamentais são como 'regras de convivência' que a sociedade conquistou ao longo do tempo. A 1ª geração surgiu quando as pessoas queriam proteção contra o rei/poderoso — tipo 'não me prenda sem motivo'. A 2ª veio quando o povo percebeu que só liberdade não bastava — precisava de escola, hospital e emprego. A 3ª surgiu quando vimos que somos todos vizinhos no mesmo planeta — precisamos cuidar do meio ambiente e da paz mundial."
+        }
+      ]
+    },
+    {
+      "titulo": "Direitos Difusos e Coletivos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos Difusos",
+          "texto": "São direitos indivisíveis, pertencentes a pessoas indeterminadas, ligadas apenas por uma circunstância de fato. Não é possível identificar previamente todos os seus titulares.\n\n📌 **Exemplo:** direito ao meio ambiente equilibrado, ao ar limpo e à preservação do patrimônio histórico."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Direitos Coletivos",
+          "texto": "Também são direitos indivisíveis, porém pertencem a um grupo, categoria ou classe de pessoas determináveis, unidas por uma relação jurídica em comum.\n\n📌 **Exemplo:** direitos dos alunos de uma escola, dos servidores públicos ou dos consumidores de uma mesma empresa."
+        },
+        {
+          "tipo": "resumo",
+          "titulo": "Resumo da diferença",
+          "texto": "**Direitos Difusos** = titulares indeterminados + vínculo por circunstâncias de fato.\n**Direitos Coletivos** = titulares determináveis + vínculo por relação jurídica comum."
+        }
+      ]
+    },
+    {
+      "titulo": "Gerações mais recentes — visão de Norberto Bobbio",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "4ª geração (Bobbio)",
+          "texto": "Trata dos avanços da **engenharia genética, biotecnologia e bioética** — pesquisas com células-tronco, clonagem, manipulação genética."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "5ª geração (Bobbio)",
+          "texto": "Coloca o **direito à paz** como 5ª dimensão, por uma perspectiva de garantia da própria sobrevivência humana diante do avanço tecnológico."
+        }
+      ]
+    },
+    {
+      "titulo": "Gerações mais recentes — visão de Paulo Bonavides",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "4ª geração (Bonavides)",
+          "texto": "Ligada à **democracia direta**, à **informação** e à **globalização política**."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "5ª geração (Bonavides)",
+          "texto": "Classifica o **direito à paz** como 5ª geração, destacando sua autonomia em relação aos direitos de solidariedade (3ª geração)."
+        }
+      ]
+    },
+    {
+      "titulo": "6ª geração — visão de Uadi Lammêgo Bulos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "6ª geração",
+          "texto": "Alguns autores apontam o **direito à água potável** como uma 6ª dimensão emergente, ainda não pacífica na doutrina."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação quanto ao papel do Estado (Status de Jellinek)",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Teoria dos Status de Georg Jellinek",
+          "tabela": {
+            "colunas": [
+              "Status de Jellinek",
+              "Significado",
+              "Dimensão Correspondente"
+            ],
+            "linhas": [
+              [
+                "Status Negativo (Status Libertatis)",
+                "O Estado deve **abster-se de intervir** na liberdade do indivíduo. Corresponde aos direitos de 1ª geração (civis e políticos), que exigem apenas que o Estado não interfira — exemplo: liberdade de expressão, onde o Estado não pode censurar.",
+                "1ª Dimensão (Civis)"
+              ],
+              [
+                "Status Positivo (Status Civitatis)",
+                "O indivíduo **pode exigir prestações** e serviços públicos do Estado. Corresponde aos direitos de 2ª geração (sociais, econômicos e culturais), que exigem ação positiva do Estado — exemplo: direito à saúde, onde o Estado deve construir hospitais e oferecer atendimento.",
+                "2ª Dimensão (Sociais/Econômicos)"
+              ],
+              [
+                "Status Ativo (Status Politicus)",
+                "O indivíduo **participa da formação da vontade do Estado** (voto, eleições, mandato). Corresponde aos direitos políticos, que garantem a participação ativa na vida pública — exemplo: direito ao voto, direito de candidatar-se a cargos eletivos.",
+                "1ª Dimensão (Políticos)"
+              ],
+              [
+                "Status Passivo (Status Subiecti)",
+                "O indivíduo **está submetido ao poder do Estado** e aos deveres impostos pela ordem jurídica. Corresponde aos deveres fundamentais do cidadão — exemplo: pagamento de impostos, reserva de ordem, serviço militar (quando houver).",
+                "Transversal"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 **Negativo** = abstenção (1ª) | **Positivo** = prestação (2ª) | **Ativo** = participação (voto, 1ª política) | **Passivo** = deveres (transversal)"
+        }
+      ]
+    },
+    {
+      "titulo": "Terminologia: \"gerações\" x \"dimensões\"",
+      "cards": [
+        {
+          "tipo": "importante",
+          "titulo": "Gerações vs. Dimensões",
+          "texto": "Parte da doutrina critica o termo \"gerações\", pois passa a falsa ideia de que uma geração **substitui** a anterior. Por isso, prefere-se falar em **dimensões**, já que os direitos de todas as fases coexistem e se complementam."
+        }
+      ]
+    },
+    {
+      "titulo": "Diferenciação conceitual estrita (Direitos Humanos vs. Direitos Fundamentais)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Conceito e plano de eficácia",
+          "texto": "Embora muitas vezes sejam usados como sinônimos na prática, as bancas cobram a diferença técnica:\n\n**Direitos Humanos** — são aqueles consagrados no **direito internacional** (tratados, convenções, resoluções da ONU). Têm aplicação no plano internacional.\n\n**Direitos Fundamentais** — são aqueles **positivados no direito interno** (inseridos no texto de uma Constituição rígida, como a CF/88). Têm aplicação no plano constitucional interno.\n\nEssa distinção de plano de eficácia (internacional vs. constitucional) é fundamental para questões de prova."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+};
