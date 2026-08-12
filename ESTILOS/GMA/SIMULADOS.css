@@ -1,5 +1,5 @@
 /* ==========================================================================
-   CSS PRO: Interpretação e Compreensão de Textos (Dark Theme)
+   CSS PRO: Interpretação e Compreensão de Textos (Dark Theme + Azul)
    ========================================================================== */
 
 /* ===== 1. RESET & BASE ===== */
@@ -7,13 +7,13 @@
     --bg-main: #0d1117;
     --bg-panel: #161b22;
     --bg-hover: #21262d;
-    --bg-active: #1c2a3a;
+    --bg-active: #1a2a4a; /* azul escuro para destaque */
     
     --text-primary: #e6edf3;
     --text-secondary: #8b949e;
     
-    --accent-color: #2d9d5e;
-    --accent-hover: #3db86e;
+    --accent-color: #2563eb;    /* azul principal */
+    --accent-hover: #3b82f6;    /* azul mais claro no hover */
     
     --border-color: #30363d;
     
@@ -61,7 +61,7 @@ a {
     border-radius: 8px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--accent-color);
+    background: var(--accent-color); /* azul */
 }
 
 /* ===== 3. LAYOUT & SIDEBAR ===== */
@@ -84,7 +84,7 @@ a {
 .sidebar .logo {
     font-size: 1.25rem;
     font-weight: 700;
-    color: var(--accent-color);
+    color: var(--accent-color); /* azul */
     margin-bottom: 32px;
     display: flex;
     align-items: center;
@@ -120,7 +120,7 @@ a {
 
 .sidebar .menu-item.active {
     background: var(--bg-active);
-    color: var(--accent-color);
+    color: var(--accent-color); /* azul */
     font-weight: 600;
 }
 
@@ -141,7 +141,7 @@ a {
 .main {
     flex: 1;
     padding: 32px 40px;
-    max-width: 1200px; /* Constrain width for better readability */
+    max-width: 1200px;
     margin: 0 auto;
     width: 100%;
 }
@@ -249,7 +249,7 @@ a {
 
 .questao-header .badge {
     background: var(--bg-active);
-    color: var(--accent-color);
+    color: var(--accent-color); /* azul */
     padding: 4px 12px;
     border-radius: var(--radius-pill);
     font-size: 0.85rem;
@@ -260,11 +260,11 @@ a {
 .questao-texto {
     font-size: 1.05rem;
     line-height: 1.6;
-    color: #c9d1d9; /* Slightly softer than primary text */
+    color: #c9d1d9;
     margin-bottom: 24px;
     padding: 16px 20px;
     background: var(--bg-main);
-    border-left: 4px solid var(--accent-color);
+    border-left: 4px solid var(--accent-color); /* azul */
     border-radius: 4px var(--radius-md) var(--radius-md) 4px;
     font-style: italic;
 }
@@ -299,11 +299,11 @@ a {
 }
 
 .alternativas label:hover {
-    border-color: var(--accent-color);
+    border-color: var(--accent-color); /* azul */
     background: var(--bg-hover);
 }
 
-/* Custom Radio Button styling for better look */
+/* Custom Radio Button */
 .alternativas input[type="radio"] {
     appearance: none;
     -webkit-appearance: none;
@@ -325,12 +325,12 @@ a {
     border-radius: 50%;
     transform: scale(0);
     transition: 120ms transform ease-in-out;
-    box-shadow: inset 1em 1em var(--accent-color);
+    box-shadow: inset 1em 1em var(--accent-color); /* azul */
     background-color: var(--accent-color);
 }
 
 .alternativas input[type="radio"]:checked {
-    border-color: var(--accent-color);
+    border-color: var(--accent-color); /* azul */
 }
 
 .alternativas input[type="radio"]:checked::before {
@@ -349,7 +349,7 @@ a {
 }
 
 .btn-verificar {
-    background: var(--accent-color);
+    background: var(--accent-color); /* azul */
     color: #ffffff;
     border: none;
     padding: 10px 24px;
@@ -364,7 +364,7 @@ a {
 }
 
 .btn-verificar:hover {
-    background: var(--accent-hover);
+    background: var(--accent-hover); /* azul mais claro */
     transform: translateY(-2px);
 }
 
@@ -381,7 +381,7 @@ a {
 }
 
 .feedback.correto {
-    color: var(--accent-color);
+    color: var(--accent-color); /* azul */
 }
 
 .feedback.incorreto {
@@ -447,7 +447,7 @@ a {
 
 .gabarito-tabela .resp {
     font-weight: 700;
-    color: var(--accent-color);
+    color: var(--accent-color); /* azul */
 }
 
 /* ===== 8. MOBILE RESPONSIVENESS & OVERLAY ===== */
