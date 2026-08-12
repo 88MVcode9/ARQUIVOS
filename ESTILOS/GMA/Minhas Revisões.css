@@ -1,8 +1,8 @@
-                /* ===== ESTILOS GLOBAIS ===== */
+/* ===== ESTILOS GLOBAIS ===== */
         :root {
             --overlay-opacity: 0.55;
             --card-bg: rgba(255, 255, 255, 0.06);
-            --border-color: rgba(255, 255, 255, 0.18);
+            --border-color: rgba(100, 180, 255, 0.25);
             --glass-blur: 16px;
         }
 
@@ -19,8 +19,8 @@
             align-items: center;
             justify-content: center;
             overflow-x: hidden;
-            background: #0a0a0f;
-            background: linear-gradient(135deg, #0a0a1a 0%, #0d1117 30%, #0a0f1e 60%, #080c14 100%);
+            background: #0a0e1a;
+            background: linear-gradient(135deg, #0a0e1a 0%, #0d1b2a 30%, #0a1628 60%, #071220 100%);
         }
 
         /* ===== VÍDEO DE FUNDO ===== */
@@ -42,7 +42,7 @@
             width: 100%;
             height: 100%;
             z-index: -1;
-            background: rgba(10, 10, 20, var(--overlay-opacity));
+            background: rgba(10, 14, 26, var(--overlay-opacity));
             pointer-events: none;
         }
 
@@ -53,7 +53,7 @@
             width: 100%;
             height: 100%;
             z-index: -3;
-            background: linear-gradient(135deg, #0f0c29, #1a1a3e, #0d1117, #1a0a2e, #0f0c29);
+            background: linear-gradient(135deg, #0a0e1a, #0d1b2a, #0a1628, #0f2847, #0a0e1a);
             background-size: 400% 400%;
             animation: gradientShift 18s ease infinite;
         }
@@ -87,10 +87,10 @@
         @keyframes pulseGlow {
             0%,
             100% {
-                box-shadow: 0 0 20px rgba(255, 255, 255, 0.08), 0 0 40px rgba(120, 120, 255, 0.06);
+                box-shadow: 0 0 20px rgba(59, 130, 246, 0.15), 0 0 40px rgba(59, 130, 246, 0.08);
             }
             50% {
-                box-shadow: 0 0 35px rgba(255, 255, 255, 0.18), 0 0 65px rgba(120, 120, 255, 0.15);
+                box-shadow: 0 0 35px rgba(59, 130, 246, 0.30), 0 0 65px rgba(59, 130, 246, 0.20);
             }
         }
 
@@ -111,15 +111,15 @@
             -webkit-backdrop-filter: blur(var(--glass-blur));
             background: var(--card-bg);
             box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35),
-                inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+                inset 0 0 0 1px rgba(100, 180, 255, 0.06);
             transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         }
 
         .profileCard_container:hover {
-            border-color: rgba(255, 255, 255, 0.35);
+            border-color: rgba(59, 130, 246, 0.5);
             box-shadow: 0 12px 55px rgba(0, 0, 0, 0.45),
-                inset 0 0 0 1px rgba(255, 255, 255, 0.08),
-                0 0 80px rgba(100, 120, 255, 0.08);
+                inset 0 0 0 1px rgba(59, 130, 246, 0.15),
+                0 0 80px rgba(59, 130, 246, 0.12);
         }
 
         /* ===== BOTÕES DE ÍCONE (externos) ===== */
@@ -127,9 +127,9 @@
             position: absolute;
             border-radius: 50%;
             cursor: pointer;
-            border: 1.5px solid rgba(255, 255, 255, 0.25);
+            border: 1.5px solid rgba(59, 130, 246, 0.35);
             padding: 2px;
-            background: rgba(255, 255, 255, 0.04);
+            background: rgba(59, 130, 246, 0.08);
             backdrop-filter: blur(10px);
             -webkit-backdrop-filter: blur(10px);
             transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -140,10 +140,10 @@
 
         .profile_item:hover {
             transform: scale(1.18) !important;
-            border-color: rgba(255, 255, 255, 0.7);
-            box-shadow: 0 0 30px rgba(255, 255, 255, 0.2),
-                0 0 60px rgba(120, 140, 255, 0.25);
-            background: rgba(255, 255, 255, 0.12);
+            border-color: rgba(59, 130, 246, 0.8);
+            box-shadow: 0 0 30px rgba(59, 130, 246, 0.35),
+                0 0 60px rgba(59, 130, 246, 0.20);
+            background: rgba(59, 130, 246, 0.18);
             z-index: 10;
         }
 
@@ -164,12 +164,12 @@
             transition: all 0.4s ease;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
             font-size: 22px;
-            color: #1e293b;
+            color: #0a1628;
         }
 
         .profile_item:hover .icon-wrapper {
             background: #ffffff;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+            box-shadow: 0 4px 20px rgba(59, 130, 246, 0.30);
             transform: scale(1.05);
         }
 
@@ -178,13 +178,13 @@
             width: 200px;
             height: 200px;
             padding: 4px;
-            border: 2px solid rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(59, 130, 246, 0.3);
             border-radius: 50%;
             cursor: pointer;
             transition: all 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             z-index: 0;
             position: relative;
-            background: rgba(255, 255, 255, 0.03);
+            background: rgba(59, 130, 246, 0.06);
             backdrop-filter: blur(8px);
             -webkit-backdrop-filter: blur(8px);
             animation: pulseGlow 4s ease-in-out infinite;
@@ -193,10 +193,10 @@
         }
 
         .profile_center:hover {
-            border-color: rgba(255, 255, 255, 0.6);
+            border-color: rgba(59, 130, 246, 0.7);
             transform: scale(1.06);
-            box-shadow: 0 0 50px rgba(255, 255, 255, 0.2),
-                0 0 90px rgba(130, 150, 255, 0.3);
+            box-shadow: 0 0 50px rgba(59, 130, 246, 0.25),
+                0 0 90px rgba(59, 130, 246, 0.35);
             animation: none;
         }
 
@@ -221,13 +221,13 @@
 
         .profile_center:hover .profile_center_inner {
             background: #ffffff;
-            box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.08),
-                0 8px 30px rgba(0, 0, 0, 0.2);
+            box-shadow: inset 0 0 40px rgba(59, 130, 246, 0.10),
+                0 8px 30px rgba(59, 130, 246, 0.20);
         }
 
         .profile_center_icon {
             font-size: 48px;
-            color: #1e293b;
+            color: #0a1628;
             transition: all 0.5s ease;
         }
 
@@ -238,7 +238,7 @@
         .profile_center_label {
             font-size: 0.7rem;
             font-weight: 600;
-            color: #1e293b;
+            color: #0a1628;
             letter-spacing: 0.02em;
             margin-top: 2px;
         }
@@ -246,8 +246,8 @@
         /* ===== TOOLTIP ===== */
         .tooltip-custom {
             position: absolute;
-            background: rgba(20, 20, 30, 0.95);
-            color: #fff;
+            background: rgba(10, 14, 26, 0.95);
+            color: #e8f0fe;
             padding: 6px 14px;
             border-radius: 20px;
             font-size: 0.78rem;
@@ -258,7 +258,7 @@
             transform: translateY(5px);
             transition: all 0.3s ease;
             letter-spacing: 0.02em;
-            border: 1px solid rgba(255, 255, 255, 0.25);
+            border: 1px solid rgba(59, 130, 246, 0.4);
             box-shadow: 0 6px 25px rgba(0, 0, 0, 0.5);
             z-index: 20;
             font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
@@ -315,24 +315,24 @@
             width: 50px;
             height: 50px;
             border-radius: 50%;
-            background: rgba(30, 30, 45, 0.85);
+            background: rgba(10, 14, 26, 0.85);
             backdrop-filter: blur(14px);
             -webkit-backdrop-filter: blur(14px);
-            border: 1.5px solid rgba(255, 255, 255, 0.3);
+            border: 1.5px solid rgba(59, 130, 246, 0.35);
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
             transition: all 0.35s ease;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-            color: #fff;
+            color: #e8f0fe;
         }
         .config-btn:hover {
-            background: rgba(50, 50, 70, 0.9);
-            border-color: rgba(255, 255, 255, 0.6);
+            background: rgba(59, 130, 246, 0.20);
+            border-color: rgba(59, 130, 246, 0.7);
             transform: scale(1.08) rotate(60deg);
             box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5),
-                0 0 40px rgba(180, 180, 255, 0.2);
+                0 0 40px rgba(59, 130, 246, 0.25);
         }
         .config-btn svg {
             width: 22px;
@@ -364,10 +364,10 @@
         }
 
         .modal-panel {
-            background: rgba(22, 22, 35, 0.95);
+            background: rgba(10, 14, 26, 0.95);
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
-            border: 1.5px solid rgba(255, 255, 255, 0.2);
+            border: 1.5px solid rgba(59, 130, 246, 0.25);
             border-radius: 20px;
             padding: 2rem 2.2rem;
             width: 90%;
@@ -375,7 +375,7 @@
             max-height: 85vh;
             overflow-y: auto;
             box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
-            color: #e0e0e0;
+            color: #e0e8f5;
             transform: translateY(20px);
             transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         }
@@ -405,7 +405,7 @@
             text-transform: uppercase;
             letter-spacing: 0.06em;
             margin-bottom: 4px;
-            color: #aaa;
+            color: #8ab4f8;
         }
         .modal-panel .input-group {
             margin-bottom: 1.1rem;
@@ -414,18 +414,18 @@
             width: 100%;
             padding: 11px 16px;
             border-radius: 12px;
-            border: 1.5px solid rgba(255, 255, 255, 0.2);
-            background: rgba(255, 255, 255, 0.06);
-            color: #fff;
+            border: 1.5px solid rgba(59, 130, 246, 0.25);
+            background: rgba(59, 130, 246, 0.06);
+            color: #e8f0fe;
             font-size: 0.9rem;
             transition: all 0.3s ease;
             font-family: inherit;
         }
         .modal-panel input:focus {
             outline: none;
-            border-color: rgba(140, 160, 255, 0.7);
-            background: rgba(255, 255, 255, 0.1);
-            box-shadow: 0 0 20px rgba(120, 140, 255, 0.15);
+            border-color: rgba(59, 130, 246, 0.7);
+            background: rgba(59, 130, 246, 0.10);
+            box-shadow: 0 0 20px rgba(59, 130, 246, 0.20);
         }
         .modal-panel .btn-row {
             display: flex;
@@ -445,28 +445,28 @@
             font-family: inherit;
         }
         .btn-save {
-            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            background: linear-gradient(135deg, #2563eb, #3b82f6);
             color: #fff;
             flex: 1;
             min-width: 120px;
         }
         .btn-save:hover {
-            box-shadow: 0 8px 30px rgba(99, 102, 241, 0.4);
+            box-shadow: 0 8px 30px rgba(37, 99, 235, 0.4);
             transform: translateY(-2px);
         }
         .btn-reset {
             background: rgba(255, 255, 255, 0.08);
-            color: #ccc;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #c0d0e8;
+            border: 1px solid rgba(59, 130, 246, 0.2);
         }
         .btn-reset:hover {
-            background: rgba(255, 255, 255, 0.15);
+            background: rgba(59, 130, 246, 0.15);
             color: #fff;
         }
         .btn-close {
             background: transparent;
-            color: #999;
-            border: 1px solid rgba(255, 255, 255, 0.15);
+            color: #8ab4f8;
+            border: 1px solid rgba(59, 130, 246, 0.15);
             padding: 11px 18px;
             border-radius: 25px;
             cursor: pointer;
@@ -475,7 +475,7 @@
             font-family: inherit;
         }
         .btn-close:hover {
-            background: rgba(255, 255, 255, 0.08);
+            background: rgba(59, 130, 246, 0.08);
             color: #fff;
         }
 
@@ -511,7 +511,7 @@
             background: transparent;
         }
         .modal-panel::-webkit-scrollbar-thumb {
-            background: rgba(255, 255, 255, 0.2);
+            background: rgba(59, 130, 246, 0.3);
             border-radius: 10px;
         }
 
