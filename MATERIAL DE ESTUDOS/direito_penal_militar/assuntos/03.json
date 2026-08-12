@@ -1,0 +1,110 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Direito Penal Militar",
+  "titulo": "Concurso de Agentes, Penas e Medidas de Segurança",
+  "icone": "⚔️",
+  "descricao": "Concurso de pessoas, espécies de penas principais e acessórias, critérios de aplicação, reincidência, e medidas de segurança no CPM.",
+  "topicos": [
+    {
+      "titulo": "Concurso de Agentes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Teoria Monista (Art. 49)",
+          "texto": "Todos que concorrem para o crime incidem nas mesmas penas, na medida de sua culpabilidade.\n\n**Autor**: quem executa a conduta típica.\n**Partícipe**: quem induz, instiga ou auxilia (moral ou materialmente)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Autor e Partícipe",
+          "texto": "**Autor** (Art. 49, caput): é quem executa a conduta típica, pratica o núcleo do tipo penal, ou que, embora não execute, tem o domínio do fato (teoria do domínio do fato).\n\n**Partícipe**: é quem induz, instiga ou auxilia (moral ou materialmente) o autor, sem executar diretamente a conduta típica. A participação pode ser:\n- **Moral**: induzimento ou instigação (influência psicológica).\n- **Material**: auxílio físico, fornecimento de meios, etc.\n\nA pena do partícipe é a mesma do autor, reduzida na medida de sua culpabilidade (Art. 49)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Comunicabilidade (Art. 50)",
+          "texto": "Circunstâncias pessoais (reincidência, emoção, parentesco) **não** se comunicam.\n\nElementares do crime comunicam‑se, se conhecidas pelo comparsa."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Participação de Menor Importância (Art. 51)",
+          "texto": "Se a participação for de somenos importância, a pena pode ser reduzida de **1/3 a 2/3**."
+        }
+      ]
+    },
+    {
+      "titulo": "Penas Principais e Acessórias",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas Principais (Art. 55 do CPM, com alterações da Lei 14.688/2023)",
+          "texto": "**Morte** – apenas em tempo de guerra declarada, por fuzilamento.\n**Reclusão e Detenção** – penas privativas de liberdade.\n**Prisão** – até 2 anos, cumprida em recinto militar.\n**Impedimento** – exclusiva para o crime de insubmissão.\n\n⚠️ **Revogações** (Lei 14.688/2023): foram extintas as penas de Reforma e de Suspensão do exercício do posto/cargo.\n\n📌 **Rito e salvaguardas da pena de morte**:\n- Exige **guerra declarada** e procedimento especial previsto no CPPM.\n- A sentença condenatória é **comunicada imediatamente ao Presidente da República** (art. 84, XXII, CF), para fins de exercício do poder de indulto ou comutação.\n- O condenado tem direito à **apelação obrigatória** ao Superior Tribunal Militar (STM), nos termos do art. 122, II, da CF.\n- A execução só ocorre após negado o pedido de clemência ou esgotado o prazo recursal especial, respeitando o devido processo legal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Penas Acessórias – Efeitos da Condenação (Arts. 98 a 108)",
+          "texto": "**Automáticas e obrigatórias**:\n- Perda de Posto e Patente (para oficiais condenados a pena superior a 2 anos – Art. 99);\n- Exclusão das Forças Armadas (para praças na mesma condição – Art. 101);\n- Indignidade para o oficialato (Art. 100 – **não recepcionado pela CF/88**).\n\n**Dependem de declaração judicial**:\n- Perda de função pública (Art. 102);\n- Inabilitação para cargo público (Art. 104).\n\n**Efeitos extrapenais automáticos**:\n- Obrigação de reparar o dano (título executivo judicial);\n- Confisco dos instrumentos e produtos do crime."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Aplicação da Pena – Sistema Trifásico (Art. 69)",
+          "texto": "1ª fase: fixação da pena‑base entre mínimo e máximo, considerando circunstâncias judiciais.\n2ª fase: aplicação de atenuantes e agravantes (Arts. 70‑72).\n3ª fase: incidência de causas de aumento ou diminuição (ex.: tentativa, minorante da confissão)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Agravantes Específicas do CPM (Art. 70)",
+          "texto": "• Embriaguez preordenada (II, “l”).\n• Crime contra superior hierárquico em serviço (II, “f”).\n• Crime com abuso de autoridade ou função (II, “g”)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Concurso de Crimes (Arts. 79‑80) e Limites de Cumprimento",
+          "texto": "**Material** (Art. 79): várias ações → vários crimes → cúmulo material (soma das penas).\n\n**Formal** (Art. 79, §1º): uma ação → vários crimes → exasperação (pena mais grave + aumento de 1/6 a 1/2).\n\n**Crime continuado** (Art. 80): crimes da mesma espécie, condições semelhantes – aplica‑se a pena de um só, aumentada de 1/6 a 1/2.\n\n⚠️ **Limites máximos de cumprimento (Art. 79, §2º do CPM)**:\n- Reclusão: **30 anos**.\n- Detenção: **20 anos**.\n\n📌 **Nuances práticas**:\n- Em concurso entre reclusão e detenção, cumpre‑se primeiro a reclusão, depois a detenção, respeitados os tetos de cada modalidade.\n- Para fins de progressão de regime e livramento condicional, observa‑se o **total da pena unificada**, nos moldes da LEP.\n- O teto do CPM prevalece sobre o limite de 40 anos do CP comum, por força da **especialidade** (o CPM é lei especial).\n- A jurisprudência do STM recomenda atenção à **detração** e à **unificação** em casos de condenações sucessivas, aplicando‑se o art. 84 do CPM para evitar bis in idem."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Reincidência (Arts. 71 e 78)",
+          "texto": "Militar: só gera reincidência se o crime anterior for **militar ou contra a segurança nacional**.\n\nPrazo depurador: **5 anos** entre a extinção da pena anterior e o novo crime – após esse prazo, não há reincidência.\n\nCrime político não gera reincidência (Art. 71, §2º)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Reabilitação (Arts. 134‑135)",
+          "texto": "Requisitos: 2 anos após a extinção da pena, bom comportamento e reparação do dano.\n\nRestaura o sigilo dos antecedentes e cancela efeitos extrapenais, mas **não apaga a reincidência**.\n\nRevogável se o reabilitado for condenado por crime posterior."
+        }
+      ]
+    },
+    {
+      "titulo": "Medidas de Segurança",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Medidas Detentivas",
+          "texto": "**Internação** – manicômio judiciário (para inimputáveis com periculosidade).\n\n**Tratamento ambulatorial** – sem internação (casos de menor gravidade)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas Não Detentivas (Arts. 115‑117)",
+          "texto": "**Exílio local** – proibição de residir/permanecer na localidade do crime por, no mínimo, 1 ano.\n**Proibição de lugares** – acesso vedado a locais que favoreçam a recidiva.\n**Interdição de licença** (Art. 115) – cassação do direito de dirigir por, no mínimo, 1 ano."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas Patrimoniais (Arts. 118‑119)",
+          "texto": "**Confisco** (Art. 119) – perda em favor da União dos instrumentos e produtos do crime, **independentemente de condenação ou extinção da punibilidade**.\n\n**Interdição de estabelecimento** – proibição de exercer atividade no local por 15 dias a 6 meses."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Duração e Controle",
+          "texto": "Prazo mínimo: de 1 a 3 anos, fixado na sentença.\nPrazo máximo: indeterminado no CPM, mas limitado a **30 anos** pelo STF (em linha com o art. 75 do CP).\n\nPerícia de cessação (Art. 112): primeira perícia após o prazo mínimo; se persistir a periculosidade, nova perícia anualmente.\n\nLiberação condicional é **reversível**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Internação Substitutiva (Art. 113)",
+          "texto": "Se o internado se cura, é transferido para o estabelecimento penal comum para cumprir o restante da pena (detração).\n\nÉbrios e toxicômanos (§ 3º) sujeitam‑se à internação curativa nos mesmos moldes."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

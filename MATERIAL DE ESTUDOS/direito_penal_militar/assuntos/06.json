@@ -1,0 +1,83 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Direito Penal Comum",
+  "titulo": "Princípios, Teoria do Crime e Legislação Especial",
+  "icone": "⚖️",
+  "descricao": "Princípios fundamentais do Código Penal, teoria do delito (furto x roubo, peculato), e destaques da Lei de Abuso de Autoridade, com foco nas diferenças em relação ao Direito Penal Militar.",
+  "topicos": [
+    {
+      "titulo": "Princípios e Aplicação da Lei Penal (CP)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Legalidade e Anterioridade",
+          "texto": "Art. 5º, XXXIX, CF e Art. 1º do CP: não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal. No CP, o princípio não se estende expressamente às medidas de segurança (diferente do CPM)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Territorialidade (Art. 5º, CP)",
+          "texto": "Aplica‑se a lei brasileira ao crime cometido no território nacional (teoria da territorialidade temperada). Inclui embarcações e aeronaves brasileiras de natureza pública ou a serviço do governo."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Tempo do Crime – Teoria da Atividade (Art. 4º, CP)",
+          "texto": "Considera‑se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado. (Mesma regra do CPM)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lugar do Crime – Teoria da Ubiquidade (Art. 6º, CP)",
+          "texto": "Considera‑se praticado o crime no lugar da ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir‑se o resultado. (Idêntica ao CPM)."
+        }
+      ]
+    },
+    {
+      "titulo": "Teoria Geral do Crime e Delitos em Espécie",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito Analítico de Crime (Teoria Tripartida)",
+          "texto": "**Fato típico** (conduta, resultado, nexo, tipicidade) + **Ilicitude** (ausência de excludentes) + **Culpabilidade** (exigibilidade de conduta diversa)."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Furto x Roubo (Arts. 155 e 157, CP)",
+          "tabela": {
+            "colunas": ["Critério", "Furto", "Roubo"],
+            "linhas": [
+              ["Conduta", "Subtrair coisa alheia móvel", "Subtrair com violência ou grave ameaça"],
+              ["Bem jurídico", "Patrimônio", "Patrimônio + integridade física/liberdade"],
+              ["Pena", "Reclusão de 1 a 4 anos (+ multa)", "Reclusão de 4 a 10 anos (+ multa)"],
+              ["Qualificadoras", "Furto mediante fraude, etc.", "Uso de arma, concurso de pessoas, etc."]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Peculato (Art. 312, CP) – Comparativo com o CPM",
+          "texto": "**Peculato‑apropriação / desvio / furto**: funcionário público que, em razão do cargo, subtrai ou desvia bem público.\n\n**Peculato culposo**: se o funcionário concorre culposamente para o dano.\n\n**Diferença crucial**:\n- No **CPM**, o ressarcimento do dano **antes da sentença** extingue a punibilidade (Art. 123, VI).\n- No **CP comum**, o ressarcimento apenas reduz a pena de **1/3 a 2/3** (Art. 312, § 2º)."
+        }
+      ]
+    },
+    {
+      "titulo": "Legislação Especial – Abuso de Autoridade (Lei 13.869/2019)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Elemento Subjetivo – Dolo Específico",
+          "texto": "Exige finalidade de **prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho/satisfação pessoal**. Não há modalidade culposa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas de Segurança no Direito Penal Comum",
+          "texto": "**Sistema vicariante**: o juiz aplica pena (se imputável) ou medida de segurança (se inimputável), nunca ambas.\n\n**Internação**: para crimes punidos com **reclusão**;\n**Tratamento ambulatorial**: para crimes punidos com **detenção**.\n\nPrazo máximo de internação: **indeterminado**, mas limitado a **40 anos** pelo STF (diferente do CPM, onde o limite é 30 anos)."
+          },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/06.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

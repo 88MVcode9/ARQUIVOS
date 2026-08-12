@@ -1,0 +1,155 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Direito Penal Comum",
+  "titulo": "Teoria do Crime",
+  "icone": "🧠",
+  "descricao": "Conceitos material, formal e analítico de crime, infração penal, conduta (teorias causal, finalista e social), omissão, resultado, nexo causal, tipicidade, dolo, culpa, consumação, crime impossível, classificações doutrinárias e iter criminis.",
+  "topicos": [
+    {
+      "titulo": "Conceito de Crime e Infração Penal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceitos Material, Formal e Analítico",
+          "texto": "**Material:** Crime é todo fato humano lesivo a um bem jurídico penalmente relevante (lesividade social).\n\n**Formal:** Crime é toda conduta descrita na lei como infração (adequação ao tipo legal).\n\n**Analítico (Tripartite - majoritária):** Crime é fato típico, ilícito e culpável.\n\n**Bipartite (minoritária):** Crime é fato típico e ilícito (culpabilidade como pressuposto de aplicação da pena)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Crime vs. Contravenção Penal",
+          "texto": "**Crime:** Penas de reclusão ou detenção; ação penal pública incondicionada (regra) ou privada; regras do Código Penal (Parte Geral aplicável).\n\n**Contravenção:** Penas de prisão simples (sem regime fechado) ou multa; ação penal pública incondicionada (regra); regidas pela Lei de Contravenções Penais (Decreto-Lei 3.688/41).\n\n**Diferenças práticas:**\n- Contravenção não admite prisão em flagrante convertida em preventiva? (exige fiança);\n- Prazos prescricionais menores;\n- Não se aplica o princípio da insignificância da mesma forma (STJ restringe)."
+        }
+      ]
+    },
+    {
+      "titulo": "Conduta e Teorias",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Teorias da Conduta",
+          "texto": "**Teoria Causal (Naturalista):** Conduta é um movimento corporal voluntário (ação) ou omissão, com produção de um resultado. Não há valoração, apenas relação de causalidade. Crítica: separa dolo e culpa, tratando-os como mera culpabilidade.\n\n**Teoria Finalista (adotada pelo CP/42):** Conduta é a ação ou omissão humana dirigida a uma finalidade (dolo natural). O dolo e a culpa integram o tipo penal (fato típico), e não apenas a culpabilidade.\n\n**Teoria Social:** Conduta é a ação ou omissão humana que produz uma consequência socialmente relevante. Valoriza o contexto social do comportamento."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ação e Omissão",
+          "texto": "**Ação:** Comportamento humano positivo (fazer algo proibido pela lei).\n\n**Omissão:** Comportamento negativo (não fazer algo que a lei ordenava). Subdivide-se em:\n- **Omissão própria (crime omissivo puro):** descumprimento de um dever genérico de agir (ex.: omissão de socorro - art. 135 do CP).\n- **Omissão imprópria (comissivo por omissão):** descumprimento de um dever especial de garantidor (art. 13, §2º)."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Omissivos e Garantidor",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Crimes Omissivos Próprios e Impróprios",
+          "texto": "**Próprios (Puros):** A lei descreve uma conduta de não fazer. Basta a inércia do agente. Ex.: Omissão de socorro (art. 135). **Não admitem tentativa**, pois ou se omite ou não se omite.\n\n**Impróprios (Comissivos por Omissão):** O agente tem o dever de evitar o resultado, mas se omite, respondendo como se tivesse praticado a ação. Ex.: A mãe que deixa de alimentar o filho, causando-lhe a morte (homicídio por omissão)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Garantidor (Art. 13, §2º do CP)",
+          "texto": "A omissão é penalmente relevante quando o omitente **devia e podia agir** para evitar o resultado. Têm o dever de garantia:\n\n**a)** Quem tem obrigação legal de cuidado, proteção ou vigilância (pais, tutores, curadores);\n\n**b)** Quem, de outra forma, assumiu a responsabilidade de impedir o resultado (ex.: segurança de boate, salva-vidas);\n\n**c)** Quem, com seu comportamento anterior, criou o risco da ocorrência do resultado (ingerência)."
+        }
+      ]
+    },
+    {
+      "titulo": "Resultado e Nexo Causal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Resultado Naturalístico e Jurídico",
+          "texto": "**Naturalístico:** Modificação no mundo exterior perceptível, exigida em crimes materiais (ex.: a morte no homicídio, a lesão corporal).\n\n**Jurídico:** Lesão ou perigo de lesão ao bem jurídico tutelado. Presente em todo crime, inclusive nos de mera conduta (ex.: porte de arma – o resultado jurídico é a ofensa à segurança pública)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Nexo Causal (Art. 13 do CP)",
+          "texto": "Relação de causa e efeito entre a conduta e o resultado naturalístico. O CP adotou a **Teoria da Equivalência dos Antecedentes (Conditio Sine Qua Non)**: é causa toda ação ou omissão sem a qual o resultado não teria ocorrido.\n\n**Causas Supervenientes (Art. 13, §1º):**\n- **Relativamente independentes:** Interrompem o nexo causal apenas se por si só produziram o resultado (ex.: causa que agravou o estado da vítima). Responde pela conduta anterior se o resultado decorrer do risco criado.\n- **Absolutamente independentes:** Não guardam relação com a conduta do agente. Excluem o nexo causal (ex.: terremoto que mata a vítima após o tiro não letal)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipicidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tipicidade Formal, Material e Conglobante",
+          "texto": "**Formal:** A conduta se amolda perfeitamente à descrição abstrata da lei penal (adequação formal ao tipo).\n\n**Material:** A conduta, além de se adequar à lei, deve ser socialmente lesiva e ofensiva ao bem jurídico (princípio da lesividade).\n\n**Conglobante (Doutrina de Zaffaroni):** A tipicidade exige a verificação do sentido da norma no ordenamento como um todo. A conduta deve ser contrária ao sistema normativo, não apenas à letra da lei."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Adequação Típica",
+          "texto": "**Imediata (Direta):** A conduta se subsume diretamente ao tipo penal (ex.: matar alguém = homicídio).\n\n**Mediata (Indireta ou Subsidiária):** Ocorre quando há um conflito aparente de normas. Ex.: lesão corporal subsidiária em relação à tentativa de homicídio."
+        }
+      ]
+    },
+    {
+      "titulo": "Dolo e Culpa",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Dolo (Art. 18, I do CP)",
+          "texto": "Vontade e consciência de realizar a conduta típica. Espécies:\n\n**Direto (Determinado):** O agente quer e busca o resultado (ex.: atirar para matar).\n\n**Eventual (Indeterminado):** O agente assume o risco de produzir o resultado (ex.: atirar para o alto em via pública, assumindo o risco de matar alguém).\n\n**Alternativo:** O agente prevê dois resultados possíveis e quer qualquer um deles (ex.: atirar contra A ou B, indiferente a quem atinge).\n\n**Genérico (Dolo natural):** Vontade de praticar a conduta, sem elemento subjetivo específico (presente na maioria dos crimes).\n\n**Específico (Elemento subjetivo do tipo):** O agente quer um resultado além do dolo, previsto expressamente no tipo (ex.: no furto, a intenção de \"para si ou para outrem\")."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Culpa (Art. 18, II do CP)",
+          "texto": "Conduta involuntária, por imprudência, negligência ou imperícia.\n\n**Modalidades:**\n- **Imprudência:** conduta comissiva perigosa (ex.: dirigir em alta velocidade).\n- **Negligência:** conduta omissiva, descuido (ex.: deixar arma ao alcance de crianças).\n- **Imperícia:** falta de habilidade técnica (ex.: médico que opera de forma inadequada).\n\n**Espécies:**\n- **Culpa Consciente:** O agente prevê o resultado, mas acredita que não ocorrerá (ex.: ultrapassar em local proibido).\n- **Culpa Inconsciente:** O agente não prevê o resultado, mas deveria prevê-lo.\n- **Culpa Própria:** O resultado é involuntário e não há dolo.\n- **Culpa Imprópria (Excesso culposo):** O agente pratica uma conduta inicialmente dolosa (ex.: legítima defesa), mas causa um resultado por culpa no excesso."
+        }
+      ]
+    },
+    {
+      "titulo": "Consumação e Crime Impossível",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Crime quanto à Consumação",
+          "texto": "**Material:** Exige a produção do resultado naturalístico para a consumação. Ex.: Homicídio (morte), Furto (posse da coisa).\n\n**Formal:** A lei prevê um resultado naturalístico, mas a consumação ocorre com a conduta, independentemente deste resultado. Ex.: Extorsão mediante sequestro (art. 159) – consuma-se com a exigência, mesmo que não receba o resgate.\n\n**Mera Conduta:** A lei não exige resultado naturalístico. A consumação se dá com a simples ação ou omissão. Ex.: Desobediência (art. 330), Porte de arma."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Crime Impossível (Art. 17 do CP)",
+          "texto": "É a tentativa inidônea, quando, por **ineficácia absoluta do meio** ou **impropriedade absoluta do objeto**, é impossível a consumação do crime.\n\n**Efeito:** O agente não responde pelo crime (é isento de pena).\n\n**Exemplos:**\n- **Ineficácia absoluta do meio:** usar veneno que não faz efeito para matar.\n- **Impropriedade absoluta do objeto:** atirar em um cadáver (pensando ser pessoa viva).\n\n📌 **Atenção:** Para a doutrina majoritária, trata-se de causa de **atipicidade absoluta**. Se o meio/objeto são relativamente ineficazes/impróprios, pode configurar tentativa (aplicação da pena reduzida)."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação dos Crimes",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Principais Classificações Doutrinárias",
+          "texto": "📌 **Quanto ao sujeito:**\n- **Comum:** qualquer pessoa pode praticar.\n- **Próprio:** exige sujeito ativo qualificado (ex.: peculato – funcionário público).\n- **Mão-própria:** conduta só pode ser praticada pelo próprio agente (ex.: falso testemunho).\n\n📌 **Quanto ao resultado:**\n- **Material:** exige resultado naturalístico.\n- **Formal:** consumação na conduta, independente do resultado.\n- **Mera conduta:** não exige resultado naturalístico.\n\n📌 **Quanto à duração da consumação:**\n- **Instantâneo:** consumação se esgota em um momento (ex.: homicídio).\n- **Permanente:** consumação se prolonga no tempo (ex.: sequestro).\n- **Instantâneo de efeitos permanentes:** consumação instantânea, mas os efeitos são duradouros (ex.: lesão corporal que deixa cicatriz).\n\n📌 **Quanto à forma de execução:**\n- **Comissivo:** ação.\n- **Omissivo:** omissão (próprio ou impróprio).\n\n📌 **Quanto ao elemento subjetivo:**\n- **Doloso:** vontade de realizar o tipo.\n- **Culposo:** sem vontade, por negligência, imprudência ou imperícia.\n\n📌 **Quanto aos atos executórios:**\n- **Unissubsistente:** único ato executório (ex.: injúria verbal).\n- **Plurissubsistente:** vários atos executórios (ex.: furto, homicídio).\n\n📌 **Quanto à complexidade:**\n- **Simples:** ofende um único bem jurídico.\n- **Complexo:** fusão de dois ou mais crimes (ex.: roubo = furto + coação/lesão).\n\n📌 **Quanto ao número de sujeitos:**\n- **Monossubjetivo:** pode ser praticado por um único agente.\n- **Plurissubjetivo (concurso necessário):** exige pluralidade de agentes (ex.: rixa, bigamia)."
+        }
+      ]
+    },
+    {
+      "titulo": "Iter Criminis, Tentativa e Crimes que não a admitem",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fases do Iter Criminis",
+          "texto": "1. **Cogitação:** idealização do crime – **não punível**.\n2. **Preparação:** atos preparatórios – regra: **não puníveis** (exceções: crimes de perigo abstrato ou quando a lei pune a preparação, ex.: associação criminosa).\n3. **Execução:** início da realização do tipo – início da **punibilidade**.\n4. **Consumação:** todos os elementos do tipo se aperfeiçoam."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Tentativa (Art. 14, II do CP)",
+          "texto": "O agente inicia a execução do crime, mas não o consuma por circunstâncias alheias à sua vontade.\n\n**Espécies:**\n- **Acabada (perfeita):** esgota todos os atos executórios, mas o resultado não ocorre.\n- **Inacabada (imperfeita):** interrompe a execução antes da prática de todos os atos.\n\n**Pena:** reduzida de **1/3 a 2/3** em relação ao crime consumado.\n\n**Exceção:** A tentativa é punível apenas nos crimes **dolosos** (art. 14, II)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Desistência e Arrependimento (Art. 15 e 16)",
+          "texto": "**Desistência Voluntária (Art. 15):** O agente interrompe a execução por vontade própria. Responde apenas pelos atos já praticados.\n\n**Arrependimento Eficaz (Art. 15):** O agente já executou, mas, por vontade própria, impede o resultado. Responde apenas pelos atos já praticados.\n\n**Arrependimento Posterior (Art. 16):** O crime já foi consumado (sem violência ou grave ameaça). O agente repara o dano ou restitui a coisa até o recebimento da denúncia. A pena é reduzida de **1/3 a 2/3**."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Crimes que NÃO admitem Tentativa",
+          "texto": "A tentativa só é possível nos crimes **dolosos** e que exijam uma progressão fática. Não se admite nos seguintes casos:\n\n**a) Crimes culposos** (não há vontade de resultado).\n\n**b) Crimes habituais** (a prática reiterada é elemento do tipo, ex.: curandeirismo – art. 284).\n\n**c) Crimes omissivos próprios** (basta a inércia, não há execução a ser interrompida).\n\n**d) Crimes preterdolosos** (dolo na conduta anterior e culpa no resultado; não há dolo no resultado final).\n\n**e) Crimes unissubsistentes** (a execução se esgota em um único ato, ex.: injúria verbal).\n\n**f) Crimes de mera conduta e formais** (para alguns doutrinadores, em tese admitem tentativa, mas a depender da estrutura do tipo; a regra geral é que crimes que não exigem resultado naturalístico podem ser tentados se a execução for fracionável, mas tradicionalmente se lista os omissivos próprios e unissubsistentes como os mais pacíficos)."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

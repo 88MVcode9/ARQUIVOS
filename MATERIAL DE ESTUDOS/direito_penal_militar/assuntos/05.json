@@ -1,0 +1,190 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Direito Penal Militar",
+  "titulo": "Parte Especial – Motim, Revolta, Crimes em Espécie e Relações com o CP",
+  "icone": "🏴",
+  "descricao": "Crimes contra a autoridade e disciplina militar, crimes em espécie (deserção, insubmissão, violência, peculato etc.), autoria de crimes próprios, princípio da especialidade e sursis.",
+  "topicos": [
+    {
+      "titulo": "Crimes contra a Autoridade ou Disciplina Militar",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Motim",
+          "texto": "Ocorre quando militares se reúnem para:\n- agir contra ordem de superior;\n- negar-se a cumpri-la;\n- agir sem ordem;\n- praticar violência.\n\n**Características**: crime de concurso necessário.\n\n**Pena**: reclusão de **4 a 8 anos**.\n\n**Aumento de Pena**: os cabeças do movimento sofrem aumento de **1/3**.\n\n**Também configura motim**:\n- Assentir em recusa conjunta de obediência;\n- Assentir em resistência ou violência contra superior;\n- Ocupar quartel, fortaleza, arsenal, estabelecimento militar etc."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Revolta",
+          "texto": "**Conceito**: motim armado.\n\n**Pena**: reclusão de **8 a 20 anos**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Pena de Morte em Tempo de Guerra (aplicável aos crimes militares de guerra)",
+          "texto": "Em tempo de guerra declarada, a pena de morte pode ser aplicada por fuzilamento (art. 55 do CPM).\n\n**Rito e salvaguardas**:\n- O julgamento segue o rito especial do CPPM para crimes de guerra.\n- A sentença condenatória é **obrigatoriamente comunicada ao Presidente da República** para fins de indulto ou comutação (art. 84, XXII, CF).\n- O condenado tem direito à **apelação necessária (obrigatória)** ao Superior Tribunal Militar (STM), que revisa integralmente a decisão.\n- A execução só ocorre após a negativa da clemência presidencial e o trânsito em julgado da decisão do STM.\n- Aplica‑se a todos os crimes militares de guerra, inclusive traição e covardia, observado o devido processo legal."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Militares em Espécie (Parte Especial)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Deserção (Art. 187)",
+          "texto": "**Conceito**: ausentar-se o militar da unidade, navio ou lugar onde deve permanecer, por mais de **8 dias**, ou, tendo-o feito, não se apresentar no prazo de 8 dias.\n\n**Pena**: detenção de **6 meses a 2 anos**.\n\n**Forma especial** (Art. 188): fuga no momento da apresentação – a pena é **dobrada**.\n\n**Consumação**: ocorre automaticamente com o decurso do 8º dia de ausência (crime formal).\n\n**Regra de prescrição** (Art. 132): não prescreve enquanto o agente não atingir a idade-limite do serviço (praça: 45 anos; oficial: 60 anos)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Insubmissão (Art. 183)",
+          "texto": "**Conceito**: deixar de apresentar‑se o convocado, no prazo designado, para incorporação ou inspeção de saúde.\n\n**Pena**: detenção de **1 a 3 anos**.\n\n**Prescrição** (Art. 132, §2º): inicia‑se quando o agente completa **30 anos de idade**.\n\n**Sujeito ativo**: civil convocado (exceção à regra de crime próprio militar)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Violência contra Superior (Art. 157)",
+          "texto": "**Conceito**: praticar violência contra superior hierárquico, no exercício ou em razão de sua função.\n\n**Pena**: reclusão de **3 a 10 anos**.\n\n**Aumento**: se da violência resulta lesão corporal grave ou morte, aplicam‑se as majorantes específicas do parágrafo único.\n\n**Consunção**: a desobediência (Art. 163) é absorvida pela violência, se for meio para esta."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Violência contra Inferior (Art. 175)",
+          "texto": "**Conceito**: praticar violência contra inferior hierárquico, em razão da função.\n\n**Pena**: detenção de **6 meses a 2 anos** (se apenas vias de fato). Se resulta lesão corporal, a pena é de reclusão de **2 a 6 anos**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Dormir em Serviço (Art. 203)",
+          "texto": "**Conceito**: dormir o militar em serviço de vigia, sentinela, ou outro que exija prontidão.\n\n**Pena**: detenção de **1 a 6 meses**.\n\nAplica‑se também ao que se **afasta do posto** sem ordem (art. 204, in fine)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Recusa de Obediência (Art. 163)",
+          "texto": "**Conceito**: recusar‑se a obedecer a ordem do superior sobre assunto relativo à serviço.\n\n**Pena**: detenção de **1 a 2 anos**.\n\nConfigura‑se pela recusa explícita, silêncio obstinado ou qualquer ato que denote a recusa deliberada."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Peculato Militar (Art. 240) e Culposo (Art. 241)",
+          "texto": "**Peculato doloso** (Art. 240): apropriar‑se, o militar, de dinheiro, valor ou bem que possui em razão do cargo. Pena: reclusão de **3 a 10 anos**.\n\n**Peculato culposo** (Art. 241): concorre culposamente para a apropriação. Pena: detenção de **3 meses a 1 ano**.\n\n⚠️ **Extinção da punibilidade**: no peculato culposo, se o agente devolve a coisa ou repara o dano **antes da sentença**, a punibilidade se extingue (art. 123, VI)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Concussão (Art. 242)",
+          "texto": "**Conceito**: exigir, para si ou para outrem, vantagem indevida, em razão da função militar.\n\n**Pena**: reclusão de **3 a 8 anos**.\n\n**Diferencial**: no peculato há *apropriação*; na concussão há *exigência* de vantagem indevida (não necessariamente consumada a entrega)."
+        }
+      ]
+    },
+    {
+      "titulo": "Autoria e Participação nos Crimes Militares",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Civil em crime militar próprio",
+          "texto": "Em regra, os **crimes próprios** (previstos exclusivamente no CPM) só podem ser praticados por militares (ex.: deserção, motim).\n\n**Exceção constitucional/legal**: o civil convocado pode ser autor do crime de **insubmissão** (Art. 183).\n\n**Crimes impróprios** (Art. 9º, II do CPM): o civil pode ser **coautor ou partícipe**, desde que concorra com um militar da ativa na execução do fato.\n\n📌 **Regra prática**: se apenas um civil pratica a conduta típica em local sujeito à administração militar (ex.: civil invade e furta equipamento sem nenhum militar envolvido), o crime será **comum** (da Justiça Comum), e não militar, por ausência de sujeito ativo militar."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Coautoria e Participação em Crimes Militares",
+          "texto": "Aplica‑se a teoria monista (Art. 49 do CPM): todos respondem pela mesma infração, na medida de sua culpabilidade.\n\n**Circunstâncias pessoais** (Art. 50): não se comunicam entre os agentes (ex.: reincidência de um não se comunica ao outro).\n\n**Elementos normativos do tipo** (ex.: \"superior hierárquico\"): se o civil conhece essa condição do militar, responde pelo crime militar."
+        }
+      ]
+    },
+    {
+      "titulo": "Conflito Aparente de Normas e Princípio da Especialidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Especialidade – CPM × CP comum",
+          "texto": "O CPM é **lei penal especial** em relação ao Código Penal comum.\n\n**Regra**: quando o mesmo fato estiver previsto em ambos os diplomas, prevalece o **CPM** (por especialidade).\n\nExemplo: lesão corporal entre militares em serviço → aplica‑se o Art. 209 do CPM, e não o Art. 129 do CP.\n\n**Conflitos com a lei comum** (Lei 13.491/2017): qualquer crime comum pode ser militarizado, mas a especialidade militar prevalece sobre a justiça comum."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Subsidiariedade e Consunção (absorção)",
+          "texto": "**Subsidiariedade**: quando uma norma é subsidiária (crime‑meio) em relação a outra (crime‑fim), aplica‑se apenas a principal. Ex: a desobediência (Art. 163) é absorvida pela violência contra superior (Art. 157) se for meio para sua prática.\n\n**Consunção**: o crime mais grave absorve os crimes menos graves que são meras fases ou formas de execução.\n\n**Concurso aparente**: resolve‑se por especialidade, subsidiariedade ou consunção, sempre em favor da norma que melhor tutelar o bem jurídico militar (hierarquia e disciplina)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Supletividade do Código Penal Comum (Art. 12 do CPM)",
+          "texto": "O CPM é omisso em diversas partes (ex.: erro de tipo, imputação objetiva). Nesses casos, aplica‑se o Código Penal comum **subsidiariamente**, desde que compatível com a natureza militar e com os princípios do Direito Penal Militar.\n\nAplicam‑se, por exemplo, os arts. 13 (nexo causal), 20 (erro de tipo) e 21 (erro de proibição) do CP, mas com as **peculiaridades da casuística castrense** (ordem hierárquica, serviço, etc.)."
+        }
+      ]
+    },
+    {
+      "titulo": "Suspensão Condicional da Pena (Sursis)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Requisitos",
+          "texto": "Pena privativa de liberdade **não superior a 2 anos**.\n\nPeríodo de prova:\n- Regra geral: de **2 a 4 anos**.\n- Maiores de 70 anos ou por razões de saúde: **4 a 6 anos**."
+        },
+        {
+          "tipo": "observacao",
+          "titulo": "Observação",
+          "texto": "O sursis **não se estende**:\n- à pena acessória;\n- às medidas de segurança não detentivas."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Hipóteses de Revogação",
+          "texto": "O benefício será revogado quando o condenado:\n1. Não reparar o dano, sem motivo justificado.\n2. For condenado, por sentença irrecorrível, por crime doloso.\n3. Deixar de cumprir qualquer obrigação imposta na sentença.\n4. For punido por infração disciplinar grave."
+        }
+      ]
+    },
+    {
+      "titulo": "Penas Acessórias e Medidas de Segurança – Detalhamento",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Perda do posto e da patente",
+          "texto": "Condenação a pena superior a 2 anos, por crime militar ou comum.\n\nImporta também na perda das condecorações, após julgamento específico do oficial."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Declaração de incompatibilidade com o oficialato",
+          "texto": "Aplicável aos oficiais, conforme previsão legal."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exclusão das Forças Armadas",
+          "texto": "Aplicada à praça condenada a pena superior a 2 anos."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Perda da função pública",
+          "texto": "Ainda que eletiva."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Inabilitação para o exercício de função pública",
+          "texto": "**Prazo**: até 20 anos.\n\n**Requisitos**:\n- Pena de reclusão superior a 4 anos; **e**\n- Crime militar cometido com abuso de poder **ou** violação do dever militar."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Incapacidade para o exercício do poder familiar, tutela ou curatela",
+          "texto": "Suspensão dos direitos políticos."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Observação sobre a pena de indignidade para o oficialato",
+          "texto": "Apesar de ainda constar no CPM, a pena de indignidade para o oficialato **não foi recepcionada** pela Constituição Federal de 1988, em razão da garantia constitucional das patentes."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Internação em estabelecimento de custódia e tratamento",
+          "texto": "Aplicável ao inimputável.\n\nPrazo:\n- Mínimo: 1 a 3 anos.\n- Máximo: CPM indeterminado, STF limitou a **30 anos** (art. 75 do CP, aplicado subsidiariamente).\n\nTambém pode ocorrer internação em seção especial de estabelecimento prisional."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas Não Detentivas (complemento)",
+          "texto": "**Tratamento ambulatorial**.\n\n**Suspensão da habilitação para dirigir veículos** – aplicável ao condenado por crime relacionado à direção de veículo. Prazo mínimo: 1 ano.\n\n**Exílio local** – proibição de permanecer ou residir no município, comarca ou localidade onde o crime foi praticado.\n\n**Proibição de frequentar determinados lugares** – prazo mínimo: 1 ano."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Medidas de Segurança Patrimoniais (complemento)",
+          "texto": "**Interdição de estabelecimento ou sede** – prazo: mínimo 15 dias, máximo 6 meses.\n\n**Confisco** – perda dos instrumentos e produtos do crime."
+          },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/05.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

@@ -1,0 +1,180 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['03.json']=
+{
+  "materia": "Direito Penal Comum",
+  "titulo": "Erro, Excludentes e Descriminantes Putativas",
+  "icone": "🔍",
+  "descricao": "Teoria do erro (tipo, proibição, erro sobre a pessoa, execução, resultado e aberratio causae), causas de exclusão da ilicitude (estado de necessidade, legítima defesa, estrito cumprimento, exercício regular), causas de exclusão da culpabilidade (inimputabilidade, coação, obediência, embriaguez, inexigibilidade de conduta diversa), excesso punível e emoção/paixão.",
+  "topicos": [
+    {
+      "titulo": "Erro de Tipo, Proibição e Descriminantes Putativas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Tipo (Art. 20 do CP)",
+          "texto": "O agente desconhece um **elemento do tipo penal** (percepção equivocada da realidade).\n\n**Essencial inevitável (escusável):** exclui o dolo e a culpa → fato atípico (absolvição).\n**Essencial evitável (inescusável):** exclui o dolo, mas permite punição por **crime culposo** (se houver previsão).\n**Acidental:** não exclui o crime, mas afasta qualificadora/agravante.\n\n**Exemplo:** O caçador vê um vulto e atira pensando ser um javali, mas era seu filho. Sem possibilidade de prever → erro essencial inevitável = absolvição."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Proibição (Art. 21 do CP)",
+          "texto": "O agente conhece os fatos, mas **acredita** que sua conduta é lícita (desconhece a ilicitude).\n\n**Inevitável (escusável):** exclui a culpabilidade → isenção de pena.\n**Evitável (inescusável):** reduz a pena de **1/6 a 1/3**.\n\n**Regra:** O desconhecimento da lei é inescusável (art. 21, caput), mas o erro sobre a ilicitude, se inevitável, exclui a culpabilidade."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Descriminantes Putativas (Art. 20, §1º do CP)",
+          "texto": "O agente imagina uma situação de fato que, se existisse, tornaria sua ação legítima (ex.: legítima defesa putativa).\n\n**Escusável (invencível):** isento de pena.\n**Inescusável (vencível):** afasta o dolo, responde por **culpa imprópria** (crime culposo, se previsto)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Tipo Permissivo",
+          "texto": "Erro sobre os pressupostos fáticos de uma causa de justificação (ligado às descriminantes putativas)."
+        }
+      ]
+    },
+    {
+      "titulo": "Erros Específicos: Pessoa, Execução, Resultado e Causa",
+      "cards": [
+        {
+          "tipo": "importante",
+          "titulo": "Erro sobre a Pessoa (Error in Persona) – Art. 20, §3º",
+          "texto": "O agente, por erro, atinge pessoa diversa da visada, mas a ofensa é ao mesmo bem jurídico (ex.: pensa que é A e mata B).\n\n**Consequência:** Erro sobre a pessoa **não isenta de pena**. Considera-se como se o crime tivesse sido praticado contra a pessoa visada (tipo penal e qualificadoras são determinados pela pessoa visada).\n\n**Exemplo:** Se o agente queria matar o policial (vítima visada) mas mata o civil (vítima real), responde por homicídio qualificado pelo motivo, se a intenção era contra policial."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Erro na Execução (Aberratio Ictus) – Art. 73",
+          "texto": "Ocorre quando o agente, por erro na execução, atinge pessoa diversa da visada (ex.: atira em A, mas acerta B que estava ao lado).\n\n**Regra:** Responde como se tivesse praticado o crime contra a pessoa visada (princípio da equivalência). Aplica-se a regra do erro sobre a pessoa.\n\n**Diferença crucial:** No *error in persona*, o erro é sobre a identidade (A era B). Na *aberratio ictus*, o erro é na pontaria (acerta quem não queria). A consequência penal é a mesma (responde como se fosse a vítima visada)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Resultado Diverso do Pretendido (Aberratio Criminis) – Art. 74",
+          "texto": "O agente, por erro na execução, atinge **bem jurídico diverso** do pretendido (ex.: queria matar A, mas a bala atinge um bem patrimonial, danificando um carro).\n\n**Regra:** Responde pelo crime efetivamente ocorrido, se for **culposo** (previsão legal). Se houver dolo no resultado diverso, aplicam-se as regras do concurso de crimes.\n\n**Exemplo:** Atira em A para matar, mas erra e acerta o carro de B. Responde por dano culposo (se previsto) e pela tentativa de homicídio contra A."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Aberratio Causae (Desvio no Nexo Causal)",
+          "texto": "O agente produz um resultado, mas por uma via causal diversa da imaginada (ex.: atira em A para matá-lo; A cai desacordado e morre afogado em um rio próximo).\n\n**Consequência:** **Não exclui o dolo**, pois o resultado foi o pretendido. Aplica-se a teoria da equivalência dos antecedentes (art. 13) – responde pelo crime consumado, pois a causa do resultado era previsível e não rompe o nexo causal."
+        }
+      ]
+    },
+    {
+      "titulo": "Estado de Necessidade (Art. 24)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Espécies: Agressivo e Defensivo",
+          "texto": "**Defensivo:** O agente sacrifica bem jurídico do **agressor** para salvar bem próprio ou de outrem (ex.: atira no agressor para se salvar).\n\n**Agressivo:** O agente sacrifica bem jurídico de **terceiro inocente** para salvar bem próprio ou de outrem (ex.: quebra a vidraça do vizinho para escapar de um incêndio)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Requisitos do Estado de Necessidade",
+          "texto": "**a)** Perigo **atual e iminente** (não passado ou futuro);\n**b)** Perigo não causado voluntariamente pelo agente;\n**c)** Inevitabilidade do sacrifício (não havia outro meio menos gravoso);\n**d)** Proporcionalidade (razoabilidade) – o bem sacrificado **não pode ser superior** ao bem salvo (exige ponderação).\n\n**Excludente de ilicitude** (art. 23, I).\n\n**Dever legal de enfrentar o perigo:** O agente que tem dever legal de enfrentar o perigo (ex.: bombeiro, policial) **não pode** invocar estado de necessidade para se eximir da conduta."
+        }
+      ]
+    },
+    {
+      "titulo": "Legítima Defesa (Art. 25)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Requisitos da Legítima Defesa",
+          "texto": "**a)** Agressão **injusta** (contrária ao direito);\n**b)** Agressão **atual ou iminente** (presente ou prestes a ocorrer);\n**c)** Defesa de direito próprio ou de terceiro;\n**d)** Uso **moderado** dos meios necessários para repelir a agressão.\n\n**Excludente de ilicitude** (art. 23, II)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Legítima Defesa de Terceiro e Sucessiva",
+          "texto": "**De terceiro:** Qualquer pessoa pode agir em legítima defesa de outrem, mesmo sem autorização (art. 25, caput).\n\n**Sucessiva:** Ocorre quando alguém, em legítima defesa, repele uma agressão, e o agressor, por sua vez, reage (excesso). A legítima defesa sucessiva é admitida para proteger o direito de quem está sendo vítima do excesso."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Excesso na Legítima Defesa",
+          "texto": "**Excesso doloso:** O agente excede intencionalmente os limites da defesa, respondendo pelo excesso (crime doloso).\n\n**Excesso culposo:** O agente excede por imprudência, negligência ou imperícia, respondendo por crime culposo (se houver previsão legal).\n\n**Excesso exculpante (escusável):** O excesso é decorrente de erro inevitável (descriminante putativa). Exclui a culpabilidade se inevitável, ou reduz a pena se evitável (aplica-se o art. 20, §1º)."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrito Cumprimento do Dever Legal e Exercício Regular do Direito",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrito Cumprimento do Dever Legal (Art. 23, III)",
+          "texto": "O agente público (ou particular, em alguns casos) pratica o fato no exercício de um dever imposto por lei.\n\n**Requisitos:**\n- Existência de lei que imponha o dever;\n- A conduta deve ser **estritamente necessária** para o cumprimento;\n- Observância dos limites legais (não pode haver excesso).\n\n**Exemplos:** Policial que efetua uma prisão em flagrante usando algemas (se necessário); oficial de justiça que arromba porta para cumprir mandado."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exercício Regular do Direito (Art. 23, III)",
+          "texto": "O agente pratica o fato no exercício de um direito reconhecido pelo ordenamento jurídico (ex.: direito de correção dos pais, direito de greve, direito de ação penal privada).\n\n**Consentimento do ofendido:** É causa de exclusão da ilicitude quando o bem jurídico é **disponível** (ex.: lesões leves, dano a patrimônio alheio, desde que válido, livre e informado). O consentimento deve ser prévio ou contemporâneo ao fato. Para bens indisponíveis (vida), o consentimento não exclui a ilicitude (ex.: eutanásia)."
+        }
+      ]
+    },
+    {
+      "titulo": "Excesso Punível (Art. 23, Parágrafo Único)",
+      "cards": [
+        {
+          "tipo": "importante",
+          "titulo": "Excesso Punível – Art. 23, parágrafo único",
+          "texto": "O excesso **doloso ou culposo** nas excludentes de ilicitude (estado de necessidade, legítima defesa, estrito cumprimento, exercício regular) é **punível**.\n\n**Regra:** O agente responde pelo excesso (crime praticado no excesso), não pela causa de justificação em si.\n\n**Exemplo:** O policial, ao efetuar a prisão, desfere 10 tiros após o suspeito já estar imobilizado. Responde pelo excesso doloso (homicídio qualificado ou lesão).\n\n**Excesso exculpante:** Se o excesso for inevitável (erro escusável), exclui a culpabilidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Coação Moral Irresistível e Obediência Hierárquica (Art. 22)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Coação Física vs. Moral",
+          "texto": "**Coação Física (Vis Absoluta):** O agente é usado como mero instrumento pela força física de outrem. **Exclui a própria conduta** (fato típico) → o coator responde pelo crime.\n\n**Coação Moral Irresistível (Vis Relativa):** O agente é coagido por ameaça grave, não tendo liberdade de escolha. **Exclui a culpabilidade** (art. 22). O coator também responde pelo crime.\n\n**Consequência:** Na coação moral irresistível, o coagido não comete crime (isento de pena); quem responde é o coator (art. 22, caput)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Obediência Hierárquica (Art. 22, §2º)",
+          "texto": "Quem pratica o fato em **obediência a ordem hierárquica** (superior) pode ter a culpabilidade excluída.\n\n**Requisitos:**\n- A ordem deve ser legal e proferida por autoridade competente;\n- Não deve ser manifestamente ilegal.\n\n**Ordem manifestamente ilegal:** Se o subordinado cumpre ordem claramente criminosa (ex.: matar uma pessoa inocente), **não** exclui a culpabilidade, e tanto o superior quanto o subordinado respondem.\n\n**Relação:** Obediência a ordem legal se confunde com o estrito cumprimento do dever legal."
+        }
+      ]
+    },
+    {
+      "titulo": "Embriaguez (Art. 28)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Embriaguez Voluntária e Culposa",
+          "texto": "**Voluntária (por vontade própria):** Não exclui a imputabilidade (art. 28, II). O agente responde pelo crime, mesmo que completo, pois agiu com *actio libera in causa* (ação livre na causa).\n\n**Culposa (acidental, sem querer):** Se o agente ingere álcool sem intenção (ex.: por erro, força maior, caso fortuito), a embriaguez é acidental."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Embriaguez Acidental (Casual) – Art. 28, §1º",
+          "texto": "Decorre de **caso fortuito ou força maior** (ex.: medicamento que causa efeito inesperado; ingestão acidental de bebida alcoólica).\n\n**Completa:** Se o agente estava completamente incapaz de entender o caráter ilícito do fato → **exclui a imputabilidade** (isento de pena, aplica-se medida de segurança, se necessário).\n\n**Incompleta:** Se a capacidade estava apenas reduzida → **redução de pena de 1/3 a 2/3** (sistema vicariante, equipara-se à semi-imputabilidade)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Embriaguez Preordenada (Art. 61, II, \"l\")",
+          "texto": "O agente se embriaga **com a intenção de praticar o crime** (dolo de se embriagar para ter coragem).\n\n**Consequência:** Não exclui a imputabilidade e ainda configura **circunstância agravante** (art. 61, II, \"l\"), aumentando a pena."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo da Embriaguez",
+          "texto": "📌 **Voluntária** → Não exclui (responde).\n📌 **Culposa/Preordenada** → Não exclui; preordenada ainda agrava.\n📌 **Acidental Completa** → Exclui imputabilidade (absolve ou medida de segurança).\n📌 **Acidental Incompleta** → Reduz de 1/3 a 2/3."
+        }
+      ]
+    },
+    {
+      "titulo": "Emoção, Paixão e Inexigibilidade de Conduta Diversa",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Emoção e Paixão (Art. 28, I)",
+          "texto": "A emoção (comoção súbita) e a paixão (estado permanente) **não excluem a imputabilidade** (art. 28, I).\n\n**Consequências:**\n- Não isentam de pena;\n- Podem funcionar como **atenuante** (art. 65, III, \"c\" – relevante valor moral ou social) ou, em alguns casos, configurar o **homicídio privilegiado** (art. 121, §1º – diminuição de 1/3 a 2/3 por relevante valor moral ou social, ou domínio de violenta emoção).\n\n**Importante:** Não se confunde com a inexigibilidade de conduta diversa, embora possam se conectar."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Inexigibilidade de Conduta Diversa",
+          "texto": "É o terceiro elemento da culpabilidade (ao lado da imputabilidade e da potencial consciência da ilicitude). Ocorre quando, diante das circunstâncias, **não se poderia exigir** que o agente agisse de outra forma.\n\n**Hipóteses clássicas:**\n- Coação moral irresistível (art. 22);\n- Estado de necessidade (como excludente de culpabilidade, quando há inexigibilidade);\n- Casos de medo, pavor ou perturbação psíquica intensa que, sem configurar doença mental, tornam impossível exigir conduta diversa (doutrina).\n\n**Efeito:** Exclui a culpabilidade → o agente é absolvido, pois não se pode reprovar sua conduta."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/03.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

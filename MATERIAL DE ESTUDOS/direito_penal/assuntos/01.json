@@ -1,0 +1,205 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Direito Penal Comum",
+  "titulo": "Aplicação da Lei Penal Comum",
+  "icone": "⚖️",
+  "descricao": "Princípios fundamentais do Código Penal (legalidade, anterioridade, retroatividade), regras de territorialidade, tempo e lugar do crime, e interpretação da lei penal.",
+  "topicos": [
+    {
+      "titulo": "Princípios Gerais da Lei Penal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Legalidade e Anterioridade (Art. 1º do CP)",
+          "texto": "Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.\n\n**Fundamento constitucional:** Art. 5º, XXXIX, da CF/88.\n\n**Alcance:** A lei penal deve ser **escrita, prévia, certa e estrita** (vedada a analogia para criar crimes ou agravar penas)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Intervenção Mínima",
+          "texto": "O Direito Penal só deve atuar quando os demais ramos do Direito forem insuficientes para proteger o bem jurídico. É a última ratio do ordenamento jurídico."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Fragmentariedade",
+          "texto": "O Direito Penal não protege todos os bens jurídicos, nem todas as lesões a um mesmo bem. Protege apenas os bens mais importantes, e apenas contra ofensas mais graves (lesões fragmentárias)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Subsidiariedade",
+          "texto": "A lei penal é subsidiária, atuando apenas quando as sanções de outros ramos (civil, administrativo) forem insuficientes para restaurar a ordem jurídica violada."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ofensividade (Lesividade)",
+          "texto": "Só há crime quando há efetiva lesão ou perigo concreto de lesão ao bem jurídico tutelado. Atos internos, pensamentos ou condutas que não atinjam o bem jurídico não são puníveis."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Princípio da Insignificância (Bagatela)",
+          "texto": "O Direito Penal não deve intervir em lesões de mínima ofensividade, sem periculosidade social, com reduzido grau de reprovabilidade e sem expressividade da lesão jurídica (STF, HC 84.412).\n\n**Requisitos:** Conduta de baixa lesividade, nulo conteúdo de perigo social, inexpressividade da lesão e reduzido grau de reprovabilidade."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Humanidade",
+          "texto": "As penas não podem ter caráter desumano ou degradante. Vedação a penas de morte (ressalvada a hipótese de guerra), perpétuas, de trabalhos forçados, de banimento e cruéis (CF, art. 5º, XLVII)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Individualização da Pena",
+          "texto": "A pena deve ser individualizada conforme as necessidades e características do condenado, observando-se as circunstâncias judiciais do art. 59 do CP e os critérios de fixação da pena-base."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Culpabilidade",
+          "texto": "Só há crime se o agente agiu com dolo ou culpa. Não há responsabilidade penal objetiva. A culpabilidade é o juízo de reprovação sobre a conduta do agente, que deve ser imputável e ter potencial consciência da ilicitude."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Proporcionalidade",
+          "texto": "A pena deve ser proporcional à gravidade do fato e à culpabilidade do agente. Proibição de penas desproporcionais, inclusive na aplicação da medida de segurança."
+        }
+      ]
+    },
+    {
+      "titulo": "Eficácia da Lei Penal no Tempo",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Retroatividade da Lei Penal (Art. 2º do CP)",
+          "texto": "A lei penal **não retroage**, salvo para **beneficiar o réu** (lex mitior).\n\n**Lei intermediária (§1º)**: Se, entre a data do fato e o julgamento, surgir uma lei mais benéfica, aplica-se essa lei intermediária, ainda que não seja a mais nova.\n\n**Lex tertia:** Se a lei mais benéfica for revogada por outra mais severa, a lei intermediária prevalece para os fatos ocorridos durante sua vigência (STF).\n\n**Exceção:** Leis temporárias e excepcionais (ultra-ativam-se)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Abolitio Criminis (Art. 2º, caput, 1ª parte)",
+          "texto": "Ocorre quando uma lei nova **deixa de considerar crime** um fato anteriormente típico. A lei nova revoga a incriminação. Efeitos:\n- Extinção da punibilidade (arquivamento do processo ou extinção da pena já cumprida);\n- Retroage para beneficiar o agente, ainda que a decisão já tenha transitado em julgado."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Novatio Legis Incriminadora",
+          "texto": "Lei nova que **cria um crime** onde antes não havia. Não retroage. Aplica-se apenas a fatos praticados após sua vigência."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Novatio Legis In Pejus",
+          "texto": "Lei nova que **agrava a situação do réu** (aumenta a pena, cria agravante, etc.). Não retroage."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Novatio Legis In Mellius",
+          "texto": "Lei nova que **beneficia o réu** (diminui a pena, extingue o crime, etc.). Retroage para atingir fatos anteriores, mesmo com trânsito em julgado (art. 2º, CP)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Combinação de Leis (Lex Tertia)",
+          "texto": "Possibilidade de combinar dispositivos de leis diferentes para formar uma norma mais benéfica ao réu. O STF e STJ admitem a combinação (teoria da lex tertia), desde que não haja uma nova norma que não exista em nenhuma das leis."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Lei Temporária e Excepcional (Art. 3º do CP)",
+          "texto": "Leis criadas para períodos específicos (ex.: lei de guerra, lei de calamidade) **ultra-ativam-se**: mesmo após o término da vigência, continuam sendo aplicadas aos fatos ocorridos durante sua vigência, ainda que mais severas que a lei posterior.\n\n**Exemplo:** Lei que aumenta penas para crimes cometidos durante uma Copa do Mundo."
+        }
+      ]
+    },
+    {
+      "titulo": "Territorialidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Territorialidade (Art. 5º do CP)",
+          "texto": "Aplica-se a lei brasileira ao crime cometido em **território nacional** (teoria da territorialidade temperada).\n\n**Território por extensão:** Solo, subsolo, espaço aéreo (até 100 km – limite de jurisdição), mar territorial (12 milhas náuticas) e águas interiores.\n\n**Território por extensão (ficção):** Embarcações e aeronaves brasileiras de natureza pública (ou a serviço do governo) onde quer que estejam;\nEmbarcações e aeronaves privadas brasileiras, se em alto-mar ou espaço aéreo correspondente (art. 5º, §1º)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Navios e Aeronaves Estrangeiros",
+          "texto": "**Navios privados estrangeiros:** Em alto-mar, aplica-se a lei do país da bandeira. Em águas jurisdicionais brasileiras, aplica-se a lei brasileira (soberania).\n\n**Aeronaves estrangeiras:** Em espaço aéreo brasileiro, aplica-se a lei brasileira. Em alto-mar, a lei do país de matrícula."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Passagem Inocente (Art. 5º, §2º)",
+          "texto": "Navios estrangeiros em passagem inocente pelo mar territorial brasileiro (sem escalas ou atividades hostis) não se sujeitam à jurisdição penal brasileira, salvo se o crime afetar a segurança ou a ordem pública brasileira.\n\n**Exceção:** Crimes cometidos a bordo, se não perturbarem a ordem pública, não são punidos pela lei brasileira."
+        }
+      ]
+    },
+    {
+      "titulo": "Extraterritorialidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Extraterritorialidade Incondicionada (Art. 7º, I)",
+          "texto": "A lei brasileira aplica-se aos crimes cometidos no estrangeiro, **independentemente de qualquer condição**, quando:\n\n**a)** Crimes contra a vida ou a liberdade do Presidente da República;\n\n**b)** Crimes contra o patrimônio ou a fé pública da União, Estado, Distrito Federal ou Município;\n\n**c)** Crimes contra a administração pública, por quem está a seu serviço;\n\n**d)** Crimes de genocídio, quando o agente for brasileiro ou domiciliado no Brasil."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Extraterritorialidade Condicionada (Art. 7º, II)",
+          "texto": "Aplica-se a lei brasileira aos crimes cometidos no estrangeiro, **mediante o preenchimento de certas condições**, quando:\n\n**a)** Crimes que, por tratado ou convenção, o Brasil se obrigou a reprimir;\n\n**b)** Crimes praticados por brasileiro;\n\n**c)** Crimes praticados em aeronaves ou embarcações brasileiras (quando não previstos no art. 5º, §1º).\n\n**Requisitos:**\n- O fato deve ser crime no país em que foi praticado;\n- O fato deve ser crime no Brasil;\n- O agente não pode ter sido absolvido no estrangeiro por falta de prova ou ter cumprido pena lá;\n- A pena mínima prevista no Brasil deve ser superior a 1 ano (ou, sendo brasileiro, a pena mínima pode ser inferior a 1 ano)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Hipóteses do Art. 7º",
+          "texto": "O art. 7º, I (incondicionada) e II (condicionada) traçam as hipóteses de extraterritorialidade.\n\n**Punição no Brasil:** O agente pode ser processado e julgado no Brasil, mesmo que já tenha sido processado no exterior (aplicação da pena, com dedução do tempo cumprido)."
+        }
+      ]
+    },
+    {
+      "titulo": "Tempo e Lugar do Crime",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Tempo do Crime – Teoria da Atividade (Art. 4º do CP)",
+          "texto": "Considera-se praticado o crime no momento da **ação ou omissão**, ainda que outro seja o momento do resultado.\n\n**Exemplo:** A remessa de uma carta falsa para outro país: o crime é praticado no local e data do envio, não no recebimento."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Lugar do Crime – Teoria da Ubiquidade (Art. 6º do CP)",
+          "texto": "Considera-se praticado o crime:\n- No lugar da **ação ou omissão** (no todo ou em parte);\n- **Ou** no lugar onde se produziu ou deveria produzir-se o **resultado**.\n\n**Regra:** O juiz pode escolher qualquer desses lugares para fixar a competência.\n\n**Exemplo:** Uma pessoa atira de um país e mata em outro – ambos os países podem ser considerados locus delicti."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico",
+          "texto": "📌 **LUGAR** → Ubiquidade (Art. 6º)\n📌 **TEMPO** → Atividade (Art. 4º)"
+        }
+      ]
+    },
+    {
+      "titulo": "Interpretação e Integração da Lei Penal",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Interpretação Quanto ao Sujeito",
+          "texto": "**Autêntica:** Feita pelo próprio legislador (ex.: leis interpretativas).\n\n**Judicial:** Feita pelos tribunais (jurisprudência).\n\n**Doutrinária:** Feita pelos estudiosos do direito (doutrina)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Interpretação Quanto ao Resultado",
+          "texto": "**Declarativa:** O sentido literal da lei coincide com a vontade do legislador.\n\n**Restritiva:** O sentido literal é mais amplo que a vontade da lei; restringe-se a aplicação.\n\n**Extensiva:** O sentido literal é mais restrito que a vontade da lei; amplia-se a aplicação (desde que não crie crime ou agrave pena)."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Analogia",
+          "texto": "É admitida para **preencher lacunas** da lei penal, desde que **em benefício do réu** (analogia in bonam partem). É proibida para criar crimes ou agravar penas (art. 5º, XXXIX, CF).\n\n**Exemplo:** A analogia pode ser usada para estender uma causa de diminuição de pena a casos semelhantes, mas não para criar uma agravante."
+        }
+      ]
+    },
+    {
+      "titulo": "Conflito Aparente de Normas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conflito Aparente de Normas",
+          "texto": "Ocorre quando duas ou mais normas penais aparentemente se aplicam a um mesmo fato. Para resolver, aplicam-se os princípios:\n\n**Especialidade:** A norma especial prevalece sobre a geral (ex.: crime de homicídio qualificado prevalece sobre o homicídio simples).\n\n**Subsidiariedade:** A norma subsidiária (mais ampla) só se aplica se a norma principal (mais específica) não for aplicável (ex.: o crime de lesão corporal é subsidiário do crime de homicídio).\n\n**Consunção (Absorção):** A norma que descreve o crime-fim absorve a norma que descreve o crime-meio (ex.: o roubo absorve a lesão corporal leve).\n\n**Alternatividade:** O crime pode ser praticado por várias condutas alternativas (ex.: ato obsceno, que pode ser praticado de várias formas)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Aplicação dos Princípios",
+          "texto": "A doutrina e a jurisprudência utilizam os princípios acima para resolver o conflito aparente de normas. A **especialidade** é o principal critério. A **consunção** é muito usada para crimes-meio e crime-fim. A **subsidiariedade** e a **alternatividade** têm aplicação mais restrita."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

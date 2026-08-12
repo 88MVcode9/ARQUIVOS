@@ -1,0 +1,145 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Direito Penal Comum",
+  "titulo": "Concurso de Pessoas e Concurso de Crimes",
+  "icone": "👥",
+  "descricao": "Regras do concurso de agentes (Arts. 29 a 31), autoria, participação, comunicabilidade, e do concurso de crimes (Arts. 69 a 71 do CP), com diferenças, sistemas de aplicação da pena e limites legais.",
+  "topicos": [
+    {
+      "titulo": "Concurso de Pessoas – Requisitos e Fundamentos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Requisitos do Concurso de Pessoas",
+          "texto": "**1. Pluralidade de agentes:** dois ou mais sujeitos envolvidos.\n**2. Relevância causal das condutas:** cada participação deve ter contribuído de forma relevante para o resultado (mesmo que moralmente).\n**3. Liame subjetivo (vínculo psicológico):** acordo, ajuste ou consciência da colaboração (dolo de participação).\n**4. Identidade da infração penal:** todos os agentes devem ter ciência do mesmo fato típico (não exige que o crime seja exatamente o mesmo na forma, mas que haja unidade de desígnios)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Teoria Monista (Art. 29 do CP)",
+          "texto": "Adotada pelo Código Penal: todos os que concorrem para o crime incidem nas mesmas penas, na medida de sua culpabilidade.\n\n**Autor:** quem executa a conduta típica ou tem o domínio do fato.\n**Partícipe:** quem induz, instiga ou auxilia (moral ou materialmente).\n\n**Pena do partícipe:** a mesma do autor, reduzida na medida de sua participação."
+        }
+      ]
+    },
+    {
+      "titulo": "Autoria – Espécies e Modalidades",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Autoria",
+          "texto": "**Autor direto (imediato):** realiza pessoalmente a conduta típica.\n**Autor mediato:** utiliza outra pessoa como instrumento (ex.: coação física, erro de tipo).\n**Coautor:** executa a conduta em comunhão com outros, dividindo as tarefas.\n**Autor intelectual:** planeja, organiza ou incita, mas não executa materialmente (quando sua contribuição é tão relevante que se equipara à autoria, ou quando o tipo penal exige qualidade especial – ex.: crime próprio).\n**Autor de escritório (domínio da organização):** quem exerce o poder de decisão em estruturas organizacionais (ex.: chefes de organização criminosa), mesmo sem executar, responde como autor (teoria do domínio do fato – aceita pela jurisprudência)."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Autoria Colateral e Incerta",
+          "texto": "**Autoria colateral:** duas ou mais pessoas, sem acordo, realizam condutas que causam o mesmo resultado. Cada um responde pelo seu ato (não há liame subjetivo).\n\n**Autoria incerta:** quando não se pode identificar qual dos agentes causou o resultado (ex.: dois atiradores, uma só bala fatal, sem acordo entre eles). \n**Regra:** Sendo impossível determinar o autor do resultado, a doutrina e a jurisprudência majoritárias **não imputam o resultado consumado a todos**. Cada agente responde, em regra, por **tentativa** do crime, salvo se houver prova de que ambos concorreram para o resultado (teoria da equivalência, mas com necessidade de comprovação do nexo). Se houver **dolo comum** (acordo), aí sim responde o grupo pelo resultado (aplica-se a teoria monista)."
+        }
+      ]
+    },
+    {
+      "titulo": "Participação – Espécies e Regras Especiais",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Participação",
+          "texto": "**Induzimento:** influência intelectual que leva alguém a decidir cometer o crime (cria a ideia).\n**Instigação:** reforço ou estímulo à decisão já existente (encoraja).\n**Auxílio material:** ajuda concreta para a execução (ex.: fornecer arma, transportar).\n**Auxílio moral:** apoio psicológico, promessa de ajuda posterior."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Participação de Menor Importância (Art. 29, §1º)",
+          "texto": "Se a participação for de **menor importância** (contribuição ínfima ou irrelevante), a pena pode ser reduzida de **1/6 a 1/3**, mesmo que o crime se consume.\n\n**Exemplo:** O agente que apenas vigia a entrada, mas não tem influência direta no resultado."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Cooperação Dolosamente Distinta (Art. 29, §2º)",
+          "texto": "Ocorre quando o partícipe quer um crime menos grave, mas o autor pratica crime mais grave.\n\n**Regra:** O partícipe responde pelo crime que **pretendeu** (desde que não houvesse previsibilidade do resultado mais grave). Se o resultado mais grave era previsível, responde pelo mais grave (teoria da previsibilidade objetiva).\n\n**Exemplo:** A instiga B a dar uma \"surra\" em C (lesão corporal), mas B acaba matando C. Se A não previa a morte, responde por lesão corporal; se a morte era previsível, responde por homicídio culposo ou doloso, a depender."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Participação Impunível (Art. 31 do CP)",
+          "texto": "Não são puníveis a **instigação, o auxílio ou a determinação** quando o crime **sequer chega a ser tentado** (ou seja, não há início de execução). O art. 31: \"O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado.\"\n\n**Exceção:** se a lei prevê a punição autônoma da participação (ex.: associação criminosa – art. 288)."
+        }
+      ]
+    },
+    {
+      "titulo": "Comunicabilidade e Circunstâncias",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Comunicabilidade das Circunstâncias (Art. 30 do CP)",
+          "texto": "Circunstâncias e condições de caráter pessoal **não se comunicam**, salvo se forem **elementares do crime**.\n\n**Exemplos de incomunicáveis:** reincidência, menoridade, motivo torpe ou fútil (se for circunstância pessoal), a condição de funcionário público no peculato (para o extraneus).\n\n**Quando se comunicam?** Se a circunstância for elementar constitutiva do crime (ex.: no peculato, a qualidade de funcionário público é elementar; se o partícipe sabe da condição, responde pelo mesmo crime, mas a condição não se comunica ao partícipe – ele responde como partícipe do crime, não como autor).\n\n**Regra prática:** As condições pessoais se comunicam apenas se **inerentes ao tipo** e conhecidas do partícipe."
+        }
+      ]
+    },
+    {
+      "titulo": "Crimes Plurissubjetivos",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Concurso Necessário vs. Eventual",
+          "texto": "**Concurso necessário:** o crime exige, para sua configuração, a participação de dois ou mais agentes (ex.: rixa – art. 137, bigamia – art. 235). A ausência de pluralidade descaracteriza o tipo.\n\n**Concurso eventual:** o crime pode ser praticado por um único agente, mas admite concurso (ex.: homicídio, furto). A pluralidade é acidental."
+        }
+      ]
+    },
+    {
+      "titulo": "Concurso de Crimes – Visão Geral e Sistemas",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Sistemas de Aplicação da Pena",
+          "texto": "**Sistema do cúmulo material:** soma-se as penas de todos os crimes (art. 69).\n**Sistema da exasperação:** aplica-se a pena do crime mais grave, com aumento proporcional (art. 70 e 71).\n\n**Regra:** O sistema da exasperação é exceção à regra da soma (aplicável no concurso formal, próprio, e no crime continuado)."
+        }
+      ]
+    },
+    {
+      "titulo": "Concurso Material (Art. 69)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Concurso Material – Conceito e Espécies",
+          "texto": "**Conceito:** Várias ações (ou omissões) independentes → vários crimes. A pena é obtida pela **soma** das penas de cada crime (cúmulo material).\n\n**Espécies:**\n- **Homogêneo:** todos os crimes são da mesma espécie (ex.: dois furtos).\n- **Heterogêneo:** crimes de espécies diversas (ex.: um furto e uma lesão corporal).\n\n**Limite:** Não há teto máximo na soma (pode ultrapassar 30 anos, se for o caso)."
+        }
+      ]
+    },
+    {
+      "titulo": "Concurso Formal (Art. 70)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Concurso Formal – Conceito e Diferenças",
+          "texto": "**Conceito:** Uma única ação (ou omissão) → vários crimes.\n\n**Espécies:**\n- **Próprio (ou perfeito):** sem desígnios autônomos (dolo único, ação única e resultado múltiplo, sem vontade de atingir vários). Aplica-se a **exasperação**: pena do crime mais grave + aumento de **1/6 a 1/2**.\n  - Ex.: Um único tiro, com dolo de matar uma pessoa, mas a bala acerta duas (sem intenção de matar a segunda).\n- **Impróprio (ou imperfeito):** com desígnios autônomos (dolo direto para cada resultado, embora a ação seja uma só). Aplica-se o **cúmulo material** (soma das penas).\n  - Ex.: Agente dispara uma rajada única para matar A e B, querendo a morte de ambos.\n\n📌 **Correção importante:** No JSON original, a classificação estava invertida. Agora está corrigida conforme o art. 70 e a doutrina majoritária."
+        }
+      ]
+    },
+    {
+      "titulo": "Crime Continuado (Art. 71)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Crime Continuado – Conceito e Requisitos",
+          "texto": "**Conceito:** Vários crimes da **mesma espécie**, praticados em **condições semelhantes de tempo, lugar e maneira de execução**, de modo que os subsequentes são considerados continuação do primeiro.\n\n**Requisitos:**\n- **Mesma espécie:** crimes que ofendem o mesmo bem jurídico e têm a mesma estrutura típica (ex.: furtos, homicídios).\n- **Condições semelhantes:** tempo (proximidade cronológica, mas não necessariamente imediata), lugar (mesmo contexto) e maneira de execução (mesmo modus operandi).\n\n**Espécies:**\n- **Comum:** aplicável a qualquer crime, desde que preenchidos os requisitos.\n- **Específico (ou qualificado):** previsto para crimes contra o patrimônio (art. 71, §1º, com redação dada pela Lei 13.964/2019 – Pacote Anticrime) quando as vítimas são diferentes e a violência é grave, o aumento pode ser de 1/6 a 1/3 (Súmula 443 do STJ já consolidava essa limitação).\n\n**Pena:** aplica-se a pena de um só crime (ou a mais grave), com aumento de **1/6 a 2/3**.\n\n**Limite:** a pena final não pode ultrapassar a soma das penas que seriam aplicadas no concurso material (art. 71, parágrafo único)."
+        }
+      ]
+    },
+    {
+      "titulo": "Comparativo e Diferenças entre os Concursos",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Comparativo Rápido",
+          "texto": "| Critério | Concurso Material | Concurso Formal | Crime Continuado |\n|----------|-------------------|-----------------|------------------|\n| Ações | Várias | Uma só | Várias |\n| Crimes | Vários | Vários | Vários (mesma espécie) |\n| Sistema | Soma (cúmulo) | Exasperação (próprio) ou Soma (impróprio) | Exasperação (aumento de 1/6 a 2/3) |\n| Limite | Sem teto (soma integral) | – | Não pode superar a soma do material |"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferenças Práticas",
+          "texto": "**Material:** pluralidade de ações e de crimes → soma.\n**Formal:** unidade de ação → pode ser soma (se desígnios autônomos) ou exasperação (se dolo único).\n**Continuado:** pluralidade de ações e de crimes, mas com vínculo de continuidade (mesma espécie, semelhantes) → exasperação.\n\n**Exemplo prático:**\n- Furta um carro hoje e outro amanhã = continuado (mesma espécie, mesmo modus) → exasperação.\n- Furta hoje e estupra amanhã = material → soma.\n- Um tiro mata dois (sem querer o segundo) = formal próprio → exasperação.\n- Um tiro mata dois (querendo ambos) = formal impróprio → soma."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

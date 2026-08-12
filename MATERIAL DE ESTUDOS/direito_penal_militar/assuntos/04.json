@@ -1,0 +1,95 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['04.json']=
+{
+  "materia": "Direito Penal Militar",
+  "titulo": "Ação Penal, Extinção da Punibilidade e Prescrição",
+  "icone": "⏳",
+  "descricao": "Espécies de ação penal militar, causas extintivas da punibilidade, perdão judicial e regras de prescrição no CPM.",
+  "topicos": [
+    {
+      "titulo": "Ação Penal Militar",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Natureza e Titularidade",
+          "texto": "**Pública incondicionada** – regra: Ministério Público Militar (MPM) age de ofício.\n\n**Pública condicionada** – exceção: depende de requisição (ex.: crimes contra a honra de autoridade).\n\n**Privada subsidiária da pública** – se o MPM ficar inerte, o ofendido pode oferecer queixa‑crime no prazo de **6 meses** contados do esgotamento do prazo para denúncia."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Princípios",
+          "texto": "**Indisponibilidade**: o MPM não pode desistir da ação.\n**Obrigatoriedade**: havendo indícios suficientes, o MPM deve processar."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Prazos para Denúncia (Art. 79 do CPPM)",
+          "texto": "Réu preso: **5 dias**.\nRéu solto: **15 dias**.\n\nContados do recebimento dos autos pelo MPM. O atraso não extingue a punibilidade, mas pode levar ao relaxamento da prisão."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Crimes contra a Honra no Meio Militar",
+          "texto": "Entre militares na vida privada → ação privada (queixa).\nContra militar em serviço ou contra a instituição → pública incondicionada."
+        }
+      ]
+    },
+    {
+      "titulo": "Extinção da Punibilidade",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Causas Extintivas (Art. 123 do CPM)",
+          "texto": "**I – Morte do agente**: extingue a punibilidade, mas a obrigação de reparar o dano subsiste contra os herdeiros.\n\n**II – Anistia, Graça ou Indulto**:\n- **Anistia**: concedida pelo Congresso (lei), alcance coletivo, **apaga a reincidência**, pode ser concedida antes ou depois da condenação.\n- **Graça**: concedida pelo Presidente (decreto), individual, mantém a reincidência, apenas após condenação.\n- **Indulto**: concedido pelo Presidente (decreto), coletivo, mantém a reincidência, apenas após condenação.\n\n**III – Abolitio criminis**: lei nova deixa de considerar o fato como crime – retroage, apaga os efeitos penais, mas mantém a obrigação de indenizar.\n\n**IV – Prescrição**: perda do direito de punir pelo decurso do tempo (ver tópico seguinte).\n\n**V – Retratação do agente**: nos casos em que a lei a admite (ex.: crimes contra a honra). Extingue a punibilidade se realizada antes da sentença.\n\n**VI – Ressarcimento no peculato culposo**: se o agente devolver o dinheiro **antes da sentença**, a punibilidade se extingue; após a sentença, apenas reduz a pena (1/3 a 2/3).\n\nOutras causas (perdão judicial, perdão do ofendido, renúncia, decadência) também estão previstas no mesmo artigo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Perdão Judicial",
+          "texto": "Hipótese legal específica (ex.: homicídio culposo com sofrimento extremo do autor, como pai que mata o filho sem querer).\n\nÉ um **direito do réu** – o juiz deve conceder se preenchidos os requisitos.\n\nSentença declaratória da extinção da punibilidade, **sem efeitos condenatórios** (Súmula 18 do STJ)."
+        }
+      ]
+    },
+    {
+      "titulo": "Prescrição",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Prescrição da Pretensão Punitiva (Art. 125 do CPM)",
+          "texto": "Calculada pela **pena máxima abstratamente cominada** ao crime.\n\nPrazos:\n- Pena de morte (guerra): 30 anos\n- Superior a 12 anos: 20 anos\n- Superior a 8 e até 12 anos: 16 anos\n- Superior a 4 e até 8 anos: 12 anos\n- Até 4 anos: 8 anos\n- Até 2 anos: 4 anos\n- Até 1 ano: 2 anos"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Prescrição da Pretensão Executória (Art. 126 do CPM)",
+          "texto": "Calculada pela **pena concretamente aplicada** na sentença.\n\nSe o agente for **habitual**, o prazo aumenta em 1/3 (§ 1º)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Interrupção da Prescrição (Art. 127 do CPM)",
+          "texto": "Marcos interruptivos (reiniciam a contagem do zero):\n1. Recebimento da denúncia.\n2. Pronúncia (em crimes afiançáveis).\n3. Decisão confirmatória da pronúncia.\n4. Sentença condenatória."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Prescrição Retroativa",
+          "texto": "Ocorre quando a pena aplicada na sentença é **menor** que a pena‑base, e o tempo decorrido entre a denúncia e a sentença já ultrapassa o prazo correspondente à pena concreta."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Redução de Prazos (Art. 129 do CPM)",
+          "texto": "Metade dos prazos se o agente, ao tempo do fato, tiver **menos de 21 anos** ou, ao tempo da sentença, tiver **mais de 70 anos**."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Deserção – Regra Especial (Art. 132 do CPM)",
+          "texto": "O crime de deserção **não prescreve** enquanto o militar não atingir a idade limite do serviço:\n- Praça: **45 anos**.\n- Oficial: **60 anos**.\n\n**Insubmissão**: a prescrição inicia quando o agente completa **30 anos**."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Concurso de crimes ou crime continuado",
+          "texto": "A prescrição é calculada para **cada crime isoladamente**."
+          },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/04.jpg"
+        }
+      ]
+    }
+  ]
+}
+;

@@ -1,0 +1,113 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['02.json']=
+{
+  "materia": "Direito Penal Militar",
+  "titulo": "Teoria do Erro, Sujeitos e Imputabilidade",
+  "icone": "🧠",
+  "descricao": "Conceito analítico de crime, erros, excludentes de ilicitude, definição de militar, imputabilidade e causas de exclusão da culpabilidade.",
+  "topicos": [
+    {
+      "titulo": "Teoria do Erro e Excludentes de Ilicitude",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito Analítico de Crime (teoria tripartida)",
+          "texto": "1. **Fato típico** – conduta (ação ou omissão) que se subsume ao tipo penal, com resultado (quando exigido), nexo causal e tipicidade (formal e material).\n2. **Ilicitude (antijuridicidade)** – conduta contrária ao ordenamento jurídico, ou seja, que não está amparada por uma causa de justificação (legítima defesa, estado de necessidade, estrito cumprimento do dever legal ou exercício regular de direito).\n3. **Culpabilidade** – juízo de reprovação pessoal, que exige:\n   - Imputabilidade (capacidade de entender e querer);\n   - Potencial consciência da ilicitude (conhecimento possível da ilicitude do fato);\n   - Exigibilidade de conduta diversa (possibilidade de agir de acordo com o direito).\n\nA ausência de qualquer um desses elementos afasta o crime, seja por atipicidade, exclusão da ilicitude ou da culpabilidade."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Proibição (Art. 21 do CP – aplicável)",
+          "texto": "O agente conhece os fatos, mas acredita que sua conduta é lícita.\n\n**Inevitável (escusável)**: exclui a culpabilidade → isenção de pena.\n**Evitável (inescusável)**: reduz a pena de **1/6 a 1/3**.\n\n📌 **Aplicação no CPM**: O art. 12 do CPM autoriza a aplicação subsidiária do CP comum. Contudo, a jurisprudência militar exige rigor na análise da inevitabilidade, especialmente quando o erro decorre de obediência a ordem hierárquica ou de interpretação de regulamentos militares – sendo necessária a comprovação de que o agente não tinha meios razoáveis para conhecer a ilicitude."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Tipo (Art. 20 do CP – aplicável)",
+          "texto": "O agente desconhece um elemento do tipo penal (percepção equivocada da realidade).\n\n**Essencial inevitável**: exclui o dolo e a culpa → fato atípico (absolvição).\n**Essencial evitável**: exclui o dolo, mas permite punição por crime culposo (se previsto).\n**Acidental**: não exclui o crime, mas afasta qualificadora/agravante.\n\n📌 **No âmbito militar**: a mesma regra é aplicada, com atenção aos elementos normativos do tipo (ex.: conceitos de \"serviço\", \"comandante\", \"praça\") que podem gerar erro de tipo essencial se o agente desconhecer seu status ou sua função no momento da conduta."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Descriminantes Putativas (Art. 20, §1º do CP)",
+          "texto": "O agente imagina uma situação de fato que, se existisse, tornaria sua ação legítima (ex.: legítima defesa putativa).\n\n**Escusável**: isento de pena.\n**Inescusável**: afasta o dolo, responde por crime culposo (culpa imprópria)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Erro de Tipo Permissivo",
+          "texto": "Erro sobre os pressupostos fáticos de uma causa de justificação (ligado às descriminantes putativas)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Abuso de Autoridade",
+          "texto": "Exige **dolo específico** (finalidade de prejudicar, beneficiar‑se ou por capricho). Não há modalidade culposa nesse crime."
+        }
+      ]
+    },
+    {
+      "titulo": "Crime Militar – Conceito e Sujeitos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Quem é militar para o CPM",
+          "texto": "Integrantes das Forças Armadas, Polícia Militar e Corpo de Bombeiros Militar (Art. 22 do CPM c/c Art. 42 da CF).\n\n**Equiparado** (Art. 12): civil que exerce função em organização militar ou comissão militar, enquanto durar essa função."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Classificação dos Crimes Militares",
+          "texto": "**Próprio**: só no CPM; protege hierarquia/disciplina (ex.: deserção, motim). Regra: só militar pratica (exceção: insubmissão de civil convocado).\n\n**Impróprio**: existe também no CP; torna‑se militar pelo contexto (Art. 9º). Civil pode ser coautor/partícipe."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Crime vs. Transgressão Disciplinar",
+          "tabela": {
+            "colunas": ["", "Crime Militar", "Transgressão Disciplinar"],
+            "linhas": [
+              ["Previsão", "Lei (CPM)", "Regulamento"],
+              ["Pena", "Criminal (reclusão, detenção)", "Administrativa (prisão disciplinar, etc.)"],
+              ["Julgamento", "Justiça Militar", "Autoridade militar"],
+              ["Mesma conduta", "Pode gerar ambas as consequências", "Pode gerar ambas as consequências"]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Tempo e Lugar do Crime (reforço)",
+          "texto": "**Tempo**: sempre teoria da atividade (Art. 5º do CPM).\n\n**Lugar**:\n- crime comissivo → ubiquidade (Art. 6º do CPM) – ação ou resultado;\n- crime omissivo → atividade (só o local da omissão)."
+        }
+      ]
+    },
+    {
+      "titulo": "Imputabilidade Penal",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Critério Biopsicológico (Arts. 46 a 48 do CPM)",
+          "texto": "**Biológico**: doença mental, desenvolvimento incompleto ou retardado.\n**Psicológico**: incapacidade de entender o caráter ilícito ou de determinar‑se de acordo com esse entendimento no momento do fato."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Espécies de Imputabilidade",
+          "texto": "**Inimputável** (Art. 46): inteiramente incapaz. Isento de pena, sujeito a medida de segurança.\n\n**Semi‑imputável** (Art. 48): capacidade reduzida. Sistema vicariante – o juiz opta por: pena reduzida (1/3 a 2/3) **ou** medida de segurança (internação/tratamento). **Nunca as duas juntas.**\n\n**Imputável**: plena capacidade → pena integral."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Menores de 18 anos",
+          "texto": "Sempre inimputáveis (Art. 50 do CPM e Art. 228 da CF/88) – critério puramente biológico."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Emoção e Paixão (Art. 28 do CPM)",
+          "texto": "Não excluem a imputabilidade. Podem atenuar a pena se o crime foi cometido sob **violenta emoção** provocada por ato injusto da vítima (Art. 72, III, “c”)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Embriaguez (Art. 28 do CPM)",
+          "texto": "**Voluntária ou culposa**: não exclui a imputabilidade – pena integral.\n**Acidental** (caso fortuito/força maior): pode excluir (completa) ou reduzir (incompleta) a pena.\n**Preordenada**: agente se embriaga para criar coragem – agravante genérica (Art. 70, II, “l”).\n**Patológica**: equiparada a doença mental → inimputável.\n**Actio libera in causa**: se o agente era livre para decidir beber, responde pelo que fizer embriagado."
+                     },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/02.jpg"
+        }
+      ]
+    }
+  ]
+}
+;
