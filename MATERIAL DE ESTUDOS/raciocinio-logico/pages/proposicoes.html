@@ -15,10 +15,8 @@
 
     <!-- HERO -->
     <header class="hero">
-        <div class="hero-badge">📘 Guia Completo de Proposições</div>
-        <h1>Raciocínio Lógico<br>do Zero ao Avançado</h1>
-        <p>Domine todos os conectivos, leis de De Morgan, equivalências, quantificadores e muito mais — com visual interativo e design profissional.</p>
-    </header>
+        <div class="hero-badge">📘Proposições</div>
+   </header>
 
     <!-- SEÇÃO 1: PROPOSIÇÃO -->
     <section class="section sec-proposicao" id="proposicao">
@@ -229,6 +227,27 @@
                 <div class="connective-macete"><strong>Macete:</strong> No "OU", basta uma parte ser verdadeira para tudo ser verdadeiro.</div>
             </div>
 
+
+    <!-- 4. Disjunção Exclusiva -->
+    <div class="connective-card conn-xor">
+      <span class="connective-symbol">⊕</span>
+      <div class="connective-name">Disjunção Exclusiva — "OU... OU"</div>
+      <div class="connective-rule">Só é V se os valores forem diferentes. Se forem iguais, é F.</div>
+      <div class="truth-table-wrapper">
+        <table class="truth-table">
+          <thead><tr><th>p</th><th>q</th><th>p⊕q</th></tr></thead>
+          <tbody>
+            <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-F">F</td></tr>
+            <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-V">V</td></tr>
+            <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+            <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="connective-macete"><strong>Macete:</strong> Valores diferentes → V; valores iguais → F.</div>
+    </div>
+
+
             <!-- CONDICIONAL -->
             <div class="connective-card conn-condicional">
                 <span class="connective-symbol">→</span>
@@ -269,34 +288,34 @@
         </div>
     </section>
 
-    <!-- SEÇÃO 5: XOR -->
-    <section class="section sec-xor" id="xor">
+
+    
+    <!-- NOVA SEÇÃO: ORDEM DE PRECEDÊNCIA DOS CONECTIVOS (adicionada) -->
+    <section class="section sec-precedencia" id="precedencia">
         <div class="section-header">
-            <div class="icon-circle">⊕</div>
-            <h2>Disjunção Exclusiva (XOR)<span class="highlight">"OU... OU"</span></h2>
+            <div class="icon-circle">📐</div>
+            <h2>Ordem de Precedência dos Conectivos<span class="highlight">Resolva na ordem certa</span></h2>
         </div>
-        <div class="card card-accent-red">
-            <h3>Símbolo e Regra</h3>
-            <p>Símbolo: <strong style="color: var(--red); font-size:1.4rem;">⊕</strong> (ou <strong>⊻</strong>)</p>
-            <p><strong>Regra:</strong> Só é Verdadeira se os valores lógicos forem diferentes. Se forem iguais, é Falsa.</p>
-            <div class="example-box">
-                <div class="example-label">Exemplo</div>
-                <div class="example-text">"Ou João é paulista ou é mineiro." (Ele não pode ser os dois ao mesmo tempo).</div>
+        <div class="card card-accent-yellow">
+            <p>Assim como na matemática (multiplicação antes da soma), na lógica proposicional existe uma <strong style="color: var(--yellow);">hierarquia obrigatória</strong> para resolver expressões com vários conectivos. Siga sempre esta ordem:</p>
+            <div class="formula-box" style="background: rgba(255,215,0,0.08); border-color: var(--yellow);">
+                <span class="formula-label">Precedência (do mais prioritário ao menos)</span>
+                1. Parênteses <strong>( )</strong><br>
+                2. Negação <strong>¬</strong><br>
+                3. Conjunção <strong>∧</strong> (E)<br>
+                4. Disjunção <strong>∨</strong> (OU) e Disjunção Exclusiva <strong>⊕</strong><br>
+                5. Condicional <strong>→</strong> (SE... ENTÃO)<br>
+                6. Bicondicional <strong>↔</strong> (SE E SOMENTE SE)
             </div>
-            <div class="truth-table-wrapper">
-                <table class="truth-table">
-                    <thead><tr><th>p</th><th>q</th><th>p ⊕ q</th></tr></thead>
-                    <tbody>
-                        <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-F">F</td></tr>
-                        <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-V">V</td></tr>
-                        <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-V">V</td></tr>
-                        <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-F">F</td></tr>
-                    </tbody>
-                </table>
+            <p>Exemplo: <code>¬(p ∧ q) ∨ r → s</code> → resolve-se o parêntese, depois a negação, depois o OU, depois o SE...ENTÃO.</p>
+            <div class="alert-box" style="margin-top: 14px;">
+                <span class="alert-icon">💡</span>
+                <span class="alert-text"><strong>Dica:</strong> Se houver dúvida, use parênteses extras para deixar explícita a ordem desejada. A banca sempre respeita essa precedência.</span>
             </div>
-            <div class="connective-macete"><strong>Macete:</strong> Valores diferentes → V; valores iguais → F.</div>
         </div>
     </section>
+
+   
 
     <!-- SEÇÃO 6: LEIS DE MORGAN -->
     <section class="section sec-morgan" id="morgan">
@@ -580,6 +599,78 @@
         <div class="quote-block" style="border-left-color: var(--pink); background: rgba(244,114,182,0.06);">
             "A partir disso, a tabela-verdade fica muito mais fácil, porque ela nada mais é do que organizar sistematicamente todas essas possibilidades."
             <span class="quote-author">— Dica final</span>
+        </div>
+    </section>
+
+    <!-- NOVA SEÇÃO: QUESTÕES RESOLVIDAS PASSO A PASSO (adicionada) -->
+    <section class="section sec-questoes" id="questoes">
+        <div class="section-header">
+            <div class="icon-circle">🧾</div>
+            <h2>Questões Resolvidas Passo a Passo<span class="highlight">Aplique a teoria na prática</span></h2>
+        </div>
+
+        <!-- Questão 1 (Fundatec) -->
+        <div class="card card-accent-blue" style="margin-bottom: 24px;">
+            <h3>📌 Questão 1 (Banca Fundatec)</h3>
+            <p><strong>Contexto:</strong> As proposições simples A, B e C são todas <strong>FALSAS</strong>. Determine o valor lógico da expressão:</p>
+            <div class="formula-box" style="background: rgba(0,102,204,0.08); border-color: var(--blue);">
+                (~A ∧ B) ∨ (C ∧ ~B)
+            </div>
+
+            <h4 style="margin-top: 16px;">🔍 Resolução passo a passo</h4>
+            <ol style="padding-left: 20px; line-height: 1.8;">
+                <li><strong>Atribuir e inverter:</strong> A = F, B = F, C = F → ~A = V, ~B = V, ~C = V.</li>
+                <li><strong>Primeiro parêntese (~A ∧ B):</strong> V ∧ F = <strong style="color: var(--red);">F</strong> (regra do E: basta um F).</li>
+                <li><strong>Segundo parêntese (C ∧ ~B):</strong> F ∧ V = <strong style="color: var(--red);">F</strong>.</li>
+                <li><strong>Junção com OU:</strong> F ∨ F = <strong style="color: var(--red);">F</strong> (regra do OU: só é V se pelo menos um for V).</li>
+            </ol>
+            <div class="example-result res-F" style="margin-top: 10px; font-size: 1.2rem;">Resultado final: Falso (F)</div>
+            <div class="alert-box" style="margin-top: 12px;">
+                <span class="alert-icon">💡</span>
+                <span class="alert-text"><strong>Dica do professor:</strong> Em questões de valor lógico, a resposta é sempre V ou F. Elimine alternativas como "impossível determinar" ou "neutro".</span>
+            </div>
+        </div>
+
+        <!-- Questão 2 (Dedalus) -->
+        <div class="card card-accent-green" style="margin-bottom: 24px;">
+            <h3>📌 Questão 2 (Banca Dedalus)</h3>
+            <p><strong>Contexto:</strong> Avalie os quatro itens abaixo, que misturam operações matemáticas com conectivos lógicos, e determine a sequência correta de valores lógicos.</p>
+
+            <div style="margin: 16px 0;">
+                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
+                    <strong>Item 1:</strong> (7 − 2/2 = 5) ∨ (3 > 2)
+                </div>
+                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
+                    <strong>Item 2:</strong> (2 + 3 = 4) ↔ (1 > 3)
+                </div>
+                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
+                    <strong>Item 3:</strong> (3 × 5 + 6 = 21) → (18/3 − 1 = 7)
+                </div>
+                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
+                    <strong>Item 4:</strong> (4 × 4 + 3 = 19) ∧ (9 − 2 = 7)
+                </div>
+            </div>
+
+            <h4 style="margin-top: 16px;">🔍 Resolução passo a passo</h4>
+
+            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--yellow); background: rgba(255,215,0,0.05);">
+                <p><strong>Item 1:</strong> 7 − 2/2 = 6 → Falso (F) | 3 > 2 → Verdadeiro (V) → <strong>F ∨ V = V</strong></p>
+            </div>
+            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--purple); background: rgba(160,80,255,0.05);">
+                <p><strong>Item 2:</strong> 2 + 3 = 5 → Falso (F) | 1 > 3 → Falso (F) → <strong>F ↔ F = V</strong> (regra da balança: valores iguais)</p>
+            </div>
+            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--orange); background: rgba(255,140,0,0.05);">
+                <p><strong>Item 3:</strong> 3×5+6 = 21 → Verdadeiro (V) | 18/3−1 = 5 → Falso (F) → <strong>V → F = F</strong> (Vera Fischer falsa)</p>
+            </div>
+            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--green); background: rgba(46,204,113,0.05);">
+                <p><strong>Item 4:</strong> 4×4+3 = 19 → Verdadeiro (V) | 9−2 = 7 → Verdadeiro (V) → <strong>V ∧ V = V</strong></p>
+            </div>
+
+            <div class="example-result res-V" style="margin-top: 10px; font-size: 1.2rem;">Sequência correta: V, V, F, V → alternativa A</div>
+            <div class="alert-box" style="margin-top: 12px;">
+                <span class="alert-icon">📌</span>
+                <span class="alert-text"><strong>Macetes usados:</strong> Regra do OU (basta um V), Regra da balança (↔ com valores iguais), Vera Fischer (V→F é F), e Regra do E (só V se ambos forem V).</span>
+            </div>
         </div>
     </section>
 
