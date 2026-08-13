@@ -1,0 +1,116 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+window.__ESTUDA_DATA__['02.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Colocação Pronominal: Próclise, Mesóclise e Ênclise",
+  "icone": "📌",
+  "descricao": "Guia completo sobre a posição dos pronomes oblíquos átonos na frase. Entenda as regras de próclise (antes do verbo), ênclise (depois) e mesóclise (no meio), com macetes, fluxograma, pegadinhas e exemplos práticos.",
+  "data": "2026-08-12",
+  "revisao": "1.0",
+  "topicos": [
+    {
+      "titulo": "Introdução – O que é Colocação Pronominal?",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O objetivo da colocação pronominal",
+          "texto": "É a definição da posição dos **pronomes pessoais oblíquos átonos** (me, te, se, o, a, lhe, nos, vos, os, as, lhes) em relação ao verbo.\n\nTemos apenas **três posições possíveis**:\n\n| Nome | Onde fica o pronome? | Exemplo |\n|------|----------------------|---------|\n| 🟢 **Próclise** | **Antes** do verbo | *Ela **me** chamou.* |\n| 🔵 **Ênclise** | **Depois** do verbo | *Chamou-**me**.* |\n| 🟣 **Mesóclise** | **No meio** do verbo | *Chamar-**me**-á.* |\n\n> **🎯 Macete da nomenclatura:**\n> - **PRÓ** = **PRÓ**ximo / **antes**\n> - **ÊN** = **EN**costado depois\n> - **MESO** = **MEIO**"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Atenção: desligue o ouvido do dia a dia!",
+          "texto": "No dia a dia, o português falado no Brasil prefere colocar o pronome **antes** do verbo, mesmo que isso contrarie a norma culta (ex.: “Me pediram silêncio”). Contudo, as regras formais de colocação pronominal foram criadas com base em critérios de sonoridade e estilo dos gramáticos antigos.\n\nPortanto, **desligue o ouvido do dia a dia e ligue o radar de prova**! Aqui valem as regras da norma‑padrão."
+        }
+      ]
+    },
+    {
+      "titulo": "🟢 Próclise – O Império dos “Ímãs”",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Próclise?",
+          "texto": "A próclise (pronome **antes** do verbo) ocorre quando há na frase palavras que funcionam como verdadeiros **ímãs**: elas atraem o pronome para perto de si."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Principais palavras atrativas (ímãs)",
+          "texto": "🔹 **Palavras negativas**: não, nunca, jamais, ninguém, nada, nem\n- ❌ *Não falaram-**me** nada.*\n- ✅ *Não **me** falaram nada.*\n\n🔹 **Advérbios**: aqui, bem, mal, ainda, já, só, talvez, sempre\n- ✅ *Ainda **me** pergunto se fiz a escolha certa.*\n\n🔹 **Palavras interrogativas ou exclamativas**: quem, quando, como, que, quanto\n- ✅ *Que Deus **o** acompanhe!*\n\n🔹 **Pronomes relativos e conjunções subordinativas**: que, quem, cujo, quando, se, embora, conforme\n- ✅ *Prefiro que **me** diga a verdade.*\n\n🔹 **Pronomes indefinidos e numerais**: todos, ambos, alguém, ninguém, tudo\n- ✅ *Todos **a** viram hoje pela manhã.*\n\n🔹 **Preposição “em” + gerúndio**:\n- ✅ *Em **se** tratando de romances, ela é especialista.*"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "📝 Resumo prático da próclise",
+          "texto": "Se aparecer uma palavra negativa, advérbio, interrogativa, exclamativa, pronome relativo, conjunção, pronome indefinido, numeral ou a construção “em + gerúndio” antes do verbo, **use próclise**."
+        }
+      ]
+    },
+    {
+      "titulo": "🔵 Ênclise – Quando o pronome vai para o fim",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Ênclise?",
+          "texto": "Se **não há ímã** puxando o pronome, a tendência da norma‑padrão é colocá‑lo **depois** do verbo. Além disso, existem situações específicas que exigem a ênclise."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Regras de ouro da ênclise",
+          "texto": "🔸 **Início de frase** – Na norma‑padrão, **não se começa frase com pronome átono**.\n- ❌ *Me pediram silêncio.* (comum na fala, mas errado em prova)\n- ✅ *Pediram-**nos** silêncio.*\n\n🔸 **Imperativo afirmativo** (ordens/pedidos)\n- ✅ *Ajude-**me**, por favor.*\n\n🔸 **Vírgulas e pausas – “O Isolante do Ímã”**\nSe houver uma **vírgula** entre a palavra atrativa e o verbo, o poder de atração é **cortado**, e a ênclise passa a ser obrigatória.\n- Sem vírgula: *Aqui **se** vive bem.* (advérbio “aqui” atrai → próclise)\n- Com vírgula: *Aqui, vive-**se** bem.* (a vírgula quebrou a atração → ênclise)\n\n🔸 **Infinitivo solto (exceção de prova)**\nVerbos terminados em **‑ar, ‑er, ‑ir** aceitam a ênclise **mesmo que haja ímã antes**. Essa é uma pegadinha clássica!\n- ✅ *Para não olhá‑**lo**, fechei os olhos.*\n(Nesse caso, tanto a próclise “para não o olhar” quanto a ênclise “para não olhá‑lo” são consideradas corretas, mas a ênclise é muito cobrada.)"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "📝 Resumo prático da ênclise",
+          "texto": "Use ênclise quando:\n- a frase começa com verbo;\n- há imperativo afirmativo;\n- há vírgula separando o ímã do verbo;\n- o verbo está no infinitivo solto (mesmo com ímã antes)."
+        }
+      ]
+    },
+    {
+      "titulo": "🟣 Mesóclise – A Fratura Exposta do Verbo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Mesóclise?",
+          "texto": "A mesóclise é estranha, quase não aparece na fala, mas **as bancas adoram**. Ela só ocorre sob **uma condição estrita**:\n\n> **O verbo deve estar no futuro (do presente ou do pretérito) E não pode haver ímã por perto.**"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Exemplos e armadilhas da mesóclise",
+          "texto": "**Exemplos:**\n- Futuro do Presente (vai acontecer): *Calarei* → *Calar‑**me**‑ei.*\n- Futuro do Pretérito (aconteceria): *Calaria* → *Calar‑**me**‑ia.*\n\n🚨 **Armadilhas da Mesóclise:**\n\n❌ **A palavra atrativa vence a mesóclise**\nSe houver um “não” (ou qualquer outro ímã) antes do verbo, a **próclise** ganha e a mesóclise morre.\n- ✅ *Não **me** calarei.*\n- ❌ *Não calar‑me‑ei.*\n\n❌ **Sujeito explícito vence a mesóclise**\nSe o sujeito estiver escrito antes do verbo, ele quebra a mesóclise.\n- ✅ *Eu **me** calarei.*\n- ❌ *Eu calar‑me‑ei.*"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "📝 Resumo prático da mesóclise",
+          "texto": "Só use mesóclise se:\n1. o verbo estiver no futuro do presente ou do pretérito;\n2. não houver palavra atrativa antes;\n3. não houver sujeito explícito antes do verbo."
+        }
+      ]
+    },
+    {
+      "titulo": "🧩 O “Algoritmo da Aprovação”",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Fluxo de decisão para qualquer questão",
+          "texto": "Para resolver qualquer questão de colocação pronominal, siga **esta ordem de perguntas**:\n\n1. **Tem ímã?**\n   (Palavra negativa, advérbio, interrogativa, exclamativa, pronome relativo, conjunção, pronome indefinido, numeral, “em + gerúndio”)\n   👉 **SIM → PRÓCLISE**\n\n2. **Não tem ímã. O verbo está no futuro do presente ou do pretérito e sem sujeito explícito?**\n   👉 **SIM → MESÓCLISE**\n\n3. **Não tem ímã, o verbo não é futuro ou a oração começou com verbo?**\n   👉 **ÊNCLISE**\n\n📌 **Fluxograma mental:**\n> **Ímã?** → Próclise  \n> **Futuro solto?** → Mesóclise  \n> **Nenhum dos dois?** → Ênclise"
+        }
+      ]
+    },
+    {
+      "titulo": "🔥 Resumo Final e Dicas de Prova",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Frase para guardar na memória",
+          "texto": "> **“A palavra atrativa é quem manda no pronome!**\n> Viu ímã? Próclise.\n> Viu futuro solto? Mesóclise.\n> Começou com verbo? Ênclise!”"
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚡ Dicas de Prova (Pegadinhas)",
+          "texto": "- ❌ **Nunca** comece frase com pronome átono (use ênclise).\n- ✂️ **Vírgula entre ímã e verbo** quebra a atração → use ênclise.\n- 🧲 **Infinitivo solto** aceita ênclise mesmo com ímã antes (pegadinha comum).\n- ⏳ **Mesóclise** só com futuro **sem ímã** e **sem sujeito explícito**.\n- 👑 **Palavra atrativa** sempre vence a mesóclise."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Colocação Pronominal",
+          "imagem": "./IMAGENS/02.png"
+        }
+      ]
+    }
+  ]
+};

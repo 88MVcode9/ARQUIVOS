@@ -1,0 +1,208 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+window.__ESTUDA_DATA__['04.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Articulação do Texto – Pronomes, Expressões Referenciais, Nexos e Operadores Sequenciais",
+  "icone": "📚",
+  "descricao": "Guia completo sobre articulação textual: pronomes, expressões referenciais, nexos e operadores sequenciais. Aborda anáfora, catáfora, dêixis, coesão referencial, coesão sequencial, conectivos, operadores argumentativos e cadeias referenciais. Inclui definições, exemplos, macetes e exercícios.",
+  "data": "2026-08-12",
+  "revisao": "2.0",
+  "topicos": [
+    {
+      "titulo": "Introdução – O que é Articulação do Texto?",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Significado de 'articular' um texto",
+          "texto": "Articular significa ligar, conectar, organizar.\n\nExemplo de texto desarticulado:\n> João chegou. João sentou. João abriu o livro. João estudou.\n\nTexto articulado:\n> João chegou. **Ele** sentou, abriu o livro e começou a estudar.\n\nAqui, **Ele** retoma **João**, criando coesão. A articulação é feita por pronomes, conjunções, expressões referenciais e operadores sequenciais."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Ideia central",
+          "texto": "Pronomes e expressões referenciais: apontam, retomam ou introduzem referentes.\nNexos: ligam elementos e ideias.\nOperadores sequenciais: organizam o caminho do texto.\n\nResumo:\n- Referenciação: de quem ou de quê estamos falando?\n- Nexo: como uma ideia se liga à outra?\n- Operador sequencial: como o texto vai andando?"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Mapa geral da articulação",
+          "texto": "Articulação do texto\n  ├── Referenciação (pronomes, demonstrativos, expressões nominais)\n  │   ├── Anáfora (retoma algo anterior)\n  │   ├── Catáfora (antecipa algo posterior)\n  │   └── Dêixis (depende da situação comunicativa)\n  ├── Nexos (conjunções, preposições, locuções)\n  └── Operadores sequenciais (adição, oposição, causa, consequência, conclusão, explicação, etc.)"
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes e Expressões Referenciais – Quem é o Referente?",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Pronome – o substituto do substantivo",
+          "texto": "Pronome substitui ou acompanha um substantivo, podendo fazer referência a elementos já mencionados ou a informações construídas no discurso.\n\nExemplo:\n> Maria chegou cedo. **Ela** esperou a prova.\n\nAqui, **Ela** = Maria.\n\nEm vez de repetir o nome, usamos o pronome."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pessoas do discurso",
+          "texto": "1ª pessoa (quem fala): eu, nós.\n2ª pessoa (com quem se fala): tu, vós, você (tratamento na 3ª pessoa).\n3ª pessoa (de quem ou do que se fala): ele, ela, eles, elas.\n\nAtenção: o pronome de tratamento 'você' exige verbo na 3ª pessoa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "O pronome pode retomar uma ideia inteira",
+          "texto": "Exemplo:\n> O governo anunciou novas medidas. **Isso** causou discussão.\n\nAqui, **Isso** não substitui uma única palavra, mas toda a situação anterior."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Expressão referencial",
+          "texto": "É uma palavra ou grupo de palavras usado para introduzir, identificar ou retomar um referente.\n\nExemplo:\n> O SENAI oferece cursos de marceneiro e padeiro. **Esses cursos** possuem vagas limitadas.\n\n**Esses cursos** retoma 'cursos de marceneiro e padeiro'."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Referente",
+          "texto": "Referente é o indivíduo, coisa, situação ou ideia para a qual uma expressão aponta.\n\nExemplo:\n> Carlos comprou uma moto. **O veículo** é preto.\n\nO referente de **O veículo** é 'uma moto'."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Anáfora – referência para trás",
+          "texto": "Anáfora ocorre quando um termo remete a algo já mencionado anteriormente.\n\nExemplo:\n> Pedro estudou muito. **Ele** foi aprovado.\n\n**Ele** aponta para Pedro.\n\nMacete: anáfora = antes."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Catáfora – referência para frente",
+          "texto": "Catáfora ocorre quando um termo antecipa uma informação que virá depois.\n\nExemplo:\n> **Estas** são minhas prioridades: estudar, revisar e fazer questões.\n\n**Estas** aponta para a enumeração posterior.\n\nMacete: catáfora = depois."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Dêixis – referência à situação comunicativa",
+          "texto": "Dêixis ocorre quando o referente depende do contexto de fala (quem fala, onde, quando).\n\nExemplos:\n> **Eu** estou **aqui** **agora**.\n\nQuem é 'eu'? Depende de quem fala. Onde é 'aqui'? Depende do local. Quando é 'agora'? Depende do momento.\n\nMacete: dêixis = situação."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Como diferenciar",
+          "texto": "Pergunte:\n1. A palavra aponta para algo? Se sim, há referenciação.\n2. O referente apareceu antes? → Anáfora.\n3. O referente aparece depois? → Catáfora.\n4. O referente está fora do texto, na situação? → Dêixis."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinha: 'ele' nem sempre é anáfora",
+          "texto": "Exemplo:\n> **Ele** chegou atrasado: João.\n\nAqui, **Ele** antecipa João, funcionando como catáfora. Portanto, não se pode afirmar que todo pronome 'ele' é anáfora."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Pronomes demonstrativos e referenciação",
+          "texto": "Pronomes como este, esse, aquele, isto, isso, aquilo são frequentemente usados para retomar ou antecipar informações.\n\nExemplo:\n> O candidato estudou durante seis meses. **Esse esforço** produziu resultados.\n\n**Esse esforço** retoma a informação anterior."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Referência por nomes (expressões nominais)",
+          "texto": "Não apenas pronomes, mas também substantivos podem fazer referência.\n\nExemplo:\n> O professor entrou na sala. **O docente** iniciou a aula.\n\n**O docente** refere-se ao professor.\n\nTambém é possível usar hiperônimos (termos mais amplos) e hipônimos (termos mais específicos) para criar coesão lexical."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Hiperônimo e Hipônimo",
+          "tabela": {
+            "colunas": ["Conceito", "Definição", "Exemplo"],
+            "linhas": [
+              ["Hiperônimo", "Termo mais amplo", "Animal (engloba cachorro, gato)"],
+              ["Hipônimo", "Termo mais específico", "Cachorro (dentro de animal)"]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Substituição e Elipse",
+          "texto": "Substituição: emprega-se uma expressão no lugar de outra para evitar repetição.\nExemplo: Pedro estudou muito. Maria **fez o mesmo**.\n\nElipse: omissão de um termo que pode ser recuperado pelo contexto.\nExemplo: João estudou e Ø passou. (O sujeito de 'passou' é João.)"
+        }
+      ]
+    },
+    {
+      "titulo": "Nexos – A Ponte entre as Ideias",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é nexo?",
+          "texto": "Nexo é o elemento que estabelece uma relação entre partes do texto, atuando como uma ponte.\n\nExemplo:\n> Estudei muito **porque** precisava melhorar.\n\nO **porque** conecta as duas ideias e estabelece uma relação de causa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Nexos podem ser conjunções, locuções ou advérbios",
+          "texto": "Conjunções: e, mas, ou, porque, embora, portanto, quando, se, conforme, caso.\nLocuções: além disso, por isso, apesar disso, em razão de, por conseguinte, ainda assim, desse modo.\nAdvérbios/articuladores: posteriormente, anteriormente, finalmente, entretanto, consequentemente, atualmente."
+        }
+      ]
+    },
+    {
+      "titulo": "Operadores Sequenciais – O Texto em Movimento",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são operadores sequenciais?",
+          "texto": "São palavras ou expressões que organizam a progressão do texto, indicando como as ideias se sucedem.\n\nExemplos de relações e operadores:\n- Adição: e, também, além disso, ademais.\n- Oposição: mas, porém, contudo, todavia, entretanto.\n- Causa: porque, já que, visto que, uma vez que.\n- Consequência: por isso, consequentemente, de modo que.\n- Conclusão: portanto, logo, assim, por conseguinte.\n- Explicação: isto é, ou seja, por exemplo.\n- Finalidade: para que, a fim de que.\n- Condição: se, caso, desde que.\n- Concessão: embora, ainda que, apesar de.\n- Comparação: como, assim como, tal qual.\n- Conformidade: conforme, segundo, de acordo com.\n- Tempo: quando, enquanto, depois, antes.\n- Enumeração: primeiro, depois, por fim.\n- Retificação: ou melhor, aliás."
+        }
+      ]
+    },
+    {
+      "titulo": "Cadeias Referenciais e Progressão Textual",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Cadeia referencial",
+          "texto": "Quando várias expressões se referem ao mesmo referente ou a referentes conectados, forma-se uma cadeia referencial.\n\nExemplo:\n> Maria entrou na sala. **A estudante** sentou. **Ela** abriu o caderno. **A candidata** começou a responder.\n\nTodas as expressões remetem a Maria, mantendo a continuidade temática."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Ambiguidade referencial",
+          "texto": "Ocorre quando um pronome pode se referir a mais de um antecedente, gerando dúvida.\n\nExemplo:\n> João conversou com Pedro quando **ele** chegou.\n\nQuem chegou? João ou Pedro? Sem contexto, a referência é ambígua."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Referência exofórica (dêixis) e endofórica",
+          "texto": "Referência endofórica: o referente está dentro do texto (anáfora/catáfora).\nReferência exofórica: o referente está fora do texto, na situação comunicativa (dêixis)."
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes Relativos e a Articulação",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Pronomes relativos",
+          "texto": "Pronomes relativos (que, o qual, cujo, onde, quem) retomam um termo anterior e introduzem uma oração subordinada.\n\nExemplo:\n> O livro **que** comprei é excelente.\n\n**que** retoma 'livro' e conecta as duas orações.\n\nAtenção ao uso de 'cujo': indica posse e não admite artigo após si. Exemplo: O aluno **cujo** material foi perdido."
+        }
+      ]
+    },
+    {
+      "titulo": "Operadores Argumentativos – Orientação do Discurso",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Operadores argumentativos",
+          "texto": "Além de conectar ideias, alguns operadores orientam a argumentação, destacando surpresa, inclusão, ou contraste.\n\nExemplo:\n> Ele **até** resolveu questões difíceis.\n\nO **até** sugere que isso é algo notável.\n\nExemplo:\n> Ele perdeu a prova e, **ainda assim**, continuou estudando.\n\n**Ainda assim** introduz uma concessão."
+        }
+      ]
+    },
+  
+    {
+      "titulo": "Resumo Final e Dicas de Prova",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo da articulação",
+          "texto": "Pronomes e expressões referenciais: identificam, retomam ou introduzem referentes.\nNexos: ligam elementos e ideias.\nOperadores sequenciais: organizam a progressão textual.\n\nAnáfora = referência anterior.\nCatáfora = referência posterior.\nDêixis = referência à situação.\n\nConectivos comuns:\n- Adição: e, também, além disso\n- Oposição: mas, porém, contudo\n- Causa: porque, já que\n- Consequência: por isso, consequentemente\n- Conclusão: portanto, logo\n- Explicação: isto é, ou seja\n- Condição: se, caso\n- Concessão: embora, ainda que\n- Tempo: quando, depois\n- Enumeração: primeiro, por fim"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Método R-N-O",
+          "texto": "R = Referência (quem é apontado?)\nN = Nexo (o que está ligado?)\nO = Operador (que relação/movimento o texto constrói?)\n\nSiga essa ordem para analisar qualquer questão."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "Pegadinhas comuns",
+          "texto": "- Não confunda a palavra com a relação: o contexto define o valor.\n- 'Portanto' nem sempre é conclusão; analise a relação.\n- 'Ele' pode ser anáfora, catáfora ou dêixis.\n- 'E' pode ter valor aditivo, mas também pode expressar consequência ou contraste, dependendo do contexto.\n- Não decore listas mecanicamente; entenda a função no texto."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Dicas para prova",
+          "texto": "1. Circule pronomes e conectivos.\n2. Identifique o referente de cada pronome.\n3. Determine se a referência é anterior, posterior ou externa.\n4. Classifique a relação estabelecida pelo conectivo.\n5. Verifique se a substituição do conectivo por outro mantém o sentido.\n6. Leia o texto como um todo para avaliar a coerência."
+                },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Coesão e Coerência",
+          "imagem": "./IMAGENS/04.png"
+        }
+      ]
+    }
+  ]
+};
