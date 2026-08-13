@@ -150,11 +150,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "titulo": "Registradores",
           "texto": "Pequenas memórias internas de altíssima velocidade."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Registradores na CPU",
-          "imagem": "https://picsum.photos/seed/informatica15/800/400"
-        },
+
         {
           "tipo": "conceito",
           "titulo": "Cache",
@@ -163,7 +159,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Hierarquia de memória com cache",
-          "imagem": "https://picsum.photos/seed/informatica16/800/400"
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfKDObTGGZda3b9c0e3fx_lyyruhmoUBSW5ta0X0ngNMOk52U0hSh66SK&s=10"
         },
         {
           "tipo": "pegadinha",
@@ -183,12 +179,12 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Pentes de RAM",
-          "imagem": "https://picsum.photos/seed/informatica17/800/400"
+          "imagem": "https://s2-techtudo.glbimg.com/icKGmk8D7tTk5rC2x6GphnyqqLU=/0x0:695x465/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/r/W/ZTob32SrSArTfI1tsaTQ/2016-08-05-memoria-ram-1.jpg"
         },
         {
           "tipo": "imagem",
           "titulo": "Chip de ROM",
-          "imagem": "https://picsum.photos/seed/informatica18/800/400"
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOmDtTXZ3tIVyZI0CHnV0nzBMLxqJtnz0jIPEJjPkgQ&s=10"
         },
         {
           "tipo": "conceito",
@@ -198,7 +194,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Níveis de cache",
-          "imagem": "https://picsum.photos/seed/informatica19/800/400"
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O-PqECOMzHyTYjQoFBbyCOy4bjTs3KwUiXQ1bJBAkS47n1A5dvGSMjd4&s=10"
         },
         {
           "tipo": "conceito",
@@ -208,7 +204,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Dispositivos de armazenamento",
-          "imagem": "https://picsum.photos/seed/informatica20/800/400"
+          "imagem": "https://www.criandobits.com.br/wp-content/uploads/2022/01/disp-armazenamento.jpg"
         },
         {
           "tipo": "pegadinha",
@@ -235,7 +231,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Exemplos de periféricos",
-          "imagem": "https://picsum.photos/seed/informatica21/800/400"
+          "imagem": "https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-TBR-Entrada-e-Saida.png"
         },
         {
           "tipo": "pegadinha",
@@ -255,7 +251,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Telas de sistemas operacionais",
-          "imagem": "https://picsum.photos/seed/informatica22/800/400"
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/45/Windows-11.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
         },
         {
           "tipo": "conceito",
@@ -265,27 +261,18 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Ícones de aplicativos",
-          "imagem": "https://picsum.photos/seed/informatica23/800/400"
+          "imagem": "https://thumbs.dreamstime.com/b/microsoft-office-outlook-exchange-onenote-publicador-do-excel-planejer-etc-google-llc-logotipos-oficiais-de-aplicativos-produtos-240123532.jpg"
         },
         {
           "tipo": "conceito",
           "titulo": "Software Utilitário",
           "texto": "Antivírus, compactadores (WinZip, 7‑Zip), ferramentas de backup."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Ícones de utilitários",
-          "imagem": "https://picsum.photos/seed/informatica24/800/400"
-        },
+        
         {
           "tipo": "conceito",
           "titulo": "Classificações por licenciamento",
           "texto": "**Proprietário:** código fechado, comercial (ex.: Windows, Adobe Photoshop).\n**Livre:** código aberto, pode ser modificado e redistribuído (ex.: Linux, GIMP).\n**Open source:** código aberto (similar ao livre, mas com critérios específicos).\n**Freeware:** gratuito, mas código fechado (ex.: Adobe Reader, CCleaner).\n**Shareware:** uso gratuito por tempo limitado ou com funcionalidades restritas.\n**Trial:** versão de teste por tempo determinado."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Quadro comparativo de licenças",
-          "imagem": "https://picsum.photos/seed/informatica25/800/400"
         }
       ]
     },
@@ -297,11 +284,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "titulo": "Firmware",
           "texto": "Software gravado em um chip de hardware, responsável por controlar funções básicas do equipamento. Não é volátil (mantém-se mesmo desligado). Exemplos: BIOS/UEFI, firmware de roteadores, firmware de impressoras."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Chip de firmware",
-          "imagem": "https://picsum.photos/seed/informatica26/800/400"
-        },
+
         {
           "tipo": "pegadinha",
           "titulo": "Firmware é software",
@@ -311,11 +294,6 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "tipo": "conceito",
           "titulo": "Drivers",
           "texto": "Software que permite a comunicação entre o sistema operacional e um dispositivo de hardware.\n\n**Exemplo:** Windows → Driver da impressora → Impressora."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Diagrama de comunicação SO → Driver → Dispositivo",
-          "imagem": "https://picsum.photos/seed/informatica27/800/400"
         }
       ]
     },
@@ -327,11 +305,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "titulo": "Processo de Boot",
           "texto": "1. **Ligação** – energia é fornecida.\n2. **POST** (Power‑On Self‑Test) – verificação dos componentes básicos.\n3. **BIOS/UEFI** – firmware que localiza e carrega o sistema operacional.\n4. **Carregamento do SO** – kernel e serviços são iniciados.\n5. **Sistema pronto** – usuário pode interagir."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Fluxo do boot",
-          "imagem": "https://picsum.photos/seed/informatica28/800/400"
-        },
+
         {
           "tipo": "pegadinha",
           "titulo": "BIOS/UEFI não é o SO",
@@ -355,7 +329,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Tela da BIOS vs. tela da UEFI",
-          "imagem": "https://picsum.photos/seed/informatica29/800/400"
+          "imagem": "https://blog.oficinadosbits.com.br/wp-content/uploads/2025/05/2022-08-11-image.webp"
         }
       ]
     },
@@ -370,7 +344,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Tabela comparativa das bases",
-          "imagem": "https://picsum.photos/seed/informatica30/800/400"
+          "imagem": "https://thumbs.dreamstime.com/b/tabela-de-convers%C3%A3o-hexadecimal-e-bin%C3%A1ria-decimal-bases-hexadecimais-bin%C3%A1rias-decimais-ilustra%C3%A7%C3%A3o-vetorial-eps-248671867.jpg"
         },
         {
           "tipo": "exemplo",
@@ -390,7 +364,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Escada de unidades (b e B)",
-          "imagem": "https://picsum.photos/seed/informatica31/800/400"
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFq1MUF30xQnpIn8O5-EayqLugb8l8E4L-0M-J4IMcQGsl3KjPFm1SHvc&s=10"
         },
         {
           "tipo": "atencao",
@@ -407,11 +381,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "titulo": "Conceitos básicos",
           "texto": "**Arquivo** – unidade lógica de armazenamento de dados.\n**Pasta / Diretório** – local que contém arquivos e subpastas.\n**Subpasta** – pasta dentro de outra.\n**Extensão** – sufixo após o ponto que identifica o tipo do arquivo.\n**Caminho** – localização hierárquica (ex.: `C:\\Users\\Documentos\\relatorio.docx`).\n**Unidade de armazenamento** – letra (C:, D:, etc.) ou montagem no Linux.\n**Nome do arquivo** – identificador; pode conter letras, números e alguns caracteres."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Árvore de diretórios",
-          "imagem": "https://picsum.photos/seed/informatica32/800/400"
-        },
+
         {
           "tipo": "tabela",
           "titulo": "Extensões importantes",
@@ -432,7 +402,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "imagem",
           "titulo": "Ícones de extensões",
-          "imagem": "https://picsum.photos/seed/informatica33/800/400"
+          "imagem": "https://thumbs.dreamstime.com/b/%C3%ADcones-da-extens%C3%A3o-de-arquivo-15224663.jpg"
         }
       ]
     },
@@ -449,11 +419,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "titulo": "Multitarefa e Multiprocessamento",
           "texto": "**Multitarefa:** capacidade do sistema operacional de executar vários processos aparentemente ao mesmo tempo.\n**Multiprocessamento:** uso de múltiplas CPUs/cores para executar processos paralelamente."
         },
-        {
-          "tipo": "imagem",
-          "titulo": "Esquema: programa, processo e threads",
-          "imagem": "https://picsum.photos/seed/informatica34/800/400"
-        },
+
         {
           "tipo": "pegadinha",
           "titulo": "Programa armazenado ≠ processo em execução",
