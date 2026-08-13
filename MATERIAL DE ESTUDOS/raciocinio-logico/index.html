@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#1e293b">
+    <title>Estudos · Raciocínio Lógico</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Estilos -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Overlay para mobile -->
+    <div id="overlay" class="overlay"></div>
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <i class="fas fa-graduation-cap"></i>
+                <span>Estudos</span>
+            </div>
+            <button id="closeSidebarBtn" class="close-sidebar-btn" aria-label="Fechar menu">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+
+        <!-- Campo de pesquisa -->
+        <div class="search-box">
+            <i class="fas fa-search"></i>
+            <input type="text" id="searchInput" placeholder="Pesquisar assunto...">
+        </div>
+
+        <!-- Menu dinâmico -->
+        <nav id="menuNav" class="menu-nav">
+            <!-- gerado via JavaScript -->
+        </nav>
+
+        <div class="sidebar-footer">
+            <span>v2.0</span>
+        </div>
+    </aside>
+
+    <!-- Conteúdo principal -->
+    <main id="mainContent" class="main-content">
+        <header class="main-header">
+            <button id="openSidebarBtn" class="open-sidebar-btn" aria-label="Abrir menu">
+                <i class="fas fa-bars"></i>
+            </button>
+            <h1 id="pageTitle">Início</h1>
+            <div class="header-actions">
+                <!-- espaço para futuras ações -->
+            </div>
+        </header>
+        <section id="contentArea" class="content-area">
+            <!-- O conteúdo das páginas será carregado aqui -->
+        </section>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/content.js"></script>
+    <script src="js/router.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

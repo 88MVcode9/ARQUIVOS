@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5">
+    <title>📚 Raciocínio Lógico — Proposições | Guia Profissional</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Poppins:wght@600;700;800;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://88mvcode9.github.io/ARQUIVOS/ESTILOS/GMA/raciocinio-logico.css">
+</head>
+<body>
+
+<div class="content-wrapper">
+
+    <!-- HERO -->
+    <header class="hero">
+        <div class="hero-badge">📘 Guia Completo de Proposições</div>
+        <h1>Raciocínio Lógico<br>do Zero ao Avançado</h1>
+        <p>Domine todos os conectivos, leis de De Morgan, equivalências, quantificadores e muito mais — com visual interativo e design profissional.</p>
+    </header>
+
+    <!-- SEÇÃO 1: PROPOSIÇÃO -->
+    <section class="section sec-proposicao" id="proposicao">
+        <div class="section-header">
+            <div class="icon-circle">📌</div>
+            <h2>O que é uma proposição?<span class="highlight">Fundamento essencial</span></h2>
+        </div>
+        <div class="card card-accent-cyan">
+            <p>Em Raciocínio Lógico, <strong style="color: var(--cyan)">proposição</strong> é uma frase declarativa que pode ser classificada como <strong style="color: var(--green)">Verdadeira (V)</strong> ou <strong style="color: var(--red)">Falsa (F)</strong>.</p>
+            <div class="quote-block" style="border-left-color: var(--cyan); background: rgba(34,211,238,0.06);">
+                "Uma proposição precisa ter um valor lógico: verdadeiro ou falso."
+                <span class="quote-author">— Ponto mais importante</span>
+            </div>
+        </div>
+
+        <div class="card card-accent-cyan">
+            <h3>✅ Exemplo 1</h3>
+            <div class="example-box">
+                <div class="example-label">Frase analisada</div>
+                <div class="example-text">"O Brasil fica na América do Sul."</div>
+                <div class="example-result res-V">V → Verdadeiro</div>
+            </div>
+            <p style="margin-top: 10px;">Passo a passo: É uma frase → é uma afirmação → podemos verificar → ela é <strong style="color: var(--green)">verdadeira</strong>.</p>
+        </div>
+
+        <div class="card card-accent-cyan">
+            <h3>❌ Exemplo 2</h3>
+            <div class="example-box">
+                <div class="example-label">Frase analisada</div>
+                <div class="example-text">"2 + 2 = 5."</div>
+                <div class="example-result res-F">F → Falso</div>
+            </div>
+            <p style="margin-top: 10px;">Passo a passo: É uma frase → é uma afirmação → podemos determinar o valor lógico → ela é <strong style="color: var(--red)">falsa</strong>.</p>
+            <div class="alert-box" style="margin-top: 14px;">
+                <span class="alert-icon">⚠️</span>
+                <span class="alert-text"><strong>Perceba:</strong> uma proposição não precisa ser verdadeira. Ela pode ser falsa e continuar sendo uma proposição!</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 2: NÃO É PROPOSIÇÃO -->
+    <section class="section sec-nao-proposicao" id="nao-proposicao">
+        <div class="section-header">
+            <div class="icon-circle">🚫</div>
+            <h2>O que NÃO é proposição?<span class="highlight">Cuidado com as pegadinhas</span></h2>
+        </div>
+
+        <div class="card card-accent-red">
+            <h3>❓ Perguntas</h3>
+            <p>Exemplo: <em>"Qual é o seu nome?"</em> ou <em>"Você estudou hoje?"</em></p>
+            <p>Não faz sentido dizer que uma pergunta é verdadeira ou falsa. Portanto, <strong style="color: var(--red)">não é proposição</strong>.</p>
+        </div>
+
+        <div class="card card-accent-red">
+            <h3>❗ Frases exclamativas</h3>
+            <p>Exemplo: <em>"Que dia maravilhoso!"</em> ou <em>"Nossa, que prova difícil!"</em></p>
+            <p>Expressam emoção/opinião sem valor lógico objetivo. <strong style="color: var(--red)">Não é proposição</strong>.</p>
+        </div>
+
+        <div class="card card-accent-red">
+            <h3>📢 Ordens ou comandos</h3>
+            <p>Exemplo: <em>"Estude Raciocínio Lógico."</em> ou <em>"Feche a porta."</em></p>
+            <p>São ordens, não afirmações. <strong style="color: var(--red)">Não é proposição</strong>.</p>
+        </div>
+
+        <div class="card card-accent-red">
+            <h3>🔢 Frases com variável (sentença aberta)</h3>
+            <p>Exemplo: <em>"x + 2 = 5."</em></p>
+            <p>Depende do valor de x. Se x = 3 → V. Se x = 10 → F. Enquanto não soubermos o valor de x, <strong style="color: var(--red)">não é proposição</strong>.</p>
+        </div>
+
+        <div class="card" style="border-left: 4px solid var(--yellow);">
+            <h3 style="color: var(--yellow);">📋 Tabela resumo</h3>
+            <div class="truth-table-wrapper">
+                <table class="truth-table summary-table">
+                    <thead>
+                        <tr><th>Frase</th><th>É proposição?</th><th>Motivo</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>"O Brasil fica na América do Sul."</td><td style="color: var(--green); font-weight:700;">✅ Sim</td><td>Pode ser V ou F</td></tr>
+                        <tr><td>"2 + 2 = 5."</td><td style="color: var(--green); font-weight:700;">✅ Sim</td><td>Pode ser V ou F</td></tr>
+                        <tr><td>"Qual é seu nome?"</td><td style="color: var(--red); font-weight:700;">❌ Não</td><td>É pergunta</td></tr>
+                        <tr><td>"Feche a porta."</td><td style="color: var(--red); font-weight:700;">❌ Não</td><td>É ordem</td></tr>
+                        <tr><td>"Que dia lindo!"</td><td style="color: var(--red); font-weight:700;">❌ Não</td><td>É exclamação/opinião</td></tr>
+                        <tr><td>"x + 2 = 5."</td><td style="color: var(--red); font-weight:700;">❌ Não</td><td>Depende de x</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 3: PROPOSIÇÃO SIMPLES E COMPOSTA -->
+    <section class="section sec-simples" id="simples">
+        <div class="section-header">
+            <div class="icon-circle">🔤</div>
+            <h2>Proposição Simples<span class="highlight">Uma ideia apenas</span></h2>
+        </div>
+        <div class="card card-accent-blue">
+            <p>Uma proposição simples apresenta <strong style="color: var(--blue)">apenas uma ideia ou afirmação</strong>. Normalmente representamos por letras minúsculas: <strong>p, q, r, s...</strong></p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">p: "O Brasil é um país." → p = <strong style="color: var(--green)">V</strong></div>
+            </div>
+            <div class="example-box">
+                <div class="example-label">Outro exemplo</div>
+                <div class="example-text">q: "10 é menor que 5." → q = <strong style="color: var(--red)">F</strong></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section sec-composta" id="composta">
+        <div class="section-header">
+            <div class="icon-circle">🧩</div>
+            <h2>Proposição Composta<span class="highlight">União de proposições simples</span></h2>
+        </div>
+        <div class="card card-accent-green">
+            <p>Uma proposição composta é formada pela <strong style="color: var(--green)">união de duas ou mais proposições simples</strong>.</p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">"O Brasil é um país <strong>e</strong> Portugal fica na Europa."</div>
+                <p style="margin-top: 8px; font-size: 0.9rem;">
+                    p: O Brasil é um país.<br>
+                    q: Portugal fica na Europa.<br>
+                    Juntando: <strong style="color: var(--green)">p ∧ q</strong> (proposição composta)
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 4: CONECTIVOS -->
+    <section class="section sec-conectivos" id="conectivos">
+        <div class="section-header">
+            <div class="icon-circle">🔗</div>
+            <h2>Conectivos Lógicos<span class="highlight">Os 5 principais</span></h2>
+        </div>
+
+        <div class="card" style="border-left: 4px solid var(--purple); margin-bottom: 20px;">
+            <h3 style="color: var(--purple);">📊 Tabela de Conectivos</h3>
+            <div class="truth-table-wrapper">
+                <table class="truth-table summary-table">
+                    <thead>
+                        <tr><th>Conectivo</th><th>Símbolo</th><th>Nome</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>não</td><td><strong style="color: var(--pink); font-size:1.2rem;">¬</strong></td><td>Negação</td></tr>
+                        <tr><td>e</td><td><strong style="color: var(--green); font-size:1.2rem;">∧</strong></td><td>Conjunção</td></tr>
+                        <tr><td>ou</td><td><strong style="color: var(--yellow); font-size:1.2rem;">∨</strong></td><td>Disjunção</td></tr>
+                        <tr><td>se... então</td><td><strong style="color: var(--orange); font-size:1.2rem;">→</strong></td><td>Condicional</td></tr>
+                        <tr><td>se e somente se</td><td><strong style="color: var(--purple); font-size:1.2rem;">↔</strong></td><td>Bicondicional</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="connective-grid">
+            <!-- NEGAÇÃO -->
+            <div class="connective-card conn-negacao">
+                <span class="connective-symbol">¬</span>
+                <div class="connective-name">Negação — "NÃO"</div>
+                <div class="connective-rule">Inverte o valor lógico. V → F e F → V.</div>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table">
+                        <thead><tr><th>p</th><th>¬p</th></tr></thead>
+                        <tbody>
+                            <tr><td class="val-V">V</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="result-V">V</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connective-macete"><strong>Macete:</strong> Inverte! V vira F, F vira V.</div>
+            </div>
+
+            <!-- CONJUNÇÃO -->
+            <div class="connective-card conn-conjuncao">
+                <span class="connective-symbol">∧</span>
+                <div class="connective-name">Conjunção — "E"</div>
+                <div class="connective-rule">Só é V se todas forem V. Basta uma F para tudo ser F.</div>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table">
+                        <thead><tr><th>p</th><th>q</th><th>p∧q</th></tr></thead>
+                        <tbody>
+                            <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connective-macete"><strong>Macete:</strong> No "E", basta uma parte ser falsa para tudo ser falso.</div>
+            </div>
+
+            <!-- DISJUNÇÃO -->
+            <div class="connective-card conn-disjuncao">
+                <span class="connective-symbol">∨</span>
+                <div class="connective-name">Disjunção — "OU"</div>
+                <div class="connective-rule">Só é F se todas forem F. Basta uma V para tudo ser V.</div>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table">
+                        <thead><tr><th>p</th><th>q</th><th>p∨q</th></tr></thead>
+                        <tbody>
+                            <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connective-macete"><strong>Macete:</strong> No "OU", basta uma parte ser verdadeira para tudo ser verdadeiro.</div>
+            </div>
+
+            <!-- CONDICIONAL -->
+            <div class="connective-card conn-condicional">
+                <span class="connective-symbol">→</span>
+                <div class="connective-name">Condicional — "SE... ENTÃO"</div>
+                <div class="connective-rule">Só é F quando V → F. Todas as outras são V.</div>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table">
+                        <thead><tr><th>p</th><th>q</th><th>p→q</th></tr></thead>
+                        <tbody>
+                            <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-V">V</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connective-macete"><strong>Macete:</strong> Só dá falso quando "promete e não cumpre" (V → F).</div>
+            </div>
+
+            <!-- BICONDICIONAL -->
+            <div class="connective-card conn-bicondicional">
+                <span class="connective-symbol">↔</span>
+                <div class="connective-name">Bicondicional — "SE E SOMENTE SE"</div>
+                <div class="connective-rule">É V quando os valores são iguais (V↔V ou F↔F).</div>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table">
+                        <thead><tr><th>p</th><th>q</th><th>p↔q</th></tr></thead>
+                        <tbody>
+                            <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                            <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-F">F</td></tr>
+                            <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-V">V</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connective-macete"><strong>Macete:</strong> Bicondicional = valores iguais → V.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 5: XOR -->
+    <section class="section sec-xor" id="xor">
+        <div class="section-header">
+            <div class="icon-circle">⊕</div>
+            <h2>Disjunção Exclusiva (XOR)<span class="highlight">"OU... OU"</span></h2>
+        </div>
+        <div class="card card-accent-red">
+            <h3>Símbolo e Regra</h3>
+            <p>Símbolo: <strong style="color: var(--red); font-size:1.4rem;">⊕</strong> (ou <strong>⊻</strong>)</p>
+            <p><strong>Regra:</strong> Só é Verdadeira se os valores lógicos forem diferentes. Se forem iguais, é Falsa.</p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">"Ou João é paulista ou é mineiro." (Ele não pode ser os dois ao mesmo tempo).</div>
+            </div>
+            <div class="truth-table-wrapper">
+                <table class="truth-table">
+                    <thead><tr><th>p</th><th>q</th><th>p ⊕ q</th></tr></thead>
+                    <tbody>
+                        <tr><td class="val-V">V</td><td class="val-V">V</td><td class="result-F">F</td></tr>
+                        <tr><td class="val-V">V</td><td class="val-F">F</td><td class="result-V">V</td></tr>
+                        <tr><td class="val-F">F</td><td class="val-V">V</td><td class="result-V">V</td></tr>
+                        <tr><td class="val-F">F</td><td class="val-F">F</td><td class="result-F">F</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="connective-macete"><strong>Macete:</strong> Valores diferentes → V; valores iguais → F.</div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 6: LEIS DE MORGAN -->
+    <section class="section sec-morgan" id="morgan">
+        <div class="section-header">
+            <div class="icon-circle">🔄</div>
+            <h2>Leis de De Morgan & Negação de Compostas<span class="highlight">Aprenda a negar tudo</span></h2>
+        </div>
+        <div class="card card-accent-pink">
+            <h3>Negação do "E" (∧)</h3>
+            <div class="formula-box">
+                <span class="formula-label">Fórmula</span>
+                ¬(p ∧ q) ≡ ¬p ∨ ¬q
+            </div>
+            <p>Nega a primeira, troca o "E" por "OU", nega a segunda.</p>
+        </div>
+        <div class="card card-accent-pink">
+            <h3>Negação do "OU" (∨)</h3>
+            <div class="formula-box">
+                <span class="formula-label">Fórmula</span>
+                ¬(p ∨ q) ≡ ¬p ∧ ¬q
+            </div>
+            <p>Nega a primeira, troca o "OU" por "E", nega a segunda.</p>
+        </div>
+        <div class="card card-accent-pink">
+            <h3>Negação do "SE... ENTÃO" (→)</h3>
+            <div class="formula-box">
+                <span class="formula-label">Fórmula</span>
+                ¬(p → q) ≡ p ∧ ¬q
+            </div>
+            <p>Mantém a primeira "E" nega a segunda (Regra do <strong>MAnE</strong>).</p>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 7: EQUIVALÊNCIAS -->
+    <section class="section sec-equivalencias" id="equivalencias">
+        <div class="section-header">
+            <div class="icon-circle">⚖️</div>
+            <h2>Equivalências Lógicas Importantes<span class="highlight">Sempre as mesmas tabelas-verdade</span></h2>
+        </div>
+        <div class="card card-accent-orange">
+            <p>Duas proposições são equivalentes quando possuem exatamente a mesma tabela-verdade. As mais cobradas envolvem o Condicional (p → q):</p>
+            <div class="formula-box">
+                <span class="formula-label">Contrapositiva (inverte e nega tudo)</span>
+                p → q ≡ ¬q → ¬p
+            </div>
+            <div class="formula-box">
+                <span class="formula-label">Regra do "NEyMAr" (Nega a 1ª, troca por OU, Mantém a 2ª)</span>
+                p → q ≡ ¬p ∨ q
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 8: CLASSIFICAÇÃO -->
+    <section class="section sec-classificacao" id="classificacao">
+        <div class="section-header">
+            <div class="icon-circle">🏷️</div>
+            <h2>Classificação das Proposições Compostas<span class="highlight">Tautologia, Contradição e Contingência</span></h2>
+        </div>
+        <div class="card card-accent-cyan">
+            <h3>Tautologia</h3>
+            <p>O resultado é sempre <strong style="color: var(--green)">Verdadeiro</strong>, independentemente do valor das proposições simples.</p>
+        </div>
+        <div class="card card-accent-red">
+            <h3>Contradição</h3>
+            <p>O resultado é sempre <strong style="color: var(--red)">Falso</strong>, independentemente do valor das proposições simples.</p>
+        </div>
+        <div class="card card-accent-yellow">
+            <h3>Contingência</h3>
+            <p>O resultado pode ser <strong>Verdadeiro ou Falso</strong> (depende dos valores de entrada).</p>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 9: NÚMERO DE LINHAS -->
+    <section class="section sec-linhas" id="linhas">
+        <div class="section-header">
+            <div class="icon-circle">🧮</div>
+            <h2>Número de Linhas da Tabela-Verdade<span class="highlight">Fórmula essencial</span></h2>
+        </div>
+        <div class="card card-accent-green">
+            <p>Para saber quantas linhas terá uma tabela-verdade completa, usa-se a fórmula:</p>
+            <div class="formula-box">
+                <span class="formula-label">Fórmula</span>
+                Número de linhas = 2<sup>n</sup>
+            </div>
+            <p>Onde <strong>n</strong> é o número de proposições simples distintas.</p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">Com 3 proposições simples (p, q, r): 2³ = 8 linhas.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 10: QUANTIFICADORES -->
+    <section class="section sec-quantificadores" id="quantificadores">
+        <div class="section-header">
+            <div class="icon-circle">🌐</div>
+            <h2>Diagramas Lógicos & Quantificadores<span class="highlight">Lógica de Predicados</span></h2>
+        </div>
+        <div class="card card-accent-purple">
+            <h3>Quantificadores Universais</h3>
+            <p><strong>Todo</strong>, <strong>Qualquer</strong>, <strong>Nenhum</strong>.</p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">"Todo A é B", "Nenhum A é B".</div>
+            </div>
+        </div>
+        <div class="card card-accent-purple">
+            <h3>Quantificadores Existenciais</h3>
+            <p><strong>Algum</strong>, <strong>Pelo menos um</strong>, <strong>Existe</strong>.</p>
+            <div class="example-box">
+                <div class="example-label">Exemplo</div>
+                <div class="example-text">"Algum A é B", "Existe pelo menos um A que é B".</div>
+            </div>
+        </div>
+        <div class="card card-accent-purple">
+            <h3>Negação de Quantificadores</h3>
+            <div class="alert-box">
+                <span class="alert-icon">⚠️</span>
+                <span class="alert-text"><strong>Cuidado:</strong> A negação de "Todo A é B" não é "Nenhum A é B", mas sim "Pelo menos um A não é B" (Regra do PEA + NÃO).</span>
+            </div>
+            <div class="formula-box">
+                <span class="formula-label">Negação</span>
+                ¬(∀x)(A(x) → B(x)) ≡ (∃x)(A(x) ∧ ¬B(x))
+            </div>
+            <p>Em português: negação de "Todo A é B" é "Algum A não é B".</p>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 11: EXPLORADOR INTERATIVO -->
+    <section class="section sec-explorador" id="explorador">
+        <div class="section-header">
+            <div class="icon-circle">🎮</div>
+            <h2 style="color: var(--purple);">Explorador Interativo<span class="highlight">Clique para testar</span></h2>
+        </div>
+        <div class="interactive-widget">
+            <h3>🔬 Laboratório de Conectivos</h3>
+            <p class="widget-subtitle">Clique em V ou F para definir os valores de p e q. Veja o resultado de cada conectivo em tempo real!</p>
+            <div class="toggle-row">
+                <div class="toggle-group">
+                    <span class="label">p =</span>
+                    <button class="toggle-btn btn-V active" id="pV">V</button>
+                    <button class="toggle-btn btn-F" id="pF">F</button>
+                </div>
+                <div class="toggle-group">
+                    <span class="label">q =</span>
+                    <button class="toggle-btn btn-V active" id="qV">V</button>
+                    <button class="toggle-btn btn-F" id="qF">F</button>
+                </div>
+            </div>
+            <div class="results-grid">
+                <div class="result-item res-negacao">
+                    <span class="result-symbol">¬p</span>
+                    <span class="result-label">Negação</span>
+                    <div class="result-value" id="resNegacao">F</div>
+                </div>
+                <div class="result-item res-conjuncao">
+                    <span class="result-symbol">p ∧ q</span>
+                    <span class="result-label">Conjunção</span>
+                    <div class="result-value" id="resConjuncao">V</div>
+                </div>
+                <div class="result-item res-disjuncao">
+                    <span class="result-symbol">p ∨ q</span>
+                    <span class="result-label">Disjunção</span>
+                    <div class="result-value" id="resDisjuncao">V</div>
+                </div>
+                <div class="result-item res-condicional">
+                    <span class="result-symbol">p → q</span>
+                    <span class="result-label">Condicional</span>
+                    <div class="result-value" id="resCondicional">V</div>
+                </div>
+                <div class="result-item res-bicondicional">
+                    <span class="result-symbol">p ↔ q</span>
+                    <span class="result-label">Bicondicional</span>
+                    <div class="result-value" id="resBicondicional">V</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 12: RESUMO GERAL -->
+    <section class="section sec-resumo" id="resumo">
+        <div class="section-header">
+            <div class="icon-circle">📋</div>
+            <h2>Resumo Geral<span class="highlight">Guarde isto!</span></h2>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--yellow);">
+            <div class="truth-table-wrapper">
+                <table class="truth-table summary-table">
+                    <thead>
+                        <tr><th>Operação</th><th>Símbolo</th><th>Regra principal</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>Negação</strong></td><td><span style="font-size:1.2rem; color: var(--pink);">¬</span></td><td>Inverte o valor</td></tr>
+                        <tr><td><strong>Conjunção</strong></td><td><span style="font-size:1.2rem; color: var(--green);">∧</span></td><td>Só é V se todas forem V</td></tr>
+                        <tr><td><strong>Disjunção</strong></td><td><span style="font-size:1.2rem; color: var(--yellow);">∨</span></td><td>Só é F se todas forem F</td></tr>
+                        <tr><td><strong>Condicional</strong></td><td><span style="font-size:1.2rem; color: var(--orange);">→</span></td><td>Só é F em V → F</td></tr>
+                        <tr><td><strong>Bicondicional</strong></td><td><span style="font-size:1.2rem; color: var(--purple);">↔</span></td><td>É V quando os valores são iguais</td></tr>
+                        <tr><td><strong>XOR</strong></td><td><span style="font-size:1.2rem; color: var(--red);">⊕</span></td><td>É V quando os valores são diferentes</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="alert-box">
+            <span class="alert-icon">💡</span>
+            <span class="alert-text"><strong>Cuidado com a confusão comum:</strong> Na linguagem cotidiana, "ou" pode significar "um ou outro, mas não os dois". Na lógica proposicional, o OU (∨) significa "pelo menos uma é verdadeira". Por isso, V ∨ V = V.</span>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 13: COMO ESTUDAR -->
+    <section class="section sec-estudar" id="estudar">
+        <div class="section-header">
+            <div class="icon-circle">🧠</div>
+            <h2>Como Estudar Proposições<span class="highlight">Método passo a passo</span></h2>
+        </div>
+        <div class="step-list">
+            <div class="step-item">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                    <h4>Identifique as frases</h4>
+                    <p>Exemplo: "João estuda e Maria trabalha." → separe: p: João estuda; q: Maria trabalha.</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                    <h4>Descubra os valores lógicos</h4>
+                    <p>Por exemplo: p = V, q = F.</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                    <h4>Identifique o conectivo</h4>
+                    <p>Temos "e" → conectivo ∧ (conjunção).</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-number">4</div>
+                <div class="step-content">
+                    <h4>Monte a expressão</h4>
+                    <p>p ∧ q.</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-number">5</div>
+                <div class="step-content">
+                    <h4>Aplique a regra</h4>
+                    <p>V ∧ F = F. Resultado: a proposição composta é falsa.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEÇÃO 14: O QUE DOMINAR -->
+    <section class="section sec-dominar" id="dominar">
+        <div class="section-header">
+            <div class="icon-circle">🎯</div>
+            <h2>O que dominar primeiro<span class="highlight">Fundamentos essenciais</span></h2>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--pink);">
+            <p style="margin-bottom: 14px;">Antes de avançar para tabela-verdade, equivalências lógicas, negações compostas, tautologia, contradição e argumentação lógica, <strong style="color: var(--pink)">domine muito bem:</strong></p>
+            <ul class="master-list">
+                <li><span class="num">1</span> O que é proposição</li>
+                <li><span class="num">2</span> O que não é proposição</li>
+                <li><span class="num">3</span> Proposição simples</li>
+                <li><span class="num">4</span> Proposição composta</li>
+                <li><span class="num">5</span> Valor lógico V/F</li>
+                <li><span class="num">6</span> Negação (¬)</li>
+                <li><span class="num">7</span> Conjunção (∧)</li>
+                <li><span class="num">8</span> Disjunção (∨)</li>
+                <li><span class="num">9</span> Condicional (→)</li>
+                <li><span class="num">10</span> Bicondicional (↔)</li>
+                <li><span class="num">11</span> Disjunção Exclusiva (⊕)</li>
+                <li><span class="num">12</span> Leis de De Morgan</li>
+                <li><span class="num">13</span> Equivalências Lógicas</li>
+                <li><span class="num">14</span> Tautologia, Contradição, Contingência</li>
+                <li><span class="num">15</span> Fórmula 2ⁿ</li>
+                <li><span class="num">16</span> Quantificadores e negações</li>
+            </ul>
+        </div>
+        <div class="quote-block" style="border-left-color: var(--pink); background: rgba(244,114,182,0.06);">
+            "A partir disso, a tabela-verdade fica muito mais fácil, porque ela nada mais é do que organizar sistematicamente todas essas possibilidades."
+            <span class="quote-author">— Dica final</span>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>📚 Raciocínio Lógico — Proposições & Conectivos</p>
+        <p style="margin-top: 6px;">Feito com <span class="footer-heart">💜</span> para estudantes que querem dominar lógica de forma visual e interativa.</p>
+        <p style="margin-top: 4px; font-size: 0.7rem;">Estude, pratique e repita!</p>
+    </footer>
+
+</div>
+
+<script>
+    // ===== EXPLORADOR INTERATIVO =====
+    let pValue = true;
+    let qValue = true;
+
+    const pBtnV = document.getElementById('pV');
+    const pBtnF = document.getElementById('pF');
+    const qBtnV = document.getElementById('qV');
+    const qBtnF = document.getElementById('qF');
+
+    const resNegacao = document.getElementById('resNegacao');
+    const resConjuncao = document.getElementById('resConjuncao');
+    const resDisjuncao = document.getElementById('resDisjuncao');
+    const resCondicional = document.getElementById('resCondicional');
+    const resBicondicional = document.getElementById('resBicondicional');
+
+    function updateToggleButtons() {
+        pBtnV.classList.toggle('active', pValue === true);
+        pBtnF.classList.toggle('active', pValue === false);
+        qBtnV.classList.toggle('active', qValue === true);
+        qBtnF.classList.toggle('active', qValue === false);
+    }
+
+    function updateResults() {
+        const notP = !pValue;
+        const conj = pValue && qValue;
+        const disj = pValue || qValue;
+        const cond = !(pValue === true && qValue === false);
+        const bicond = (pValue === qValue);
+
+        setResultValue(resNegacao, notP);
+        setResultValue(resConjuncao, conj);
+        setResultValue(resDisjuncao, disj);
+        setResultValue(resCondicional, cond);
+        setResultValue(resBicondicional, bicond);
+    }
+
+    function setResultValue(element, value) {
+        if (value) {
+            element.textContent = 'V';
+            element.className = 'result-value val-V';
+        } else {
+            element.textContent = 'F';
+            element.className = 'result-value val-F';
+        }
+    }
+
+    pBtnV.addEventListener('click', () => { pValue = true; updateToggleButtons(); updateResults(); });
+    pBtnF.addEventListener('click', () => { pValue = false; updateToggleButtons(); updateResults(); });
+    qBtnV.addEventListener('click', () => { qValue = true; updateToggleButtons(); updateResults(); });
+    qBtnF.addEventListener('click', () => { qValue = false; updateToggleButtons(); updateResults(); });
+
+    updateToggleButtons();
+    updateResults();
+
+    // ===== SE ESTIVER DENTRO DE IFRAME, ADICIONA CLASSE .iframe-mode =====
+    if (window.self !== window.top) {
+        document.body.classList.add('iframe-mode');
+    }
+</script>
+
+</body>
+</html>
