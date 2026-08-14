@@ -1,0 +1,285 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['05.json']=
+{
+  "materia": "Informática",
+  "titulo": "Ambiente Apple",
+  "icone": "🍎",
+  "descricao": "Conceitos fundamentais do ecossistema Apple: macOS, iOS, sistemas operacionais, Finder, Dock, segurança, iCloud, Time Machine, Apple Silicon, Terminal e muito mais. Material completo para concursos.",
+  "topicos": [
+    {
+      "titulo": "Conceitos Fundamentais do Ambiente Apple",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é o macOS",
+          "texto": "O **macOS** é o sistema operacional desenvolvido pela Apple para seus computadores Mac.\n\nResponsabilidades:\n- Gerenciar hardware\n- Executar aplicativos\n- Gerenciar memória e processos\n- Administrar arquivos e dispositivos\n- Controlar recursos de rede\n- Implementar mecanismos de segurança\n- Fornecer a interface gráfica ao usuário\n\n🧠 **Bizu:** Mac = computador | macOS = sistema operacional do Mac"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Logo do macOS",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFricbc9sUluDZtQVcZnyiIiKA0RrMhe7qiqhavC5sCg&s=10"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Sistemas Operacionais da Apple",
+          "texto": "A Apple possui diferentes sistemas operacionais para diferentes dispositivos:\n\n| Sistema  | Dispositivo      |\n|----------|------------------|\n| macOS    | Mac              |\n| iOS      | iPhone           |\n| iPadOS   | iPad             |\n| watchOS  | Apple Watch      |\n| tvOS     | Apple TV         |\n| visionOS | Apple Vision Pro |\n\n⚠️ **Pegadinha:** iOS **não é** o sistema operacional dos Macs. Mac utiliza macOS."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Origem do macOS — Darwin e XNU",
+          "texto": "O macOS possui forte relação histórica com sistemas Unix.\n\n**Darwin** — base tecnológica de código aberto utilizada no desenvolvimento dos sistemas Apple. Combina:\n- Kernel\n- BSD\n- Mach\n- Outros componentes\n\n**XNU** (X is Not Unix) — kernel utilizado pelo macOS. Combina tecnologias de:\n- Mach\n- BSD\n- Componentes desenvolvidos pela Apple\n\n⚠️ **Pegadinha:** O macOS **não utiliza** o kernel Linux. Seu kernel é o **XNU**."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Arquitetura do macOS",
+          "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Diagram_of_Mac_OS_X_architecture.svg/330px-Diagram_of_Mac_OS_X_architecture.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo dos Sistemas",
+          "texto": "🧠 **Decore:**\n\n- **macOS** → XNU (kernel) → Mac\n- **iOS** → iPhone\n- **iPadOS** → iPad\n- **watchOS** → Apple Watch\n- **tvOS** → Apple TV"
+        }
+      ]
+    },
+    {
+      "titulo": "Interface Gráfica do macOS",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Elementos da Interface Gráfica",
+          "texto": "O macOS utiliza uma interface gráfica integrada ao sistema com os seguintes elementos:\n\n- **Mesa** (Desktop) — área principal de trabalho\n- **Dock** — acesso rápido a aplicativos\n- **Barra de Menus** — menus e status do sistema\n- **Finder** — gerenciador de arquivos\n- **Spotlight** — busca integrada\n- **Central de Controle** — configurações rápidas\n- **Central de Notificações** — alertas e widgets\n- **Mission Control** — organização de janelas e espaços\n- **Launchpad** — lançador de aplicativos"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Interface do macOS — Mesa, Dock e Barra de Menus",
+          "imagem": "https://macmagazine.com.br/wp-content/uploads/2020/06/29-bigsur.jpg"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Finder — Gerenciador de Arquivos",
+          "texto": "O **Finder** é o principal gerenciador de arquivos do macOS.\n\n**Funções:**\n- Criar pastas\n- Abrir, copiar, mover e renomear arquivos\n- Excluir e pesquisar\n- Visualizar e organizar arquivos\n\n🧠 **Comparação:** Finder ↔ Explorador de Arquivos do Windows (funcionalmente semelhantes, mas não idênticos)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Finder — Gerenciador de Arquivos do macOS",
+          "imagem": "https://help.apple.com/assets/68AF4A4B86D71687240E66F4/68AF4A565F6C67F4540CDAC2/pt_BR/5fcd78d45dd358e365371ee46e04fef8.png"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Dock — Acesso Rápido",
+          "texto": "O **Dock** é uma área de acesso rápido a aplicativos e arquivos.\n\n**Pode apresentar:**\n- Aplicativos fixados\n- Aplicativos em execução\n- Pastas e arquivos\n- Lixeira\n\n⚠️ **Pegadinha:** Dock ≠ Barra de Tarefas do Windows. São componentes diferentes com funções semelhantes, mas não idênticas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Barra de Menus e Spotlight",
+          "texto": "**Barra de Menus** — fica na parte superior da tela e pode apresentar:\n- Menu Apple\n- Menu do aplicativo ativo\n- Status da rede, som, bateria\n- Spotlight, Central de Controle\n- Data e hora\n\n**Spotlight** — mecanismo de busca integrado. Pesquisa:\n- Arquivos, pastas e aplicativos\n- Mensagens, documentos, contatos\n- Configurações e informações diversas\n- Também realiza cálculos e conversões\n\n🧠 **Bizu:** Spotlight = busca rápida do sistema."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Mission Control e Áreas de Trabalho Virtuais",
+          "texto": "**Mission Control** — fornece uma visão geral das janelas abertas e dos espaços de trabalho.\n\n**Funções:**\n- Organização de janelas\n- Alternância entre espaços\n- Visualização de aplicativos\n- Gerenciamento de desktops virtuais\n\n**Áreas de Trabalho Virtuais** — permitem separar atividades em diferentes espaços.\n\nExemplo:\n- Desktop 1 → Estudos\n- Desktop 2 → Trabalho\n- Desktop 3 → Navegação\n\n🧠 **Bizu:** Mission Control = visualizar e organizar espaços e janelas."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Finder ≠ Explorador de Arquivos",
+          "texto": "**Finder** é o gerenciador de arquivos do macOS.\n\n**Explorador de Arquivos** é o gerenciador de arquivos do Windows.\n\nSão equivalentes funcionais, mas **não são o mesmo software** e pertencem a sistemas operacionais diferentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Atalhos de Teclado",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Atalhos Essenciais",
+          "texto": "Os atalhos do macOS utilizam principalmente a tecla **Command (⌘)**. No Windows, muitos atalhos semelhantes utilizam **Ctrl**.\n\n| Atalho | Função |\n|--------|--------|\n| Command + C | Copiar |\n| Command + V | Colar |\n| Command + X | Recortar |\n| Command + Z | Desfazer |\n| Command + Shift + Z | Refazer |\n| Command + A | Selecionar tudo |\n| Command + F | Pesquisar |\n| Command + S | Salvar |\n| Command + N | Novo |\n| Command + O | Abrir |\n| Command + W | Fechar janela/aba |\n| Command + Q | Encerrar aplicativo |\n| Command + T | Nova aba |\n| Command + Tab | Alternar aplicativos |\n| Command + Space | Spotlight |\n| Command + Option + Esc | Forçar encerramento |\n| Command + Shift + 3 | Capturar tela inteira |\n| Command + Shift + 4 | Capturar área da tela |\n| Command + Shift + 5 | Ferramentas de captura/gravação |"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Command + W vs Command + Q",
+          "texto": "**Command + W** — fecha a **janela/aba** atual (não encerra o aplicativo).\n\n**Command + Q** — **encerra o aplicativo** completamente.\n\n**Não são a mesma coisa.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Forçar Encerramento",
+          "texto": "Quando um aplicativo deixa de responder, utilize:\n\n**Command + Option + Esc**\n\nA janela exibe os aplicativos em execução e permite solicitar o encerramento forçado de um aplicativo problemático.\n\n🧠 **Comparação:**\n- Windows: Ctrl + Shift + Esc → Gerenciador de Tarefas\n- macOS: Command + Option + Esc → Forçar Encerrar Aplicativos"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Capturas de Tela",
+          "texto": "O macOS possui atalhos próprios para captura:\n\n| Atalho | Função |\n|--------|--------|\n| Command + Shift + 3 | Captura a tela inteira |\n| Command + Shift + 4 | Permite selecionar uma região |\n| Command + Shift + 5 | Abre ferramentas adicionais de captura e gravação |"
+        }
+      ]
+    },
+    {
+      "titulo": "Sistema de Arquivos e Estrutura de Diretórios",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "APFS — Apple File System",
+          "texto": "O **APFS** é o sistema de arquivos desenvolvido pela Apple para dispositivos modernos.\n\nFoi projetado especialmente para tecnologias atuais como SSD e memória flash.\n\n**Recursos:**\n- Clonagem\n- Snapshots\n- Criptografia\n- Compartilhamento eficiente de espaço\n- Containers e volumes\n\n⚠️ **Pegadinha:** APFS **não é o kernel** do macOS. É um **sistema de arquivos**.\n\n**HFS+** (Mac OS Extended) foi utilizado amplamente em versões anteriores do macOS."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Diagrama do sistema de arquivos APFS",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfALnoEtO6SDMSO03mWQT9h_tHhAyyIIdKNSK7natBQgY5fmxS2aOP40&s=10"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Estrutura de Diretórios",
+          "texto": "O macOS possui uma estrutura Unix-like.\n\n**Principais diretórios:**\n\n| Diretório | Função |\n|-----------|--------|\n| `/` | Raiz do sistema |\n| `/Users` | Diretórios dos usuários (similar ao `/home` no Linux) |\n| `/Applications` | Aplicativos instalados |\n| `/System` | Componentes fundamentais do sistema |\n| `/Library` | Recursos e arquivos do sistema e aplicativos |\n| `/Users/Shared` | Pasta compartilhada entre usuários |\n| `/Volumes` | Dispositivos montados |\n| `/private` | Dados privados do sistema |\n\n🧠 **Bizu:** `/Users` no macOS possui função semelhante ao `/home` no Linux."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Diretório Pessoal e Lixeira",
+          "texto": "**Diretório pessoal** — normalmente em `/Users/nome`.\n\nNo Terminal, `~` representa o diretório pessoal do usuário atual.\n\n**Lixeira** — arquivos excluídos pela interface gráfica passam pela Lixeira antes da remoção definitiva.\n\n- Permite recuperar arquivos enquanto estiverem nela\n\n⚠️ **Pegadinha:** Enviar para a Lixeira **não é** o mesmo que apagar imediatamente do armazenamento."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Extensões de Arquivos",
+          "texto": "| Extensão | Tipo |\n|----------|------|\n| `.app` | Aplicativo (estrutura de diretórios) |\n| `.pdf` | Documento PDF |\n| `.jpg` / `.png` | Imagem |\n| `.mov` / `.mp3` | Vídeo / Áudio |\n| `.zip` | Arquivo compactado |\n| `.dmg` | Imagem de disco (Disk Image) |\n| `.pkg` | Pacote instalável |\n\n⚠️ **Pegadinha:** Um `.app` não deve ser entendido simplesmente como um executável isolado no mesmo modelo do `.exe` do Windows. Internamente, é uma estrutura de diretórios organizada."
+        }
+      ]
+    },
+    {
+      "titulo": "Aplicativos, Processos e Monitoramento",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Monitor de Atividade",
+          "texto": "O **Monitor de Atividade** é a ferramenta do macOS para acompanhar o funcionamento do sistema.\n\n**Permite observar:**\n- CPU\n- Memória\n- Energia\n- Disco\n- Rede\n- Processos\n\n🧠 **Comparação:** Monitor de Atividade ↔ Gerenciador de Tarefas do Windows (funcionalmente semelhantes, mas não idênticos)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Monitor de Atividade — Processos e Desempenho",
+          "imagem": "https://t.ctcdn.com.br/E0gj0XJQFs994gNaPlvvTlNOkis=/1024x0/smart/filters:format(webp)/i610955.png"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "CPU, Memória e Processos",
+          "texto": "**CPU no Monitor de Atividade** — verifica o uso do processador pelos processos. Ajuda a identificar:\n- Programas consumindo muito processamento\n- Processos travados\n- Carga elevada\n\n**Memória** — apresenta informações relacionadas ao uso de RAM. Ajuda a identificar aplicativos que estejam utilizando recursos excessivos.\n\n🧠 **Bizu:** GUI → Monitor de Atividade | Terminal → ps / top / kill"
+        }
+      ]
+    },
+    {
+      "titulo": "Segurança do macOS",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Mecanismos de Segurança",
+          "texto": "A Apple utiliza várias camadas de segurança:\n\n| Mecanismo | Função |\n|-----------|--------|\n| **Gatekeeper** | Controle de execução de software (verifica assinatura e procedência) |\n| **FileVault** | Criptografia de dados do disco |\n| **SIP** (System Integrity Protection) | Proteção da integridade do sistema |\n| **Secure Boot** | Inicialização segura (hardware) |\n| **Sandboxing** | Isolamento/restrição de recursos |\n| **Assinatura de código** | Verifica autenticidade do software |\n| **Permissões e Privacidade** | Controle de acesso a câmera, microfone, localização, etc. |\n| **Atualizações de segurança** | Correções regulares do sistema |"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Gatekeeper — Controle de Execução",
+          "texto": "**Gatekeeper** é uma tecnologia de segurança do macOS que ajuda a impedir a execução de software malicioso ou não confiável.\n\n**Verifica:**\n- Assinatura do aplicativo\n- Identificação do desenvolvedor\n- Notarização\n- Origem do software\n\n⚠️ **Pegadinha:** Gatekeeper não é simplesmente um antivírus tradicional. É um **mecanismo de segurança para controle da execução de software**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "FileVault e SIP",
+          "texto": "**FileVault** — fornece criptografia para proteger os dados armazenados no Mac. Especialmente importante em casos de roubo ou perda do computador.\n\n🧠 **Bizu:** FileVault = criptografia\n\n**SIP** (System Integrity Protection) — mecanismo de segurança que impede que processos (mesmo com privilégios elevados) alterem determinados componentes críticos do sistema.\n\n⚠️ **Pegadinha:** SIP não é antivírus, não é firewall, não é sistema de arquivos. É uma **camada de proteção da integridade do sistema**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Sandbox e Privacidade",
+          "texto": "**Sandbox** — restringe o acesso de aplicativos a determinados recursos do sistema. O objetivo é limitar o impacto de um aplicativo comprometido ou malicioso.\n\n🧠 **Bizu:** Sandbox = isolamento/restrição\n\n**Privacidade** — o macOS permite controlar o acesso de aplicativos a recursos como:\n- Câmera e microfone\n- Localização\n- Contatos, calendário, fotos\n- Arquivos e acessibilidade\n\nEssas permissões podem ser gerenciadas nas configurações de privacidade e segurança."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Segurança — Mecanismos Diferentes",
+          "texto": "⚠️ **Não confunda:**\n\n- **Gatekeeper** → controle de execução\n- **FileVault** → criptografia\n- **SIP** → integridade do sistema\n- **Sandbox** → isolamento\n- **Firewall** → filtragem de rede (outro mecanismo)\n\nCada um possui uma função específica."
+        }
+      ]
+    },
+    {
+      "titulo": "Usuários, iCloud e Serviços",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Usuários — Administrador e Padrão",
+          "texto": "O macOS permite diferentes tipos de contas:\n\n| Tipo | Descrição |\n|------|-----------|\n| **Administrador** | Privilégios elevados — pode instalar software, alterar configurações e gerenciar usuários |\n| **Usuário padrão** | Atividades cotidianas, com menos privilégios |\n| **Usuário somente compartilhamento** | Acesso restrito a recursos compartilhados |\n| **Usuário convidado** | Acesso temporário (quando habilitado) |\n\n⚠️ **Pegadinha:** Administrador não significa que todas as proteções do sistema deixam de existir. Mecanismos como SIP continuam ativos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Apple Account e iCloud",
+          "texto": "**Apple Account** (antiga Apple ID) — utilizada para acesso a diversos serviços Apple.\n\n**iCloud** — conjunto de serviços de nuvem da Apple:\n- Armazenamento e sincronização\n- Fotos, contatos, calendários, notas\n- Arquivos (iCloud Drive)\n- Senhas (Keychain)\n- Backup de dispositivos compatíveis\n- Find My (localização)\n\n⚠️ **Pegadinha:** iCloud e iCloud Drive não são exatamente a mesma coisa.\n- **iCloud** = ecossistema de serviços em nuvem\n- **iCloud Drive** = parte destinada ao armazenamento e sincronização de arquivos"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Time Machine — Backup",
+          "texto": "**Time Machine** é o sistema de backup integrado ao macOS.\n\n**Permite:**\n- Realizar cópias de segurança automáticas\n- Restaurar arquivos, pastas e configurações\n- Recuperar o sistema em caso de problemas\n\n⚠️ **Pegadinha:** Time Machine não é simplesmente um serviço de sincronização. Está relacionado principalmente a **backup e recuperação**.\n\n🧠 **Bizu:**\n- Time Machine → backup\n- iCloud → sincronização/nuvem"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "AirDrop e Continuidade",
+          "texto": "**AirDrop** — compartilhamento direto entre dispositivos Apple compatíveis próximos.\n\nPode enviar:\n- Fotos, vídeos, documentos\n- Links e contatos\n\n**Continuidade** — integração entre dispositivos Apple:\n- **Handoff** → continuar atividade de um dispositivo em outro\n- **Universal Clipboard** → copiar em um dispositivo, colar em outro\n- Continuidade da câmera\n- Compartilhamento de conexão\n\n⚠️ **Pegadinha:** AirDrop ≠ iCloud. AirDrop é compartilhamento direto (próximo); iCloud é serviços de nuvem e sincronização."
+        }
+      ]
+    },
+    {
+      "titulo": "Apple Silicon e Compatibilidade",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Apple Silicon — Arquitetura ARM",
+          "texto": "A Apple passou a utilizar seus próprios chips baseados em arquitetura ARM para os Macs.\n\n**Família:** M1, M2, M3, M4, M5.\n\n**SoC (System on a Chip)** — integra diversos componentes em um único chip:\n- CPU\n- GPU\n- Neural Engine\n- Controladores\n- Memória e outros componentes\n\n⚠️ **Pegadinha:** Apple Silicon utiliza arquitetura **diferente** dos Macs Intel (x86-64).\n\n**Transição:** Intel x86-64 → Apple Silicon ARM"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Chip Apple Silicon M1",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-cW32K3Yf5atMtnSyvYIQtfGwfLWX8dl-PWw6EYL_iNQOl8G_Xi1K1bj&s=10"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Rosetta 2 — Compatibilidade",
+          "texto": "**Rosetta 2** permite executar muitos aplicativos desenvolvidos originalmente para Macs Intel em Macs com Apple Silicon.\n\nRealiza a tradução necessária para executar código x86-64 na nova arquitetura ARM.\n\n⚠️ **Pegadinha:** Rosetta 2 não é um sistema operacional, nem um processador, nem o kernel. É uma tecnologia de **tradução/compatibilidade**."
+        }
+      ]
+    },
+    {
+      "titulo": "Terminal e Comandos",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Terminal do macOS",
+          "texto": "O macOS possui um Terminal baseado no ambiente Unix.\n\n**Pode ser utilizado para:**\n- Executar comandos\n- Administrar arquivos\n- Diagnosticar problemas\n- Gerenciar processos\n- Automatizar tarefas\n- Administrar rede\n\n**Shells comuns:**\n- **Zsh** (padrão em versões recentes)\n- **Bash**\n\n⚠️ **Pegadinha:** Versões recentes do macOS utilizam **zsh** como Shell padrão."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Comandos Essenciais do Terminal",
+          "texto": "| Comando | Função |\n|---------|--------|\n| `pwd` | Diretório atual |\n| `ls` | Lista arquivos |\n| `cd` | Muda diretório |\n| `mkdir` | Cria diretório |\n| `touch` | Cria arquivo |\n| `cp` | Copia |\n| `mv` | Move/renomeia |\n| `rm` | Remove |\n| `cat` | Exibe arquivo |\n| `less` | Visualiza arquivo |\n| `grep` | Pesquisa texto |\n| `find` | Localiza arquivos |\n| `ps` | Lista processos |\n| `kill` | Envia sinal |\n| `top` | Monitora processos |\n| `df` | Espaço dos sistemas de arquivos |\n| `du` | Espaço ocupado |\n| `chmod` | Permissões |\n| `chown` | Proprietário |\n| `man` | Manual |\n\n🧠 **Bizu:** O Terminal do macOS utiliza muitos dos mesmos comandos Unix/Linux."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Permissões no macOS",
+          "texto": "Assim como em sistemas Unix, arquivos possuem permissões:\n\n| Permissão | Valor | Significado |\n|-----------|------:|-------------|\n| `r` | 4 | Leitura |\n| `w` | 2 | Escrita |\n| `x` | 1 | Execução |\n\n**Exemplo:**\n- `rwx` = 7\n- `rw-` = 6\n- `r-x` = 5\n\n**Comando `chmod`** — altera permissões.\n\nExemplo:\n```bash\nchmod 755 arquivo\n```\n- Proprietário → rwx (7)\n- Grupo → r-x (5)\n- Outros → r-x (5)"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Rede no macOS",
+          "texto": "O macOS possui várias ferramentas Unix para diagnóstico de rede:\n\n| Comando | Função |\n|---------|--------|\n| `ping` | Teste de conectividade |\n| `ifconfig` | Configuração de interfaces |\n| `networksetup` | Configuração de rede (ferramenta Apple) |\n| `netstat` | Estatísticas de rede |\n| `route` | Tabela de roteamento |\n| `scutil` | Configurações do sistema |\n| `dig` / `nslookup` | Consultas DNS |\n| `curl` | Requisições HTTP |\n| `ssh` | Acesso remoto seguro |\n\n⚠️ **Atenção:** Em ambientes Apple modernos, algumas ferramentas tradicionais Unix podem possuir diferenças em relação ao Linux."
+        }
+      ]
+    },
+    {
+      "titulo": "Resumo e Pegadinhas para Prova",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "RESUMÃO — Ambiente Apple",
+          "texto": "🍎 **Apple**\n\n→ **macOS** = sistema operacional dos Macs\n→ **XNU** = kernel do macOS\n→ **Darwin** = base tecnológica Unix-like\n→ **Finder** = gerenciamento de arquivos\n→ **Dock** = acesso rápido a aplicativos\n→ **Spotlight** = pesquisa\n→ **Mission Control** = organização de janelas e espaços\n→ **Monitor de Atividade** = processos e desempenho\n→ **APFS** = sistema de arquivos\n→ **FileVault** = criptografia\n→ **Gatekeeper** = segurança de execução\n→ **SIP** = proteção da integridade do sistema\n→ **Sandbox** = isolamento/restrição\n→ **Time Machine** = backup\n→ **iCloud** = serviços de nuvem\n→ **iCloud Drive** = arquivos sincronizados\n→ **AirDrop** = compartilhamento próximo\n→ **Handoff** = continuidade entre dispositivos\n→ **Apple Silicon** = chips Apple\n→ **Rosetta 2** = compatibilidade com Intel\n→ **Terminal** = linha de comando\n→ **Zsh** = Shell padrão moderno\n→ **Command** = principal tecla de atalhos\n→ **App Store** = loja de aplicativos\n→ **Swift** = linguagem de programação\n→ **Apple Intelligence** = recursos de IA"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "20 Pegadinhas Clássicas",
+          "texto": "1. **macOS não é iOS.**\n2. **Mac não é sistema operacional** — Mac é a linha de computadores.\n3. **XNU não é Linux** — é o kernel do macOS.\n4. **Finder não é exatamente o Explorador de Arquivos** — são equivalentes funcionais, mas não idênticos.\n5. **Dock não é Barra de Tarefas.**\n6. **Spotlight não é apenas um navegador** — é uma ferramenta de pesquisa integrada.\n7. **Time Machine não é apenas sincronização** — é principalmente backup e recuperação.\n8. **iCloud não é apenas armazenamento** — é um conjunto de serviços de nuvem.\n9. **Gatekeeper não é simplesmente antivírus** — é um mecanismo de segurança.\n10. **FileVault não é firewall** — é criptografia.\n11. **SIP não é antivírus** — é proteção da integridade do sistema.\n12. **Rosetta 2 não é emulador de sistema operacional** — é tecnologia de tradução para compatibilidade.\n13. **APFS é sistema de arquivos** — não é kernel.\n14. **Zsh é Shell** — não é sistema operacional.\n15. **Swift é linguagem de programação** — não é sistema operacional.\n16. **AirDrop não é iCloud.**\n17. **Administrador não significa ausência de mecanismos de segurança.**\n18. **Command + W não é igual a Command + Q.**\n19. **Command + Option + Esc é usado para forçar encerramento de aplicativos.**\n20. **Apple Silicon utiliza arquitetura diferente dos Macs Intel.**"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "macOS vs Windows — Comparações",
+          "texto": "| macOS | Windows |\n|-------|---------|\n| Finder | Explorador de Arquivos |\n| Dock | Barra de Tarefas |\n| Command | Ctrl (em muitos atalhos) |\n| Spotlight | Pesquisa do Windows |\n| Monitor de Atividade | Gerenciador de Tarefas |\n| Time Machine | Histórico/backup do Windows |\n| APFS | NTFS |\n| `.app` | `.exe` (em muitos casos) |\n| `.dmg` | Instaladores/imagens próprias |\n| XNU | Windows NT |\n| Terminal | Prompt/PowerShell/Terminal |\n\n⚠️ **Atenção:** As comparações são úteis para prova, mas **não significam que os componentes sejam tecnicamente idênticos**."
+        }
+      ]
+    }
+  ]
+}
+;

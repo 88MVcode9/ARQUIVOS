@@ -1,0 +1,335 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['06.json']=
+{
+  "materia": "Informática",
+  "titulo": "Ambiente Linux",
+  "icone": "🐧",
+  "descricao": "Conceitos fundamentais do Linux: kernel, distribuições, sistema de arquivos, permissões, processos, comandos, gerenciamento de pacotes, redes e segurança. Material completo para concursos.",
+  "topicos": [
+    {
+      "titulo": "Conceitos Fundamentais do Linux",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Linux",
+          "texto": "Linux é o nome do **kernel** (núcleo) desenvolvido por Linus Torvalds. Uma distribuição Linux reúne: **Kernel + bibliotecas + ferramentas + aplicativos + gerenciador de pacotes + interface gráfica**.\n\nO kernel é o núcleo do sistema operacional, responsável por intermediar a comunicação entre programas e hardware.\n\n**Linux ≠ Ubuntu** — Ubuntu é uma distribuição, não o sistema em si."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mascote Tux — Símbolo do Linux",
+          "imagem": "https://uploads.sempreupdate.com.br/2025/07/por-que-o-pinguim-e-o-mascote-do-linux.webp"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Kernel Linux",
+          "texto": "O **kernel** é a parte central do sistema operacional. Administra recursos fundamentais:\n\n- Processador (CPU)\n- Memória (RAM)\n- Processos\n- Dispositivos (drivers)\n- Armazenamento\n- Rede\n- Sistema de arquivos\n- Chamadas de sistema (system calls)\n\nO usuário não interage diretamente com o kernel — a comunicação ocorre via programas, bibliotecas e Shell."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Arquitetura simplificada do Linux",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu4Ca_mBtGIhnS2GkKEg-ZJSadXJqrdRdnbrf5f_95w&s=10"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Distribuições Linux",
+          "texto": "Uma distribuição Linux é um conjunto de softwares construído ao redor do kernel.\n\n**Principais distribuições:**\n\n| Distribuição | Característica |\n|--------------|----------------|\n| Ubuntu       | Baseada no Debian, muito utilizada em desktops e servidores |\n| Debian       | Conhecida pela estabilidade |\n| Fedora       | Tecnologias recentes, ecossistema Red Hat |\n| RHEL         | Foco empresarial |\n| Linux Mint   | Facilidade de uso |\n| Arch Linux   | Personalização e abordagem minimalista |\n| openSUSE     | Administração e diferentes edições |\n| Kali Linux   | Segurança e testes de invasão |\n| Rocky Linux  | Empresarial, compatível com RHEL |"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico para Distribuições",
+          "texto": "**Ubuntu** = Debian + facilidade\n**Fedora** = Red Hat + tecnologias novas\n**Arch** = minimalista + personalização\n**Kali** = segurança + testes"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Software Livre e Código Aberto",
+          "texto": "O Linux está fortemente associado ao conceito de **software livre** e **código aberto**.\n\nO código-fonte do kernel é público e seu desenvolvimento é colaborativo. O kernel é distribuído sob a **GPLv2**.\n\n⚠️ **Atenção:** Software livre não significa necessariamente \"gratuito\" — o conceito está relacionado às **liberdades de uso, estudo, modificação e distribuição**."
+        }
+      ]
+    },
+    {
+      "titulo": "Interface Gráfica, Terminal e Shell",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Interface Gráfica — Ambientes Desktop",
+          "texto": "Linux não possui uma única interface gráfica. O usuário pode escolher diferentes ambientes:\n\n| Ambiente   | Característica |\n|------------|----------------|\n| GNOME      | Moderno e simples |\n| KDE Plasma | Altamente personalizável |\n| XFCE       | Leve |\n| Cinnamon   | Interface tradicional |\n| MATE       | Tradicional e leve |\n| LXQt       | Leve e baseado em Qt |\n\n**GNOME não é uma distribuição** — é um ambiente desktop."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Exemplo de ambiente desktop GNOME",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcA0nrxs96q6v2A0TO3CoYnX7ShsgPNTmrbfIA47VmB7AJdRDhUFIyaIo&s=10"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "X11 e Wayland — Protocolos Gráficos",
+          "texto": "**X11** é a tecnologia tradicional para infraestrutura gráfica em sistemas Unix/Linux. O X.Org Server é sua implementação mais conhecida.\n\n**Wayland** é um protocolo moderno para comunicação entre aplicativos gráficos e o compositor. É utilizado por muitos ambientes Linux modernos.\n\n⚠️ Wayland **não é** distribuição, kernel, Shell ou ambiente desktop — é um **protocolo gráfico**."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Terminal e Shell",
+          "texto": "**Terminal** = programa que fornece uma interface para comandos de texto. Exemplos: GNOME Terminal, Konsole, Xfce Terminal.\n\n**Shell** = interpretador de comandos. O mais conhecido é o **Bash** (Bourne Again Shell). Outros: Zsh, Fish, Dash, Ksh.\n\n🧠 **Resumo:**\n- **Terminal** = onde você digita\n- **Shell** = quem interpreta\n- **Kernel** = quem administra os recursos"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Terminal Linux com Shell Bash",
+          "imagem": "https://media.geeksforgeeks.org/wp-content/uploads/20200925115408/bash.png"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Prompt de Comando",
+          "texto": "Quando o terminal está pronto, o Shell apresenta um **prompt**:\n\n`usuario@computador:~$`\n\n- `usuario` → usuário atual\n- `computador` → nome do computador\n- `~` → diretório pessoal\n- `$` → usuário comum (privilégios normais)\n- `#` → superusuário (root) — privilégios elevados"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Shell ≠ Kernel ≠ Terminal",
+          "texto": "**Shell** é o interpretador de comandos (ex: Bash).\n\n**Kernel** é o núcleo do sistema operacional.\n\n**Terminal** é a interface onde o Shell é executado.\n\nSão três conceitos distintos — **não são sinônimos**."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistema de Arquivos do Linux",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Estrutura Hierárquica",
+          "texto": "O sistema de arquivos do Linux possui uma estrutura hierárquica que começa na **raiz** (`/`).\n\nTudo no sistema parte da raiz, que é o ponto inicial da árvore de diretórios.\n\n**Características importantes:**\n- Estrutura hierárquica única\n- Case-sensitive (diferencia maiúsculas/minúsculas)\n- Tudo é arquivo (incluindo dispositivos e processos)"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Árvore do sistema de arquivos Linux",
+          "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA1yVkOMy1z4Qvi-NAb-j1JCmsnUo8xy7zx6_Dkb_Qix7nSHIKCwg3rjwn8PhaO6f7dwktwtY6LJZVRAljLScbXSZv2VU8gM2k3VOicvBS6w-7GARPeJ0DN5Opoozbe8IBjGx7UqT38Tk/s640/hierarquia_linux.png"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Principais Diretórios",
+          "texto": "| Diretório | Função |\n|-----------|--------|\n| `/`       | Raiz do sistema |\n| `/home`   | Diretórios pessoais dos usuários |\n| `/root`   | Diretório pessoal do root |\n| `/etc`    | Arquivos de configuração do sistema |\n| `/var`    | Dados variáveis (logs, caches, filas) |\n| `/tmp`    | Arquivos temporários |\n| `/usr`    | Programas, bibliotecas e dados compartilhados |\n| `/bin`    | Executáveis essenciais |\n| `/sbin`   | Executáveis administrativos |\n| `/boot`   | Arquivos de inicialização (kernel, initrd) |\n| `/dev`    | Arquivos de dispositivos |\n| `/proc`   | Informações virtuais sobre processos e kernel |\n| `/sys`    | Informações sobre kernel e dispositivos |\n| `/run`    | Dados de execução do sistema |\n| `/mnt`    | Ponto tradicional para montagens |\n| `/media`  | Mídias removíveis |\n| `/opt`    | Software adicional |"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico para Diretórios",
+          "texto": "🧠 **Decore assim:**\n\n- `/etc` = **E**special **C**onfigurações\n- `/var` = **V**ariáveis (logs, caches)\n- `/tmp` = **T**emporário\n- `/home` = **H**umanos (usuários)\n- `/boot` = **B**oot (inicialização)\n- `/dev` = **D**ispositivos\n- `/proc` = **P**rocessos\n- `/sys` = **S**istema (kernel/dispositivos)"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "/home, /etc, /var em Detalhe",
+          "texto": "**`/home`** — contém os diretórios pessoais dos usuários comuns. Exemplo: `/home/joao`. O símbolo `~` representa o diretório pessoal do usuário atual.\n\n**`/etc`** — contém arquivos de configuração do sistema. Arquivos importantes:\n- `/etc/passwd` — informações de usuários\n- `/etc/shadow` — credenciais protegidas\n- `/etc/group` — grupos\n- `/etc/hosts` — resolução local de nomes\n- `/etc/fstab` — sistemas de arquivos montados na inicialização\n- `/etc/hostname` — nome do computador\n\n**`/var`** — armazena dados que mudam durante a execução:\n- `/var/log` — logs do sistema e aplicações\n- `/var/cache` — caches\n- `/var/spool` — filas de impressão e e-mail"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "/proc e /sys — Diretórios Virtuais",
+          "texto": "**`/proc`** — sistema de arquivos virtual com informações sobre processos e kernel.\n\n- `/proc/1`, `/proc/2`, `/proc/1234` — cada número representa um **PID** (Process ID).\n- Contém informações de CPU, memória, dispositivos e configurações do kernel.\n\n**`/sys`** — interface virtual para informações e objetos relacionados ao kernel, dispositivos e drivers.\n\n🧠 **Resumo:**\n- `/proc` → processos e informações do kernel\n- `/sys` → dispositivos e estruturas do kernel"
+        }
+      ]
+    },
+    {
+      "titulo": "Comandos Básicos do Linux",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Comandos Essenciais",
+          "texto": "| Comando | Função |\n|---------|--------|\n| `pwd`   | Mostra o diretório atual (Print Working Directory) |\n| `ls`    | Lista arquivos e diretórios |\n| `cd`    | Muda de diretório (Change Directory) |\n| `mkdir` | Cria diretório (Make Directory) |\n| `rmdir` | Remove diretório vazio |\n| `touch` | Cria arquivo vazio ou atualiza timestamp |\n| `cp`    | Copia arquivos |\n| `mv`    | Move ou renomeia arquivos |\n| `rm`    | Remove arquivos |\n| `cat`   | Exibe conteúdo do arquivo |\n| `less`  | Visualiza conteúdo paginado |\n| `head`  | Mostra as primeiras linhas do arquivo |\n| `tail`  | Mostra as últimas linhas do arquivo |\n| `clear` | Limpa o terminal |\n| `history` | Histórico de comandos |\n| `man`   | Manual de comandos |\n| `echo`  | Exibe texto ou variáveis |"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "pwd — Onde estou?",
+          "texto": "`pwd` = **Print Working Directory**\n\nExibe o diretório de trabalho atual.\n\nExemplo:\n```bash\npwd\n/home/usuario\n```\n\n🧠 **Bizu:** `pwd` responde \"Onde estou?\""
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "ls — Listar Arquivos",
+          "texto": "`ls` lista arquivos e diretórios.\n\n**Opções importantes:**\n\n| Opção | Função |\n|-------|--------|\n| `ls -l` | Lista em formato detalhado (permissões, proprietário, tamanho, data) |\n| `ls -a` | Mostra arquivos ocultos (iniciados com `.`) |\n| `ls -la` | Combina as duas opções |\n\n⚠️ Arquivos iniciados por `.` são considerados ocultos. Exemplo: `.bashrc`"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "cd — Navegar entre Diretórios",
+          "texto": "`cd` = **Change Directory**\n\n| Comando | Função |\n|---------|--------|\n| `cd /home` | Vai para `/home` |\n| `cd ..` | Volta ao diretório anterior (subir um nível) |\n| `cd ~` | Vai para o diretório pessoal do usuário |\n| `cd -` | Volta ao diretório anterior utilizado pelo Shell |\n\nExemplo:\n```bash\ncd /etc\ncd ~\n```"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "cp, mv e rm — Copiar, Mover e Remover",
+          "texto": "**`cp`** — Copia arquivos\n```bash\ncp arquivo.txt backup.txt\ncp -r pasta/ destino/  # copia recursivamente (com subdiretórios)\n```\n\n**`mv`** — Move ou renomeia\n```bash\nmv antigo.txt novo.txt   # renomeia\nmv arquivo.txt /home/    # move para outro diretório\n```\n\n**`rm`** — Remove arquivos\n```bash\nrm arquivo.txt\nrm -r pasta/             # remove recursivamente (CUIDADO!)\nrm -f arquivo.txt        # força remoção sem confirmação\n```\n\n🔴 **Atenção:** `rm` remove diretamente, sem enviar para a Lixeira. **Cuidado com `rm -r` e comandos como root.**"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico para Comandos",
+          "texto": "🧠 **Decore:**\n\n- `pwd` = **P**rint **W**orking **D**irectory (onde estou)\n- `ls` = **L**i**s**ta\n- `cd` = **C**hange **D**irectory (vai para)\n- `mkdir` = **M**a**k**e **DIR**ectory (cria pasta)\n- `cp` = **C**o**p**y (copia)\n- `mv` = **M**o**v**e (move/renomeia)\n- `rm` = **R**e**m**ove (remove)"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "rm vs rmdir",
+          "texto": "`rmdir` remove apenas diretórios **vazios**.\n\n`rm -r` remove diretórios e seu conteúdo, **mesmo que não estejam vazios**.\n\n**Cuidado:** `rm -rf` é extremamente perigoso, especialmente quando executado como root."
+        }
+      ]
+    },
+    {
+      "titulo": "Permissões e Usuários no Linux",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Permissões — r, w, x",
+          "texto": "O Linux trabalha com três permissões básicas:\n\n- `r` = read (leitura) → **4**\n- `w` = write (escrita) → **2**\n- `x` = execute (execução) → **1**\n\n**Valores octais:**\n\n| Permissão | Valor | Significado |\n|-----------|------:|-------------|\n| `rwx` | 7 | Leitura, escrita e execução |\n| `rw-` | 6 | Leitura e escrita |\n| `r-x` | 5 | Leitura e execução |\n| `r--` | 4 | Apenas leitura |\n| `---` | 0 | Sem permissões |\n\n**Grupos de permissões:**\n\n`rwx r-x r--`\n\n- Proprietário → `rwx` (7)\n- Grupo → `r-x` (5)\n- Outros → `r--` (4)\n\n**Octal: 754**"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Diagrama de permissões Linux",
+          "imagem": "https://blog.ironlinux.com.br/images/blog-posts/uploads/2022/04/permissions-linux_hue4c26d33c85f2f2ea459ed4a9d49ef42_91703_1920x1080_fit_q100_h2_lanczos_3.webp"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "chmod — Modificar Permissões",
+          "texto": "`chmod` = **Change Mode**\n\nAltera permissões de arquivos e diretórios.\n\n**Sintaxe octal:**\n```bash\nchmod 755 arquivo\n```\nSignifica:\n- Proprietário → 7 → `rwx`\n- Grupo → 5 → `r-x`\n- Outros → 5 → `r-x`\n\n**Sintaxe simbólica:**\n```bash\nchmod u+x arquivo    # adiciona execução para o proprietário\nchmod g-w arquivo    # remove escrita do grupo\nchmod o=r arquivo    # define leitura para outros\n```\n\n⚠️ `chmod 777` = `rwxrwxrwx` — **não é seguro** dar permissão total a todos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "chown — Alterar Proprietário",
+          "texto": "`chown` = **Change Owner**\n\nAltera o proprietário de um arquivo ou diretório.\n\n```bash\nchown usuario arquivo\nchown usuario:grupo arquivo   # altera proprietário e grupo\nchown -R usuario:grupo pasta/ # recursivo\n```\n\n**`chgrp`** — altera apenas o grupo.\n\n🧠 **Bizu:**\n- `chmod` → permissões\n- `chown` → proprietário\n- `chgrp` → grupo"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Usuários — UID, GID e Root",
+          "texto": "O Linux possui um sistema de usuários e grupos.\n\n- **UID** (User ID) — identificador numérico do usuário\n- **GID** (Group ID) — identificador numérico do grupo\n\n**`root`** — superusuário tradicional do Linux.\n- UID **0**\n- Possui privilégios extremamente elevados\n- **Não é apenas \"um administrador comum\"**\n\n**Arquivos importantes:**\n- `/etc/passwd` — informações básicas das contas\n- `/etc/shadow` — credenciais protegidas (senhas)\n- `/etc/group` — informações sobre grupos\n- `/etc/sudoers` — regras de autorização do `sudo`\n\n⚠️ Não confunda `/etc/passwd` com `/etc/shadow` — o shadow armazena informações sensíveis de autenticação."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "sudo — Executar com Privilégios",
+          "texto": "`sudo` permite que um usuário autorizado execute comandos com privilégios elevados.\n\n```bash\nsudo comando\n```\n\nO usuário não precisa permanecer em uma sessão permanente de root.\n\n**Principais diferenças:**\n\n| Comando | Efeito |\n|---------|--------|\n| `sudo comando` | Executa o comando com privilégios de root (temporário) |\n| `sudo -i` | Inicia uma sessão interativa como root |\n| `sudo -u usuario` | Executa como outro usuário |\n\n🧠 **Bizu:** `sudo` = executar com privilégios autorizados (não é uma conta, é um mecanismo)."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "root ≠ sudo",
+          "texto": "**Root** é uma conta de usuário com UID 0, com privilégios ilimitados.\n\n**sudo** é um mecanismo que permite usuários autorizados executarem comandos com privilégios elevados.\n\n**Não são a mesma coisa.** O usuário pode usar `sudo` sem ser root."
+        }
+      ]
+    },
+    {
+      "titulo": "Processos e Gerenciamento",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é um Processo",
+          "texto": "Um **processo** é uma instância de um programa em execução.\n\nCada processo possui um identificador único:\n\n**PID** — Process ID\n\nExemplo: um navegador aberto, um terminal, um servidor web — cada um tem seu próprio PID."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "PID e PPID",
+          "texto": "**PID** — Process ID (identificador do processo).\n\n**PPID** — Parent Process ID (identificador do processo pai).\n\nProcessos formam uma estrutura hierárquica: o processo pai cria processos filhos.\n\n🧠 **Bizu:**\n- PID = quem sou\n- PPID = quem me criou\n\nExemplo: o Shell (bash) é o pai dos comandos executados a partir dele."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Comandos para Processos",
+          "texto": "| Comando | Função |\n|---------|--------|\n| `ps`    | Lista processos em execução |\n| `ps aux` | Lista todos os processos com detalhes |\n| `ps -ef` | Lista todos os processos (formato completo) |\n| `top`   | Monitora processos em tempo real |\n| `htop`  | Monitor interativo (mais amigável que top) |\n| `pgrep` | Localiza processos por nome |\n| `kill`  | Envia um sinal para um processo |\n| `pkill` | Envia sinal usando critérios (nome, etc.) |\n| `jobs`  | Mostra trabalhos do Shell |\n| `fg`    | Traz trabalho para primeiro plano |\n| `bg`    | Executa/continua trabalho em segundo plano |"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "kill — Sinais para Processos",
+          "texto": "O comando `kill` envia **sinais** para processos — não significa necessariamente \"matar\".\n\n**Sinais importantes:**\n\n| Sinal | Número | Efeito |\n|-------|-------:|--------|\n| SIGTERM | 15 | Solicita encerramento gracioso (padrão) |\n| SIGKILL | 9 | Força encerramento imediato (não pode ser bloqueado) |\n| SIGSTOP | 19 | Pausa o processo |\n| SIGCONT | 18 | Continua o processo pausado |\n| SIGHUP | 1 | Recarregar configuração |\n\n```bash\nkill 1234         # SIGTERM para o processo 1234\nkill -9 1234      # SIGKILL (força encerramento)\nkill -HUP 1234    # SIGHUP (recarrega configuração)\n```\n\n🔴 **Pegadinha:** SIGKILL (9) **não pode ser capturado, bloqueado ou ignorado** pelo processo."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Daemons e Processos em Plano de Fundo",
+          "texto": "**Daemon** — processo que funciona em segundo plano para prestar um serviço.\n\nExemplos: servidor SSH, servidor web (Apache/Nginx), serviço de impressão, serviço de rede.\n\n**Processos em primeiro plano (foreground):**\n- O terminal fica associado à execução\n- O usuário aguarda o término\n\n**Processos em segundo plano (background):**\n- O Shell continua recebendo comandos\n- O operador `&` inicia o comando em segundo plano\n\n```bash\ncomando &   # executa em segundo plano\n```"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Mnemônico para Sinais",
+          "texto": "🧠 **Decore os sinais mais cobrados:**\n\n- **SIGTERM (15)** = \"termina por favor\" (padrão, gracioso)\n- **SIGKILL (9)** = \"mata agora\" (forçado, irrecusável)\n- **SIGHUP (1)** = \"recarrega configuração\"\n\nLembre: **9 é forte** — SIGKILL não pode ser ignorado!"
+        }
+      ]
+    },
+    {
+      "titulo": "Systemd e Gerenciamento de Pacotes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Systemd — Inicialização e Serviços",
+          "texto": "O **systemd** é utilizado por muitas distribuições modernas como sistema de inicialização e gerenciamento de serviços.\n\n**Responsabilidades:**\n- Inicialização de serviços\n- Gerenciamento de unidades (services, sockets, timers, etc.)\n- Controle de dependências\n- Gerenciamento de estados\n- Integração com logs (`journald`)\n\nSubstitui o antigo **SysVinit** em muitas distribuições."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "systemctl — Gerenciar Serviços",
+          "texto": "`systemctl` é a principal ferramenta para administrar serviços no systemd.\n\n| Comando | Função |\n|---------|--------|\n| `systemctl status nome` | Verifica o estado do serviço |\n| `systemctl start nome` | Inicia o serviço agora |\n| `systemctl stop nome` | Para o serviço agora |\n| `systemctl restart nome` | Reinicia o serviço |\n| `systemctl reload nome` | Recarrega configuração (sem parar) |\n| `systemctl enable nome` | Habilita inicialização automática no boot |\n| `systemctl disable nome` | Desabilita inicialização automática |\n| `systemctl is-active nome` | Verifica se está ativo |\n| `systemctl is-enabled nome` | Verifica se está habilitado |\n| `systemctl list-units` | Lista todas as unidades |\n\n⚠️ **Pegadinha:** `start` e `enable` **não significam a mesma coisa**.\n- `start` → inicia **agora**\n- `enable` → configura para iniciar **automaticamente** no boot"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "journalctl — Logs do Systemd",
+          "texto": "`journalctl` é utilizado para consultar registros mantidos pelo `systemd-journald`.\n\n```bash\njournalctl              # todos os logs\njournalctl -u serviço   # logs de um serviço específico\njournalctl -f           # segue os logs em tempo real (tail -f)\njounalctl --since \"2024-01-01\"\njournalctl -p err       # apenas mensagens de erro\n```\n\n🧠 **Bizu:**\n- `systemctl` → serviços\n- `journalctl` → logs"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Gerenciamento de Pacotes",
+          "texto": "Linux utiliza sistemas de gerenciamento de pacotes para instalar, remover, atualizar e resolver dependências.\n\n**Principais sistemas:**\n\n| Distribuição | Gerenciador | Comando de Instalação |\n|--------------|-------------|----------------------|\n| Debian, Ubuntu, Mint | APT | `apt install pacote` |\n| Fedora, RHEL | DNF | `dnf install pacote` |\n| Arch Linux | Pacman | `pacman -S pacote` |\n| openSUSE | Zypper | `zypper install pacote` |\n\n**Comandos APT (Debian/Ubuntu):**\n```bash\napt update       # atualiza lista de repositórios\napt install      # instala pacote\napt remove       # remove pacote\napt upgrade      # atualiza todos os pacotes\napt search       # busca pacotes\n```\n\n🧠 **Bizu:**\n- Debian/Ubuntu → **APT**\n- Fedora/RHEL → **DNF**\n- Arch → **Pacman**"
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Repositórios e Gerenciadores de Pacotes",
+          "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1m40JuRf4GgRnLvo8ciJ8YgqGiWfhacpyzH3EQIZgjzsklueh2c7LPUu0MAiSRlgoXwRV7tC16MHCt7wKCgEXQ3EwcBOmhzS8hXxGhN1Vb3ay6kztPiDw_WpnD2jmzJxRb5rj1Zkrws/s1600/Captura+de+tela_2017-02-06_14-36-43.png"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "APT ≠ DNF ≠ Pacman",
+          "texto": "Cada distribuição utiliza seu próprio gerenciador de pacotes.\n\n**APT** — Debian/Ubuntu\n**DNF** — Fedora/RHEL\n**Pacman** — Arch Linux\n\n**Não são intercambiáveis.** Um comando APT não funciona no Fedora e vice-versa."
+        }
+      ]
+    },
+    {
+      "titulo": "Ferramentas Avançadas e Redes",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Pipes — Conectando Comandos",
+          "texto": "O símbolo `|` (pipe) conecta a saída de um comando à entrada de outro.\n\n**Comando A → saída → Comando B**\n\n```bash\nls -la | grep .txt     # lista arquivos e filtra por .txt\nps aux | grep firefox  # lista processos e filtra por firefox\ncat arquivo.txt | less # exibe conteúdo paginado\n```\n\n🧠 **Bizu:** Pipe = \"pegue a saída daqui e mande para lá\"."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Redirecionamento de Entrada e Saída",
+          "texto": "O Shell permite redirecionar entradas e saídas.\n\n| Operador | Função |\n|----------|--------|\n| `>` | Redireciona saída para um arquivo (sobrescreve) |\n| `>>` | Redireciona saída para um arquivo (acrescenta) |\n| `<` | Utiliza um arquivo como entrada |\n| `2>` | Redireciona saída de erro padrão |\n| `2>&1` | Redireciona erro para a saída padrão |\n| `&>` | Redireciona saída e erro para o mesmo arquivo |\n\n```bash\necho \"texto\" > arquivo.txt   # sobrescreve\necho \"mais texto\" >> arquivo.txt  # acrescenta\ngrep \"erro\" < arquivo.txt    # usa arquivo como entrada\ncomando 2> erros.txt         # redireciona erros\n```\n\n⚠️ **Pegadinha:** `>` sobrescreve; `>>` acrescenta — **não confunda!**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "grep — Pesquisar Padrões de Texto",
+          "texto": "`grep` (Global Regular Expression Print) pesquisa padrões em textos.\n\n```bash\ngrep palavra arquivo.txt\ngrep -i palavra arquivo.txt   # ignora maiúsculas/minúsculas\ngrep -r palavra pasta/        # pesquisa recursivamente\ngrep -v palavra arquivo.txt   # mostra linhas que NÃO contêm\ngrep -n palavra arquivo.txt   # mostra número das linhas\n```\n\n🧠 **Bizu:** `grep` = procurar texto dentro de arquivos."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "find — Localizar Arquivos",
+          "texto": "`find` localiza arquivos e diretórios por critérios.\n\n```bash\nfind / -name \"arquivo.txt\"          # por nome\nfind /home -type f -size +10M       # arquivos > 10MB\nfind /etc -type d -name \"*.d\"       # diretórios terminados em .d\nfind . -perm 644                    # por permissões\nfind . -mtime -7                    # modificados nos últimos 7 dias\nfind . -exec comando {} \\;          # executa comando para cada arquivo\n```\n\n⚠️ **Pegadinha:**\n- `grep` pesquisa **conteúdo** (texto dentro dos arquivos)\n- `find` pesquisa **arquivos e diretórios** (nomes, metadados)"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "tar, gzip e Compactação",
+          "texto": "**`tar`** — empacotamento (arquiva vários arquivos em um só).\n\n**`gzip`** — compressão (reduz o tamanho do arquivo).\n\n**.tar.gz** = empacotamento + compressão.\n\n```bash\ntar -czf arquivo.tar.gz pasta/   # empacota e comprime\ntar -xzf arquivo.tar.gz          # desempacota e descomprime\ntar -cf arquivo.tar pasta/       # apenas empacota\ntar -xf arquivo.tar              # apenas desempacota\n```\n\n**Opções:**\n- `c` — create (criar)\n- `x` — extract (extrair)\n- `z` — gzip (compactar/descompactar)\n- `f` — file (nome do arquivo)\n- `v` — verbose (mostrar progresso)\n\n⚠️ **Pegadinha:** `tar` e `gzip` não são a mesma coisa.\n- `tar` = empacotamento\n- `gzip` = compressão"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Redes — Comandos Essenciais",
+          "texto": "| Comando | Função |\n|---------|--------|\n| `ip addr` | Exibe endereços e interfaces de rede |\n| `ip link` | Exibe informações das interfaces |\n| `ip route` | Exibe a tabela de roteamento |\n| `ping` | Testa conectividade (ICMP) |\n| `ss` | Exibe conexões e sockets |\n| `curl` | Faz requisições HTTP/HTTPS |\n| `wget` | Baixa arquivos |\n| `dig` | Consultas DNS |\n| `nslookup` | Consultas DNS |\n| `traceroute` | Analisa caminho de rede |\n\n**`ip`** é a ferramenta moderna (substitui `ifconfig` e `route`).\n\n🧠 **Bizu:**\n- `ip addr` → endereço\n- `ip link` → interface\n- `ip route` → rota"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "SSH — Acesso Remoto Seguro",
+          "texto": "**SSH** (Secure Shell) — utilizado para acesso remoto seguro a sistemas.\n\n```bash\nssh usuario@servidor\nssh -p 2222 usuario@servidor   # porta personalizada\nssh -i chave.pem usuario@servidor  # autenticação por chave\n```\n\n**Chaves SSH:**\n- **Chave pública** — pode ser compartilhada (colocada no servidor)\n- **Chave privada** — deve permanecer protegida (nunca compartilhar)\n\n🔴 **Atenção:** Nunca compartilhe sua chave privada."
+        }
+      ]
+    },
+    {
+      "titulo": "Resumo e Pegadinhas para Prova",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "RESUMÃO — Ambiente Linux",
+          "texto": "🐧 **Linux** → Kernel + ferramentas + aplicativos = sistema completo\n\n🧠 **Kernel** → núcleo do sistema operacional\n\n💻 **Shell** → interpretador de comandos (Bash, Zsh, Fish)\n\n🖥️ **Terminal** → interface para usar o Shell\n\n👑 **Root** → superusuário (UID 0)\n\n🔑 **sudo** → executar com privilégios autorizados\n\n📁 **`/`** → raiz do sistema de arquivos\n\n📂 **`/home`** → diretórios dos usuários\n\n⚙️ **`/etc`** → configurações do sistema\n\n📊 **`/var`** → dados variáveis e logs\n\n📋 **`/tmp`** → arquivos temporários\n\n🔧 **`/boot`** → inicialização do sistema\n\n📟 **`/dev`** → dispositivos\n\n📈 **`/proc`** → processos e informações do kernel\n\n🔌 **`/sys`** → kernel e dispositivos\n\n🔒 **Permissões:** r=4, w=2, x=1\n\n🔄 **chmod** → permissões | **chown** → proprietário\n\n📊 **Processos:** PID (quem sou) e PPID (quem me criou)\n\n🛑 **kill** → envia sinal (SIGTERM=15, SIGKILL=9)\n\n⚙️ **systemctl** → serviços | **journalctl** → logs\n\n📦 **Pacotes:** APT (Debian/Ubuntu), DNF (Fedora/RHEL), Pacman (Arch)\n\n🔍 **grep** → pesquisa texto | **find** → procura arquivos\n\n📊 **df** → espaço dos sistemas de arquivos | **du** → espaço ocupado\n\n🧠 **free** → memória\n\n🌐 **ip** → rede | **ssh** → acesso remoto seguro\n\n📦 **tar** → empacotamento | **gzip** → compressão\n\n⏰ **cron** → agendamento de tarefas\n\n🔄 **GRUB** → bootloader\n\n🖥️ **Wayland** → protocolo gráfico\n\n🖼️ **GNOME / KDE Plasma** → ambientes desktop\n\n🔐 **SELinux / AppArmor** → controle de acesso adicional\n\n📦 **Namespaces** → isolamento | **cgroups** → controle de recursos\n\n🐳 **Docker/Podman** → containers"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "20 Pegadinhas que Mais Caem em Concursos",
+          "texto": "1. **Linux não é sinônimo de Ubuntu.**\n2. **Ubuntu é uma distribuição Linux.**\n3. **Kernel não é Shell.**\n4. **Shell não é terminal.**\n5. **GNOME não é distribuição.**\n6. **KDE Plasma não é kernel.**\n7. **Wayland não é distribuição.**\n8. **GRUB não é kernel — é bootloader.**\n9. **root não é \"um administrador comum\" — possui privilégios muito elevados.**\n10. **sudo não torna toda a sessão root — apenas executa um comando com privilégios.**\n11. **r = 4, w = 2, x = 1** (decore os valores).\n12. **chmod altera permissões; chown altera proprietário.**\n13. **`>` sobrescreve; `>>` acrescenta.**\n14. **grep pesquisa texto (conteúdo); find localiza arquivos (nomes/metadados).**\n15. **start (systemctl) inicia agora; enable configura inicialização automática.**\n16. **SIGTERM (15) é gracioso; SIGKILL (9) é forçado e não pode ser ignorado.**\n17. **tar é empacotamento; gzip é compressão.**\n18. **/etc/passwd tem informações de usuários; /etc/shadow tem credenciais protegidas.**\n19. **Apt (Debian/Ubuntu), Dnf (Fedora/RHEL), Pacman (Arch) — não são intercambiáveis.**\n20. **`/proc` é virtual (processos/kernel); `/sys` é virtual (dispositivos/kernel).**"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Comandos que Mais Caem",
+          "texto": "| Comando | Decore |\n|---------|--------|\n| `pwd` | Diretório atual |\n| `ls` | Lista |\n| `cd` | Muda diretório |\n| `mkdir` | Cria diretório |\n| `cp` | Copia |\n| `mv` | Move/renomeia |\n| `rm` | Remove |\n| `cat` | Exibe conteúdo |\n| `grep` | Pesquisa texto |\n| `find` | Procura arquivos |\n| `chmod` | Permissões |\n| `chown` | Proprietário |\n| `ps` | Processos |\n| `kill` | Sinal para processo |\n| `top` | Processos/recursos |\n| `df` | Espaço do filesystem |\n| `du` | Espaço de arquivos/diretórios |\n| `free` | Memória |\n| `mount` | Monta filesystem |\n| `umount` | Desmonta |\n| `ip` | Rede |\n| `ssh` | Acesso remoto |\n| `tar` | Empacotamento |\n| `sudo` | Privilégio autorizado |\n| `systemctl` | Serviços |\n| `journalctl` | Logs |\n| `man` | Manual |"
+        }
+      ]
+    }
+  ]
+}
+;
