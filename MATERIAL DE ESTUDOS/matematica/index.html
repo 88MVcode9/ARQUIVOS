@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Matemática</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./shared/css/style.css" />
+
+</head>
+<body>
+    <div class="bg-mesh"></div>
+    <div class="bg-grid"></div>
+    <div class="bg-dots"></div>
+
+    <div class="container">
+        <!-- Hero -->
+        <header class="hero">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="pulse-dot"></span>
+                    <span>2026</span>
+                </div>
+                <h1>📚 Matemática</h1>
+                <p class="hero-subtitle">Painel interativo e otimizado para seus estudos. Clique em qualquer card para abrir o material em tela cheia com navegação página a página.</p>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <div class="stat-value" id="totalCount">14</div>
+                        <div class="stat-label">Materiais</div>
+                    </div>
+                    <span class="stat-divider"></span>
+                    <div class="stat-item">
+                        <div class="stat-value" id="catCount">10</div>
+                        <div class="stat-label">Categorias</div>
+                    </div>
+                    <span class="stat-divider"></span>
+                    <div class="stat-item">
+                        <div class="stat-value">PMAL</div>
+                        <div class="stat-label">Foco</div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Category Tags -->
+        <section class="category-section" aria-label="Filtro por categorias">
+            <div class="category-tags" id="tagContainer">
+                <button class="tag-btn active" data-category="todos"><span class="tag-icon">📚</span> Todos</button>
+            </div>
+        </section>
+
+        <!-- Search -->
+        <section class="search-section" aria-label="Busca">
+            <div class="search-bar">
+                <span class="search-icon" aria-hidden="true">🔍</span>
+                <input type="text" id="filterInput" placeholder="Buscar: razão, matrizes, frações, complexos..." autocomplete="off" aria-label="Buscar materiais">
+                <button class="search-clear" id="searchClear" aria-label="Limpar busca" title="Limpar">✕</button>
+            </div>
+            <p class="search-hint">Pressione <kbd>Esc</kbd> para limpar a busca · <kbd>Enter</kbd> para focar</p>
+        </section>
+
+        <!-- Results info -->
+        <p class="results-info" id="resultsInfo">Exibindo <strong id="resultsCount">14</strong> materiais</p>
+
+        <!-- Grid -->
+        <main id="pdfGrid" class="grid" aria-label="Lista de materiais"></main>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="pdfModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <span class="modal-title-icon">📘</span>
+                    <span class="modal-title" id="modalTitle">Visualizando Documento</span>
+                </div>
+                <div class="modal-actions">
+                    <span class="page-indicator" id="pageIndicator">—</span>
+                    <button class="page-nav-btn" id="prevPageBtn" disabled title="Página anterior">◀ Ant</button>
+                    <button class="page-nav-btn" id="nextPageBtn" disabled title="Próxima página">Próx ▶</button>
+                    <button class="modal-btn close-modal" id="closeModal" title="Fechar (Esc)" aria-label="Fechar">✕</button>
+                </div>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <div class="pdf-loading" id="pdfLoading">
+                    <div class="pdf-loading-spinner"></div>
+                    <div class="pdf-loading-text">Carregando conteúdo...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<footer class="site-footer">
+
+  <a href="./shared/QUESTÕES.html"
+     class="loader-link"
+     aria-label="Abrir Banco de Questões">
+
+    <div class="loader">
+
+      <svg width="100" height="100" viewBox="0 0 100 100" class="loader-svg">
+
+        <defs>
+          <mask id="loader-mask">
+
+            <!-- Fundo da máscara -->
+            <rect width="100" height="100" fill="black" />
+
+            <!-- Polígonos animados -->
+            <polygon
+              points="25,25 75,25 50,75"
+              fill="white"
+              class="loader-polygon loader-polygon-1" />
+
+            <polygon
+              points="50,25 75,75 25,75"
+              fill="white"
+              class="loader-polygon loader-polygon-2" />
+
+            <polygon
+              points="35,35 65,35 50,65"
+              fill="white"
+              class="loader-polygon loader-polygon-3" />
+
+            <polygon
+              points="35,35 65,35 50,65"
+              fill="white"
+              class="loader-polygon loader-polygon-4" />
+
+            <polygon
+              points="35,35 65,35 50,65"
+              fill="white"
+              class="loader-polygon loader-polygon-5" />
+
+            <polygon
+              points="35,35 65,35 50,65"
+              fill="white"
+              class="loader-polygon loader-polygon-6" />
+
+          </mask>
+        </defs>
+
+      </svg>
+
+      <div class="loader-gradient"></div>
+
+    </div>
+
+    <!-- Texto -->
+    <span class="loader-title">QUESTÕES</span>
+
+  </a>
+
+</footer>
+
+  <link rel="stylesheet" href="./shared/css/footer.css" />
+
+   <script type="module" src="./shared/js/script.js"></script>
+   
+</body>
+</html>
