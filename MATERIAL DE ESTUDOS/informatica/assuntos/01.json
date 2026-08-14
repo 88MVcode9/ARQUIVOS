@@ -1,57 +1,27 @@
 window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
 {
   "materia": "Informática",
-  "titulo": "Fundamentos e Conceitos Básicos",
+  "titulo": "O que é Informática",
   "icone": "💻",
-  "descricao": "Conceitos essenciais de informática: hardware, software, sistemas, memórias, periféricos, arquivos e muito mais. Material completo para concursos.",
+  "descricao": "Conceito fundamental de informática, seus elementos essenciais (Hardware, Software, Peopleware) e a distinção entre eles. Material básico para concursos.",
   "topicos": [
     {
       "titulo": "Conceitos Fundamentais",
       "cards": [
         {
           "tipo": "conceito",
-          "titulo": "Informática",
-          "texto": "É o estudo do tratamento automatizado da informação por meio de computadores."
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Computador",
-          "texto": "Máquina eletrônica capaz de processar dados e produzir informação."
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Dado",
-          "texto": "Elemento bruto, sem interpretação (ex.: número 35, letra ‘A’)."
+          "titulo": "O que é Informática",
+          "texto": "Informática é o estudo do tratamento automatizado da informação por meio de computadores. Todo sistema informatizado é formado por três elementos essenciais: Hardware, Software e Peopleware."
         },
         {
           "tipo": "imagem",
-          "titulo": "Dados crus",
-          "imagem": "https://88mvcode9.github.io/ARQUIVOS/IMAGENS/INFORMATICA/Dado Elemento bruto.jpg"
+          "titulo": "Diagrama de sistema informatizado",
+          "imagem": "https://www.devmedia.com.br/arquivos/Artigos/40748/leia_escreva.png"
         },
         {
           "tipo": "conceito",
-          "titulo": "Informação",
-          "texto": "Dado processado e contextualizado, com significado (ex.: “temperatura atual = 35 °C”)."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Transformação dado → informação",
-          "imagem": "https://88mvcode9.github.io/ARQUIVOS/IMAGENS/INFORMATICA/Transforma%C3%A7%C3%A3o%20dado%20%20informa%C3%A7%C3%A3o.jpg"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Processamento",
-          "texto": "Conjunto de operações que transformam dados em informação."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Fluxo Dados → Processamento → Informação",
-          "imagem": "https://www.researchgate.net/publication/315671494/figure/fig2/AS:669302822821917@1536585636981/Figura-2-Diagrama-do-fluxo-de-dados-e-informacoes-desde-o-processamento-de-dados.png"
-        },
-        {
-          "tipo": "pegadinha",
-          "titulo": "Dado ≠ Informação",
-          "texto": "Dado e informação **não são sinônimos**. Dado é bruto; informação é processada e com significado."
+          "titulo": "Sistema informatizado",
+          "texto": "Um sistema informatizado é composto por:\n- **Hardware** (parte física)\n- **Software** (parte lógica)\n- **Peopleware** (elemento humano)\nEsses três trabalham em conjunto para processar dados e gerar informações."
         }
       ]
     },
@@ -61,7 +31,7 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "conceito",
           "titulo": "Hardware",
-          "texto": "Parte física, palpável. Ex.: CPU, teclado, monitor, HD, placa‑mãe, mouse."
+          "texto": "Parte física do computador. Componentes que podemos tocar e ver.\nExemplos: CPU, teclado, monitor, HD, placa-mãe, mouse."
         },
         {
           "tipo": "imagem",
@@ -71,17 +41,17 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         {
           "tipo": "conceito",
           "titulo": "Software",
-          "texto": "Parte lógica, programas e instruções. Não tem forma física. Ex.: Windows, Word, Chrome, antivírus."
+          "texto": "Parte lógica — programas e instruções. Controla e instrui o hardware. Não tem forma física — não pode ser tocado.\nExemplos: Windows, Word, Chrome, antivírus."
         },
         {
           "tipo": "imagem",
-          "titulo": "Ícones de programas",
+          "titulo": "Ícones de programas (software)",
           "imagem": "https://topfreewares.com.br/wp-content/uploads/2018/05/actual_hide_desktop_icons.jpg"
         },
         {
           "tipo": "conceito",
           "titulo": "Peopleware",
-          "texto": "Elemento humano: usuários, operadores, programadores."
+          "texto": "O elemento humano do sistema. Quem usa, opera e programa o computador. Terceiro elemento essencial — sem usuário, o sistema está incompleto."
         },
         {
           "tipo": "imagem",
@@ -90,340 +60,13 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
         },
         {
           "tipo": "bizu",
-          "titulo": "Mnemônico",
-          "texto": "**Hardware** = físico (toca) | **Software** = programa (não toca) | **Peopleware** = usuário."
-        }
-      ]
-    },
-    {
-      "titulo": "Sistema de Informação",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Fluxo do Sistema de Informação",
-          "texto": "Um sistema de informação não se resume a hardware/software; ele segue um fluxo:\n\n**Entrada (Input):** dados inseridos no sistema.\n**Processamento:** tratamento dos dados (cálculos, ordenação, etc.).\n**Saída (Output):** informação produzida e apresentada.\n**Armazenamento:** conservação dos dados/informações para uso futuro.\n**Feedback:** retorno utilizado para ajustes e melhorias."
-        },
-          {
-          "tipo": "imagem",
-          "titulo": "Entrada de dados + Processamento de dados + Saída de informações",
-          "imagem": "https://www.devmedia.com.br/arquivos/Artigos/40748/leia_escreva.png"
-        },
-      
-        {
-          "tipo": "conteudo",
-          "titulo": "Fluxo resumido",
-          "texto": "**Entrada → Processamento → Saída → Armazenamento** (com feedback)."
-        }
-      ]
-    },
-    {
-      "titulo": "Hardware — CPU",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "CPU (Unidade Central de Processamento)",
-          "texto": "É o cérebro do computador. **Não é o gabinete!**"
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Processador (chip)",
-          "imagem": "https://tecnoarthardware.com.br/wp-content/uploads/2021/03/Compatibilidade-processador-e-placa-mae.png"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Unidade de Controle (UC)",
-          "texto": "Coordena e sincroniza todas as operações."
-        },
-
-        {
-          "tipo": "conceito",
-          "titulo": "Unidade Lógica e Aritmética (ULA)",
-          "texto": "Executa operações aritméticas (soma, subtração) e lógicas (comparações)."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Esquema da ULA",
-          "imagem": "https://insper.github.io/Z01.1/figs/D-ULA/D-sistema-ula.png"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Registradores",
-          "texto": "Pequenas memórias internas de altíssima velocidade."
-        },
-
-        {
-          "tipo": "conceito",
-          "titulo": "Cache",
-          "texto": "Memória de alta velocidade que armazena dados frequentemente usados para reduzir tempo de acesso."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Hierarquia de memória com cache",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfKDObTGGZda3b9c0e3fx_lyyruhmoUBSW5ta0X0ngNMOk52U0hSh66SK&s=10"
+          "titulo": "Mnemônico para lembrar",
+          "texto": "**Hardware** = físico (toca)  |  **Software** = programa (não toca)  |  **Peopleware** = usuário."
         },
         {
           "tipo": "pegadinha",
-          "titulo": "CPU ≠ Gabinete",
-          "texto": "CPU é o processador, não o gabinete do computador."
-        }
-      ]
-    },
-    {
-      "titulo": "Memórias",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Memória Principal",
-          "texto": "**RAM** (Random Access Memory) – volátil (perde dados ao desligar).\n**ROM** (Read‑Only Memory) – não volátil (mantém dados mesmo sem energia)."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Pentes de RAM",
-          "imagem": "https://s2-techtudo.glbimg.com/icKGmk8D7tTk5rC2x6GphnyqqLU=/0x0:695x465/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/r/W/ZTob32SrSArTfI1tsaTQ/2016-08-05-memoria-ram-1.jpg"
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Chip de ROM",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOmDtTXZ3tIVyZI0CHnV0nzBMLxqJtnz0jIPEJjPkgQ&s=10"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Memória Cache",
-          "texto": "Memória de alta velocidade, integrada ou próxima à CPU (níveis L1, L2, L3)."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Níveis de cache",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O-PqECOMzHyTYjQoFBbyCOy4bjTs3KwUiXQ1bJBAkS47n1A5dvGSMjd4&s=10"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Memórias Secundárias / Armazenamento",
-          "texto": "HD (disco rígido), SSD (unidade de estado sólido), Pen drive, Cartão de memória, CD/DVD/Blu‑ray."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Dispositivos de armazenamento",
-          "imagem": "https://www.criandobits.com.br/wp-content/uploads/2022/01/disp-armazenamento.jpg"
-        },
-        {
-          "tipo": "pegadinha",
-          "titulo": "RAM = volátil; ROM = não volátil",
-          "texto": "RAM perde dados ao desligar; ROM mantém. SSD/HD são **armazenamento**, não memória RAM."
-        }
-      ]
-    },
-    {
-      "titulo": "Periféricos",
-      "cards": [
-        {
-          "tipo": "tabela",
-          "titulo": "Classificação de Periféricos",
-          "tabela": {
-            "colunas": ["Tipo", "Exemplos"],
-            "linhas": [
-              ["Entrada", "Teclado, mouse, scanner, microfone, webcam"],
-              ["Saída", "Monitor, impressora, alto‑falante, projetor"],
-              ["Entrada/Saída", "Tela touchscreen, multifuncional, placa de rede, modem"]
-            ]
-          }
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Exemplos de periféricos",
-          "imagem": "https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-TBR-Entrada-e-Saida.png"
-        },
-        {
-          "tipo": "pegadinha",
-          "titulo": "Touchscreen",
-          "texto": "Touchscreen é **entrada e saída**."
-        }
-      ]
-    },
-    {
-      "titulo": "Software",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Software de Sistema",
-          "texto": "Sistemas operacionais (Windows, Linux, macOS, Android, iOS), drivers, firmware."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Telas de sistemas operacionais",
-          "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/45/Windows-11.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Software Aplicativo",
-          "texto": "Word, Excel, Chrome, Photoshop."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Ícones de aplicativos",
-          "imagem": "https://thumbs.dreamstime.com/b/microsoft-office-outlook-exchange-onenote-publicador-do-excel-planejer-etc-google-llc-logotipos-oficiais-de-aplicativos-produtos-240123532.jpg"
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Software Utilitário",
-          "texto": "Antivírus, compactadores (WinZip, 7‑Zip), ferramentas de backup."
-        },
-        
-        {
-          "tipo": "conceito",
-          "titulo": "Classificações por licenciamento",
-          "texto": "**Proprietário:** código fechado, comercial (ex.: Windows, Adobe Photoshop).\n**Livre:** código aberto, pode ser modificado e redistribuído (ex.: Linux, GIMP).\n**Open source:** código aberto (similar ao livre, mas com critérios específicos).\n**Freeware:** gratuito, mas código fechado (ex.: Adobe Reader, CCleaner).\n**Shareware:** uso gratuito por tempo limitado ou com funcionalidades restritas.\n**Trial:** versão de teste por tempo determinado."
-        }
-      ]
-    },
-    {
-      "titulo": "Firmware e Drivers",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Firmware",
-          "texto": "Software gravado em um chip de hardware, responsável por controlar funções básicas do equipamento. Não é volátil (mantém-se mesmo desligado). Exemplos: BIOS/UEFI, firmware de roteadores, firmware de impressoras."
-        },
-
-        {
-          "tipo": "pegadinha",
-          "titulo": "Firmware é software",
-          "texto": "Firmware é **software**, mesmo estando diretamente associado ao hardware."
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Drivers",
-          "texto": "Software que permite a comunicação entre o sistema operacional e um dispositivo de hardware.\n\n**Exemplo:** Windows → Driver da impressora → Impressora."
-        }
-      ]
-    },
-    {
-      "titulo": "Inicialização do Computador (Boot)",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Processo de Boot",
-          "texto": "1. **Ligação** – energia é fornecida.\n2. **POST** (Power‑On Self‑Test) – verificação dos componentes básicos.\n3. **BIOS/UEFI** – firmware que localiza e carrega o sistema operacional.\n4. **Carregamento do SO** – kernel e serviços são iniciados.\n5. **Sistema pronto** – usuário pode interagir."
-        },
-
-        {
-          "tipo": "pegadinha",
-          "titulo": "BIOS/UEFI não é o SO",
-          "texto": "BIOS/UEFI é o firmware que carrega o sistema operacional, não o sistema em si."
-        }
-      ]
-    },
-    {
-      "titulo": "BIOS × UEFI",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "BIOS (Basic Input/Output System)",
-          "texto": "Firmware tradicional.\n- Interface em modo texto.\n- Suporte limitado a discos grandes (MBR)."
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "UEFI (Unified Extensible Firmware Interface)",
-          "texto": "Sucessora da BIOS, mais moderna.\n- Interface gráfica.\n- Suporta discos maiores que 2 TB (GPT).\n- Inicialização mais rápida e flexível."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Tela da BIOS vs. tela da UEFI",
-          "imagem": "https://blog.oficinadosbits.com.br/wp-content/uploads/2025/05/2022-08-11-image.webp"
-        }
-      ]
-    },
-    {
-      "titulo": "Sistemas de Numeração",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Bases numéricas",
-          "texto": "**Binário** (base 2), **Decimal** (base 10), **Hexadecimal** (base 16). Conversões entre bases podem ser cobradas."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Tabela comparativa das bases",
-          "imagem": "https://thumbs.dreamstime.com/b/tabela-de-convers%C3%A3o-hexadecimal-e-bin%C3%A1ria-decimal-bases-hexadecimais-bin%C3%A1rias-decimais-ilustra%C3%A7%C3%A3o-vetorial-eps-248671867.jpg"
-        },
-        {
-          "tipo": "exemplo",
-          "titulo": "Byte e Bit",
-          "texto": "**1 byte = 8 bits**."
-        }
-      ]
-    },
-    {
-      "titulo": "Bits e Bytes",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Bit e Byte",
-          "texto": "**Bit** (b) – menor unidade de informação, assume valor 0 ou 1.\n**Byte** (B) – conjunto de 8 bits.\n\nMúltiplos: KB, MB, GB, TB, PB, …"
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Escada de unidades (b e B)",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFq1MUF30xQnpIn8O5-EayqLugb8l8E4L-0M-J4IMcQGsl3KjPFm1SHvc&s=10"
-        },
-        {
-          "tipo": "atencao",
-          "titulo": "Diferença entre b e B",
-          "texto": "**b** = bit, **B** = Byte.\n\nExemplo: **100 Mbps ≠ 100 MB/s** (megabits por segundo ≠ megabytes por segundo)."
-        }
-      ]
-    },
-    {
-      "titulo": "Arquivos e Pastas",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Conceitos básicos",
-          "texto": "**Arquivo** – unidade lógica de armazenamento de dados.\n**Pasta / Diretório** – local que contém arquivos e subpastas.\n**Subpasta** – pasta dentro de outra.\n**Extensão** – sufixo após o ponto que identifica o tipo do arquivo.\n**Caminho** – localização hierárquica (ex.: `C:\\Users\\Documentos\\relatorio.docx`).\n**Unidade de armazenamento** – letra (C:, D:, etc.) ou montagem no Linux.\n**Nome do arquivo** – identificador; pode conter letras, números e alguns caracteres."
-        },
-
-        {
-          "tipo": "tabela",
-          "titulo": "Extensões importantes",
-          "tabela": {
-            "colunas": ["Extensão", "Tipo"],
-            "linhas": [
-              [".docx", "Word"],
-              [".xlsx", "Excel"],
-              [".pptx", "PowerPoint"],
-              [".pdf", "Documento PDF"],
-              [".jpg / .png", "Imagem"],
-              [".mp3", "Áudio"],
-              [".mp4", "Vídeo"],
-              [".zip / .rar", "Arquivo compactado"]
-            ]
-          }
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Ícones de extensões",
-          "imagem": "https://thumbs.dreamstime.com/b/%C3%ADcones-da-extens%C3%A3o-de-arquivo-15224663.jpg"
-        }
-      ]
-    },
-    {
-      "titulo": "Processos e Multitarefa",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "Programa vs. Processo",
-          "texto": "**Programa:** código armazenado em disco (passivo).\n**Processo:** programa em execução (ativo).\n**Thread:** unidade menor de execução dentro de um processo."
-        },
-        {
-          "tipo": "conceito",
-          "titulo": "Multitarefa e Multiprocessamento",
-          "texto": "**Multitarefa:** capacidade do sistema operacional de executar vários processos aparentemente ao mesmo tempo.\n**Multiprocessamento:** uso de múltiplas CPUs/cores para executar processos paralelamente."
-        },
-
-        {
-          "tipo": "pegadinha",
-          "titulo": "Programa armazenado ≠ processo em execução",
-          "texto": "Um programa armazenado no disco **não** é a mesma coisa que um processo em execução."
+          "titulo": "Hardware ≠ Software",
+          "texto": "Hardware e Software **não são sinônimos** nem intercambiáveis. Um é físico, o outro é lógico; ambos são necessários, mas são conceitos distintos."
         }
       ]
     }
