@@ -3,169 +3,251 @@ window.__ESTUDA_DATA__['01.json'] = {
   "materia": "Língua Portuguesa",
   "titulo": "Pronomes",
   "icone": "🔤",
-  "descricao": "Guia completo e descontraído sobre os pronomes: definição, funções (dublê e segurança), classificações (pessoais, possessivos, demonstrativos, indefinidos, interrogativos, relativos), macete do Tarzan, regra do T/S, uso de 'cujo' e 'onde', exemplos engraçados e pegadinhas de concurso.",
-  "data": "2026-08-12",
-  "revisao": "1.0",
+  "descricao": "Guia completo e descontraído sobre os pronomes, agora organizado em micropílulas de conhecimento para facilitar a leitura e a revisão rápida.",
+  "data": "2026-08-15",
+  "revisao": "3.0",
   "topicos": [
     {
       "titulo": "Introdução – O que é um Pronome?",
       "cards": [
         {
           "tipo": "conceito",
-          "titulo": "Pronome = O dublê e o segurança do substantivo",
-          "texto": "Pense na frase como um filme. O **Substantivo** (o nome das coisas, tipo \"João\", \"Carro\", \"Cachorro\") é o ator principal, o Brad Pitt.\n\nO **Pronome** é o cara que trabalha para o Brad Pitt. Ele tem duas funções na vida:\n\n- **O Dublê (Pronome Substantivo)**: Ele entra no lugar do ator para ele não se cansar.\n  - Exemplo: *O João cansou.* ***Ele*** *foi dormir.* (O \"Ele\" entrou no lugar do \"João\").\n- **O Segurança (Pronome Adjetivo)**: Ele anda colado no ator, acompanhando o cara.\n  - Exemplo: ***Meu*** *carro quebrou.* (O \"Meu\" tá fazendo a escolta da palavra \"carro\")."
+          "titulo": "O Mundo do Cinema",
+          "texto": "Pense na frase como um filme. O **Substantivo** (o nome das coisas, tipo \"João\", \"Carro\") é o ator principal. O **Pronome** é o ajudante dele."
         },
         {
           "tipo": "conteudo",
-          "titulo": "Resumo visual",
-          "texto": "📌 **Substantivo** → ator principal (João, carro, cachorro)\n📌 **Pronome** → dublê (substitui) ou segurança (acompanha)\n\nCom essa base, vamos conhecer as \"gangues\" dos pronomes."
+          "titulo": "Função 1: O Dublê",
+          "texto": "O **Pronome Substantivo** entra no lugar do ator para ele não se cansar.",
+          "itens": [
+            "João cansou.",
+            "**Ele** foi dormir. (O \"Ele\" substituiu o João)."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Função 2: O Segurança",
+          "texto": "O **Pronome Adjetivo** não substitui, ele anda colado no ator fazendo a escolta.",
+          "itens": [
+            "**Meu** carro quebrou.",
+            "(O \"Meu\" acompanha a palavra \"carro\")."
+          ]
         }
       ]
     },
     {
-      "titulo": "1. Pronomes Pessoais 👑 – Os VIPs e os Peões",
+      "titulo": "1. Pronomes Pessoais 👑",
       "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "São os pronomes que representam as pessoas da fofoca: quem fala (1ª pessoa), com quem se fala (2ª pessoa) e de quem se fala (3ª pessoa).\n\nEles se dividem em dois grupos: **Caso Reto** (os patrões) e **Caso Oblíquo** (os peões)."
-        },
         {
           "tipo": "conteudo",
           "titulo": "Caso Reto – Os Patrões",
-          "texto": "São os chefes da frase. Eles que mandam, eles que fazem a ação (são o **Sujeito**).\n\n**Quem são:** Eu, Tu, Ele, Nós, Vós, Eles.\n\n**Exemplo:** *Nós vamos comer pizza.* (Nós faz a ação)."
+          "texto": "São os chefes da frase. Eles que fazem a ação (são o Sujeito).",
+          "itens": [
+            "**VIPs:** Eu, Tu, Ele, Nós, Vós, Eles.",
+            "**Ação:** **Nós** vamos comer pizza."
+          ]
         },
         {
           "tipo": "conteudo",
           "titulo": "Caso Oblíquo – Os Peões",
-          "texto": "São os funcionários, os sofredores. Eles recebem a ação, fazem o trabalho sujo da frase.\n\n**Quem são:** Me, mim, comigo, te, ti, contigo, se, o, a, lhe, nos, etc.\n\n**Exemplo:** *O chefe chamou* ***a mim***. (Eu recebi o chamado)."
+          "texto": "São os funcionários, os sofredores. Eles recebem a ação, fazem o trabalho sujo.",
+          "itens": [
+            "**Peões:** Me, mim, comigo, te, ti, contigo, o, a, lhe, etc.",
+            "**Alvo:** O chefe chamou a **mim**."
+          ]
         },
         {
           "tipo": "bizu",
-          "titulo": "🚨 O MAIOR BIZU DO UNIVERSO – O MACETE DO TARZAN",
-          "texto": "**MIM NÃO CONJUGA VERBO!** O \"mim\" é folgado, ele não faz nada. Só quem faz alguma coisa é o \"Eu\".\n\n❌ **Errado:** *Trouxe a pizza para* ***mim*** *comer.* (Parece o Tarzan falando).\n✅ **Certo:** *Trouxe a pizza para* ***eu*** *comer.*\n✅ **Certo:** *Ele comprou a pizza para* ***mim***. (Acabou a frase, o verbo já passou, o \"mim\" fica aí de boas)."
+          "titulo": "O Macete do Tarzan 🚨",
+          "texto": "**MIM NÃO CONJUGA VERBO!** O \"mim\" é folgado, não faz nada. Só quem conjuga verbo é o \"Eu\"."
+        },
+        {
+          "tipo": "errado",
+          "titulo": "Parece o Tarzan...",
+          "texto": "Trouxe a pizza para **mim** comer."
+        },
+        {
+          "tipo": "certo",
+          "titulo": "A forma elegante",
+          "texto": "Trouxe a pizza para **eu** comer."
+        },
+        {
+          "tipo": "observacao",
+          "titulo": "E no final da frase?",
+          "texto": "Ele comprou a pizza para **mim**. \n\n**(Correto!)** A frase acabou, o verbo já passou, o \"mim\" fica aí descansando."
         }
       ]
     },
     {
-      "titulo": "2. Pronomes Possessivos 😠 – Os Ciumentos",
+      "titulo": "2. Pronomes Possessivos 😠",
       "cards": [
         {
           "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "Indicam posse. O dono não divide com ninguém.\n\n**Quem são:** Meu, minha, teu, tua, seu, sua, nosso, nossa, vosso, vossa, seus, suas, etc.\n\n**Exemplo:** *Tira a mão que esse lanche é* ***MEU***. *A* ***sua*** *prova está ali.*"
+          "titulo": "Os Ciumentos",
+          "texto": "Indicam posse. O dono não divide com ninguém (Meu, teu, seu, nosso...)."
         },
         {
           "tipo": "exemplo",
-          "titulo": "Cena dramática (exemplo)",
-          "texto": "> ***Meu*** *chocolate estava na mesa.*\n*Agora não está mais.*\n*Alguém mexeu nas* ***minhas*** *coisas!*"
+          "titulo": "Cena Dramática",
+          "texto": "**Meu** chocolate estava na mesa. Alguém mexeu nas **minhas** coisas!"
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "Cuidado com a Ambiguidade!",
+          "texto": "O pronome **SEU / SUA** costuma gerar dupla interpretação. Veja o caos:",
+          "itens": [
+            "\"O chefe discutiu com o funcionário sobre o **seu** salário.\"",
+            "Salário de quem? Do chefe ou do funcionário? A frase está mal construída!"
+          ]
         }
       ]
     },
     {
-      "titulo": "3. Pronomes Demonstrativos 👈 – Os Apontadores",
+      "titulo": "3. Pronomes Demonstrativos 👈",
       "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "Mostram onde as coisas estão. Imagina que você está apontando o dedo. É aqui que a galera confunde, mas com esse esquema visual de \"distância\", uma criança entende."
-        },
-        {
-          "tipo": "conteudo",
-          "titulo": "Regra do T (perto) / S (médio) / A (longe)",
-          "texto": "📌 **ESTE / ESTA / ISTO** (com a letra **T**): O T é de **Toca aqui**. Tá na sua mão!\n- *Exemplo:* ***Esta*** *caneta (que eu estou segurando) é azul.*\n\n📌 **ESSE / ESSA / ISSO** (com a letra **S**): O S é de **Sai pra lá**. Tá na mão do seu colega!\n- *Exemplo:* *Me passa* ***esse*** *lápis aí perto de você.*\n\n📌 **AQUELE / AQUELA / AQUILO**: Tá longe de todo mundo. Tá lá na caixa prego.\n- *Exemplo:* *Olha* ***aquele*** *avião lá no céu.*"
-        },
-        {
-          "tipo": "exemplo",
-          "titulo": "Imagine uma sala",
-          "texto": "> **ESTE** chocolate = está na minha mão.\n> **ESSE** chocolate = está na sua mão.\n> **AQUELE** chocolate = está na mão do professor. 😭"
-        }
-      ]
-    },
-    {
-      "titulo": "4. Pronomes Indefinidos 🤫 – Os Fofoqueiros",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "Eles falam das coisas, mas não dão o nome aos bois. Deixam tudo no ar. É o pronome da fofoca.\n\n**Quem são:** Alguém, ninguém, tudo, nada, muito, pouco, qualquer, algum, nenhum, vários, etc.\n\n**Exemplo:** ***Alguém*** *comeu meu bolo.* (Quem foi? Não sei, o pronome não diz. É um mistério)."
-        },
-        {
-          "tipo": "exemplo",
-          "titulo": "Cena de investigação",
-          "texto": "> — Quem comeu meu chocolate?\n> — ***Alguém***.\n> — QUEM?!\n> — ***Ninguém*** sabe.\n> — Então ***todos*** são suspeitos! 🚨"
-        }
-      ]
-    },
-    {
-      "titulo": "5. Pronomes Interrogativos 🕵️‍♂️ – O FBI",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "São os mesmos pronomes fofoqueiros (indefinidos), mas usados de farda para fazer interrogatório. Eles só querem saber de perguntar.\n\n**Quem são:** Que, quem, qual, quanto, quais, quantos, etc.\n\n**Exemplo:** ***Quem*** *pegou meu bolo?* ***Qual*** *é o seu nome?* ***Quantos*** *anos você tem?*"
-        },
-        {
-          "tipo": "exemplo",
-          "titulo": "Interrogatório",
-          "texto": "> — ***Quem*** comeu o bolo?\n> — Não sei.\n> — ***Qual*** deles foi?\n> — Não sei.\n> — ***Quantos*** pedaços você comeu?\n> — ... 😶"
-        }
-      ]
-    },
-    {
-      "titulo": "6. Pronomes Relativos 🔗 – A Supercola",
-      "cards": [
-        {
-          "tipo": "conceito",
-          "titulo": "O que são?",
-          "texto": "O pronome relativo funciona como um \"Durex\": ele cola uma frase na outra para você não ter que repetir a mesma palavra igual um papagaio.\n\n**Quem são:** Que, o qual, onde, cujo, quem, quanto, etc.\n\n**Como funciona:**\n- Sem a cola: *Eu vi o cachorro. O cachorro mordeu o carteiro.*\n- Com a cola: *Eu vi o cachorro* ***que*** *mordeu o carteiro.* (O \"que\" colou as frases e engoliu o segundo \"cachorro\")."
-        },
-        {
-          "tipo": "conteudo",
-          "titulo": "CUIDADO DE PROVA – AS PEGADINHAS MORTAIS",
-          "texto": "🚨 **O proibido \"CUJO O\"**: O pronome ***cujo*** indica posse, mas ele ODEIA artigo. Dizer *\"A mulher* ***cujo o*** *marido...\"* te manda direto para a prisão gramatical. O certo é sempre bater seco: *\"A mulher* ***cujo*** *marido\"*.\n\n🚨 **O falso lugar (ONDE)**: O \"onde\" só aceita ser usado para **LUGAR FÍSICO**. Pare de falar \"Ah, a reunião onde decidimos isso\". Reunião não é bairro!\n- ❌ Errado: *A situação* ***onde*** *me encontro.*\n- ✅ Certo: *A situação* ***em que*** *me encontro.* / *A rua* ***onde*** *eu moro.*"
-        },
         {
           "tipo": "bizu",
-          "titulo": "Resumo dos principais relativos",
-          "texto": "📌 **QUE** – o mais comum, substitui pessoa ou coisa.\n📌 **QUEM** – usado para pessoas, sempre precedido de preposição (ex: *a quem*, *com quem*).\n📌 **O QUAL / A QUAL** – usado para evitar ambiguidade, concorda em gênero e número.\n📌 **ONDE** – somente lugar físico.\n📌 **CUJO** – posse, sem artigo depois."
+          "titulo": "Regra do T / S / A",
+          "texto": "Mostram onde as coisas estão pelo espaço. Memorize pela inicial de cada situação:"
         },
         {
-          "tipo": "exemplo",
-          "titulo": "Exemplos práticos",
-          "texto": "> *O aluno* ***que*** *estudou passou.*\n> *A menina* ***com quem*** *conversei é minha colega.*\n> *A cidade* ***na qual*** *moro é tranquila.*\n> *O aluno* ***cujo pai*** *é professor chegou.*\n> *A mulher* ***cuja filha*** *passou na prova comemorou.*"
+          "tipo": "conteudo",
+          "titulo": "T de \"Toca Aqui\"",
+          "texto": "**ESTE / ESTA / ISTO**\nA coisa está na sua mão (com quem fala).",
+          "itens": [
+            "Ex: **Esta** caneta (que eu estou segurando) é azul."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "S de \"Sai Pra Lá\"",
+          "texto": "**ESSE / ESSA / ISSO**\nA coisa está na mão do colega (com quem se fala).",
+          "itens": [
+            "Ex: Me passa **esse** lápis aí perto de você."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "A de \"Ali Longe\"",
+          "texto": "**AQUELE / AQUELA / AQUILO**\nA coisa tá longe de todo mundo.",
+          "itens": [
+            "Ex: Olha **aquele** avião lá no céu."
+          ]
         }
       ]
     },
     {
-      "titulo": "🧠 Resumo final – Decore com este quadro",
+      "titulo": "4. Pronomes Indefinidos 🤫",
       "cards": [
         {
-          "tipo": "comparacao",
-          "titulo": "Tipos de pronomes – visão geral",
+          "tipo": "conceito",
+          "titulo": "Os Fofoqueiros",
+          "texto": "Eles falam das coisas, mas não dão o nome aos bois. Deixam tudo no ar."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Mistério no ar...",
+          "texto": "**Alguém** comeu meu bolo. \n(Quem foi? Não sei, o pronome não diz)."
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "A Ordem Altera o Sentido!",
+          "texto": "Cuidado com a posição da palavra **ALGUM**. Isso muda tudo!",
+          "itens": [
+            "**Antes (Positivo):** **Algum** amigo me ajudou. (Pelo menos um ajudou).",
+            "**Depois (Negativo):** Amigo **algum** me ajudou. (Ninguém ajudou = Nenhum)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "5. Pronomes Interrogativos 🕵️‍♂️",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O FBI da Frase",
+          "texto": "São os fofoqueiros usados de farda. Eles só querem saber de fazer interrogatório (Que, quem, qual, quanto)."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "O Interrogatório",
+          "texto": "— **Quem** comeu o bolo?\n— **Qual** deles foi?\n— **Quantos** pedaços você comeu?"
+        }
+      ]
+    },
+    {
+      "titulo": "6. Pronomes Relativos 🔗",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "A Supercola",
+          "texto": "O pronome relativo funciona como um \"Durex\": ele cola uma frase na outra para você não repetir a palavra."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "A Mágica Acontecendo",
+          "itens": [
+            "**Sem a cola:** Eu vi o cachorro. O cachorro mordeu o carteiro.",
+            "**Com a cola:** Eu vi o cachorro **que** mordeu o carteiro."
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "O Proibido \"CUJO O\"",
+          "texto": "O pronome **cujo** indica posse, mas ele ODEIA artigo (o/a) depois dele. Dá cadeia em prova!"
+        },
+        {
+          "tipo": "errado",
+          "titulo": "Crime Gramatical",
+          "texto": "A mulher cujo **o** marido é médico..."
+        },
+        {
+          "tipo": "certo",
+          "titulo": "Cidadão de Bem",
+          "texto": "A mulher **cujo** marido é médico..."
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "O Falso Lugar (ONDE)",
+          "texto": "O \"onde\" só aceita ser usado para **LUGAR FÍSICO**."
+        },
+        {
+          "tipo": "errado",
+          "titulo": "Forçando a barra",
+          "texto": "A situação **onde** me encontro. (Situação não é bairro!)"
+        },
+        {
+          "tipo": "certo",
+          "titulo": "Lugar Físico Real",
+          "texto": "A rua **onde** eu moro."
+        }
+      ]
+    },
+    {
+      "titulo": "🧠 Resumo final",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "Quadro Resumo",
           "tabela": {
-            "colunas": ["Tipo", "Ideia principal", "Exemplo"],
+            "colunas": ["Tipo", "Papel na Frase", "Exemplo"],
             "linhas": [
-              ["Pessoal", "Pessoa do discurso", "*Eu* estudei."],
-              ["Possessivo", "Posse", "*Meu* livro."],
-              ["Demonstrativo", "Aponta", "*Este* livro."],
-              ["Indefinido", "Não especifica", "*Alguém* chegou."],
-              ["Interrogativo", "Pergunta", "*Quem* chegou?"],
-              ["Relativo", "Liga / retoma", "O aluno *que* estudou passou."]
+              ["Pessoal", "Participante", "**Eu** estudei."],
+              ["Possessivo", "Dono", "**Meu** livro."],
+              ["Demonstrativo", "Aponta o local", "**Este** livro."],
+              ["Indefinido", "O misterioso", "**Alguém** chegou."],
+              ["Interrogativo", "O curioso", "**Quem** chegou?"],
+              ["Relativo", "O Durex", "O aluno **que**..."]
             ]
           }
-        },
-        {
-          "tipo": "bizu",
-          "titulo": "Macete final – os papéis no filme",
-          "texto": "👑 **Pessoal** = quem participa da cena\n🔑 **Possessivo** = de quem é a coisa\n👉 **Demonstrativo** = onde está a coisa\n🤫 **Indefinido** = não sei exatamente quem\n❓ **Interrogativo** = quero saber quem\n🔗 **Relativo** = cola duas frases"
-        },
-                {
-          "tipo": "imagem",
-          "titulo": "Mapa-mental – Símbolos Nacionais",
-          "imagem": "./IMAGENS/01.png"
         }
       ]
     }
   ]
-};
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental – Colocação Pronominal",
+          "imagem": "./IMAGENS/01.png"
+        }
+;
