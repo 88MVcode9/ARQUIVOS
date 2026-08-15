@@ -1,0 +1,975 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+
+window.__ESTUDA_DATA__['04.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Articulação do Texto – Pronomes, Expressões Referenciais, Nexos e Operadores Sequenciais",
+  "icone": "🔗",
+  "descricao": "Guia completo sobre articulação textual: pronomes, expressões referenciais, nexos e operadores sequenciais. Aborda anáfora, catáfora, dêixis, coesão referencial, coesão sequencial, conectivos, operadores argumentativos e cadeias referenciais. Inclui definições, exemplos, macetes e dicas de prova.",
+  "data": "2026-08-15",
+  "revisao": "1.0",
+
+  "topicos": [
+
+    {
+      "titulo": "01. 🧩 Introdução — O que é Articulação do Texto?",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "O significado de 'articular' um texto",
+          "itens": [
+            "**Articular** significa ligar, conectar e organizar as partes do texto.",
+            "A articulação permite que palavras, frases e ideias se relacionem de maneira organizada."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "❌ Exemplo de texto desarticulado",
+          "itens": [
+            "João chegou.",
+            "João sentou.",
+            "João abriu o livro.",
+            "João estudou."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "✅ Exemplo de texto articulado",
+          "itens": [
+            "João chegou.",
+            "**Ele** sentou, abriu o livro e começou a estudar.",
+            "**Ele** retoma o termo **João**, criando coesão."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "Principais recursos da articulação",
+          "itens": [
+            "**Pronomes** → podem apontar, retomar ou antecipar referentes.",
+            "**Expressões referenciais** → identificam e retomam referentes.",
+            "**Nexos** → ligam elementos e ideias.",
+            "**Operadores sequenciais** → organizam o caminho e a progressão do texto."
+          ]
+        },
+
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Ideia central da articulação",
+          "itens": [
+            "**Referenciação:** de quem ou de quê estamos falando?",
+            "**Nexo:** como uma ideia se liga à outra?",
+            "**Operador sequencial:** como o texto vai andando?"
+          ]
+        },
+
+        {
+          "tipo": "resumo",
+          "titulo": "🗺️ Mapa geral da articulação",
+          "itens": [
+            "**Referenciação:** pronomes, demonstrativos e expressões nominais.",
+            "**Anáfora:** retoma algo anterior.",
+            "**Catáfora:** antecipa algo posterior.",
+            "**Dêixis:** depende da situação comunicativa.",
+            "**Nexos:** conjunções, preposições e locuções.",
+            "**Operadores sequenciais:** indicam relações como adição, oposição, causa, consequência e conclusão."
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "02. 🔵 Pronomes e Expressões Referenciais — Quem é o Referente?",
+      "subtopicos": [
+
+        {
+          "titulo": "Pronomes e Referentes",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 Pronome — o substituto do substantivo",
+              "itens": [
+                "O pronome pode **substituir ou acompanhar um substantivo**.",
+                "Também pode fazer referência a elementos já mencionados ou a informações construídas no discurso."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de referência por pronome",
+              "itens": [
+                "Maria chegou cedo.",
+                "**Ela** esperou a prova.",
+                "**Ela** = Maria."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "👥 Pessoas do discurso",
+              "tabela": {
+                "colunas": ["Pessoa", "Referência", "Exemplos"],
+                "linhas": [
+                  ["1ª pessoa", "Quem fala", "eu, nós"],
+                  ["2ª pessoa", "Com quem se fala", "tu, vós, você"],
+                  ["3ª pessoa", "De quem ou do que se fala", "ele, ela, eles, elas"]
+                ]
+              }
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ Cuidado com 'você'",
+              "itens": [
+                "O pronome de tratamento **você** é empregado com verbo na **3ª pessoa**."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "O pronome pode retomar uma ideia inteira",
+              "itens": [
+                "O pronome não precisa necessariamente substituir uma única palavra.",
+                "Ele pode retomar uma situação ou uma ideia apresentada anteriormente."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Referência a uma ideia inteira",
+              "itens": [
+                "O governo anunciou novas medidas.",
+                "**Isso** causou discussão.",
+                "**Isso** retoma a situação apresentada anteriormente."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Expressões Referenciais",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é uma Expressão Referencial?",
+              "itens": [
+                "É uma palavra ou grupo de palavras usado para **introduzir, identificar ou retomar um referente**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Expressão Referencial",
+              "itens": [
+                "O SENAI oferece cursos de marceneiro e padeiro.",
+                "**Esses cursos** possuem vagas limitadas.",
+                "**Esses cursos** retoma a informação anterior."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Referente?",
+              "itens": [
+                "Referente é o indivíduo, coisa, situação ou ideia para a qual uma expressão aponta."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Referente",
+              "itens": [
+                "Carlos comprou uma moto.",
+                "O veículo é preto.",
+                "O referente de **O veículo** é **uma moto**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Anáfora, Catáfora e Dêixis",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "👈 Anáfora — referência para trás",
+              "itens": [
+                "Anáfora ocorre quando um termo remete a algo já mencionado anteriormente.",
+                "O referente aparece **antes** do elemento que o retoma."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Anáfora",
+              "itens": [
+                "Pedro estudou muito.",
+                "**Ele** foi aprovado.",
+                "**Ele** aponta para **Pedro**."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete da Anáfora",
+              "itens": [
+                "**ANÁFORA = ANTES**"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "👉 Catáfora — referência para frente",
+              "itens": [
+                "Catáfora ocorre quando um termo antecipa uma informação que será apresentada depois.",
+                "O referente aparece **posteriormente**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Catáfora",
+              "itens": [
+                "**Estas** são minhas prioridades:",
+                "estudar, revisar e fazer questões.",
+                "**Estas** aponta para a enumeração que aparece depois."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete da Catáfora",
+              "itens": [
+                "**CATÁFORA = DEPOIS**"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🌎 Dêixis — referência à situação comunicativa",
+              "itens": [
+                "Dêixis ocorre quando o referente depende do contexto da fala.",
+                "A interpretação depende de **quem fala, onde fala ou quando fala**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Dêixis",
+              "itens": [
+                "**Eu** estou **aqui** **agora**.",
+                "**Eu** → depende de quem fala.",
+                "**Aqui** → depende do local.",
+                "**Agora** → depende do momento."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete da Dêixis",
+              "itens": [
+                "**DÊIXIS = SITUAÇÃO**"
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Como diferenciar Anáfora, Catáfora e Dêixis",
+              "tabela": {
+                "colunas": ["Tipo", "Onde está o referente?", "Macete"],
+                "linhas": [
+                  ["Anáfora", "Antes, dentro do texto", "👈 Antes"],
+                  ["Catáfora", "Depois, dentro do texto", "👉 Depois"],
+                  ["Dêixis", "Na situação comunicativa", "🌎 Situação"]
+                ]
+              }
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Método rápido de identificação",
+              "itens": [
+                "1. A palavra aponta para algo? → Há referenciação.",
+                "2. O referente apareceu antes? → **Anáfora**.",
+                "3. O referente aparece depois? → **Catáfora**.",
+                "4. O referente está fora do texto, na situação? → **Dêixis**."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Pegadinha — 'Ele' nem sempre é anáfora",
+              "itens": [
+                "Ele chegou atrasado: João.",
+                "Nesse caso, **Ele** antecipa a identificação de **João**.",
+                "Portanto, a referência pode ser **catáforica**.",
+                "Não se pode afirmar que todo pronome **ele** seja anáfora."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Pronomes Demonstrativos e Expressões Nominais",
+          "cards": [
+
+            {
+              "tipo": "conteudo",
+              "titulo": "👉 Pronomes demonstrativos e referenciação",
+              "itens": [
+                "Pronomes como **este, esse, aquele, isto, isso e aquilo** podem retomar ou antecipar informações.",
+                "Eles participam frequentemente da referenciação textual."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Demonstrativo retomando informação",
+              "itens": [
+                "O candidato estudou durante seis meses.",
+                "**Esse esforço** produziu resultados.",
+                "**Esse esforço** retoma a informação anterior."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 Referência por expressões nominais",
+              "itens": [
+                "A referenciação também pode ocorrer por substantivos e expressões nominais.",
+                "Não são apenas os pronomes que retomam elementos do texto."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Expressão nominal",
+              "itens": [
+                "O professor entrou na sala.",
+                "O **docente** iniciou a aula.",
+                "**O docente** refere-se ao **professor**."
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "⚖️ Hiperônimo x Hipônimo",
+              "tabela": {
+                "colunas": ["Conceito", "Definição", "Exemplo"],
+                "linhas": [
+                  ["Hiperônimo", "Termo mais amplo", "Animal → cachorro, gato"],
+                  ["Hipônimo", "Termo mais específico", "Cachorro → animal"]
+                ]
+              }
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔄 Substituição",
+              "itens": [
+                "Na substituição, emprega-se uma expressão no lugar de outra para evitar repetição.",
+                "Exemplo: Pedro estudou muito. Maria **fez o mesmo**."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "✂️ Elipse",
+              "itens": [
+                "Na elipse, um termo é omitido, mas pode ser recuperado pelo contexto.",
+                "Exemplo: João estudou e **Ø** passou.",
+                "O sujeito de **passou** pode ser recuperado: **João**."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "03. 🌉 Nexos — A Ponte entre as Ideias",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "📖 O que é Nexo?",
+          "itens": [
+            "Nexo é o elemento que estabelece uma relação entre partes do texto.",
+            "Funciona como uma **ponte entre ideias**."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo de Nexo",
+          "itens": [
+            "Estudei muito **porque** precisava melhorar.",
+            "**Porque** conecta as duas ideias.",
+            "A relação estabelecida é de **causa**."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔗 Nexos — Principais formas",
+          "itens": [
+            "**Conjunções:** e, mas, ou, porque, embora, portanto, quando, se, conforme, caso.",
+            "**Locuções:** além disso, por isso, apesar disso, em razão de, por conseguinte, ainda assim, desse modo.",
+            "**Advérbios e articuladores:** posteriormente, anteriormente, finalmente, entretanto, consequentemente, atualmente."
+          ]
+        },
+
+        {
+          "tipo": "resumo",
+          "titulo": "🧠 Ideia-chave sobre os Nexos",
+          "itens": [
+            "Nexos estabelecem relações entre elementos e ideias.",
+            "A função do nexo deve ser analisada dentro do contexto."
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "04. 🔄 Operadores Sequenciais — O Texto em Movimento",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "📖 O que são Operadores Sequenciais?",
+          "itens": [
+            "São palavras ou expressões que organizam a progressão do texto.",
+            "Indicam como as ideias se sucedem.",
+            "Ajudam a mostrar o movimento argumentativo e textual."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "➕ Adição",
+          "itens": [
+            "**Operadores:** e, também, além disso, ademais.",
+            "Indicam acréscimo de informações."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "⚔️ Oposição",
+          "itens": [
+            "**Operadores:** mas, porém, contudo, todavia, entretanto.",
+            "Indicam contraste entre ideias."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🎯 Causa",
+          "itens": [
+            "**Operadores:** porque, já que, visto que, uma vez que.",
+            "Apresentam o motivo ou a causa."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "💥 Consequência",
+          "itens": [
+            "**Operadores:** por isso, consequentemente, de modo que.",
+            "Apresentam o resultado de uma situação."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "✅ Conclusão",
+          "itens": [
+            "**Operadores:** portanto, logo, assim, por conseguinte.",
+            "Introduzem uma conclusão."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔎 Explicação",
+          "itens": [
+            "**Operadores:** isto é, ou seja, por exemplo.",
+            "Ajudam a explicar, esclarecer ou exemplificar uma informação."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🎯 Finalidade",
+          "itens": [
+            "**Operadores:** para que, a fim de que.",
+            "Indicam finalidade."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔐 Condição",
+          "itens": [
+            "**Operadores:** se, caso, desde que.",
+            "Estabelecem uma condição."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "⚠️ Concessão",
+          "itens": [
+            "**Operadores:** embora, ainda que, apesar de.",
+            "Introduzem uma ideia concessiva."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "⚖️ Comparação",
+          "itens": [
+            "**Operadores:** como, assim como, tal qual.",
+            "Estabelecem uma comparação."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "📜 Conformidade",
+          "itens": [
+            "**Operadores:** conforme, segundo, de acordo com.",
+            "Indicam conformidade com determinada referência."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🕒 Tempo",
+          "itens": [
+            "**Operadores:** quando, enquanto, depois, antes.",
+            "Organizam a relação temporal entre acontecimentos ou ideias."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔢 Enumeração",
+          "itens": [
+            "**Operadores:** primeiro, depois, por fim.",
+            "Organizam uma sequência de informações."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "✏️ Retificação",
+          "itens": [
+            "**Operadores:** ou melhor, aliás.",
+            "Servem para corrigir ou ajustar uma informação anteriormente apresentada."
+          ]
+        },
+
+        {
+          "tipo": "tabela",
+          "titulo": "📋 Quadro dos Operadores Sequenciais",
+          "tabela": {
+            "colunas": ["Relação", "Principais operadores"],
+            "linhas": [
+              ["Adição", "e, também, além disso, ademais"],
+              ["Oposição", "mas, porém, contudo, todavia, entretanto"],
+              ["Causa", "porque, já que, visto que, uma vez que"],
+              ["Consequência", "por isso, consequentemente, de modo que"],
+              ["Conclusão", "portanto, logo, assim, por conseguinte"],
+              ["Explicação", "isto é, ou seja, por exemplo"],
+              ["Finalidade", "para que, a fim de que"],
+              ["Condição", "se, caso, desde que"],
+              ["Concessão", "embora, ainda que, apesar de"],
+              ["Comparação", "como, assim como, tal qual"],
+              ["Conformidade", "conforme, segundo, de acordo com"],
+              ["Tempo", "quando, enquanto, depois, antes"],
+              ["Enumeração", "primeiro, depois, por fim"],
+              ["Retificação", "ou melhor, aliás"]
+            ]
+          }
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "05. 🔗 Cadeias Referenciais e Progressão Textual",
+      "subtopicos": [
+
+        {
+          "titulo": "Cadeia Referencial",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é uma Cadeia Referencial?",
+              "itens": [
+                "Quando várias expressões se referem ao mesmo referente ou a referentes conectados, forma-se uma **cadeia referencial**.",
+                "Essa cadeia contribui para a continuidade temática do texto."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Cadeia Referencial",
+              "itens": [
+                "Maria entrou na sala.",
+                "A **estudante** sentou.",
+                "**Ela** abriu o caderno.",
+                "A **candidata** começou a responder.",
+                "As expressões remetem a **Maria**, mantendo a continuidade temática."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Ambiguidade Referencial",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "⚠️ O que é Ambiguidade Referencial?",
+              "itens": [
+                "Ocorre quando um pronome ou expressão pode se referir a mais de um antecedente.",
+                "Isso gera dúvida sobre quem ou o que é o referente."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Ambiguidade",
+              "itens": [
+                "João conversou com Pedro quando **ele** chegou.",
+                "Quem chegou?",
+                "**João** ou **Pedro**?",
+                "Sem contexto adicional, a referência é ambígua."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Referência Endofórica e Exofórica",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📚 Referência Endofórica",
+              "itens": [
+                "O referente está **dentro do texto**.",
+                "A anáfora e a catáfora fazem parte desse tipo de referência."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🌎 Referência Exofórica",
+              "itens": [
+                "O referente está **fora do texto**, ligado à situação comunicativa.",
+                "A dêixis é apresentada como exemplo de referência exofórica."
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Endofórica x Exofórica",
+              "tabela": {
+                "colunas": ["Tipo", "Local do referente", "Exemplo"],
+                "linhas": [
+                  ["Endofórica", "Dentro do texto", "Anáfora e catáfora"],
+                  ["Exofórica", "Fora do texto / situação", "Dêixis"]
+                ]
+              }
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "06. 🔗 Pronomes Relativos e a Articulação",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "📖 O que são Pronomes Relativos?",
+          "itens": [
+            "Pronomes relativos como **que, o qual, cujo, onde e quem** retomam um termo anterior.",
+            "Também introduzem uma oração subordinada."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo com 'que'",
+          "itens": [
+            "O livro **que** comprei é excelente.",
+            "**Que** retoma o termo **livro**.",
+            "Também conecta as duas orações."
+          ]
+        },
+
+        {
+          "tipo": "conceito",
+          "titulo": "📌 'Cujo' — relação de posse",
+          "itens": [
+            "**Cujo** indica posse.",
+            "No exemplo apresentado, não admite artigo imediatamente depois."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo com 'cujo'",
+          "itens": [
+            "O aluno **cujo material** foi perdido."
+          ]
+        },
+
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 Cuidado com 'cujo'",
+          "itens": [
+            "Observe a estrutura formada por **cujo + substantivo**.",
+            "No exemplo fornecido, o artigo não aparece após **cujo**."
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "07. 🎯 Operadores Argumentativos — Orientação do Discurso",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "📖 O que são Operadores Argumentativos?",
+          "itens": [
+            "Além de conectar ideias, alguns operadores ajudam a orientar a argumentação.",
+            "Podem destacar surpresa, inclusão, contraste ou outras relações discursivas."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo — Operador 'até'",
+          "itens": [
+            "Ele **até** resolveu questões difíceis.",
+            "**Até** sugere que a resolução das questões é algo notável."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo — 'ainda assim'",
+          "itens": [
+            "Ele perdeu a prova e, **ainda assim**, continuou estudando.",
+            "**Ainda assim** introduz uma ideia de concessão."
+          ]
+        },
+
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Observe o efeito produzido",
+          "itens": [
+            "Não basta identificar a palavra.",
+            "Observe **qual efeito discursivo e argumentativo** ela produz no contexto."
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "08. 🧠 Resumo Final e Dicas de Prova",
+      "subtopicos": [
+
+        {
+          "titulo": "Resumo da Articulação",
+          "cards": [
+
+            {
+              "tipo": "resumo",
+              "titulo": "📋 O essencial para revisar",
+              "itens": [
+                "**Pronomes e expressões referenciais** → identificam, retomam ou introduzem referentes.",
+                "**Nexos** → ligam elementos e ideias.",
+                "**Operadores sequenciais** → organizam a progressão textual.",
+                "**Anáfora** → referência anterior.",
+                "**Catáfora** → referência posterior.",
+                "**Dêixis** → referência à situação comunicativa."
+              ]
+            },
+
+            {
+              "tipo": "tabela",
+              "titulo": "🔗 Relações e operadores mais comuns",
+              "tabela": {
+                "colunas": ["Relação", "Exemplos"],
+                "linhas": [
+                  ["Adição", "e, também, além disso"],
+                  ["Oposição", "mas, porém, contudo"],
+                  ["Causa", "porque, já que"],
+                  ["Consequência", "por isso, consequentemente"],
+                  ["Conclusão", "portanto, logo"],
+                  ["Explicação", "isto é, ou seja"],
+                  ["Condição", "se, caso"],
+                  ["Concessão", "embora, ainda que"],
+                  ["Tempo", "quando, depois"],
+                  ["Enumeração", "primeiro, por fim"]
+                ]
+              }
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Método R-N-O",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Método R-N-O",
+              "itens": [
+                "**R = Referência** → quem é apontado?",
+                "**N = Nexo** → o que está ligado?",
+                "**O = Operador** → que relação ou movimento o texto constrói?"
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Como usar o método R-N-O",
+              "itens": [
+                "1. Identifique a **referência**.",
+                "2. Identifique o **nexo**.",
+                "3. Identifique o **operador**.",
+                "4. Analise a relação construída no contexto."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Pegadinhas de Prova",
+          "cards": [
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — Palavra não é suficiente",
+              "itens": [
+                "Não confunda a palavra com a relação que ela estabelece.",
+                "O **contexto** define o valor da expressão."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — 'Portanto'",
+              "itens": [
+                "Não analise **portanto** isoladamente.",
+                "É necessário verificar a relação construída no contexto."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — 'Ele'",
+              "itens": [
+                "**Ele** pode participar de diferentes relações de referência.",
+                "Pode funcionar como anáfora ou catáfora conforme a organização do texto."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — 'E'",
+              "itens": [
+                "O **e** pode expressar adição.",
+                "O valor assumido deve ser analisado de acordo com o contexto."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ Não decore listas mecanicamente",
+              "itens": [
+                "Memorizar conectivos pode ajudar.",
+                "Mas é fundamental compreender a **função que a expressão exerce no texto**.",
+                "O contexto deve ser analisado em conjunto com a palavra utilizada."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Dicas para a Prova",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Método de análise em 6 passos",
+              "itens": [
+                "1. Circule os **pronomes e conectivos**.",
+                "2. Identifique o **referente** de cada pronome.",
+                "3. Determine se a referência é **anterior, posterior ou externa**.",
+                "4. Classifique a relação estabelecida pelo conectivo.",
+                "5. Verifique se a substituição do conectivo por outro mantém o sentido.",
+                "6. Leia o texto como um todo para avaliar a coerência."
+              ]
+            },
+
+            {
+              "tipo": "resumo",
+              "titulo": "✅ Checklist final",
+              "itens": [
+                "Identifiquei o referente?",
+                "É anáfora, catáfora ou dêixis?",
+                "O referente está dentro ou fora do texto?",
+                "Identifiquei o nexo?",
+                "Descobri a relação estabelecida?",
+                "Identifiquei o operador sequencial?",
+                "Analisei o contexto?",
+                "Verifiquei o sentido global?"
+              ]
+            },
+                    {
+          "tipo": "resumo",
+          "titulo": "",
+          "imagem": "./IMAGENS/03.png"
+        }
+
+          ]
+        }
+
+      ]
+    }
+
+  ]
+};

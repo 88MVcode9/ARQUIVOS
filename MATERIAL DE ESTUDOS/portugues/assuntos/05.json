@@ -1,0 +1,1121 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+
+window.__ESTUDA_DATA__['05.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Sintaxe — Termos da Oração",
+  "icone": "📚",
+  "descricao": "Guia completo, progressivo e prático para concursos. Domine a análise sintática do zero.",
+  "data": "2026-08-15",
+  "revisao": "1.0",
+
+  "topicos": [
+
+    {
+      "titulo": "01. 🧩 Conceitos Fundamentais",
+      "subtopicos": [
+
+        {
+          "titulo": "O que é Oração?",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 Definição de Oração",
+              "itens": [
+                "Oração é um enunciado que possui **verbo** ou **locução verbal**.",
+                "Exemplo: **João estudou.** → o verbo **estudou** indica uma oração.",
+                "Exemplo: **Que dia bonito!** → não há verbo, portanto não é oração."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Primeiro macete da análise sintática",
+              "itens": [
+                "Ao analisar uma frase, procure primeiro o **verbo**.",
+                "Não comece procurando o sujeito."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Período Simples e Composto",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "Período Simples",
+              "itens": [
+                "Possui **uma única oração**.",
+                "Exemplo: **Maria estudou.**"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "Período Composto",
+              "itens": [
+                "Possui **duas ou mais orações**.",
+                "Exemplo: **Maria estudou e João descansou.**",
+                "Verbos: **estudou** e **descansou**."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ Não conte palavras",
+              "itens": [
+                "Conte **verbos ou locuções verbais** para identificar o número de orações.",
+                "Exemplo: **Maria está estudando.**",
+                "**Está estudando** é uma locução verbal e corresponde a uma oração."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Primeira Regra da Análise Sintática",
+          "cards": [
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔎 Ordem básica da análise",
+              "itens": [
+                "1. **Ache o verbo.**",
+                "2. Pergunte: **Quem? / O quê?** para localizar o sujeito.",
+                "3. Identifique o **predicado**.",
+                "4. Dentro do predicado, analise complementos, predicativos e adjuntos.",
+                "5. Verifique aposto, vocativo e casos especiais."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Fluxo inicial",
+              "itens": [
+                "**VERBO → SUJEITO → PREDICADO → COMPLEMENTOS → TERMOS ACESSÓRIOS**"
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "02. 👤 Sujeito",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Sujeito?",
+              "itens": [
+                "Sujeito é o termo sobre o qual se declara alguma coisa.",
+                "Exemplo: **Os alunos estudaram.**",
+                "Pergunta: **Quem estudou?**",
+                "Resposta: **Os alunos** → sujeito."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🔎 Como encontrar o sujeito",
+              "itens": [
+                "Localize o verbo.",
+                "Faça a pergunta: **Quem? / O quê?**",
+                "A resposta ajuda a identificar o sujeito."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Núcleo do Sujeito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📌 O que é o Núcleo?",
+              "itens": [
+                "É a palavra principal do sujeito.",
+                "Exemplo: **Os alunos do colégio estudaram.**",
+                "Núcleo: **alunos**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Tipos de Sujeito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "1️⃣ Sujeito Simples",
+              "itens": [
+                "Possui **um único núcleo**.",
+                "Exemplo: O **aluno** estudou."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "2️⃣ Sujeito Composto",
+              "itens": [
+                "Possui **dois ou mais núcleos**.",
+                "Exemplo: **João e Maria** estudaram.",
+                "Núcleos: **João** e **Maria**."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "3️⃣ Sujeito Oculto (Desinencial)",
+              "itens": [
+                "Não aparece explicitamente.",
+                "Pode ser identificado pela desinência verbal ou pelo contexto.",
+                "Exemplo: **Estudamos** muito.",
+                "Sujeito: **nós**."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "4️⃣ Sujeito Indeterminado",
+              "itens": [
+                "Sabemos que alguém pratica a ação, mas não sabemos quem ou não queremos identificar.",
+                "Exemplo: **Disseram** que a prova será difícil.",
+                "Não sabemos quem disse.",
+                "Exemplo: **Precisa-se de funcionários.**"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "5️⃣ Oração sem Sujeito",
+              "itens": [
+                "Não há sujeito na oração.",
+                "**Choveu** muito ontem.",
+                "**Há** muitos alunos na sala.",
+                "**Faz** dois anos que estudo."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "6️⃣ Sujeito Oracional",
+              "itens": [
+                "O sujeito é uma **oração inteira**.",
+                "Exemplo: É necessário **que todos estudem**.",
+                "Pergunta: **O que é necessário?**",
+                "Resposta: **que todos estudem** → sujeito."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete do 'ISSO'",
+              "itens": [
+                "Substitua a oração por **ISSO**.",
+                "É necessário que todos estudem.",
+                "→ É necessário **isso**.",
+                "Funcionou? → a oração exerce função de sujeito."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "03. 🔵 Predicado e Verbos de Ligação",
+      "subtopicos": [
+
+        {
+          "titulo": "Predicado",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Predicado?",
+              "itens": [
+                "Predicado é aquilo que se declara sobre o sujeito.",
+                "Exemplo: **João estudou muito.**",
+                "Sujeito: **João**.",
+                "Predicado: **estudou muito**."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Regra de Ouro",
+              "itens": [
+                "Depois de localizar o sujeito, o restante da oração, em princípio, será o **predicado**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Tipos de Predicado",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🟢 Predicado Verbal",
+              "itens": [
+                "Possui como núcleo um **verbo significativo**.",
+                "Exemplo: João **comprou um carro**.",
+                "**Comprou** indica ação."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🟣 Predicado Nominal",
+              "itens": [
+                "Possui **verbo de ligação + predicativo do sujeito**.",
+                "Exemplo: João **está cansado**.",
+                "**Está** → verbo de ligação.",
+                "**Cansado** → predicativo do sujeito."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🟠 Predicado Verbo-Nominal",
+              "itens": [
+                "Possui **verbo significativo + predicativo**.",
+                "Exemplo: João **chegou cansado**.",
+                "**Chegou** → ação.",
+                "**Cansado** → característica atribuída ao sujeito."
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Tipos de Predicado",
+              "tabela": {
+                "colunas": ["Tipo", "Estrutura", "Exemplo"],
+                "linhas": [
+                  ["Verbal", "Verbo significativo", "João **comprou** um carro."],
+                  ["Nominal", "Verbo de ligação + predicativo", "João **está cansado**."],
+                  ["Verbo-nominal", "Verbo significativo + predicativo", "João **chegou cansado**."]
+                ]
+              }
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Verbo de Ligação",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🔗 O que é Verbo de Ligação?",
+              "itens": [
+                "Conecta o sujeito a uma característica, estado ou condição.",
+                "Principais exemplos: **ser, estar, parecer, permanecer, continuar, ficar, tornar-se**.",
+                "Exemplo: Maria **está** feliz."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ O contexto é fundamental",
+              "itens": [
+                "O mesmo verbo pode atuar como verbo de ligação ou como verbo significativo.",
+                "João **ficou** cansado. → estado.",
+                "João **ficou** em casa. → permanência."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Predicativos",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📌 Predicativo do Sujeito",
+              "itens": [
+                "É a característica atribuída ao sujeito.",
+                "Exemplo: João está **cansado**.",
+                "**Cansado** → predicativo do sujeito."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "📌 Predicativo do Objeto",
+              "itens": [
+                "É a característica atribuída ao objeto.",
+                "Exemplo: Consideraram João **inteligente**.",
+                "**Inteligente** → predicativo do objeto."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "04. 🎯 Objetos — Direto e Indireto",
+      "subtopicos": [
+
+        {
+          "titulo": "Objeto Direto",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Objeto Direto?",
+              "itens": [
+                "Completa o sentido do verbo **sem preposição obrigatória**.",
+                "Exemplo: Comprei **um livro**.",
+                "Pergunta: comprei **o quê?** → um livro.",
+                "Exemplo: João chamou **Maria**.",
+                "Pergunta: chamou **quem?** → Maria."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Macete do OD",
+              "itens": [
+                "**Verbo + o quê? / quem?**",
+                "Se o complemento vier sem preposição obrigatória → pense em **Objeto Direto**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Objeto Indireto",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Objeto Indireto?",
+              "itens": [
+                "Completa o sentido do verbo por meio de uma **preposição exigida pelo verbo**.",
+                "Exemplo: Gosto **de música**.",
+                "Pergunta: gosto **de quê?** → de música.",
+                "Exemplo: Preciso **de dinheiro**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Comparação OD x OI",
+          "cards": [
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Objeto Direto x Objeto Indireto",
+              "tabela": {
+                "colunas": ["Termo", "Característica", "Exemplo"],
+                "linhas": [
+                  ["OD", "Sem preposição obrigatória", "Comprei **um livro**."],
+                  ["OI", "Com preposição exigida pelo verbo", "Gostei **do livro**."]
+                ]
+              }
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "05. 🟣 Complemento Nominal e Agente da Passiva",
+      "subtopicos": [
+
+        {
+          "titulo": "Complemento Nominal",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Complemento Nominal?",
+              "itens": [
+                "Completa o sentido de um **nome**.",
+                "Esse nome pode ser substantivo abstrato, adjetivo ou advérbio.",
+                "O complemento nominal aparece com **preposição**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplos de Complemento Nominal",
+              "itens": [
+                "Tenho necessidade **de ajuda**.",
+                "**De ajuda** completa o substantivo **necessidade**.",
+                "Sou favorável **ao projeto**.",
+                "**Ao projeto** completa o adjetivo **favorável**.",
+                "Agiu contrariamente **às regras**.",
+                "**Às regras** completa o advérbio **contrariamente**."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete",
+              "itens": [
+                "Completa **verbo** → objeto.",
+                "Completa **nome** → complemento nominal."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Agente da Passiva",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Agente da Passiva?",
+              "itens": [
+                "Indica quem pratica a ação na **voz passiva**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Agente da Passiva",
+              "itens": [
+                "O livro foi escrito **por Machado de Assis**.",
+                "Quem escreveu? **Machado de Assis**.",
+                "**Machado de Assis** → agente da passiva."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔄 Transformação de Voz",
+              "itens": [
+                "Voz passiva: O livro foi escrito **por Machado**.",
+                "Voz ativa: **Machado** escreveu o livro.",
+                "O agente da passiva passa a exercer a função de sujeito na voz ativa."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "06. 🟡 Adjuntos — Adnominal e Adverbial",
+      "subtopicos": [
+
+        {
+          "titulo": "Adjunto Adnominal",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Adjunto Adnominal?",
+              "itens": [
+                "Acompanha o substantivo.",
+                "Pode determinar, caracterizar, quantificar ou indicar posse."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Adjunto Adnominal",
+              "itens": [
+                "**Os** dois alunos **estudiosos** passaram.",
+                "**Os** → determina.",
+                "**Dois** → quantifica.",
+                "**Estudiosos** → caracteriza.",
+                "Todos acompanham o substantivo **alunos**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Posse",
+              "itens": [
+                "**Minha** casa **nova** é bonita.",
+                "**Minha** → indica posse.",
+                "**Nova** → caracteriza.",
+                "Ambos acompanham o substantivo **casa**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Adjunto Adverbial",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Adjunto Adverbial?",
+              "itens": [
+                "Indica uma **circunstância**.",
+                "Pode expressar tempo, lugar, modo, causa, intensidade, finalidade e outras circunstâncias."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Várias circunstâncias",
+              "itens": [
+                "João estudou **ontem** → tempo.",
+                "João estudou **em casa** → lugar.",
+                "João estudou **silenciosamente** → modo.",
+                "Maria estudou **muito** → intensidade.",
+                "Maria estudou **para a prova** → finalidade."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "07. 🗣️ Aposto e Vocativo",
+      "subtopicos": [
+
+        {
+          "titulo": "Aposto",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Aposto?",
+              "itens": [
+                "O aposto pode **explicar, esclarecer, especificar, enumerar ou resumir** outro termo."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Aposto Explicativo",
+              "itens": [
+                "Machado de Assis, **grande escritor brasileiro**, nasceu no Rio.",
+                "**Grande escritor brasileiro** explica Machado."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Aposto Enumerativo",
+              "itens": [
+                "Comprei três coisas: **arroz, feijão e carne**.",
+                "A expressão enumera os elementos."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Aposto Especificativo",
+              "itens": [
+                "O escritor **Machado de Assis** nasceu no Rio.",
+                "**Machado de Assis** especifica qual escritor.",
+                "No exemplo, aparece sem vírgulas."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Vocativo",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Vocativo?",
+              "itens": [
+                "Serve para **chamar ou interpelar** alguém."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplos de Vocativo",
+              "itens": [
+                "**João**, venha aqui!",
+                "**Senhores**, atenção!"
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Sujeito x Vocativo x Aposto",
+          "cards": [
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Como diferenciar",
+              "tabela": {
+                "colunas": ["Termo", "Função", "Exemplo"],
+                "linhas": [
+                  ["Sujeito", "Pratica ou sofre a ação", "**João** chegou cedo."],
+                  ["Vocativo", "É chamado ou interpelado", "**João**, venha aqui!"],
+                  ["Aposto", "Explica ou especifica outro termo", "João, **meu irmão**, chegou."]
+                ]
+              }
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Macete",
+              "itens": [
+                "Pratica ou sofre a ação? → **Sujeito**.",
+                "É chamado? → **Vocativo**.",
+                "Explica outro termo? → **Aposto**."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "08. ⚠️ Casos Especiais",
+      "subtopicos": [
+
+        {
+          "titulo": "Objeto Indireto x Complemento Nominal",
+          "cards": [
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 OI x Complemento Nominal",
+              "tabela": {
+                "colunas": ["Termo", "Completa", "Exemplo"],
+                "linhas": [
+                  ["OI", "Verbo", "João precisa **de ajuda**."],
+                  ["CN", "Nome", "João tem necessidade **de ajuda**."]
+                ]
+              }
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Regra",
+              "itens": [
+                "**Verbo → objeto.**",
+                "**Nome → complemento nominal.**"
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Adjunto Adnominal x Complemento Nominal",
+          "cards": [
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Quem pratica ou recebe?",
+              "itens": [
+                "O medo **da criança** era grande.",
+                "A criança sente o medo → **Adjunto Adnominal**, conforme o exemplo fornecido.",
+                "O amor **à mãe** é importante.",
+                "A mãe recebe o amor → **Complemento Nominal**, conforme o exemplo fornecido."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Macete de sentido",
+              "itens": [
+                "Em substantivos abstratos, pergunte:",
+                "Quem pratica a ação? → **Adjunto Adnominal**.",
+                "Quem recebe ou sofre a ação? → **Complemento Nominal**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Predicativo x Adjunto Adnominal",
+          "cards": [
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Como diferenciar",
+              "tabela": {
+                "colunas": ["Termo", "Função", "Exemplo"],
+                "linhas": [
+                  ["Predicativo", "Caracteriza o sujeito", "João está **cansado**."],
+                  ["Adjunto Adnominal", "Acompanha o substantivo", "Os alunos **estudiosos** passaram."]
+                ]
+              }
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "A Grande Pegadinha do 'SE'",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🔄 Voz Passiva Sintética",
+              "itens": [
+                "Vendem-se casas.",
+                "Transformação: **Casas são vendidas.**",
+                "No exemplo, **casas** é sujeito."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🕵️ Sujeito Indeterminado",
+              "itens": [
+                "Precisa-se de funcionários.",
+                "O material utiliza a impossibilidade de transformação em voz passiva analítica como critério.",
+                "Resultado: **sujeito indeterminado**."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Regra prática do 'SE'",
+              "itens": [
+                "Se puder transformar em voz passiva analítica com o termo funcionando como sujeito → **voz passiva sintética**.",
+                "Caso contrário, no exemplo apresentado → **sujeito indeterminado**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Haver e Fazer — Verbos Impessoais",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📌 Haver = existir",
+              "itens": [
+                "**Haver**, no sentido de **existir**, é impessoal.",
+                "Exemplo: **Há muitos alunos na sala.**",
+                "Resultado: oração sem sujeito."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "📌 Fazer = tempo decorrido",
+              "itens": [
+                "**Fazer**, indicando tempo decorrido, é impessoal.",
+                "Exemplo: **Faz dois anos que estudo.**",
+                "Resultado: oração sem sujeito."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "09. 🔎 Análise Sintática Passo a Passo",
+      "subtopicos": [
+
+        {
+          "titulo": "Exemplo Completo",
+          "cards": [
+
+            {
+              "tipo": "exemplo",
+              "titulo": "🧩 Analisando uma oração",
+              "itens": [
+                "**Frase:** Os alunos dedicados da escola entregaram ontem os trabalhos ao professor.",
+                "**Verbo:** entregaram.",
+                "**Sujeito:** Os alunos dedicados da escola.",
+                "**Núcleo do sujeito:** alunos.",
+                "**Adjuntos adnominais:** Os, dedicados, da escola.",
+                "**Predicado:** entregaram ontem os trabalhos ao professor.",
+                "**Objeto Direto:** os trabalhos.",
+                "**Objeto Indireto:** ao professor.",
+                "**Adjunto Adverbial:** ontem."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Exemplo com Pegadinha",
+          "cards": [
+
+            {
+              "tipo": "exemplo",
+              "titulo": "🧠 Analisando 'Carlos, meu amigo, entregou...'",
+              "itens": [
+                "**Frase:** Carlos, meu amigo, entregou o relatório ontem ao diretor.",
+                "**Verbo:** entregou.",
+                "**Sujeito:** Carlos.",
+                "**Aposto:** meu amigo.",
+                "**Objeto Direto:** o relatório.",
+                "**Objeto Indireto:** ao diretor.",
+                "**Adjunto Adverbial:** ontem."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Aposto não é Vocativo",
+              "itens": [
+                "**Meu amigo** é aposto porque explica **Carlos**.",
+                "Carlos não está sendo chamado.",
+                "Se houvesse chamamento, teríamos vocativo."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "10. 🔥 Pegadinhas e Resumo Final",
+      "subtopicos": [
+
+        {
+          "titulo": "As 10 Pegadinhas",
+          "cards": [
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 1. 'Há muitos alunos'",
+              "itens": [
+                "**Há muitos alunos.**",
+                "O verbo **haver**, no sentido apresentado, produz uma oração sem sujeito."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 2. 'Faz dois anos'",
+              "itens": [
+                "**Faz dois anos.**",
+                "O verbo **fazer**, indicando tempo decorrido, produz uma oração sem sujeito."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 3. 'Precisa-se de funcionários'",
+              "itens": [
+                "**Precisa-se de funcionários.**",
+                "No material, a classificação é **sujeito indeterminado**."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 4. 'Vendem-se casas'",
+              "itens": [
+                "**Vendem-se casas.**",
+                "Transformação: **Casas são vendidas.**",
+                "**Casas** é sujeito."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 5. 'João está cansado'",
+              "itens": [
+                "**Cansado** = predicativo do sujeito."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 6. 'João comprou um carro'",
+              "itens": [
+                "**Um carro** = objeto direto."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 7. 'João gosta de música'",
+              "itens": [
+                "**De música** = objeto indireto."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 8. 'Necessidade de ajuda'",
+              "itens": [
+                "**De ajuda** = complemento nominal."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 9. 'João, meu irmão, chegou'",
+              "itens": [
+                "**Meu irmão** = aposto."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 10. 'João, venha aqui!'",
+              "itens": [
+                "**João** = vocativo."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Resumo de 30 Segundos",
+          "cards": [
+
+            {
+              "tipo": "resumo",
+              "titulo": "📋 Termos Essenciais da Oração",
+              "tabela": {
+                "colunas": ["Termo", "Pergunta / Função"],
+                "linhas": [
+                  ["Sujeito", "Quem? / O quê?"],
+                  ["Predicado", "O que se declara sobre o sujeito?"],
+                  ["Objeto Direto", "Verbo + o quê? / quem? sem preposição obrigatória"],
+                  ["Objeto Indireto", "Complemento verbal com preposição"],
+                  ["Complemento Nominal", "Completa um nome"],
+                  ["Agente da Passiva", "Pratica a ação na voz passiva"],
+                  ["Adjunto Adnominal", "Acompanha o substantivo"],
+                  ["Adjunto Adverbial", "Indica circunstância"],
+                  ["Predicativo do Sujeito", "Caracteriza o sujeito"],
+                  ["Predicativo do Objeto", "Caracteriza o objeto"],
+                  ["Aposto", "Explica ou especifica"],
+                  ["Vocativo", "Chama ou interpela"]
+                ]
+              }
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Fluxo Definitivo",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Fluxo da Análise Sintática",
+              "itens": [
+                "**VERBO**",
+                "↓",
+                "**QUEM? / O QUÊ?** → SUJEITO",
+                "↓",
+                "**RESTANTE** → PREDICADO",
+                "↓",
+                "O verbo precisa de complemento? → **OD / OI**",
+                "↓",
+                "Algum nome precisa de complemento? → **CN**",
+                "↓",
+                "Há característica? → **PREDICATIVO**",
+                "↓",
+                "Há circunstância? → **ADJUNTO ADVERBIAL**",
+                "↓",
+                "Acompanha substantivo? → **ADJUNTO ADNOMINAL**",
+                "↓",
+                "Explica outro termo? → **APOSTO**",
+                "↓",
+                "Chama alguém? → **VOCATIVO**"
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Regra Final",
+          "cards": [
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🎯 Pense em Relações, não apenas em nomes",
+              "itens": [
+                "Quem faz ou sofre a ação? → **Sujeito**.",
+                "O que recebe a ação? → **Objeto**.",
+                "O verbo exige preposição? → **Objeto Indireto**.",
+                "Um nome precisa ser completado? → **Complemento Nominal**.",
+                "Quem pratica a ação na passiva? → **Agente da Passiva**.",
+                "O que acompanha o substantivo? → **Adjunto Adnominal**.",
+                "O que indica circunstância? → **Adjunto Adverbial**.",
+                "O que caracteriza sujeito ou objeto? → **Predicativo**.",
+                "O que explica ou especifica? → **Aposto**.",
+                "O que chama ou interpela alguém? → **Vocativo**."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Memória Final",
+              "itens": [
+                "**VERBO → SUJEITO → PREDICADO → COMPLEMENTOS → CARACTERÍSTICAS → CIRCUNSTÂNCIAS → EXPLICAÇÃO → CHAMAMENTO**"
+              ]
+            },
+
+            {
+              "tipo": "resumo",
+              "titulo": "🗺️ Mapa Mental — Sintaxe",
+              "imagem": "./IMAGENS/05.png",
+              "itens": [
+                "Use o mapa mental como revisão visual dos termos da oração."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    }
+
+  ]
+};

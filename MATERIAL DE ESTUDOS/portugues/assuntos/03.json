@@ -1,0 +1,882 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+
+window.__ESTUDA_DATA__['03.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Coesão e Coerência Textual",
+  "icone": "🧩",
+  "descricao": "Estudo completo sobre coesão e coerência textual, com conceitos, mecanismos de referenciação, conectivos, coerência, inferência, progressão textual, pegadinhas e revisão para concursos.",
+  "data": "2026-08-12",
+  "revisao": "2.1",
+
+  "topicos": [
+
+    {
+      "titulo": "🧠 Introdução — Coesão x Coerência",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Coesão?",
+          "itens": [
+            "**Coesão** é a forma como as partes do texto se ligam umas às outras.",
+            "É a **cola linguística** que conecta palavras, frases e parágrafos.",
+            "Imagine uma casa: pregos, parafusos e cimento fazem o papel da coesão."
+          ]
+        },
+
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Coerência?",
+          "itens": [
+            "**Coerência** é a organização lógica dos sentidos do texto.",
+            "É o que permite compreender a mensagem globalmente.",
+            "Imagine uma casa: a planta baixa representa a coerência, pois organiza o conjunto."
+          ]
+        },
+
+        {
+          "tipo": "comparacao",
+          "titulo": "🆚 Coesão x Coerência",
+          "tabela": {
+            "colunas": ["Aspecto", "Coesão", "Coerência"],
+            "linhas": [
+              ["Ideia central", "Liga as partes do texto", "Organiza o sentido global"],
+              ["Foco", "Relações linguísticas", "Relações de sentido"],
+              ["Pergunta-chave", "Como o texto se liga?", "O texto faz sentido?"],
+              ["Macete", "🔵 COLA", "🟢 SENTIDO"]
+            ]
+          }
+        },
+
+        {
+          "tipo": "bizu",
+          "titulo": "🎯 Frase para decorar",
+          "itens": [
+            "**COESÃO → LIGA**",
+            "**COERÊNCIA → FAZ SENTIDO**"
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo de coesão referencial",
+          "itens": [
+            "João comprou um carro.",
+            "**Ele** pagou à vista.",
+            "**Ele** retoma o termo 'João'.",
+            "Resultado: ✅ coesão referencial."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo de problema de coerência",
+          "itens": [
+            "João comprou um carro.",
+            "O veículo é uma fruta tropical.",
+            "As palavras estão linguisticamente conectadas.",
+            "O sentido global é inadequado.",
+            "Resultado: ❌ problema de coerência."
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "🔵 Coesão — Como o Texto se Liga",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceitos Gerais",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "Coesão Referencial",
+              "itens": [
+                "Ocorre quando um elemento faz referência a outro elemento do texto.",
+                "Pergunta-chave: **'Essa expressão está apontando para quem ou para quê?'**"
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Coesão Referencial",
+              "itens": [
+                "Maria comprou um celular.",
+                "**Ela** adorou o aparelho.",
+                "**Ela** → Maria.",
+                "**Aparelho** → celular."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "Coesão Sequencial",
+              "itens": [
+                "Faz o texto avançar de uma ideia para outra.",
+                "Os conectivos ajudam a indicar a relação entre essas ideias.",
+                "Exemplo: 'Estudei bastante. **Portanto**, fui bem na prova.'",
+                "**Portanto** → conclusão."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Outros exemplos de Coesão Sequencial",
+              "itens": [
+                "Estudei bastante, **mas** fiquei nervoso. → oposição.",
+                "Fiquei em casa **porque** estava chovendo. → causa.",
+                "Estudei bastante. **Portanto**, fui bem na prova. → conclusão."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Anáfora, Catáfora e Dêixis",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Anáfora",
+              "itens": [
+                "Ocorre quando um termo retoma algo que já apareceu no texto.",
+                "O referente está **antes** do elemento que o retoma."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Anáfora",
+              "itens": [
+                "João comprou uma moto.",
+                "**Ele** ficou muito feliz.",
+                "**Ele** → João.",
+                "O pronome olha para trás. ✅"
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "👈 Macete da Anáfora",
+              "itens": [
+                "**ANÁFORA = ANTES**",
+                "O elemento retoma uma informação anterior."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "👉 Catáfora",
+              "itens": [
+                "Ocorre quando o elemento aparece primeiro e a informação a que ele se refere aparece depois.",
+                "O referente está **depois**."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Catáfora",
+              "itens": [
+                "**Só quero uma coisa:** passar no concurso.",
+                "**Uma coisa** aponta para a informação apresentada depois.",
+                "Resultado: ✅ catáfora."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Outro exemplo de Catáfora",
+              "itens": [
+                "**Estas** são minhas prioridades:",
+                "Estudar.",
+                "Revisar.",
+                "Fazer questões."
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Anáfora x Catáfora",
+              "tabela": {
+                "colunas": ["Tipo", "Referente", "Macete"],
+                "linhas": [
+                  ["Anáfora", "Antes", "👈 ANTES"],
+                  ["Catáfora", "Depois", "👉 DEPOIS"]
+                ]
+              }
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Pegadinha — Anáfora com pronomes",
+              "itens": [
+                "João chegou. **Ele** sentou.",
+                "O pronome pode retomar João.",
+                "Não analise apenas a palavra utilizada.",
+                "Pergunte sempre: **'Quem é o referente?'**"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🌎 Dêixis",
+              "itens": [
+                "Algumas expressões dependem da **situação comunicativa**.",
+                "O referente pode não estar explicitamente dentro do texto.",
+                "**Eu** → depende de quem fala.",
+                "**Aqui** → depende do local.",
+                "**Hoje** → depende do momento da fala."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Anáfora x Catáfora x Dêixis",
+              "itens": [
+                "**ANÁFORA/CATÁFORA** → procure o referente no texto.",
+                "**DÊIXIS** → procure o referente na situação comunicativa."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Elipse e Substituição",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "✂️ Elipse",
+              "itens": [
+                "**Elipse** ocorre quando uma palavra ou expressão é omitida, mas pode ser recuperada pelo contexto.",
+                "A ausência não significa necessariamente erro."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Elipse",
+              "itens": [
+                "João estudou muito e **Ø** conseguiu a aprovação.",
+                "Quem conseguiu? **João**.",
+                "O termo não foi repetido, mas pode ser recuperado."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Pegadinha — Elipse",
+              "itens": [
+                "A ausência de uma palavra não significa automaticamente erro.",
+                "A omissão pode funcionar como mecanismo de coesão.",
+                "Evita repetições desnecessárias."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🔄 Coesão por Substituição",
+              "itens": [
+                "Uma informação já apresentada pode ser recuperada por outra expressão.",
+                "O objetivo é evitar repetição desnecessária."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Substituição",
+              "itens": [
+                "Ana estudou muito.",
+                "Mariana **fez o mesmo**.",
+                "**Fez o mesmo** recupera a ideia anterior."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Substituição com 'também'",
+              "itens": [
+                "João estudou para a prova.",
+                "Pedro **também**.",
+                "O termo **também** permite recuperar a ideia anterior."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Coesão Lexical",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧱 Coesão Lexical",
+              "itens": [
+                "Utiliza palavras semanticamente relacionadas para manter a unidade do texto.",
+                "Pode ocorrer por relações de sentido entre diferentes palavras."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Coesão Lexical por relação de sentido",
+              "itens": [
+                "Comprei um carro.",
+                "O **veículo** é econômico.",
+                "**Veículo** mantém a relação com o termo **carro**."
+              ]
+            },
+
+            {
+              "tipo": "comparacao",
+              "titulo": "🏆 Hiperônimo x Hipônimo",
+              "tabela": {
+                "colunas": ["Termo", "Significado", "Exemplo"],
+                "linhas": [
+                  ["Hiperônimo", "Mais amplo", "Animal"],
+                  ["Hipônimo", "Mais específico", "Cachorro"]
+                ]
+              }
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Hiperônimo",
+              "itens": [
+                "O cachorro entrou na casa.",
+                "O **animal** estava assustado.",
+                "**Animal** é mais abrangente que **cachorro**."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "🔗 Conectivos — As Pontes do Texto",
+      "cards": [
+
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Conectivos?",
+          "itens": [
+            "Conectivos são elementos que estabelecem relações entre ideias.",
+            "Funcionam como uma **ponte** entre partes do texto."
+          ]
+        },
+
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo de Conectivo",
+          "itens": [
+            "Estudei muito.",
+            "**Portanto**, passei.",
+            "**Portanto** estabelece uma relação de conclusão."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "➕ Adição",
+          "itens": [
+            "**Conectivos:** e, também, além disso, ainda, ademais, bem como.",
+            "Exemplo: Estudei Português **e** Matemática."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "⚔️ Oposição / Contraste",
+          "itens": [
+            "**Conectivos:** mas, porém, contudo, todavia, entretanto, no entanto.",
+            "Exemplo: Estudei bastante, **mas** não fui aprovado.",
+            "**Macete:** ideias em contraste → oposição."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🎯 Causa",
+          "itens": [
+            "**Conectivos:** porque, pois, já que, visto que, uma vez que, como.",
+            "Exemplo: Fiquei em casa **porque** estava doente.",
+            "**Porque** introduz o motivo."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "💥 Consequência",
+          "itens": [
+            "**Conectivos:** portanto, assim, por isso, desse modo, consequentemente, logo.",
+            "Exemplo: Choveu muito; **por isso**, o jogo foi cancelado.",
+            "A consequência é o resultado apresentado."
+          ]
+        },
+
+        {
+          "tipo": "atencao",
+          "titulo": "🧠 Causa ≠ Consequência",
+          "itens": [
+            "Choveu **porque** havia uma frente fria.",
+            "Havia uma frente fria → **causa**.",
+            "Havia uma frente fria; **por isso**, choveu.",
+            "Choveu → **consequência**."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔢 Conclusão",
+          "itens": [
+            "**Conectivos:** portanto, logo, enfim, em suma, por fim, desse modo.",
+            "Exemplo: Estudei e resolvi questões. **Portanto**, estou mais preparado."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🎯 Finalidade",
+          "itens": [
+            "**Conectivos:** para que, a fim de que, com o intuito de.",
+            "Exemplo: Estudei **para que** pudesse passar."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔍 Explicação",
+          "itens": [
+            "**Conectivos:** porque, pois, isto é, ou seja, por exemplo, em outras palavras.",
+            "Exemplo: Ele foi aprovado, **isto é**, alcançou a nota necessária."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "⚖️ Comparação",
+          "itens": [
+            "**Conectivos:** como, assim como, tal qual, que nem.",
+            "Exemplo: Ele estudou **como** um louco."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🔐 Condição",
+          "itens": [
+            "**Conectivos:** se, caso, desde que, contanto que.",
+            "Exemplo: **Se** estudar, passará."
+          ]
+        },
+
+        {
+          "tipo": "conteudo",
+          "titulo": "🕒 Tempo / Sequência",
+          "itens": [
+            "**Conectivos:** depois, antes, então, posteriormente, anteriormente, enquanto, quando, em seguida, primeiramente, por fim.",
+            "Exemplo: **Primeiramente**, estudou a teoria. **Em seguida**, resolveu questões."
+          ]
+        },
+
+        {
+          "tipo": "resumo",
+          "titulo": "📋 Tabela dos principais conectivos",
+          "tabela": {
+            "colunas": ["Relação", "Conectivos principais"],
+            "linhas": [
+              ["Adição", "e, também, além disso, ademais, bem como"],
+              ["Oposição", "mas, porém, contudo, todavia, entretanto, no entanto"],
+              ["Causa", "porque, pois, já que, visto que, uma vez que, como"],
+              ["Consequência", "portanto, assim, por isso, desse modo, consequentemente, logo"],
+              ["Conclusão", "portanto, logo, enfim, em suma, por fim"],
+              ["Finalidade", "para que, a fim de que, com o intuito de"],
+              ["Explicação", "porque, pois, isto é, ou seja, por exemplo"],
+              ["Comparação", "como, assim como, tal qual, que nem"],
+              ["Condição", "se, caso, desde que, contanto que"],
+              ["Tempo", "depois, antes, então, quando, enquanto, em seguida, primeiramente"]
+            ]
+          }
+        },
+
+        {
+          "tipo": "atencao",
+          "titulo": "🚨 A palavra ou a relação?",
+          "itens": [
+            "O mais importante é a **relação construída pelo contexto**.",
+            "Não analise um conectivo isoladamente.",
+            "Uma mesma palavra pode assumir valores diferentes conforme a construção.",
+            "Pergunta-chave: **'O que essa expressão está fazendo nesta frase?'**"
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "🟢 Coerência — O Texto Faz Sentido?",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceitos Gerais",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "O que é Coerência?",
+              "itens": [
+                "Coerência é a organização dos sentidos do texto.",
+                "Permite uma interpretação global adequada.",
+                "Pode depender da situação, conhecimento de mundo, inferências, informações linguísticas, intenção comunicativa, gênero textual e contexto."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Pode existir Coesão sem Coerência?",
+              "itens": [
+                "**Sim.**",
+                "Um texto pode possuir conectivos e relações linguísticas, mas apresentar um sentido global inadequado.",
+                "Exemplo: O cachorro estudou para a prova. Portanto, o presidente aumentou o preço do feijão.",
+                "Resultado: existe conexão linguística, mas há problema de coerência."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Princípios da Coerência",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "1️⃣ Não Contradição",
+              "itens": [
+                "O texto não deve apresentar informações incompatíveis entre si.",
+                "Exemplo: João tem 20 anos e tem 12 anos. ❌"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "2️⃣ Não Tautologia",
+              "itens": [
+                "Evita repetição inútil de uma mesma informação.",
+                "Exemplo: 'O homem humano é um ser humano.'",
+                "A frase não acrescenta informação relevante."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "3️⃣ Relevância",
+              "itens": [
+                "As ideias devem estar relacionadas ao tema e à finalidade do texto.",
+                "Informações sem relação justificável podem prejudicar a coerência."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Tipos de Coerência",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Sintática",
+              "itens": [
+                "Relaciona-se à estrutura linguística.",
+                "Exemplo: 'Os alunos que estudou passaram.'",
+                "Há problema na organização gramatical."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Semântica",
+              "itens": [
+                "Relaciona-se ao sentido produzido pelo texto.",
+                "Exemplo: 'O cachorro latiu porque estava completamente quadrado.'"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Temática",
+              "itens": [
+                "O texto deve manter relação com o tema proposto.",
+                "As ideias devem contribuir para o assunto desenvolvido."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Pragmática",
+              "itens": [
+                "Relaciona-se à adequação da situação comunicativa.",
+                "Pergunta: 'Que horas são?'",
+                "Resposta inadequada: 'A matemática foi criada há milhares de anos.'"
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Estilística",
+              "itens": [
+                "O estilo deve ser compatível com a situação comunicativa.",
+                "Documento oficial com linguagem excessivamente informal pode apresentar inadequação."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Coerência Genérica",
+              "itens": [
+                "O gênero textual deve ser adequado ao objetivo comunicativo.",
+                "A forma de organização deve ser compatível com o gênero utilizado."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Universo Discursivo",
+          "cards": [
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Coerência não significa verdade absoluta",
+              "itens": [
+                "Um texto pode apresentar situações impossíveis no mundo real e ainda ser coerente.",
+                "Exemplo: 'O dragão abriu as asas e voou sobre a cidade.'",
+                "Em um texto fantástico, isso pode ser perfeitamente coerente.",
+                "A coerência depende das regras estabelecidas pelo universo discursivo."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Inferência e Progressão",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Conhecimento de Mundo",
+              "itens": [
+                "Algumas interpretações dependem de conhecimentos externos ao texto.",
+                "Esses conhecimentos ajudam o leitor a construir sentidos."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🔍 Inferência",
+              "itens": [
+                "Inferir é chegar a uma conclusão com base nas pistas fornecidas pelo texto.",
+                "A informação inferida não precisa estar escrita literalmente."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Inferência",
+              "itens": [
+                "João chegou em casa com o guarda-chuva molhado.",
+                "Pode-se inferir que estava chovendo.",
+                "A chuva não foi afirmada diretamente, mas existem pistas no texto."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Inferência não é invenção",
+              "itens": [
+                "A conclusão deve estar apoiada por pistas do texto.",
+                "Maria saiu de casa usando um casaco.",
+                "Não é possível afirmar automaticamente que Maria estava com frio.",
+                "Essa hipótese é possível, mas não está garantida."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🔄 Progressão Textual",
+              "itens": [
+                "Um texto precisa avançar na apresentação das ideias.",
+                "A progressão evita que o texto fique repetindo a mesma informação."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo de Progressão",
+              "itens": [
+                "Estudar é importante para a aprovação.",
+                "Além de ampliar o conhecimento, o estudo permite identificar pontos fracos.",
+                "Por isso, a revisão sistemática aumenta a retenção do conteúdo.",
+                "Estrutura: **ideia → explicação → consequência**."
+              ]
+            },
+
+            {
+              "tipo": "conceito",
+              "titulo": "🧱 Tema e Rema",
+              "tabela": {
+                "colunas": ["Elemento", "Função"],
+                "linhas": [
+                  ["Tema", "Aquilo de que estamos falando"],
+                  ["Rema", "Aquilo que acrescentamos sobre o tema"]
+                ]
+              }
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "🎯 Revisão Final — Bizus e Pegadinhas",
+      "cards": [
+
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 O BIZUZÃO",
+          "itens": [
+            "👈 **ANÁFORA → ANTES**",
+            "👉 **CATÁFORA → DEPOIS**",
+            "🌎 **DÊIXIS → SITUAÇÃO COMUNICATIVA**",
+            "🔵 **COESÃO → COLA**",
+            "🟢 **COERÊNCIA → SENTIDO**",
+            "🔗 **CONECTIVO → PONTE**",
+            "✂️ **ELIPSE → OMITE, MAS O CONTEXTO RECUPERA**",
+            "📦 **HIPERÔNIMO → MAIS AMPLO**",
+            "🎯 **HIPÔNIMO → MAIS ESPECÍFICO**"
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Pronome e Anáfora",
+          "itens": [
+            "❌ Todo pronome produz anáfora.",
+            "✅ Um pronome pode participar de diferentes relações de referência.",
+            "A análise deve considerar o contexto e o referente."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Conectivos",
+          "itens": [
+            "❌ Todo conectivo possui sempre o mesmo valor.",
+            "✅ O contexto determina a relação construída.",
+            "Não analise o conectivo isoladamente."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Coesão",
+          "itens": [
+            "❌ Texto sem conectivos não possui coesão.",
+            "✅ Existem outros mecanismos de articulação textual."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Coesão x Coerência",
+          "itens": [
+            "❌ Coesão e coerência são sinônimos.",
+            "✅ São conceitos diferentes, embora relacionados."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Coesão garante coerência?",
+          "itens": [
+            "❌ Se existe coesão, o texto necessariamente é coerente.",
+            "✅ Pode existir coesão sem coerência global."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Repetição",
+          "itens": [
+            "❌ Repetição de palavras sempre é erro.",
+            "✅ A repetição pode ser intencional e funcional."
+          ]
+        },
+
+        {
+          "tipo": "pegadinha",
+          "titulo": "⚡ Pegadinha — Texto fantástico",
+          "itens": [
+            "❌ Um texto fantástico é incoerente porque dragões não existem.",
+            "✅ A coerência depende do universo discursivo criado pelo texto."
+          ]
+        },
+
+        {
+          "tipo": "bizu",
+          "titulo": "🎯 Checklist para a prova",
+          "itens": [
+            "Identifiquei o referente?",
+            "Descobri se o referente está antes ou depois?",
+            "Verifiquei se depende da situação comunicativa?",
+            "Identifiquei os conectivos?",
+            "Descobri a relação de sentido de cada conectivo?",
+            "Verifiquei se há elipse ou substituição?",
+            "Procurei relações lexicais?",
+            "Li o período anterior e o posterior?",
+            "Analisei o sentido global?",
+            "Procurei contradições?",
+            "Verifiquei se a alternativa confunde coesão com coerência?"
+          ]
+        },
+
+        {
+          "tipo": "bizu",
+          "titulo": "🧠 Frases para gravar",
+          "itens": [
+            "**COESÃO É A COLA DO TEXTO.**",
+            "**COERÊNCIA É O SENTIDO DO TEXTO.**",
+            "**ANÁFORA OLHA PARA TRÁS.**",
+            "**CATÁFORA OLHA PARA FRENTE.**",
+            "**DÊIXIS DEPENDE DA SITUAÇÃO.**",
+            "**CONECTIVO É PONTE, NÃO DECORAÇÃO.**",
+            "**NÃO ANALISE A PALAVRA ISOLADAMENTE; ANALISE A RELAÇÃO QUE ELA CONSTRÓI.**",
+            "**UM TEXTO PODE TER COESÃO E AINDA APRESENTAR PROBLEMA DE COERÊNCIA.**"
+          ]
+        },
+
+        {
+          "tipo": "resumo",
+          "titulo": "🗺️ Mapa Mental — Coesão e Coerência",
+          "imagem": "./IMAGENS/03.png"
+        }
+
+      ]
+    }
+
+  ]
+};

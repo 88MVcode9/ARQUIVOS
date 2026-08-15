@@ -1,0 +1,574 @@
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+
+window.__ESTUDA_DATA__['02.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Colocação Pronominal: Próclise, Mesóclise e Ênclise",
+  "icone": "📌",
+  "descricao": "Guia completo sobre a posição dos pronomes oblíquos átonos na frase. Estudo de próclise, ênclise e mesóclise com macetes, fluxograma, pegadinhas e exemplos práticos.",
+  "data": "2026-08-12",
+  "revisao": "1.0",
+
+  "topicos": [
+
+    {
+      "titulo": "01. 🧩 Introdução — Colocação Pronominal",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Colocação Pronominal?",
+              "itens": [
+                "É o estudo da posição dos **pronomes pessoais oblíquos átonos** em relação ao verbo.",
+                "Entre eles estão: **me, te, se, o, a, lhe, nos, vos, os, as, lhes**."
+              ]
+            },
+
+            {
+              "tipo": "tabela",
+              "titulo": "📋 As três posições possíveis",
+              "tabela": {
+                "colunas": ["Tipo", "Posição", "Exemplo"],
+                "linhas": [
+                  ["Próclise", "Antes do verbo", "Ela **me** chamou."],
+                  ["Ênclise", "Depois do verbo", "Chamou-**me**."],
+                  ["Mesóclise", "No meio do verbo", "Chamar-**me**-á."]
+                ]
+              }
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Macete da nomenclatura",
+              "itens": [
+                "**PRÓ** → próximo / antes.",
+                "**ÊN** → encostado depois.",
+                "**MESO** → meio."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Norma-padrão x Uso Cotidiano",
+          "cards": [
+
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ Desligue o ouvido do dia a dia",
+              "itens": [
+                "No português falado no Brasil, é comum colocar o pronome **antes** do verbo.",
+                "Exemplo: **Me pediram silêncio.**",
+                "Nas questões de norma-padrão, devem ser observadas as regras formais de colocação pronominal."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Radar de prova",
+              "itens": [
+                "Não escolha automaticamente pela forma que soa mais natural na fala.",
+                "Identifique as regras de colocação pronominal exigidas pela norma-padrão."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "02. 🟢 Próclise — O Império dos 'Ímãs'",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Próclise?",
+              "itens": [
+                "Próclise ocorre quando o pronome aparece **antes do verbo**.",
+                "Algumas palavras funcionam como **elementos atrativos**, puxando o pronome para perto delas."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧲 Ideia central",
+              "itens": [
+                "**Palavra atrativa → pronome antes do verbo.**",
+                "Pense na palavra atrativa como um **ímã**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Palavras Atrativas",
+          "cards": [
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🚫 Palavras negativas",
+              "itens": [
+                "**não, nunca, jamais, ninguém, nada, nem**",
+                "Exemplo: **Não me** falaram nada."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔵 Advérbios",
+              "itens": [
+                "**aqui, bem, mal, ainda, já, só, talvez, sempre**",
+                "Exemplo: **Ainda me** pergunto se fiz a escolha certa."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "❓ Interrogativas e Exclamativas",
+              "itens": [
+                "**quem, quando, como, que, quanto**",
+                "Exemplo: Que Deus **o** acompanhe!"
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔗 Relativos e Conjunções Subordinativas",
+              "itens": [
+                "**que, quem, cujo, quando, se, embora, conforme**",
+                "Exemplo: Prefiro que **me** diga a verdade."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "👥 Indefinidos e Numerais",
+              "itens": [
+                "**todos, ambos, alguém, ninguém, tudo**",
+                "Exemplo: Todos **a** viram hoje pela manhã."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔄 'Em' + Gerúndio",
+              "itens": [
+                "A construção **em + gerúndio** aparece como contexto de próclise.",
+                "Exemplo: Em **se** tratando de romances, ela é especialista."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Macete e Revisão",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧲 Resumo dos Ímãs",
+              "itens": [
+                "Palavra negativa → próclise.",
+                "Advérbio → próclise.",
+                "Interrogativa ou exclamativa → próclise.",
+                "Pronome relativo ou conjunção subordinativa → próclise.",
+                "Pronome indefinido ou numeral → próclise.",
+                "Construção **em + gerúndio** → próclise."
+              ]
+            },
+
+            {
+              "tipo": "resumo",
+              "titulo": "🎯 Regra prática da Próclise",
+              "itens": [
+                "Procure primeiro uma **palavra atrativa**.",
+                "Encontrou um 'ímã'? → pense em **PRÓCLISE**."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "03. 🔵 Ênclise — Quando o Pronome Vai para o Fim",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Ênclise?",
+              "itens": [
+                "Ênclise ocorre quando o pronome aparece **depois do verbo**.",
+                "Quando não há elemento atrativo, a norma-padrão apresenta situações em que a ênclise é empregada."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Ideia central",
+              "itens": [
+                "Sem elemento atrativo e diante de uma situação favorável à colocação posterior, pense em **ÊNCLISE**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Regras de Ouro",
+          "cards": [
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Início de frase",
+              "itens": [
+                "Na norma-padrão, não se começa frase com pronome átono.",
+                "❌ **Me** pediram silêncio.",
+                "✅ Pediram-**nos** silêncio."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "📢 Imperativo afirmativo",
+              "itens": [
+                "Em ordens ou pedidos no imperativo afirmativo, utiliza-se ênclise.",
+                "Exemplo: **Ajude-me**, por favor."
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "✂️ Vírgula e atração",
+              "itens": [
+                "No material, a vírgula entre o elemento atrativo e o verbo é apresentada como quebra da atração.",
+                "Sem vírgula: **Aqui se vive** bem.",
+                "Com vírgula: **Aqui, vive-se** bem."
+              ]
+            },
+
+            {
+              "tipo": "importante",
+              "titulo": "📌 Infinitivo solto",
+              "itens": [
+                "Verbos terminados em **-ar, -er, -ir** aceitam a ênclise mesmo que exista elemento atrativo antes.",
+                "Exemplo: Para não olhá-**lo**, fechei os olhos.",
+                "O material também apresenta como possibilidade: **para não o olhar**."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Macete",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Quando lembrar da Ênclise",
+              "itens": [
+                "Frase começa com verbo → ênclise.",
+                "Imperativo afirmativo → ênclise.",
+                "Vírgula separando o elemento atrativo do verbo → ênclise, conforme o material.",
+                "Infinitivo solto → pode admitir ênclise, conforme a regra apresentada."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "04. 🟣 Mesóclise — A Fratura Exposta do Verbo",
+      "subtopicos": [
+
+        {
+          "titulo": "Conceito",
+          "cards": [
+
+            {
+              "tipo": "conceito",
+              "titulo": "📖 O que é Mesóclise?",
+              "itens": [
+                "Mesóclise ocorre quando o pronome aparece **no meio do verbo**.",
+                "É apresentada como uma construção pouco comum na fala, mas muito cobrada em questões de prova."
+              ]
+            },
+
+            {
+              "tipo": "importante",
+              "titulo": "⏳ Condição principal",
+              "itens": [
+                "O verbo deve estar no **futuro do presente** ou no **futuro do pretérito**.",
+                "Além disso, o material exige ausência de elemento atrativo antes do verbo."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Exemplos",
+          "cards": [
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Futuro do Presente",
+              "itens": [
+                "Calarei → Calar-**me**-ei.",
+                "Indica uma ação projetada para o futuro."
+              ]
+            },
+
+            {
+              "tipo": "exemplo",
+              "titulo": "Futuro do Pretérito",
+              "itens": [
+                "Calaria → Calar-**me**-ia.",
+                "Indica uma ação que aconteceria em determinada condição."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Armadilhas",
+          "cards": [
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Armadilha 1 — Palavra atrativa",
+              "itens": [
+                "Se houver um elemento atrativo antes do verbo, a **próclise** prevalece sobre a mesóclise no material.",
+                "✅ **Não me calarei.**",
+                "❌ **Não calar-me-ei.**"
+              ]
+            },
+
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Armadilha 2 — Sujeito explícito",
+              "itens": [
+                "O material apresenta o sujeito explícito antes do verbo como fator que impede a mesóclise.",
+                "✅ **Eu me calarei.**",
+                "❌ **Eu calar-me-ei.**"
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Macete",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 Regra rápida da Mesóclise",
+              "itens": [
+                "1. Verbo no futuro do presente ou do pretérito.",
+                "2. Sem palavra atrativa.",
+                "3. Sem sujeito explícito antes do verbo, conforme o material.",
+                "Resultado → **MESÓCLISE**."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "05. 🧩 Algoritmo da Aprovação",
+      "subtopicos": [
+
+        {
+          "titulo": "Fluxo de Decisão",
+          "cards": [
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔎 Passo 1 — Tem elemento atrativo?",
+              "itens": [
+                "Procure palavras negativas.",
+                "Procure advérbios.",
+                "Procure interrogativas ou exclamativas.",
+                "Procure pronomes relativos.",
+                "Procure conjunções subordinativas.",
+                "Procure pronomes indefinidos ou numerais.",
+                "Procure a construção **em + gerúndio**.",
+                "Se houver → **PRÓCLISE**."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "⏳ Passo 2 — É futuro sem elemento atrativo?",
+              "itens": [
+                "Verifique se o verbo está no futuro do presente ou do pretérito.",
+                "Verifique a ausência de elemento atrativo.",
+                "Conforme o material, verifique também a ausência de sujeito explícito.",
+                "Se as condições forem atendidas → **MESÓCLISE**."
+              ]
+            },
+
+            {
+              "tipo": "conteudo",
+              "titulo": "🔵 Passo 3 — Demais situações",
+              "itens": [
+                "Se não houver elemento atrativo.",
+                "Se não houver condição para mesóclise.",
+                "Considere a **ÊNCLISE**, especialmente nas situações apresentadas no material."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Fluxograma mental",
+              "itens": [
+                "**Ímã? → PRÓCLISE.**",
+                "**Futuro sem ímã? → MESÓCLISE.**",
+                "**Nenhum dos dois? → ÊNCLISE.**"
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "titulo": "06. 🔥 Resumo Final e Dicas de Prova",
+      "subtopicos": [
+
+        {
+          "titulo": "Frase para Memorizar",
+          "cards": [
+
+            {
+              "tipo": "bizu",
+              "titulo": "🧠 A frase-chave",
+              "itens": [
+                "**Viu ímã? → Próclise.**",
+                "**Viu futuro solto? → Mesóclise.**",
+                "**Começou com verbo? → Ênclise.**"
+              ]
+            },
+
+            {
+              "tipo": "tabela",
+              "titulo": "📋 Quadro Comparativo",
+              "tabela": {
+                "colunas": ["Tipo", "Posição", "Ideia-chave"],
+                "linhas": [
+                  ["Próclise", "Antes do verbo", "Elemento atrativo"],
+                  ["Ênclise", "Depois do verbo", "Ausência de atração / situações específicas"],
+                  ["Mesóclise", "No meio do verbo", "Futuro sem elemento atrativo"]
+                ]
+              }
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Pegadinhas",
+          "cards": [
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — Início da frase",
+              "itens": [
+                "❌ Não comece frase com pronome átono na norma-padrão apresentada.",
+                "✅ Utilize a colocação adequada à estrutura da oração."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — Vírgula",
+              "itens": [
+                "Atenção à pontuação entre o elemento atrativo e o verbo.",
+                "O material apresenta a vírgula como quebra da atração."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — Infinitivo",
+              "itens": [
+                "O infinitivo admite a colocação apresentada como exceção.",
+                "Exemplo: **Para não olhá-lo**.",
+                "O material também apresenta: **para não o olhar**."
+              ]
+            },
+
+            {
+              "tipo": "pegadinha",
+              "titulo": "🚨 Pegadinha — Mesóclise",
+              "itens": [
+                "Mesóclise depende do verbo no futuro.",
+                "A presença de elemento atrativo favorece a próclise.",
+                "A presença de sujeito explícito é apresentada no material como impedimento."
+              ]
+            },
+
+            {
+              "tipo": "bizu",
+              "titulo": "👑 Palavra atrativa",
+              "itens": [
+                "**A palavra atrativa manda no pronome.**",
+                "Encontrou o 'ímã'? Analise primeiro a possibilidade de próclise."
+              ]
+            }
+
+          ]
+        },
+
+        {
+          "titulo": "Mapa Mental",
+          "cards": [
+
+            {
+              "tipo": "resumo",
+              "titulo": "🗺️ Mapa Mental — Colocação Pronominal",
+              "imagem": "./IMAGENS/02.png",
+              "itens": [
+                "**Próclise** → pronome antes do verbo.",
+                "**Ênclise** → pronome depois do verbo.",
+                "**Mesóclise** → pronome no meio do verbo."
+              ]
+            }
+
+          ]
+        }
+
+      ]
+    }
+
+  ]
+};
