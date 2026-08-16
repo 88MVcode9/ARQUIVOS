@@ -225,11 +225,6 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "tipo": "conceito",
           "titulo": "Indisponibilidade do Interesse Público",
           "texto": "O administrador não é 'dono' do patrimônio público; ele apenas o gerencia. Não pode abrir mão dos direitos do Estado livremente (ex: não pode perdoar dívidas sem lei)."
-        },
-        {
-          "tipo": "imagem",
-          "titulo": "Mapa-mental",
-          "imagem": "./IMAGENS/01.jpg"
         }
       ]
     },
@@ -533,7 +528,12 @@ window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.j
           "tipo": "bizu",
           "titulo": "Decore isto!",
           "texto": "**ESTADO → é permanente.**\n**GOVERNO → é transitório e direciona.**\n**ADMINISTRAÇÃO → exerce a função administrativa.**\n\n**Povo + Território + Soberania = Estado.**\n\n**Subjetivo = QUEM.**\n**Objetivo = O QUÊ.**\n\n**Direta = União, Estados, DF e Municípios.**\n**Indireta = Autarquia, Fundação, Empresa Pública e SEM.**\n\n**Desconcentração = mesma pessoa.**\n**Descentralização = outra pessoa.**\n\n**Executivo = função administrativa típica.**\n**Legislativo e Judiciário = função administrativa atípica.**"
-        }
+        },
+          {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+          }
       ]
     }
   ]
