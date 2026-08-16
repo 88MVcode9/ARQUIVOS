@@ -1,0 +1,541 @@
+window.__ESTUDA_DATA__=(window.__ESTUDA_DATA__||{});window.__ESTUDA_DATA__['01.json']=
+{
+  "materia": "Direito Administrativo",
+  "titulo": "Estado, Governo e Administração Pública",
+  "icone": "🏛️",
+  "descricao": "Material organizado para estudo de Direito Administrativo: Estado, Governo, Administração Pública, seus sentidos, função administrativa, Administração Direta e Indireta e desconcentração e descentralização.",
+  "topicos": [
+    {
+      "titulo": "O que é Administração Pública",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Definição",
+          "texto": "É o conjunto de **órgãos, entidades e agentes** que exercem a função administrativa do Estado, transformando leis em ações concretas para a sociedade. Funciona como o 'braço executivo' que garante saúde, educação, segurança e infraestrutura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Por que existe?",
+          "texto": "Para que o Estado cumpra suas funções básicas de forma eficiente e ordenada, atendendo às necessidades coletivas."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo prático",
+          "texto": "Ao se vacinar em um posto de saúde, você interage com a Administração: o médico (agente), o prédio (órgão) e a vacina (insumo) formam essa estrutura."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Estrutura Organizada",
+          "texto": "A Administração Pública atua através de uma estrutura organizada para garantir saúde, educação, segurança e infraestrutura."
+        }
+      ]
+    },
+    {
+      "titulo": "Critério Formal (Subjetivo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Foco em QUEM exerce",
+          "texto": "Considera a **estrutura administrativa do Estado**: agentes, órgãos e entidades. Se for um ministério, prefeitura ou autarquia fazendo, é Administração Pública, independentemente da tarefa."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplos",
+          "texto": "Professor de escola estadual, auditor da Receita Federal, servidor de uma autarquia."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Bens públicos",
+          "texto": "No critério formal (subjetivo), também são considerados os bens públicos envolvidos na atividade administrativa."
+        }
+      ]
+    },
+    {
+      "titulo": "Critério Material (Objetivo)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Foco em O QUE é feito",
+          "texto": "Considera a **função administrativa propriamente dita**: prestação de serviços públicos, gestão e fiscalização. Se a atividade é serviço público (ex: transporte), é Administração, mesmo que feita por empresa privada."
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplos",
+          "texto": "Concessionária de metrô, OSCIP gerenciando hospital, empresa terceirizada de coleta de lixo."
+        }
+      ]
+    },
+    {
+      "titulo": "Comparando os Critérios na Prática",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Cenário: Coleta de lixo",
+          "tabela": {
+            "colunas": [
+              "Critério",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Formal",
+                "Prefeitura cria uma Autarquia para o lixo."
+              ],
+              [
+                "Material",
+                "Prefeitura contrata empresa privada (concessão)."
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Por que essa distinção importa?",
+          "texto": "Define qual lei aplicar (Direito Público ou Privado), quem deve fiscalizar o serviço e onde o cidadão deve reclamar (ex: ANEEL para energia). É tema recorrente em provas."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Resumo: Formal vs Material",
+          "texto": "Formal: Estrutura estatal (Quem faz). Material: Atividade exercida (O que é feito). Os dois critérios se complementam para definir o alcance do Direito Administrativo."
+        }
+      ]
+    },
+    {
+      "titulo": "Sentido Amplo vs. Sentido Estrito (Stricto)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Alcance da Administração",
+          "texto": "Além dos critérios formal e material, a doutrina divide a Administração Pública quanto ao seu alcance em **sentido amplo** e **sentido estrito**."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Comparação",
+          "tabela": {
+            "colunas": [
+              "Sentido",
+              "Definição",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Amplo (Lato Sensu)",
+                "Envolve tanto os **órgãos políticos** (decisão e criação de políticas) quanto os **órgãos administrativos** (execução).",
+                "Presidente da República e Ministérios."
+              ],
+              [
+                "Estrito (Stricto Sensu)",
+                "Envolve **apenas a função administrativa** e seus executores, excluindo a função política de governo.",
+                "Servidores públicos, autarquias, fundações."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Atividades Materiais da Administração (Quádrupla Atividade)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Visão geral",
+          "texto": "O critério material (objetivo) se desdobra em quatro pilares de atuação da Administração Pública no dia a dia."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Serviço Público",
+          "texto": "Prestação direta de utilidades aos cidadãos (ex: transporte, saúde, energia)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Poder de Polícia",
+          "texto": "Atividade de fiscalização, limitação e regulação de direitos individuais em prol do interesse público (ex: vigilância sanitária, fiscalização de trânsito)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Fomento",
+          "texto": "Incentivo à iniciativa privada de interesse público (ex: concessão de subsídios, financiamentos públicos, apoio a ONGs)."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Intervenção",
+          "texto": "Atuação na propriedade privada (ex: desapropriação) ou no domínio econômico (ex: estatais como Petrobras)."
+        }
+      ]
+    },
+    {
+      "titulo": "Fontes do Direito Administrativo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Lei",
+          "texto": "Fonte primária e principal, base do princípio da legalidade. A Administração só pode agir conforme a lei."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Doutrina",
+          "texto": "Estudos, livros e artigos de juristas e especialistas que ajudam a interpretar e sistematizar as normas."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Jurisprudência",
+          "texto": "Decisões reiteradas dos tribunais, com destaque para as **Súmulas Vinculantes** do STF, que vinculam toda a Administração."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Costumes",
+          "texto": "Práticas administrativas repetidas ao longo do tempo, desde que não contrariem a lei (fonte secundária)."
+        }
+      ]
+    },
+    {
+      "titulo": "Sistemas Administrativos (Controle da Administração)",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Como os atos são fiscalizados?",
+          "texto": "Existem dois grandes sistemas de controle da Administração Pública no mundo: o **Sistema Francês** (jurisdição dupla) e o **Sistema Inglês** (jurisdição única)."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "No Brasil — Sistema Francês de Jurisdição Única",
+          "texto": "O Brasil adota o **Sistema Francês de Jurisdição Única** (ou simplesmente **Jurisdição Única**), consagrado no **art. 5º, XXXV, da CF/88** — princípio da inafastabilidade da jurisdição. Embora o sistema inglês puro também se baseie na jurisdição única, o modelo brasileiro difere em histórico: absorveu a jurisdição única, mas mantém a dualidade de instâncias administrativas e judiciais, com o **monopólio da função jurisdicional pelo Poder Judiciário** para decisões definitivas. O cidadão pode levar qualquer lesão ou ameaça a direito diretamente ao Judiciário, sem necessidade de esgotar a via administrativa."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Diferença do Sistema Inglês Puro",
+          "texto": "No sistema inglês tradicional, a jurisdição está unida ao Poder Executivo (ex: ministros que são juízes). No Brasil, a jurisdição permanece **separada** e **monopolizada** pelo Poder Judiciário, mesmo que o cidadão tenha acesso direto ao juiz. A expressão 'jurisdição única' refere-se à **união da jurisdição em um único órgão estatal** (o Poder Judiciário), não à fusão entre Executivo e Judiciário."
+        }
+      ]
+    },
+    {
+      "titulo": "Regime Jurídico-Administrativo (A Base de Tudo)",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é?",
+          "texto": "Conjunto de regras que concede **poderes especiais** à Administração, mas também impõe **restrições** e deveres, garantindo o equilíbrio entre eficiência e proteção ao cidadão."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Supremacia do Interesse Público",
+          "texto": "O interesse da coletividade prevalece sobre o interesse individual. Dá prerrogativas ao Estado, como desapropriar um imóvel, aplicar multas ou requisitar bens."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Indisponibilidade do Interesse Público",
+          "texto": "O administrador não é 'dono' do patrimônio público; ele apenas o gerencia. Não pode abrir mão dos direitos do Estado livremente (ex: não pode perdoar dívidas sem lei)."
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "Mapa-mental",
+          "imagem": "./IMAGENS/01.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Estado, Governo e Administração Pública",
+      "cards": [
+        {
+          "tipo": "visao_geral",
+          "titulo": "Visão geral",
+          "texto": "**Estado = estrutura permanente.** **Governo = direção política.** **Administração Pública = função administrativa.**"
+        }
+      ]
+    },
+    {
+      "titulo": "1. Estado",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Estado?",
+          "texto": "É a organização política e jurídica soberana que representa o país nas relações internacionais."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Característica principal",
+          "texto": "**ESTADO = PERMANENTE.** O Estado permanece mesmo quando mudam os governantes."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Elementos do Estado",
+          "texto": "**P + T + S = Estado** → **Povo + Território + Soberania.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Povo",
+          "texto": "Conjunto de nacionais ligados juridicamente ao Estado."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Povo × População × Nação",
+          "texto": "**Povo** → nacionais.\n**População** → todas as pessoas presentes no território.\n**Nação** → comunidade humana unida por elementos históricos e culturais."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Território",
+          "texto": "É o espaço sobre o qual o Estado exerce sua soberania. Abrange, de forma geral, o espaço terrestre, as águas territoriais e o espaço aéreo correspondente."
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Soberania",
+          "texto": "É o poder supremo do Estado.\n\n**Internamente** → poder supremo dentro do território.\n**Externamente** → independência perante outros Estados."
+        }
+      ]
+    },
+    {
+      "titulo": "2. Brasil",
+      "cards": [
+        {
+          "tipo": "comparacao",
+          "titulo": "Características do Brasil",
+          "tabela": {
+            "colunas": [
+              "Aspecto",
+              "Brasil"
+            ],
+            "linhas": [
+              [
+                "Forma de Estado",
+                "Federação"
+              ],
+              [
+                "Forma de Governo",
+                "República"
+              ],
+              [
+                "Sistema de Governo",
+                "Presidencialismo"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Entes federativos",
+          "texto": "• União\n• Estados\n• Distrito Federal\n• Municípios"
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Pegadinha de prova",
+          "texto": "**Soberania** → República Federativa do Brasil.\n**Autonomia** → União, Estados, Distrito Federal e Municípios."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Soberania × Autonomia",
+          "texto": "🧠 **Soberania é do Estado brasileiro; os entes federativos possuem autonomia.**"
+        }
+      ]
+    },
+    {
+      "titulo": "3. Governo",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Governo?",
+          "texto": "Ocupa a cúpula do Estado e é responsável pela direção política, tomando decisões e estabelecendo os rumos do Estado."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Característica principal",
+          "texto": "**GOVERNO = TRANSITÓRIO.** Os governantes mudam, enquanto o Estado permanece."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Macete",
+          "texto": "**GOVERNO = decide e direciona.**"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Principais funções",
+          "texto": "• Planejamento estratégico\n• Definição de prioridades\n• Formulação de políticas públicas\n• Decisões econômicas\n• Definição da agenda política\n• Decisões de alto escalão"
+        }
+      ]
+    },
+    {
+      "titulo": "4. Governabilidade, Governança e Accountability",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Governabilidade",
+          "texto": "É a capacidade e as condições políticas e institucionais para governar.\n\n🧠 **Governabilidade = pode governar.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Governança",
+          "texto": "É a capacidade de administrar, coordenar e implementar políticas e ações.\n\n🧠 **Governança = consegue governar.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Accountability",
+          "texto": "É o dever de prestar contas, dar transparência e assumir responsabilidade pelos atos praticados.\n\n🧠 **Accountability = presta contas.**"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Macete dos 3",
+          "texto": "**Governabilidade → pode.**\n**Governança → consegue.**\n**Accountability → presta contas.**"
+        }
+      ]
+    },
+    {
+      "titulo": "5. Administração Pública",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Conceito",
+          "texto": "A Administração Pública está relacionada à função administrativa do Estado."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Governo × Administração",
+          "texto": "**Governo → define/direciona.**\n**Administração Pública → executa/implementa.**"
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Atuação",
+          "texto": "Atua principalmente nos níveis tático e operacional, colocando em prática políticas e decisões dentro das competências previstas em lei."
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Atenção",
+          "texto": "Essa é uma forma didática de diferenciar Governo e Administração. Não significa que a Administração apenas execute ordens do Governo."
+        }
+      ]
+    },
+    {
+      "titulo": "6. Sentidos da Administração Pública",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Sentido subjetivo, orgânico ou formal",
+          "texto": "Pergunta: **QUEM FAZ?**\n\nRefere-se aos sujeitos que exercem a função administrativa:\n• Agentes públicos\n• Órgãos públicos\n• Entidades administrativas\n\n🧠 **SUBJETIVO → SUJEITO → QUEM.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Sentido objetivo, material ou funcional",
+          "texto": "Pergunta: **O QUE FAZ?**\n\nRefere-se à atividade administrativa:\n• Serviço público\n• Poder de polícia\n• Fomento\n• Intervenção do Estado\n\n🧠 **OBJETIVO → OBJETO/ATIVIDADE → O QUE FAZ.**"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Macete",
+          "texto": "**SUBJETIVO = QUEM 👤**\n**OBJETIVO = O QUÊ ⚙️**"
+        }
+      ]
+    },
+    {
+      "titulo": "7. Função Administrativa",
+      "cards": [
+        {
+          "tipo": "conteudo",
+          "titulo": "Quem exerce?",
+          "texto": "A função administrativa é exercida pelos três Poderes."
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "Função típica e atípica",
+          "tabela": {
+            "colunas": [
+              "Poder",
+              "Função administrativa"
+            ],
+            "linhas": [
+              [
+                "Executivo",
+                "Típica"
+              ],
+              [
+                "Legislativo",
+                "Atípica"
+              ],
+              [
+                "Judiciário",
+                "Atípica"
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "importante",
+          "titulo": "Pegadinha de prova",
+          "texto": "❌ **Somente o Poder Executivo exerce função administrativa.** → ERRADO.\n\n✅ Os três Poderes podem exercer função administrativa."
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Macete",
+          "texto": "**Executivo = administrativo típico.**\n**Legislativo e Judiciário = administrativo atípico.**"
+        }
+      ]
+    },
+    {
+      "titulo": "8. Administração Direta e Indireta",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Administração Direta",
+          "texto": "É composta pelos próprios entes federativos: **União, Estados, Distrito Federal e Municípios.** Esses entes exercem suas competências por meio de órgãos públicos.\n\n🧠 **Direta = entes federativos.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Administração Indireta",
+          "texto": "É composta por entidades administrativas dotadas de personalidade jurídica própria."
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Entidades da Administração Indireta",
+          "texto": "1. **Autarquias**\n2. **Fundações públicas**\n3. **Empresas públicas**\n4. **Sociedades de economia mista**\n\n🧠 **Indireta = entidades administrativas.**"
+        }
+      ]
+    },
+    {
+      "titulo": "9. Desconcentração × Descentralização",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "Desconcentração",
+          "texto": "É a distribuição interna de competências **dentro da mesma pessoa jurídica**.\n\nExemplo: Prefeitura → Secretarias → Departamentos.\n\n🧠 **DESCONCENTRAÇÃO = mesma pessoa jurídica.**"
+        },
+        {
+          "tipo": "conceito",
+          "titulo": "Descentralização",
+          "texto": "Ocorre quando determinada atividade é atribuída a **outra pessoa jurídica**.\n\nExemplo: Estado → Autarquia.\n\n🧠 **DESCENTRALIZAÇÃO = outra pessoa jurídica.**"
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "Macete definitivo",
+          "texto": "**DESCONCENTRAÇÃO = órgãos.**\n**DESCENTRALIZAÇÃO = pessoas jurídicas diferentes.**"
+        }
+      ]
+    },
+    {
+      "titulo": "10. Mapa Mental para Decorar",
+      "cards": [
+        {
+          "tipo": "mapa_mental",
+          "titulo": "Estado",
+          "texto": "ESTADO\n├── Permanente\n├── Povo\n├── Território\n└── Soberania\n    ↓\nBRASIL\n├── Federação\n├── República\n└── Presidencialismo"
+        },
+        {
+          "tipo": "mapa_mental",
+          "titulo": "Governo",
+          "texto": "GOVERNO\n├── Transitório\n├── Direção política\n├── Planejamento\n├── Políticas públicas\n└── 3 conceitos\n    ├── Governabilidade → pode governar\n    ├── Governança → consegue governar\n    └── Accountability → presta contas"
+        },
+        {
+          "tipo": "mapa_mental",
+          "titulo": "Administração Pública",
+          "texto": "ADMINISTRAÇÃO PÚBLICA\n├── Sentido subjetivo → QUEM?\n│   ├── Agentes\n│   ├── Órgãos\n│   └── Entidades\n├── Sentido objetivo → O QUÊ?\n│   ├── Serviço público\n│   ├── Poder de polícia\n│   ├── Fomento\n│   └── Intervenção\n├── Direta\n│   ├── União\n│   ├── Estados\n│   ├── DF\n│   └── Municípios\n└── Indireta\n    ├── Autarquias\n    ├── Fundações públicas\n    ├── Empresas públicas\n    └── Sociedades de economia mista"
+        }
+      ]
+    },
+    {
+      "titulo": "Super-Bizu para a Prova",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "Decore isto!",
+          "texto": "**ESTADO → é permanente.**\n**GOVERNO → é transitório e direciona.**\n**ADMINISTRAÇÃO → exerce a função administrativa.**\n\n**Povo + Território + Soberania = Estado.**\n\n**Subjetivo = QUEM.**\n**Objetivo = O QUÊ.**\n\n**Direta = União, Estados, DF e Municípios.**\n**Indireta = Autarquia, Fundação, Empresa Pública e SEM.**\n\n**Desconcentração = mesma pessoa.**\n**Descentralização = outra pessoa.**\n\n**Executivo = função administrativa típica.**\n**Legislativo e Judiciário = função administrativa atípica.**"
+        }
+      ]
+    }
+  ]
+}
+;
