@@ -1,0 +1,871 @@
+window.__ESTUDA_DATA__['01.json'] = {
+  "materia": "Língua Portuguesa",
+  "titulo": "Pronomes",
+  "icone": "🔤",
+  "descricao": "Guia completo sobre os pronomes, organizado em micropílulas de conhecimento para facilitar a compreensão, a memorização e a revisão rápida.",
+  "data": "2026-08-15",
+  "revisao": "4.0",
+  "topicos": [
+    {
+      "titulo": "🧠 Introdução — O que é um Pronome?",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que é Pronome?",
+          "itens": [
+            "O **substantivo** nomeia seres, objetos, lugares, sentimentos e outras entidades.",
+            "O **pronome** pode substituir ou acompanhar um substantivo."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "🎬 O exemplo do cinema",
+          "itens": [
+            "Imagine o substantivo como o **ator principal** da frase.",
+            "O pronome pode funcionar como um **ajudante**, substituindo ou acompanhando esse substantivo."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Função 1 — Pronome Substantivo",
+          "itens": [
+            "O pronome pode substituir o substantivo.",
+            "Exemplo: João cansou.",
+            "**Ele** foi dormir.",
+            "**Ele** substitui o termo **João**."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "Função 2 — Pronome Adjetivo",
+          "itens": [
+            "O pronome pode acompanhar um substantivo.",
+            "Exemplo: **Meu** carro quebrou.",
+            "**Meu** acompanha o substantivo **carro**."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "🆚 Pronome Substantivo x Pronome Adjetivo",
+          "tabela": {
+            "colunas": [
+              "Tipo",
+              "Função",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Pronome substantivo",
+                "Substitui o substantivo",
+                "**Ele** chegou."
+              ],
+              [
+                "Pronome adjetivo",
+                "Acompanha o substantivo",
+                "**Meu** carro."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "1. Pronomes Pessoais 👑",
+      "subtopicos": [
+        {
+          "titulo": "Caso Reto",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "👑 Pronomes do Caso Reto",
+              "itens": [
+                "São normalmente empregados como **sujeito** da oração.",
+                "Principais formas: **eu, tu, ele, nós, vós, eles**."
+              ]
+            },
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Pronome Reto",
+              "itens": [
+                "**Nós** vamos comer pizza.",
+                "**Nós** exerce a função de sujeito."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Caso Oblíquo",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "🛡️ Pronomes do Caso Oblíquo",
+              "itens": [
+                "São empregados em funções diferentes da de sujeito.",
+                "Exemplos: **me, mim, comigo, te, ti, contigo, o, a, lhe**, entre outros."
+              ]
+            },
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplo — Pronome Oblíquo",
+              "itens": [
+                "O chefe chamou a **mim**.",
+                "**Mim** recebe a ação expressa pelo verbo."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Mim x Eu",
+          "cards": [
+            {
+              "tipo": "bizu",
+              "titulo": "🚨 Macete — 'Mim não conjuga verbo'",
+              "itens": [
+                "**MIM NÃO CONJUGA VERBO.**",
+                "Quando o pronome exercer a função de sujeito de um verbo no infinitivo, utiliza-se **eu**."
+              ]
+            },
+            {
+              "tipo": "errado",
+              "titulo": "❌ Forma inadequada",
+              "itens": [
+                "Trouxe a pizza para **mim comer**."
+              ]
+            },
+            {
+              "tipo": "certo",
+              "titulo": "✅ Forma adequada",
+              "itens": [
+                "Trouxe a pizza para **eu comer**."
+              ]
+            },
+            {
+              "tipo": "observacao",
+              "titulo": "📌 Quando 'mim' pode aparecer?",
+              "itens": [
+                "Ele comprou a pizza para **mim**.",
+                "Nesse caso, **mim** não é sujeito de um verbo.",
+                "O verbo já está em outra estrutura."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "2. Pronomes Possessivos 😠",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Pronomes Possessivos?",
+          "itens": [
+            "Indicam relação de **posse** ou pertencimento.",
+            "Exemplos: **meu, teu, seu, nosso**, entre outros."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "Exemplo de Pronome Possessivo",
+          "itens": [
+            "**Meu** chocolate estava na mesa.",
+            "Alguém mexeu nas **minhas** coisas!"
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "🚨 Ambiguidade com 'seu' e 'sua'",
+          "itens": [
+            "\"O chefe discutiu com o funcionário sobre o **seu** salário.\"",
+            "O salário é do chefe ou do funcionário?",
+            "O pronome pode gerar **dupla interpretação**."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Como evitar a ambiguidade?",
+          "itens": [
+            "Observe sempre quem é o referente do possessivo.",
+            "Quando necessário, a frase deve ser reescrita para deixar claro o possuidor."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "3. Pronomes Demonstrativos 👈",
+      "cards": [
+        {
+          "tipo": "bizu",
+          "titulo": "🎯 Regra do T / S / A",
+          "itens": [
+            "**T → ESTE / ESTA / ISTO**",
+            "**S → ESSE / ESSA / ISSO**",
+            "**A → AQUELE / AQUELA / AQUILO**"
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "👉 ESTE / ESTA / ISTO",
+          "itens": [
+            "Relacionam-se, em regra, àquilo que está próximo de quem fala.",
+            "Exemplo: **Esta** caneta é azul.",
+            "Macete: **T de 'Toca Aqui'**."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "👉 ESSE / ESSA / ISSO",
+          "itens": [
+            "Relacionam-se, em regra, àquilo que está próximo de quem ouve.",
+            "Exemplo: Me passa **esse** lápis aí perto de você.",
+            "Macete: **S de 'Sai Pra Lá'**."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "👉 AQUELE / AQUELA / AQUILO",
+          "itens": [
+            "Relacionam-se, em regra, àquilo que está distante de quem fala e de quem ouve.",
+            "Exemplo: Olha **aquele** avião lá no céu.",
+            "Macete: **A de 'Ali Longe'**."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "🆚 Pronomes Demonstrativos",
+          "tabela": {
+            "colunas": [
+              "Grupo",
+              "Formas",
+              "Ideia principal",
+              "Macete"
+            ],
+            "linhas": [
+              [
+                "T",
+                "este, esta, isto",
+                "Próximo de quem fala",
+                "Toca Aqui"
+              ],
+              [
+                "S",
+                "esse, essa, isso",
+                "Próximo de quem ouve",
+                "Sai Pra Lá"
+              ],
+              [
+                "A",
+                "aquele, aquela, aquilo",
+                "Distante de ambos",
+                "Ali Longe"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "4. Pronomes Indefinidos 🤫",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Pronomes Indefinidos?",
+          "itens": [
+            "Referem-se aos seres ou às quantidades de maneira **imprecisa ou indeterminada**.",
+            "Exemplos: **alguém, algum, ninguém, muitos, poucos**, entre outros."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "🔎 Exemplo de Indefinido",
+          "itens": [
+            "**Alguém** comeu meu bolo.",
+            "O pronome não identifica exatamente quem realizou a ação."
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "🚨 A posição de 'algum' altera o sentido",
+          "itens": [
+            "**Antes do substantivo:** Algum amigo me ajudou.",
+            "Sentido: pelo menos um amigo ajudou.",
+            "**Depois do substantivo:** Amigo algum me ajudou.",
+            "Sentido: nenhum amigo ajudou."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "🆚 'Algum' antes x depois",
+          "tabela": {
+            "colunas": [
+              "Posição",
+              "Exemplo",
+              "Sentido"
+            ],
+            "linhas": [
+              [
+                "Antes",
+                "**Algum** amigo me ajudou.",
+                "Pelo menos um"
+              ],
+              [
+                "Depois",
+                "Amigo **algum** me ajudou.",
+                "Nenhum"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "5. Pronomes Interrogativos 🕵️‍♂️",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "O que são Pronomes Interrogativos?",
+          "itens": [
+            "São empregados em perguntas diretas ou indiretas.",
+            "Exemplos: **que, quem, qual, quanto**."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🕵️‍♂️ O FBI da Frase",
+          "itens": [
+            "Imagine que esses pronomes estão fazendo um interrogatório.",
+            "Eles procuram descobrir uma pessoa, uma coisa, uma escolha ou uma quantidade."
+          ]
+        },
+        {
+          "tipo": "exemplo",
+          "titulo": "O Interrogatório",
+          "itens": [
+            "**Quem** comeu o bolo?",
+            "**Qual** deles foi?",
+            "**Quantos** pedaços você comeu?"
+          ]
+        },
+        {
+          "tipo": "resumo",
+          "titulo": "📋 Principais Interrogativos",
+          "tabela": {
+            "colunas": [
+              "Pronome",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Quem",
+                "**Quem** chegou?"
+              ],
+              [
+                "Que",
+                "**Que** aconteceu?"
+              ],
+              [
+                "Qual",
+                "**Qual** você prefere?"
+              ],
+              [
+                "Quanto",
+                "**Quanto** custa?"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "6. Pronomes Relativos 🔗",
+      "subtopicos": [
+        {
+          "titulo": "Conceito e Função",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "🔗 O que são Pronomes Relativos?",
+              "itens": [
+                "Relacionam uma oração a um termo anterior.",
+                "Também ajudam a evitar a repetição de palavras.",
+                "Podem funcionar como uma espécie de **'cola'** entre partes do texto."
+              ]
+            },
+            {
+              "tipo": "exemplo",
+              "titulo": "🪄 A Mágica Acontecendo",
+              "itens": [
+                "**Sem a cola:** Eu vi o cachorro. O cachorro mordeu o carteiro.",
+                "**Com a cola:** Eu vi o cachorro **que** mordeu o carteiro."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Cujo",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "📌 'Cujo' — Ideia de Posse",
+              "itens": [
+                "**Cujo** estabelece relação de posse.",
+                "É um pronome relativo.",
+                "A palavra seguinte a **cujo** não recebe artigo."
+              ]
+            },
+            {
+              "tipo": "errado",
+              "titulo": "❌ Erro — 'cujo o'",
+              "itens": [
+                "A mulher cujo **o** marido é médico..."
+              ]
+            },
+            {
+              "tipo": "certo",
+              "titulo": "✅ Forma adequada",
+              "itens": [
+                "A mulher **cujo** marido é médico..."
+              ]
+            },
+            {
+              "tipo": "bizu",
+              "titulo": "🚨 Macete do 'cujo'",
+              "itens": [
+                "**CUJO + substantivo**",
+                "Evite a estrutura **'cujo o'** ou **'cuja a'**."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Onde",
+          "cards": [
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 'Onde' — Cuidado com o uso",
+              "itens": [
+                "No material, a regra apresentada é utilizar **onde** para referência a **lugar físico**.",
+                "Observe se o antecedente realmente representa um local."
+              ]
+            },
+            {
+              "tipo": "errado",
+              "titulo": "❌ Uso inadequado no exemplo",
+              "itens": [
+                "A situação **onde** me encontro.",
+                "No exemplo apresentado, **situação** não representa um lugar físico."
+              ]
+            },
+            {
+              "tipo": "certo",
+              "titulo": "✅ Exemplo de lugar físico",
+              "itens": [
+                "A rua **onde** eu moro.",
+                "Aqui, **rua** representa um local."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "🧠 Resumo Final",
+      "cards": [
+        {
+          "tipo": "tabela",
+          "titulo": "📋 Quadro Resumo dos Pronomes",
+          "tabela": {
+            "colunas": [
+              "Tipo",
+              "Função / Ideia",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Pessoal",
+                "Refere-se às pessoas do discurso",
+                "**Eu** estudei."
+              ],
+              [
+                "Possessivo",
+                "Indica posse",
+                "**Meu** livro."
+              ],
+              [
+                "Demonstrativo",
+                "Aponta ou situa",
+                "**Este** livro."
+              ],
+              [
+                "Indefinido",
+                "Indica de forma imprecisa",
+                "**Alguém** chegou."
+              ],
+              [
+                "Interrogativo",
+                "Formula pergunta",
+                "**Quem** chegou?"
+              ],
+              [
+                "Relativo",
+                "Relaciona orações",
+                "O aluno **que** chegou."
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🎯 Revisão em 30 segundos",
+          "itens": [
+            "**PESSOAIS** → pessoas do discurso.",
+            "**POSSESSIVOS** → posse.",
+            "**DEMONSTRATIVOS** → posição ou referência.",
+            "**INDEFINIDOS** → referência imprecisa.",
+            "**INTERROGATIVOS** → perguntas.",
+            "**RELATIVOS** → conectam e retomam um antecedente."
+          ]
+        },
+        {
+          "tipo": "imagem",
+          "titulo": "🗺️ Mapa Mental — Pronomes",
+          "imagem": "./IMAGENS/01.png"
+        }
+      ]
+    },
+    {
+      "titulo": "7. Pronomes Pessoais — Átonos, Tônicos e Formas Combinadas 🧩",
+      "subtopicos": [
+        {
+          "titulo": "Oblíquos Átonos x Tônicos",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "🧠 Qual é a diferença?",
+              "itens": [
+                "Os **pronomes oblíquos átonos** normalmente aparecem sem preposição: **me, te, se, o, a, os, as, lhe, lhes, nos, vos**.",
+                "Os **pronomes oblíquos tônicos** aparecem normalmente acompanhados de preposição: **mim, ti, si, comigo, contigo, consigo, conosco, convosco**.",
+                "Os átonos são muito frequentes na colocação pronominal: **me** chamou, não **o** vi, entregou-**lhe** o documento."
+              ]
+            },
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Átonos x Tônicos",
+              "tabela": {
+                "colunas": [
+                  "Tipo",
+                  "Principais formas",
+                  "Exemplo"
+                ],
+                "linhas": [
+                  [
+                    "Átonos",
+                    "me, te, se, o, a, os, as, lhe, lhes, nos, vos",
+                    "Não **o** encontrei."
+                  ],
+                  [
+                    "Tônicos",
+                    "mim, ti, si, comigo, contigo, consigo",
+                    "Ele falou com **mim**."
+                  ]
+                ]
+              }
+            },
+            {
+              "tipo": "bizu",
+              "titulo": "🚨 Pegadinha — 'mim' x 'eu'",
+              "itens": [
+                "**MIM** é forma tônica e não exerce a função de sujeito de verbo no infinitivo.",
+                "Exemplo: Trouxe o material para **eu estudar**.",
+                "Mas: Trouxe o material para **mim**."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Formas Combinadas",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "🔄 O/A/OS/AS mudam de forma",
+              "itens": [
+                "Quando os pronomes **o, a, os, as** se ligam a certas formas verbais, podem assumir as formas **lo, la, los, las** ou **no, na, nos, nas**.",
+                "Após verbos terminados em **-r, -s ou -z**, ocorre a forma com **l** e a terminação verbal é ajustada.",
+                "Exemplo: **comprar + o → comprá-lo**.",
+                "Após formas verbais terminadas em som nasal, ocorre a forma com **n**.",
+                "Exemplo: **viram + o → viram-no**."
+              ]
+            },
+            {
+              "tipo": "comparacao",
+              "titulo": "📋 Formas principais",
+              "tabela": {
+                "colunas": [
+                  "Contexto",
+                  "Forma",
+                  "Exemplo"
+                ],
+                "linhas": [
+                  [
+                    "Após -r, -s ou -z",
+                    "lo, la, los, las",
+                    "comprá-**lo**"
+                  ],
+                  [
+                    "Após som nasal",
+                    "no, na, nos, nas",
+                    "viram-**no**"
+                  ]
+                ]
+              }
+            },
+            {
+              "tipo": "atencao",
+              "titulo": "⚠️ Atenção à falsa fusão",
+              "itens": [
+                "Não se deve confundir essas formas com uma suposta fusão de **o/a/os/as + lhe/lhes**.",
+                "**Lo, la, los, las** são variantes dos pronomes **o, a, os, as** em determinados contextos de ligação ao verbo."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "8. Pronomes Demonstrativos — Referenciação Textual 🔎",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "📖 Demonstrativos também organizam o texto",
+          "itens": [
+            "Além de indicar posição no espaço, os pronomes demonstrativos podem retomar ou antecipar informações dentro do texto.",
+            "**Anáfora**: o pronome retoma algo que já foi mencionado.",
+            "**Catáfora**: o pronome anuncia algo que ainda será apresentado."
+          ]
+        },
+        {
+          "tipo": "comparacao",
+          "titulo": "🆚 Anáfora x Catáfora",
+          "tabela": {
+            "colunas": [
+              "Relação",
+              "Ideia",
+              "Exemplo"
+            ],
+            "linhas": [
+              [
+                "Anáfora",
+                "Retoma informação anterior",
+                "O Brasil cresceu. **Isso** é ótimo."
+              ],
+              [
+                "Catáfora",
+                "Antecipa informação posterior",
+                "**Isto** é o mais importante: estudar."
+              ]
+            ]
+          }
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "👉 Este / esta / isto",
+          "itens": [
+            "Em muitos contextos de referenciação textual, **este/esta/isto** pode anunciar uma informação que ainda será apresentada.",
+            "Exemplo: **Isto** é o que mais importa: estudar.",
+            "Na relação espacial, também pode indicar proximidade de quem fala."
+          ]
+        },
+        {
+          "tipo": "conteudo",
+          "titulo": "👉 Esse / essa / isso",
+          "itens": [
+            "Em muitos contextos de referenciação textual, **esse/essa/isso** pode retomar uma informação já mencionada.",
+            "Exemplo: O Brasil cresceu. **Isso** é ótimo.",
+            "Na relação espacial, pode indicar proximidade de quem ouve."
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "🚨 Dois elementos já citados",
+          "itens": [
+            "Quando se retomam dois termos anteriormente mencionados, é comum usar **aquele** para o termo mais distante/primeiro e **este** para o termo mais próximo/segundo.",
+            "Exemplo: João e Pedro chegaram. **Aquele** estava cansado; **este**, animado.",
+            "Macete: **aquele = mais distante; este = mais próximo**."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "9. Pronomes de Tratamento 👑",
+      "cards": [
+        {
+          "tipo": "conceito",
+          "titulo": "👑 O que são?",
+          "itens": [
+            "São formas utilizadas para tratar alguém de maneira respeitosa, formal ou protocolar.",
+            "Embora se refiram ao interlocutor, as formas de tratamento exigem concordância verbal e pronominal em **3ª pessoa**.",
+            "Exemplos: **você, Vossa Excelência, Vossa Senhoria, Vossa Santidade, Vossa Majestade**."
+          ]
+        },
+        {
+          "tipo": "pegadinha",
+          "titulo": "🚨 Vossa x Sua",
+          "itens": [
+            "**Vossa** é usada quando se fala **diretamente com** a autoridade ou pessoa tratada.",
+            "Exemplo: **Vossa Excelência** pode assinar o documento?",
+            "**Sua** é usada quando se fala **sobre** a autoridade ou pessoa tratada para terceiros.",
+            "Exemplo: **Sua Excelência** o Ministro não compareceu."
+          ]
+        },
+        {
+          "tipo": "bizu",
+          "titulo": "🎯 Macete — Vossa = você; Sua = ele/ela",
+          "itens": [
+            "**VOSSA** → estou falando com a pessoa.",
+            "**SUA** → estou falando sobre a pessoa."
+          ]
+        },
+        {
+          "tipo": "atencao",
+          "titulo": "⚠️ Concordância",
+          "itens": [
+            "A forma de tratamento exige verbo na **3ª pessoa**.",
+            "Exemplo: **Vossa Excelência poderá** decidir.",
+            "Não: Vossa Excelência **podereis** decidir."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "10. Colocação Pronominal — Próclise, Mesóclise e Ênclise 📍",
+      "subtopicos": [
+        {
+          "titulo": "As três posições",
+          "cards": [
+            {
+              "tipo": "comparacao",
+              "titulo": "🆚 Próclise x Mesóclise x Ênclise",
+              "tabela": {
+                "colunas": [
+                  "Tipo",
+                  "Posição",
+                  "Exemplo"
+                ],
+                "linhas": [
+                  [
+                    "Próclise",
+                    "Pronome antes do verbo",
+                    "**Não o** encontrei."
+                  ],
+                  [
+                    "Mesóclise",
+                    "Pronome no meio do verbo",
+                    "**Dar-te-ei** a resposta."
+                  ],
+                  [
+                    "Ênclise",
+                    "Pronome depois do verbo",
+                    "**Entreguei-lhe** o livro."
+                  ]
+                ]
+              }
+            },
+            {
+              "tipo": "bizu",
+              "titulo": "🎯 Pense na posição",
+              "itens": [
+                "**PRÓ**clise → pronome **antes**.",
+                "**MESO**clise → pronome **no meio**.",
+                "**ÊN**clise → pronome **depois**."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Próclise",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "⬅️ Pronome antes do verbo",
+              "itens": [
+                "A próclise ocorre quando o pronome oblíquo átono aparece antes do verbo.",
+                "Há palavras e estruturas que funcionam como **fatores de atração**."
+              ]
+            },
+            {
+              "tipo": "lista",
+              "titulo": "🧲 Principais palavras atrativas",
+              "itens": [
+                "**Palavras negativas**: não, nunca, ninguém, nada etc.",
+                "**Pronomes relativos**: que, quem, cujo, onde etc.",
+                "**Conjunções subordinativas**: quando, porque, embora, se etc.",
+                "**Advérbios**, em determinados contextos: aqui, sempre, talvez etc.",
+                "**Pronomes indefinidos e interrogativos**, em determinados contextos."
+              ]
+            },
+            {
+              "tipo": "exemplo",
+              "titulo": "Exemplos de próclise",
+              "itens": [
+                "**Não o** encontrei.",
+                "**Quem me** chamou?",
+                "**Quando se** iniciou a reunião?"
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Mesóclise",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "↔️ Pronome no meio do verbo",
+              "itens": [
+                "A mesóclise ocorre com **futuro do presente** ou **futuro do pretérito**, quando não houver fator que exija próclise.",
+                "Exemplo: **Dar-te-ei** a resposta.",
+                "Exemplo: **Dir-lhe-ia** a verdade."
+              ]
+            },
+            {
+              "tipo": "atencao",
+              "titulo": "🚨 Regra de ouro",
+              "itens": [
+                "Se houver palavra atrativa antes do verbo, a mesóclise não é usada.",
+                "Exemplo: **Não te darei** a resposta.",
+                "Não: Não **dar-te-ei** a resposta."
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Ênclise",
+          "cards": [
+            {
+              "tipo": "conceito",
+              "titulo": "➡️ Pronome depois do verbo",
+              "itens": [
+                "Na ênclise, o pronome oblíquo átono aparece depois do verbo.",
+                "Exemplo: **Entreguei-lhe** o livro.",
+                "Na norma-padrão, evita-se iniciar uma oração com pronome oblíquo átono."
+              ]
+            },
+            {
+              "tipo": "errado",
+              "titulo": "❌ Pegadinha de prova",
+              "itens": [
+                "**Me dê** um copo d'água.",
+                "Em início absoluto de oração, a colocação tradicional da norma-padrão prefere a ênclise ou outra construção adequada."
+              ]
+            },
+            {
+              "tipo": "certo",
+              "titulo": "✅ Forma tradicional",
+              "itens": [
+                "**Dê-me** um copo d'água."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+};
