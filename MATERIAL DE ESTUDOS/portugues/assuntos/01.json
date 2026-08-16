@@ -1,4 +1,7 @@
-window.__ESTUDA_DATA__['01.json'] = {
+window.__ESTUDA_DATA__ = (window.__ESTUDA_DATA__ || {});
+
+window.__ESTUDA_DATA__['01.json'] = 
+{
   "materia": "Língua Portuguesa",
   "titulo": "Pronomes",
   "icone": "🔤",
