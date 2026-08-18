@@ -1,16 +1,23 @@
 [
+    {
+        "conteudo": "proposicoes",
+        "icone": "puzzle-piece",
+        "id": "proposicoes",
+        "nome": "Proposições",
+        "tipo": "pagina"
+    },
+    {
+        "conteudo": "equivalencias",
+        "icone": "exchange-alt",
+        "id": "equivalencias",
+        "nome": "Equivalências",
+        "tipo": "pagina"
+    },
 {
-    "id": "proposicoes",
-    "nome": "Proposições",
-    "icone": "puzzle-piece",
-    "tipo": "pagina",
-    "conteudo": "proposicoes"
-},
-{
-    "id": "equivalencias",
-    "nome": "Equivalências",
+    "conteudo": "negacoes-logicas",
     "icone": "exchange-alt",
-    "tipo": "pagina",
-    "conteudo": "equivalencias"
+    "id": "negacoes-logicas",
+    "nome": "Negação de Proposições",
+    "tipo": "pagina"
 }
 ]
