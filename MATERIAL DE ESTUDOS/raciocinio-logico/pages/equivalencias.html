@@ -453,81 +453,12 @@
 
         </section>
 
-        <!-- SEÇÃO 4: NEGAÇÃO DO CONDICIONAL -->
-        <section class="section sec-negacao-condicional" id="negacao-condicional">
-            <div class="section-header">
-                <div class="icon-circle">🚫</div>
-                <h2>Negação do Condicional<span class="highlight">Não confunda com equivalência!</span></h2>
-            </div>
-            <div class="card card-accent-red">
-                <div class="formula-box">
-                    <span class="formula-label">Negação do SE... ENTÃO</span>
-                    ¬(P → Q) ≡ P ∧ ¬Q
-                </div>
-                <p>Em português: a negação de <em>"Se P, então Q"</em> é <em>"P e não Q"</em>.</p>
-                <div class="bizu-box">
-                    <span class="bizu-icon">🧠</span>
-                    <span class="bizu-text"><strong>Macete:</strong> "Mantém a primeira, nega a segunda e troca por E." (Regra do <strong>MANE</strong>)</span>
-                </div>
-                <div class="example-box">
-                    <div class="example-label">Exemplo</div>
-                    <div class="example-text">"Se treino, então melhoro"</div>
-                    <p style="margin-top: 6px;">Negação: <strong>"Treino e não melhoro."</strong></p>
-                </div>
-                <div class="alert-box" style="margin-top: 12px;">
-                    <span class="alert-icon">❗</span>
-                    <span class="alert-text"><strong>Não confunda:</strong> Equivalência ≠ Negação. A negação do condicional é <strong style="color: var(--red);">P ∧ ¬Q</strong>, e não ¬P ∨ Q (que é a equivalência).</span>
-                </div>
-            </div>
-        </section>
-
-        <!-- SEÇÃO 5: LEIS DE DE MORGAN -->
-        <section class="section sec-morgan" id="morgan">
-            <div class="section-header">
-                <div class="icon-circle">🔄</div>
-                <h2>Leis de De Morgan<span class="highlight">Negações do "E" e do "OU"</span></h2>
-            </div>
-            <div class="card card-accent-purple">
-                <h3>Negação da Conjunção (E)</h3>
-                <div class="formula-box">
-                    <span class="formula-label">Lei de De Morgan</span>
-                    ¬(P ∧ Q) ≡ ¬P ∨ ¬Q
-                </div>
-                <p>Em português: a negação de <em>"P e Q"</em> é <em>"não P ou não Q"</em>.</p>
-                <div class="example-box">
-                    <div class="example-label">Exemplo</div>
-                    <div class="example-text">"João estuda e trabalha"</div>
-                    <p style="margin-top: 6px;">Negação: <strong>"João não estuda ou não trabalha."</strong></p>
-                </div>
-            </div>
-            <div class="card card-accent-purple">
-                <h3>Negação da Disjunção (OU)</h3>
-                <div class="formula-box">
-                    <span class="formula-label">Lei de De Morgan</span>
-                    ¬(P ∨ Q) ≡ ¬P ∧ ¬Q
-                </div>
-                <p>Em português: a negação de <em>"P ou Q"</em> é <em>"não P e não Q"</em>.</p>
-                <div class="example-box">
-                    <div class="example-label">Exemplo</div>
-                    <div class="example-text">"João estuda ou trabalha"</div>
-                    <p style="margin-top: 6px;">Negação: <strong>"João não estuda e não trabalha."</strong></p>
-                </div>
-            </div>
-            <div class="card" style="border-left: 4px solid var(--yellow);">
-                <h3 style="color: var(--yellow);">📌 Macete geral</h3>
-                <p><strong style="color: var(--yellow);">"Nega tudo e troca o conectivo."</strong></p>
-                <ul>
-                    <li>E (∧) vira OU (∨)</li>
-                    <li>OU (∨) vira E (∧)</li>
-                </ul>
-            </div>
-        </section>
-
-        <!-- SEÇÃO 6: BICONDICIONAL E OU EXCLUSIVO -->
+      
+        <!-- SEÇÃO 6: BICONDICIONAL-->
         <section class="section sec-bicondicional" id="bicondicional">
             <div class="section-header">
                 <div class="icon-circle">🔁</div>
-                <h2>Bicondicional e OU Exclusivo<span class="highlight">Igualdade e diferença</span></h2>
+                <h2>Bicondicional<span class="highlight">Igualdade e diferença</span></h2>
             </div>
             <div class="card card-accent-green">
                 <h3>Bicondicional (↔)</h3>
@@ -546,19 +477,1441 @@
                     <p style="margin-top: 6px;">Equivalente: <strong>"Se estudo, então tenho tempo E se tenho tempo, então estudo."</strong></p>
                 </div>
             </div>
-            <div class="card card-accent-green">
-                <h3>OU Exclusivo (⊕)</h3>
-                <div class="formula-box">
-                    <span class="formula-label">Relação com bicondicional</span>
-                    ¬(P ↔ Q) ≡ P ⊕ Q
-                </div>
-                <p>O OU exclusivo é verdadeiro quando os valores são <strong style="color: var(--text);">diferentes</strong>.</p>
-                <div class="bizu-box">
-                    <span class="bizu-icon">🧠</span>
-                    <span class="bizu-text"><strong>Macete:</strong> ↔ = IGUAIS → V; ⊕ = DIFERENTES → V.</span>
-                </div>
-            </div>
         </section>
+
+        <!-- ============================================================
+     MACETE 02 — OU EXCLUSIVO / EXCLUDENTE (⊕)
+     ============================================================ -->
+
+<article style="
+    position:relative;
+    overflow:hidden;
+    margin-bottom:22px;
+    padding:24px;
+    border-radius:16px;
+    background:linear-gradient(
+        145deg,
+        rgba(168,85,247,.07),
+        rgba(168,85,247,.025)
+    );
+    border:1px solid rgba(168,85,247,.28);
+    border-left:4px solid var(--purple);
+    box-shadow:var(--shadow-card);
+">
+
+    <!-- ========================================================
+         CABEÇALHO
+         ======================================================== -->
+
+    <div style="
+        display:flex;
+        align-items:flex-start;
+        gap:14px;
+        margin-bottom:20px;
+    ">
+
+        <div style="
+            width:46px;
+            height:46px;
+            min-width:46px;
+            border-radius:13px;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            background:rgba(168,85,247,.12);
+            border:1px solid rgba(168,85,247,.25);
+            font-size:1.25rem;
+        ">
+            ⚡
+        </div>
+
+        <div>
+
+            <div style="
+                margin-bottom:4px;
+                color:var(--purple);
+                font-size:.68rem;
+                font-weight:800;
+                text-transform:uppercase;
+                letter-spacing:.08em;
+            ">
+                Bizu de Prova
+            </div>
+
+            <h3 style="
+                margin:0;
+                color:var(--text);
+                font-family:var(--font-heading);
+                font-size:1.12rem;
+                font-weight:800;
+            ">
+                OU Exclusivo — EXCLUDENTE
+            </h3>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         BIZU PRINCIPAL
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:20px;
+        border-radius:12px;
+        background:rgba(0,0,0,.22);
+        border:1px solid rgba(168,85,247,.22);
+        text-align:center;
+    ">
+
+        <div style="
+            margin-bottom:9px;
+            color:var(--text-muted);
+            font-size:.65rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.08em;
+        ">
+            🧠 MACETE
+        </div>
+
+        <div style="
+            margin-bottom:10px;
+            color:var(--purple);
+            font-size:1.25rem;
+            font-weight:900;
+        ">
+            DIFERENTES = V
+        </div>
+
+        <div style="
+            color:var(--red);
+            font-size:1.05rem;
+            font-weight:900;
+        ">
+            IGUAIS = F
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         FRASE PARA DECORAR
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(168,85,247,.055);
+        border:1px dashed rgba(168,85,247,.28);
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--purple);
+            font-size:.67rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.07em;
+        ">
+            🎯 Frase para decorar
+        </div>
+
+        <p style="
+            margin:0;
+            color:var(--text);
+            font-size:1rem;
+            font-weight:800;
+            line-height:1.7;
+        ">
+            “UM OU OUTRO, MAS NÃO OS DOIS.”
+        </p>
+
+        <p style="
+            margin:8px 0 0;
+            color:var(--text-muted);
+            font-size:.86rem;
+            line-height:1.6;
+        ">
+            Se apenas uma das proposições for verdadeira,
+            o OU exclusivo será verdadeiro.
+        </p>
+
+    </div>
+
+
+    <!-- ========================================================
+         COMO IDENTIFICAR
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+    ">
+
+        <div style="
+            margin-bottom:10px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.06em;
+        ">
+            🔎 Como identificar na questão
+        </div>
+
+        <p style="
+            margin:0;
+            color:var(--text-muted);
+            font-size:.88rem;
+            line-height:1.8;
+        ">
+
+            Procure expressões como:
+
+            <br><br>
+
+            <strong style="color:var(--text);">
+                “ou um, ou outro”
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--text);">
+                “mas não os dois”
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--text);">
+                “exclusivamente um”
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--text);">
+                “somente uma das opções”
+            </strong>
+
+        </p>
+
+    </div>
+
+
+    <!-- ========================================================
+         EXEMPLO 01
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:14px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+        ">
+            Exemplo 01
+        </div>
+
+        <p style="
+            margin:0 0 10px;
+            color:var(--text);
+            font-size:.88rem;
+            line-height:1.7;
+        ">
+            <strong>
+                “João vai ao cinema ou vai ao teatro, mas não aos dois.”
+            </strong>
+        </p>
+
+        <div style="
+            padding-top:10px;
+            border-top:1px solid var(--border);
+            color:var(--text-muted);
+            font-size:.86rem;
+            line-height:1.7;
+        ">
+
+            <strong style="color:var(--purple);">
+                Interpretação:
+            </strong>
+
+            João irá a apenas um dos dois lugares.
+
+            <br><br>
+
+            <strong style="color:var(--green);">
+                DIFERENTES → VERDADEIRO
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--red);">
+                IGUAIS → FALSO
+            </strong>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         EXEMPLO 02
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+        ">
+            Exemplo 02
+        </div>
+
+        <p style="
+            margin:0 0 10px;
+            color:var(--text);
+            font-size:.88rem;
+            line-height:1.7;
+        ">
+            <strong>
+                “Maria estuda ou trabalha, mas não faz as duas coisas.”
+            </strong>
+        </p>
+
+        <div style="
+            padding-top:10px;
+            border-top:1px solid var(--border);
+            color:var(--text-muted);
+            font-size:.86rem;
+            line-height:1.7;
+        ">
+
+            <strong style="color:var(--purple);">
+                Interpretação:
+            </strong>
+
+            Maria fará somente uma das duas atividades.
+
+            <br><br>
+
+            <strong style="color:var(--green);">
+                DIFERENTES → VERDADEIRO
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--red);">
+                IGUAIS → FALSO
+            </strong>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         TABELA-VERDADE
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+    ">
+
+        <div style="
+            margin-bottom:12px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.06em;
+        ">
+            Tabela-verdade
+        </div>
+
+        <div style="overflow-x:auto;">
+
+            <table style="
+                width:100%;
+                border-collapse:collapse;
+                font-size:.86rem;
+            ">
+
+                <thead>
+
+                    <tr>
+
+                        <th style="
+                            padding:10px;
+                            border-bottom:1px solid var(--border);
+                            color:var(--text-muted);
+                        ">
+                            P
+                        </th>
+
+                        <th style="
+                            padding:10px;
+                            border-bottom:1px solid var(--border);
+                            color:var(--text-muted);
+                        ">
+                            Q
+                        </th>
+
+                        <th style="
+                            padding:10px;
+                            border-bottom:1px solid var(--border);
+                            color:var(--purple);
+                        ">
+                            P ⊕ Q
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td style="padding:10px;text-align:center;">V</td>
+                        <td style="padding:10px;text-align:center;">V</td>
+                        <td style="padding:10px;text-align:center;color:var(--red);font-weight:900;">F</td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding:10px;text-align:center;">V</td>
+                        <td style="padding:10px;text-align:center;">F</td>
+                        <td style="padding:10px;text-align:center;color:var(--green);font-weight:900;">V</td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding:10px;text-align:center;">F</td>
+                        <td style="padding:10px;text-align:center;">V</td>
+                        <td style="padding:10px;text-align:center;color:var(--green);font-weight:900;">V</td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding:10px;text-align:center;">F</td>
+                        <td style="padding:10px;text-align:center;">F</td>
+                        <td style="padding:10px;text-align:center;color:var(--red);font-weight:900;">F</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         RELAÇÃO COM BICONDICIONAL
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:18px;
+        padding:16px;
+        border-radius:11px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.06em;
+        ">
+            🔗 Relação com o bicondicional
+        </div>
+
+        <p style="
+            margin:0;
+            color:var(--text-muted);
+            font-size:.88rem;
+            line-height:1.7;
+        ">
+
+            O bicondicional é verdadeiro quando P e Q têm o mesmo valor.
+            Sua negação representa justamente o caso em que os valores são diferentes.
+
+        </p>
+
+        <div style="
+            margin-top:12px;
+            padding:12px;
+            border-radius:9px;
+            background:rgba(168,85,247,.07);
+            text-align:center;
+        ">
+
+            <code style="
+                color:var(--purple);
+                font-family:'Courier New',monospace;
+                font-size:1rem;
+                font-weight:900;
+            ">
+                ¬(P ↔ Q) ≡ P ⊕ Q
+            </code>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         PEGADINHA
+         ======================================================== -->
+
+    <div style="
+        margin-bottom:22px;
+        padding:15px;
+        border-radius:11px;
+        background:rgba(250,204,21,.055);
+        border:1px dashed rgba(250,204,21,.3);
+    ">
+
+        <div style="
+            margin-bottom:7px;
+            color:var(--yellow);
+            font-size:.67rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.07em;
+        ">
+            ⚠️ Não confunda
+        </div>
+
+        <p style="
+            margin:0;
+            color:var(--text-muted);
+            font-size:.88rem;
+            line-height:1.7;
+        ">
+
+            <strong style="color:var(--text);">
+                OU comum:
+            </strong>
+            P ou Q, podendo os dois ser verdadeiros.
+
+            <br><br>
+
+            <strong style="color:var(--purple);">
+                OU exclusivo:
+            </strong>
+            P ou Q,
+            <strong style="color:var(--red);">
+                mas não os dois.
+            </strong>
+
+        </p>
+
+    </div>
+
+
+    <!-- ========================================================
+         QUESTÕES INTERATIVAS — MODELO IDECAN
+         ======================================================== -->
+
+    <div id="quizExcludente">
+
+        <div style="
+            margin-bottom:16px;
+            padding:16px;
+            border-radius:12px;
+            background:linear-gradient(
+                135deg,
+                rgba(168,85,247,.10),
+                rgba(168,85,247,.03)
+            );
+            border:1px solid rgba(168,85,247,.25);
+        ">
+
+            <div style="
+                margin-bottom:5px;
+                color:var(--purple);
+                font-size:.68rem;
+                font-weight:800;
+                text-transform:uppercase;
+                letter-spacing:.08em;
+            ">
+                📝 Questões de fixação
+            </div>
+
+            <h3 style="
+                margin:0;
+                color:var(--text);
+                font-family:var(--font-heading);
+                font-size:1.08rem;
+                font-weight:800;
+            ">
+                OU Exclusivo — Modelo IDECAN
+            </h3>
+
+            <p style="
+                margin:8px 0 0;
+                color:var(--text-muted);
+                font-size:.84rem;
+                line-height:1.6;
+            ">
+                Escolha uma alternativa em cada questão e clique em
+                <strong style="color:var(--purple);">Responder</strong>.
+            </p>
+
+        </div>
+
+
+        <!-- ====================================================
+             QUESTÃO 01
+             ==================================================== -->
+
+        <div class="quiz-question" data-answer="A" style="
+            margin-bottom:18px;
+            padding:18px;
+            border-radius:13px;
+            background:rgba(255,255,255,.025);
+            border:1px solid var(--border);
+        ">
+
+            <div style="
+                margin-bottom:12px;
+                color:var(--purple);
+                font-size:.68rem;
+                font-weight:800;
+                text-transform:uppercase;
+                letter-spacing:.07em;
+            ">
+                Questão 01
+            </div>
+
+            <p style="
+                margin:0 0 16px;
+                color:var(--text);
+                font-size:.91rem;
+                line-height:1.75;
+            ">
+                Considere as proposições simples a seguir:
+
+                <br><br>
+
+                <strong>P:</strong> O candidato será aprovado na primeira etapa.
+
+                <br>
+
+                <strong>Q:</strong> O candidato será aprovado na segunda etapa.
+
+                <br><br>
+
+                Considere, ainda, a proposição:
+
+                <br>
+
+                <strong>
+                    “O candidato será aprovado na primeira etapa ou na segunda etapa,
+                    mas não nas duas.”
+                </strong>
+
+                <br><br>
+
+                Com base nas informações apresentadas, assinale a alternativa que
+                corresponde corretamente ao valor lógico da proposição quando
+                <strong>P = V</strong> e <strong>Q = F</strong>.
+            </p>
+
+
+            <!-- ALTERNATIVA A -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-1"
+                    value="A"
+                    style="margin-right:8px;"
+                >
+
+                <strong>A)</strong>
+                Verdadeira, pois apenas uma das proposições é verdadeira.
+
+            </label>
+
+
+            <!-- ALTERNATIVA B -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-1"
+                    value="B"
+                    style="margin-right:8px;"
+                >
+
+                <strong>B)</strong>
+                Falsa, pois uma proposição verdadeira exige que ambas sejam verdadeiras.
+
+            </label>
+
+
+            <!-- ALTERNATIVA C -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-1"
+                    value="C"
+                    style="margin-right:8px;"
+                >
+
+                <strong>C)</strong>
+                Falsa, pois o conectivo “ou” exige que apenas P seja falsa.
+
+            </label>
+
+
+            <!-- ALTERNATIVA D -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-1"
+                    value="D"
+                    style="margin-right:8px;"
+                >
+
+                <strong>D)</strong>
+                Verdadeira somente quando P e Q apresentam o mesmo valor lógico.
+
+            </label>
+
+
+            <!-- ALTERNATIVA E -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:14px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-1"
+                    value="E"
+                    style="margin-right:8px;"
+                >
+
+                <strong>E)</strong>
+                Falsa, pois o OU exclusivo é verdadeiro somente quando P e Q são falsas.
+
+            </label>
+
+
+            <button
+                type="button"
+                class="quiz-submit"
+                data-question="0"
+                style="
+                    width:100%;
+                    padding:12px 16px;
+                    border:0;
+                    border-radius:9px;
+                    background:var(--purple);
+                    color:#fff;
+                    font-size:.86rem;
+                    font-weight:800;
+                    cursor:pointer;
+                    transition:.2s ease;
+                "
+            >
+                ✅ RESPONDER QUESTÃO 01
+            </button>
+
+
+            <div
+                class="quiz-feedback"
+                aria-live="polite"
+                style="
+                    display:none;
+                    margin-top:12px;
+                    padding:13px;
+                    border-radius:9px;
+                    font-size:.85rem;
+                    line-height:1.7;
+                "
+            ></div>
+
+        </div>
+
+
+        <!-- ====================================================
+             QUESTÃO 02
+             ==================================================== -->
+
+        <div class="quiz-question" data-answer="B" style="
+            margin-bottom:18px;
+            padding:18px;
+            border-radius:13px;
+            background:rgba(255,255,255,.025);
+            border:1px solid var(--border);
+        ">
+
+            <div style="
+                margin-bottom:12px;
+                color:var(--purple);
+                font-size:.68rem;
+                font-weight:800;
+                text-transform:uppercase;
+                letter-spacing:.07em;
+            ">
+                Questão 02
+            </div>
+
+            <p style="
+                margin:0 0 16px;
+                color:var(--text);
+                font-size:.91rem;
+                line-height:1.75;
+            ">
+                Considere a seguinte afirmação:
+
+                <br><br>
+
+                <strong>
+                    “O servidor realizará o curso de capacitação ou participará
+                    da operação especial, mas não fará as duas atividades.”
+                </strong>
+
+                <br><br>
+
+                Sabendo que o servidor
+                <strong>
+                    participará da operação especial e também realizará
+                    o curso de capacitação
+                </strong>,
+                assinale a alternativa correta.
+            </p>
+
+
+            <!-- A -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-2"
+                    value="A"
+                    style="margin-right:8px;"
+                >
+
+                <strong>A)</strong>
+                A afirmação é verdadeira, pois pelo menos uma das atividades ocorre.
+
+            </label>
+
+
+            <!-- B -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-2"
+                    value="B"
+                    style="margin-right:8px;"
+                >
+
+                <strong>B)</strong>
+                A afirmação é falsa, pois as duas proposições são verdadeiras.
+
+            </label>
+
+
+            <!-- C -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-2"
+                    value="C"
+                    style="margin-right:8px;"
+                >
+
+                <strong>C)</strong>
+                A afirmação é verdadeira, pois o conectivo “ou” sempre admite as duas situações.
+
+            </label>
+
+
+            <!-- D -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:9px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-2"
+                    value="D"
+                    style="margin-right:8px;"
+                >
+
+                <strong>D)</strong>
+                A afirmação somente seria falsa caso as duas proposições fossem falsas.
+
+            </label>
+
+
+            <!-- E -->
+            <label class="quiz-option" style="
+                display:block;
+                margin-bottom:14px;
+                padding:13px;
+                border-radius:9px;
+                cursor:pointer;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+                color:var(--text);
+                font-size:.86rem;
+                line-height:1.6;
+            ">
+
+                <input
+                    type="radio"
+                    name="questao-excludente-2"
+                    value="E"
+                    style="margin-right:8px;"
+                >
+
+                <strong>E)</strong>
+                A afirmação é verdadeira porque o OU exclusivo possui o mesmo comportamento do OU comum.
+
+            </label>
+
+
+            <button
+                type="button"
+                class="quiz-submit"
+                data-question="1"
+                style="
+                    width:100%;
+                    padding:12px 16px;
+                    border:0;
+                    border-radius:9px;
+                    background:var(--purple);
+                    color:#fff;
+                    font-size:.86rem;
+                    font-weight:800;
+                    cursor:pointer;
+                    transition:.2s ease;
+                "
+            >
+                ✅ RESPONDER QUESTÃO 02
+            </button>
+
+
+            <div
+                class="quiz-feedback"
+                aria-live="polite"
+                style="
+                    display:none;
+                    margin-top:12px;
+                    padding:13px;
+                    border-radius:9px;
+                    font-size:.85rem;
+                    line-height:1.7;
+                "
+            ></div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ========================================================
+         BIZU FINAL
+         ======================================================== -->
+
+    <div style="
+        margin-top:20px;
+        padding:18px;
+        border-radius:12px;
+        background:linear-gradient(
+            135deg,
+            rgba(168,85,247,.10),
+            rgba(168,85,247,.03)
+        );
+        border:1px solid rgba(168,85,247,.25);
+        text-align:center;
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--purple);
+            font-size:.68rem;
+            font-weight:800;
+            text-transform:uppercase;
+            letter-spacing:.08em;
+        ">
+            🏆 BIZU DEFINITIVO
+        </div>
+
+        <div style="
+            color:var(--text);
+            font-size:1rem;
+            font-weight:900;
+            line-height:1.8;
+        ">
+            EXCLUDENTE
+            <br>
+            ↓
+            <br>
+            DIFERENTES = V
+            <br>
+            IGUAIS = F
+        </div>
+
+        <div style="
+            margin-top:12px;
+            color:var(--text-muted);
+            font-size:.84rem;
+            line-height:1.6;
+        ">
+            Pense:
+            <strong style="color:var(--purple);">
+                “UM OU OUTRO, MAS NÃO OS DOIS.”
+            </strong>
+        </div>
+
+    </div>
+
+</article>
+
+
+<!-- ============================================================
+     JAVASCRIPT — QUESTÕES INTERATIVAS
+     ============================================================ -->
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+    const questions = document.querySelectorAll(
+        '#quizExcludente .quiz-question'
+    );
+
+    const buttons = document.querySelectorAll(
+        '#quizExcludente .quiz-submit'
+    );
+
+
+    buttons.forEach(button => {
+
+        button.addEventListener('click', () => {
+
+            const questionIndex = Number(
+                button.dataset.question
+            );
+
+            const question =
+                questions[questionIndex];
+
+            if (!question) {
+                return;
+            }
+
+
+            /* ================================================
+               PROCURA A ALTERNATIVA MARCADA
+               ================================================ */
+
+            const selected =
+                question.querySelector(
+                    'input[type="radio"]:checked'
+                );
+
+
+            const feedback =
+                question.querySelector(
+                    '.quiz-feedback'
+                );
+
+
+            const options =
+                question.querySelectorAll(
+                    '.quiz-option'
+                );
+
+
+            /* ================================================
+               NENHUMA ALTERNATIVA
+               ================================================ */
+
+            if (!selected) {
+
+                feedback.style.display = 'block';
+
+                feedback.style.background =
+                    'rgba(250,204,21,.08)';
+
+                feedback.style.border =
+                    '1px solid rgba(250,204,21,.25)';
+
+                feedback.style.color =
+                    'var(--yellow)';
+
+                feedback.innerHTML =
+                    '⚠️ <strong>Selecione uma alternativa antes de responder.</strong>';
+
+                return;
+            }
+
+
+            /* ================================================
+               GABARITO
+               ================================================ */
+
+            const correctAnswer =
+                question.dataset.answer;
+
+
+            const userAnswer =
+                selected.value;
+
+
+            const isCorrect =
+                userAnswer === correctAnswer;
+
+
+            /* ================================================
+               DESTACA A ALTERNATIVA ESCOLHIDA
+               ================================================ */
+
+            options.forEach(option => {
+
+                option.style.border =
+                    '1px solid var(--border)';
+
+                option.style.background =
+                    'rgba(255,255,255,.025)';
+
+                option.style.color =
+                    'var(--text)';
+
+            });
+
+
+            const selectedOption =
+                selected.closest('.quiz-option');
+
+
+            /* ================================================
+               ACERTOU
+               ================================================ */
+
+            if (isCorrect) {
+
+                selectedOption.style.border =
+                    '1px solid rgba(34,197,94,.50)';
+
+                selectedOption.style.background =
+                    'rgba(34,197,94,.10)';
+
+                selectedOption.style.color =
+                    'var(--green)';
+
+
+                feedback.style.display = 'block';
+
+                feedback.style.background =
+                    'rgba(34,197,94,.08)';
+
+                feedback.style.border =
+                    '1px solid rgba(34,197,94,.28)';
+
+                feedback.style.borderLeft =
+                    '4px solid var(--green)';
+
+                feedback.style.color =
+                    'var(--text-muted)';
+
+
+                if (questionIndex === 0) {
+
+                    feedback.innerHTML = `
+                        <strong style="color:var(--green);">
+                            ✅ ACERTOU!
+                        </strong>
+
+                        <br><br>
+
+                        P = V e Q = F.
+                        Os valores são diferentes.
+
+                        <br>
+
+                        No OU exclusivo,
+                        <strong style="color:var(--green);">
+                            DIFERENTES = V
+                        </strong>.
+
+                        <br><br>
+
+                        <strong style="color:var(--purple);">
+                            Gabarito: A
+                        </strong>
+                    `;
+
+                } else {
+
+                    feedback.innerHTML = `
+                        <strong style="color:var(--green);">
+                            ✅ ACERTOU!
+                        </strong>
+
+                        <br><br>
+
+                        As duas proposições são verdadeiras:
+                        P = V e Q = V.
+
+                        <br>
+
+                        Como os valores são iguais,
+                        o OU exclusivo é falso.
+
+                        <br><br>
+
+                        <strong style="color:var(--purple);">
+                            Gabarito: B
+                        </strong>
+                    `;
+
+                }
+
+            }
+
+
+            /* ================================================
+               ERROU
+               ================================================ */
+
+            else {
+
+                selectedOption.style.border =
+                    '1px solid rgba(239,68,68,.50)';
+
+                selectedOption.style.background =
+                    'rgba(239,68,68,.10)';
+
+                selectedOption.style.color =
+                    'var(--red)';
+
+
+                feedback.style.display = 'block';
+
+                feedback.style.background =
+                    'rgba(239,68,68,.08)';
+
+                feedback.style.border =
+                    '1px solid rgba(239,68,68,.28)';
+
+                feedback.style.borderLeft =
+                    '4px solid var(--red)';
+
+                feedback.style.color =
+                    'var(--text-muted)';
+
+
+                if (questionIndex === 0) {
+
+                    feedback.innerHTML = `
+                        <strong style="color:var(--red);">
+                            ❌ ERROU!
+                        </strong>
+
+                        <br><br>
+
+                        A alternativa correta é
+                        <strong style="color:var(--green);">
+                            A
+                        </strong>.
+
+                        <br><br>
+
+                        P = V e Q = F.
+                        Os valores são diferentes.
+
+                        <br>
+
+                        Portanto:
+                        <strong style="color:var(--green);">
+                            DIFERENTES = V
+                        </strong>.
+
+                    `;
+
+                } else {
+
+                    feedback.innerHTML = `
+                        <strong style="color:var(--red);">
+                            ❌ ERROU!
+                        </strong>
+
+                        <br><br>
+
+                        A alternativa correta é
+                        <strong style="color:var(--green);">
+                            B
+                        </strong>.
+
+                        <br><br>
+
+                        As duas proposições são verdadeiras:
+                        P = V e Q = V.
+
+                        <br>
+
+                        No OU exclusivo,
+                        <strong style="color:var(--red);">
+                            IGUAIS = F
+                        </strong>.
+
+                    `;
+
+                }
+
+            }
+
+
+            /* ================================================
+               DESABILITA O BOTÃO APÓS RESPONDER
+               ================================================ */
+
+            button.disabled = true;
+
+            button.style.opacity = '0.65';
+
+            button.style.cursor = 'default';
+
+        });
+
+    });
+
+});
+</script>
 
         <!-- SEÇÃO 7: CLASSIFICAÇÃO (TAUTOLOGIA, CONTRADIÇÃO, CONTINGÊNCIA) -->
         <section class="section sec-classificacao" id="classificacao">
@@ -607,9 +1960,6 @@
                         <tbody>
                             <tr><td><strong>P → Q</strong></td><td><span style="color: var(--cyan);">¬P ∨ Q</span></td><td><strong style="color: var(--orange);">NE y MA</strong> (Nega, mantém)</td></tr>
                             <tr><td><strong>P → Q</strong></td><td><span style="color: var(--pink);">¬Q → ¬P</span></td><td><strong style="color: var(--pink);">NE i NE</strong> (Nega, inverte, nega)</td></tr>
-                            <tr><td><strong>¬(P → Q)</strong></td><td><span style="color: var(--red);">P ∧ ¬Q</span></td><td>MANE (Mantém, nega, E)</td></tr>
-                            <tr><td><strong>¬(P ∧ Q)</strong></td><td><span style="color: var(--purple);">¬P ∨ ¬Q</span></td><td>De Morgan (E → OU)</td></tr>
-                            <tr><td><strong>¬(P ∨ Q)</strong></td><td><span style="color: var(--purple);">¬P ∧ ¬Q</span></td><td>De Morgan (OU → E)</td></tr>
                             <tr><td><strong>P ↔ Q</strong></td><td><span style="color: var(--green);">(P → Q) ∧ (Q → P)</span></td><td>Bicondicional</td></tr>
                             <tr><td><strong>¬(P ↔ Q)</strong></td><td><span style="color: var(--yellow);">P ⊕ Q</span></td><td>OU exclusivo</td></tr>
                         </tbody>
@@ -618,96 +1968,1888 @@
             </div>
         </section>
 
-        <!-- SEÇÃO 9: EXPLORADOR INTERATIVO DE EQUIVALÊNCIAS -->
-        <section class="section sec-explorador" id="explorador">
-            <div class="section-header">
-                <div class="icon-circle">🎮</div>
-                <h2 style="color: var(--green);">Explorador Interativo<span class="highlight">Teste as equivalências na prática</span></h2>
-            </div>
-            <div class="interactive-widget" style="border-color: var(--green);">
-                <h3>🔬 Laboratório de Equivalências</h3>
-                <p class="widget-subtitle">Defina os valores de P e Q e veja as equivalências do condicional em tempo real.</p>
-                <div class="toggle-row">
-                    <div class="toggle-group">
-                        <span class="label">P =</span>
-                        <button class="toggle-btn btn-V active" id="pV2">V</button>
-                        <button class="toggle-btn btn-F" id="pF2">F</button>
-                    </div>
-                    <div class="toggle-group">
-                        <span class="label">Q =</span>
-                        <button class="toggle-btn btn-V active" id="qV2">V</button>
-                        <button class="toggle-btn btn-F" id="qF2">F</button>
-                    </div>
-                </div>
-                <div class="results-grid">
-                    <div class="result-item res-condicional">
-                        <span class="result-symbol">P → Q</span>
-                        <span class="result-label">Condicional</span>
-                        <div class="result-value" id="resCondicional2">V</div>
-                    </div>
-                    <div class="result-item" style="border-left: 3px solid var(--cyan);">
-                        <span class="result-symbol" style="color: var(--cyan);">¬P ∨ Q</span>
-                        <span class="result-label">NE y MA</span>
-                        <div class="result-value" id="resEquiv1">V</div>
-                    </div>
-                    <div class="result-item" style="border-left: 3px solid var(--pink);">
-                        <span class="result-symbol" style="color: var(--pink);">¬Q → ¬P</span>
-                        <span class="result-label">NE i NE</span>
-                        <div class="result-value" id="resContrapos">V</div>
-                    </div>
-                    <div class="result-item" style="border-left: 3px solid var(--red);">
-                        <span class="result-symbol" style="color: var(--red);">P ∧ ¬Q</span>
-                        <span class="result-label">Negação</span>
-                        <div class="result-value" id="resNegCond">F</div>
-                    </div>
-                </div>
-                <p style="margin-top: 16px; color: var(--text-muted); font-size: 0.85rem;">Observe que P→Q, ¬P∨Q e ¬Q→¬P sempre têm o mesmo valor. A negação é o oposto.</p>
-            </div>
-        </section>
+<!-- ============================================================
+     SEÇÃO 9: EXPLORADOR INTERATIVO DE EQUIVALÊNCIAS
+     ============================================================ -->
 
-        <!-- SEÇÃO 10: KIT SOBREVIVÊNCIA -->
-        <section class="section sec-resumo" id="kit">
-            <div class="section-header">
-                <div class="icon-circle">🆘</div>
-                <h2>Kit Sobrevivência da Prova<span class="highlight">Decore estas fórmulas</span></h2>
+<section class="section sec-explorador" id="explorador">
+
+    <div class="section-header">
+        <div class="icon-circle">🎮</div>
+
+        <h2 style="color: var(--green);">
+            Explorador Interativo
+            <span class="highlight">
+                Teste as equivalências na prática
+            </span>
+        </h2>
+    </div>
+
+
+    <div class="interactive-widget" style="border-color: var(--green);">
+
+        <h3>🔬 Laboratório de Equivalências</h3>
+
+        <p class="widget-subtitle">
+            Defina os valores de P e Q e veja as equivalências
+            do condicional em tempo real.
+        </p>
+
+
+        <!-- ==============================
+             CONTROLES P E Q
+             ============================== -->
+
+        <div class="toggle-row">
+
+            <!-- P -->
+            <div class="toggle-group">
+
+                <span class="label">P =</span>
+
+                <button
+                    type="button"
+                    class="toggle-btn btn-V active"
+                    id="pV2"
+                    data-variable="p"
+                    data-value="V"
+                    aria-pressed="true">
+                    V
+                </button>
+
+                <button
+                    type="button"
+                    class="toggle-btn btn-F"
+                    id="pF2"
+                    data-variable="p"
+                    data-value="F"
+                    aria-pressed="false">
+                    F
+                </button>
+
             </div>
-            <div class="equivalence-grid">
-                <div class="equivalence-card eq-condicional">
-                    <span class="eq-symbol">P → Q ≡ ¬P ∨ Q</span>
-                    <div class="eq-desc"><strong style="color: var(--orange);">NE y MA</strong> – Nega o primeiro, mantém o segundo, OU</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Se chove → Não chove ou guarda-chuva.</div>
-                </div>
-                <div class="equivalence-card eq-contrapositiva">
-                    <span class="eq-symbol">P → Q ≡ ¬Q → ¬P</span>
-                    <div class="eq-desc"><strong style="color: var(--pink);">NE i NE</strong> – Nega, inverte e nega</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Se estudo → Se não passo, não estudo.</div>
-                </div>
-                <div class="equivalence-card eq-negacao-condicional">
-                    <span class="eq-symbol">¬(P → Q) ≡ P ∧ ¬Q</span>
-                    <div class="eq-desc">MANE – Mantém 1º, nega 2º, E</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Estudo e não passo.</div>
-                </div>
-                <div class="equivalence-card eq-morgan">
-                    <span class="eq-symbol">¬(P ∧ Q) ≡ ¬P ∨ ¬Q</span>
-                    <div class="eq-desc">De Morgan (E) – Nega tudo, troca E por OU</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Não estudo ou não trabalho.</div>
-                </div>
-                <div class="equivalence-card eq-morgan">
-                    <span class="eq-symbol">¬(P ∨ Q) ≡ ¬P ∧ ¬Q</span>
-                    <div class="eq-desc">De Morgan (OU) – Nega tudo, troca OU por E</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Não estudo e não trabalho.</div>
-                </div>
-                <div class="equivalence-card eq-bicondicional">
-                    <span class="eq-symbol">P ↔ Q ≡ (P→Q) ∧ (Q→P)</span>
-                    <div class="eq-desc">Bicondicional – Dupla condicional</div>
-                    <div class="eq-macete"><strong>Ex:</strong> Estudo ↔ tempo → Se estudo então tempo e se tempo então estudo.</div>
-                </div>
+
+
+            <!-- Q -->
+            <div class="toggle-group">
+
+                <span class="label">Q =</span>
+
+                <button
+                    type="button"
+                    class="toggle-btn btn-V active"
+                    id="qV2"
+                    data-variable="q"
+                    data-value="V"
+                    aria-pressed="true">
+                    V
+                </button>
+
+                <button
+                    type="button"
+                    class="toggle-btn btn-F"
+                    id="qF2"
+                    data-variable="q"
+                    data-value="F"
+                    aria-pressed="false">
+                    F
+                </button>
+
             </div>
-            <div class="bizu-box" style="margin-top: 16px;">
-                <span class="bizu-icon">💡</span>
-                <span class="bizu-text"><strong>Dica de ouro:</strong> Em provas, a banca adora misturar condicional com De Morgan. Treine a transformação de expressões passo a passo.</span>
+
+        </div>
+
+
+        <!-- ==============================
+             RESULTADOS
+             ============================== -->
+
+        <div class="results-grid">
+
+            <!-- P → Q -->
+            <div class="result-item res-condicional">
+
+                <span class="result-symbol">
+                    P → Q
+                </span>
+
+                <span class="result-label">
+                    Condicional
+                </span>
+
+                <div
+                    class="result-value val-V"
+                    id="resCondicional2"
+                    aria-label="Verdadeiro">
+                    V
+                </div>
+
             </div>
-        </section>
+
+
+            <!-- ¬P ∨ Q -->
+            <div
+                class="result-item"
+                style="border-left: 3px solid var(--cyan);">
+
+                <span
+                    class="result-symbol"
+                    style="color: var(--cyan);">
+                    ¬P ∨ Q
+                </span>
+
+                <span class="result-label">
+                    Equivalência
+                </span>
+
+                <div
+                    class="result-value val-V"
+                    id="resEquiv1"
+                    aria-label="Verdadeiro">
+                    V
+                </div>
+
+            </div>
+
+
+            <!-- ¬Q → ¬P -->
+            <div
+                class="result-item"
+                style="border-left: 3px solid var(--pink);">
+
+                <span
+                    class="result-symbol"
+                    style="color: var(--pink);">
+                    ¬Q → ¬P
+                </span>
+
+                <span class="result-label">
+                    Contrapositiva
+                </span>
+
+                <div
+                    class="result-value val-V"
+                    id="resContrapos"
+                    aria-label="Verdadeiro">
+                    V
+                </div>
+
+            </div>
+
+
+            <!-- P ∧ ¬Q -->
+            <div
+                class="result-item"
+                style="border-left: 3px solid var(--red);">
+
+                <span
+                    class="result-symbol"
+                    style="color: var(--red);">
+                    P ∧ ¬Q
+                </span>
+
+                <span class="result-label">
+                    Negação
+                </span>
+
+                <div
+                    class="result-value val-F"
+                    id="resNegCond"
+                    aria-label="Falso">
+                    F
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <p
+            style="
+                margin-top: 16px;
+                color: var(--text-muted);
+                font-size: 0.85rem;
+            ">
+
+            Observe que
+            <strong>P → Q</strong>,
+            <strong>¬P ∨ Q</strong> e
+            <strong>¬Q → ¬P</strong>
+            sempre têm o mesmo valor.
+
+            A negação
+            <strong>P ∧ ¬Q</strong>
+            é o oposto do condicional.
+
+        </p>
+
+    </div>
+
+</section>
+
+<!-- ============================================================
+     SEÇÃO 10 — KIT SOBREVIVÊNCIA DA PROVA
+     GRID 2 × 2
+     ============================================================ -->
+
+<section class="section sec-resumo" id="kit">
+
+    <!-- ========================================================
+         CABEÇALHO
+         ======================================================== -->
+
+    <div class="section-header">
+
+        <div class="icon-circle">🆘</div>
+
+        <h2>
+            Kit Sobrevivência da Prova
+            <span class="highlight">
+                Decore estas fórmulas
+            </span>
+        </h2>
+
+    </div>
+
+
+    <!-- ========================================================
+         GRID 2 × 2
+         ======================================================== -->
+
+    <div
+        class="equivalence-grid"
+        style="
+            display:grid;
+            grid-template-columns:repeat(2,minmax(0,1fr));
+            gap:20px;
+            align-items:stretch;
+        "
+    >
+
+
+        <!-- ====================================================
+             CARD 01 — CONDICIONAL / NE Y MA
+             ==================================================== -->
+
+        <article
+            class="equivalence-card eq-condicional"
+            style="
+                position:relative;
+                overflow:hidden;
+                padding:22px;
+                border-radius:18px;
+                background:
+                    linear-gradient(
+                        145deg,
+                        rgba(251,146,60,.10),
+                        rgba(251,146,60,.025)
+                    );
+                border:1px solid rgba(251,146,60,.28);
+                border-left:4px solid var(--orange);
+                box-shadow:0 12px 30px rgba(0,0,0,.16);
+            "
+        >
+
+            <!-- brilho decorativo -->
+            <div style="
+                position:absolute;
+                top:-45px;
+                right:-45px;
+                width:110px;
+                height:110px;
+                border-radius:50%;
+                background:rgba(251,146,60,.08);
+                pointer-events:none;
+            "></div>
+
+
+            <!-- TÍTULO -->
+            <div style="
+                display:flex;
+                align-items:flex-start;
+                gap:12px;
+                margin-bottom:18px;
+            ">
+
+                <div style="
+                    width:44px;
+                    height:44px;
+                    min-width:44px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    border-radius:12px;
+                    background:rgba(251,146,60,.13);
+                    border:1px solid rgba(251,146,60,.25);
+                    font-size:1.15rem;
+                ">
+                    🔀
+                </div>
+
+                <div>
+
+                    <div style="
+                        margin-bottom:4px;
+                        color:var(--orange);
+                        font-size:.65rem;
+                        font-weight:900;
+                        text-transform:uppercase;
+                        letter-spacing:.08em;
+                    ">
+                        1ª Equivalência
+                    </div>
+
+                    <h3 style="
+                        margin:0;
+                        color:var(--text);
+                        font-size:1.08rem;
+                        font-weight:900;
+                    ">
+                        Condicional — NE y MA
+                    </h3>
+
+                </div>
+
+            </div>
+
+
+            <!-- FÓRMULA -->
+            <div style="
+                margin-bottom:15px;
+                padding:15px;
+                border-radius:12px;
+                background:rgba(0,0,0,.20);
+                border:1px solid rgba(251,146,60,.18);
+                text-align:center;
+            ">
+
+                <div style="
+                    margin-bottom:7px;
+                    color:var(--text-muted);
+                    font-size:.62rem;
+                    font-weight:800;
+                    text-transform:uppercase;
+                    letter-spacing:.08em;
+                ">
+                    Equivalência
+                </div>
+
+                <div style="
+                    color:var(--orange);
+                    font-family:'Courier New',monospace;
+                    font-size:1.08rem;
+                    font-weight:900;
+                ">
+                    P → Q ≡ ¬P ∨ Q
+                </div>
+
+            </div>
+
+
+            <!-- BIZU -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(251,146,60,.055);
+                border:1px dashed rgba(251,146,60,.25);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--orange);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🧠 BIZU
+                </div>
+
+                <div style="
+                    display:flex;
+                    flex-wrap:wrap;
+                    gap:7px;
+                    align-items:center;
+                ">
+
+                    <span style="
+                        padding:7px 10px;
+                        border-radius:8px;
+                        background:rgba(239,68,68,.10);
+                        border:1px solid rgba(239,68,68,.20);
+                        color:var(--red);
+                        font-size:.75rem;
+                        font-weight:900;
+                    ">
+                        NEga
+                    </span>
+
+                    <span style="
+                        color:var(--yellow);
+                        font-weight:900;
+                    ">
+                        +
+                    </span>
+
+                    <span style="
+                        padding:7px 10px;
+                        border-radius:8px;
+                        background:rgba(34,197,94,.10);
+                        border:1px solid rgba(34,197,94,.20);
+                        color:var(--green);
+                        font-size:.75rem;
+                        font-weight:900;
+                    ">
+                        MAntém
+                    </span>
+
+                </div>
+
+                <div style="
+                    margin-top:9px;
+                    color:var(--text-muted);
+                    font-size:.82rem;
+                    line-height:1.6;
+                ">
+                    Nega o primeiro, mantém o segundo e transforma
+                    <strong style="color:var(--yellow);">
+                        SE... ENTÃO
+                    </strong>
+                    em
+                    <strong style="color:var(--yellow);">
+                        OU
+                    </strong>.
+                </div>
+
+            </div>
+
+
+            <!-- EXEMPLO -->
+            <div style="
+                padding:15px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--orange);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    📌 Exemplo
+                </div>
+
+                <div style="
+                    margin-bottom:10px;
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(0,0,0,.16);
+                    color:var(--text);
+                    font-size:.86rem;
+                    line-height:1.6;
+                ">
+                    <strong>
+                        “Se chove, então levo guarda-chuva.”
+                    </strong>
+                </div>
+
+                <div style="
+                    color:var(--text-muted);
+                    font-size:.83rem;
+                    line-height:1.8;
+                ">
+
+                    <strong style="color:var(--red);">
+                        NÃO chove
+                    </strong>
+
+                    <strong style="color:var(--yellow);">
+                        OU
+                    </strong>
+
+                    <strong style="color:var(--green);">
+                        levo guarda-chuva
+                    </strong>.
+
+                    <br><br>
+
+                    <span style="color:var(--green);font-weight:800;">
+                        ✅ “Não chove ou levo guarda-chuva.”
+                    </span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+
+        <!-- ====================================================
+             CARD 02 — CONTRAPOSITIVA / NE I NE
+             ==================================================== -->
+
+        <article
+            class="equivalence-card eq-contrapositiva"
+            style="
+                position:relative;
+                overflow:hidden;
+                padding:22px;
+                border-radius:18px;
+                background:
+                    linear-gradient(
+                        145deg,
+                        rgba(244,114,182,.10),
+                        rgba(236,72,153,.025)
+                    );
+                border:1px solid rgba(244,114,182,.28);
+                border-left:4px solid var(--pink);
+                box-shadow:0 12px 30px rgba(0,0,0,.16);
+            "
+        >
+
+            <div style="
+                position:absolute;
+                top:-45px;
+                right:-45px;
+                width:110px;
+                height:110px;
+                border-radius:50%;
+                background:rgba(244,114,182,.07);
+                pointer-events:none;
+            "></div>
+
+
+            <!-- TÍTULO -->
+            <div style="
+                display:flex;
+                align-items:flex-start;
+                gap:12px;
+                margin-bottom:18px;
+            ">
+
+                <div style="
+                    width:44px;
+                    height:44px;
+                    min-width:44px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    border-radius:12px;
+                    background:rgba(244,114,182,.12);
+                    border:1px solid rgba(244,114,182,.25);
+                    font-size:1.15rem;
+                ">
+                    🔄
+                </div>
+
+                <div>
+
+                    <div style="
+                        margin-bottom:4px;
+                        color:var(--pink);
+                        font-size:.65rem;
+                        font-weight:900;
+                        text-transform:uppercase;
+                        letter-spacing:.08em;
+                    ">
+                        2ª Equivalência
+                    </div>
+
+                    <h3 style="
+                        margin:0;
+                        color:var(--text);
+                        font-size:1.08rem;
+                        font-weight:900;
+                    ">
+                        Contrapositiva — NE i NE
+                    </h3>
+
+                </div>
+
+            </div>
+
+
+            <!-- FÓRMULA -->
+            <div style="
+                margin-bottom:15px;
+                padding:15px;
+                border-radius:12px;
+                background:rgba(0,0,0,.20);
+                border:1px solid rgba(244,114,182,.18);
+                text-align:center;
+            ">
+
+                <div style="
+                    margin-bottom:7px;
+                    color:var(--text-muted);
+                    font-size:.62rem;
+                    font-weight:800;
+                    text-transform:uppercase;
+                    letter-spacing:.08em;
+                ">
+                    Equivalência
+                </div>
+
+                <div style="
+                    color:var(--pink);
+                    font-family:'Courier New',monospace;
+                    font-size:1.08rem;
+                    font-weight:900;
+                ">
+                    P → Q ≡ ¬Q → ¬P
+                </div>
+
+            </div>
+
+
+            <!-- BIZU -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(244,114,182,.05);
+                border:1px dashed rgba(244,114,182,.25);
+            ">
+
+                <div style="
+                    margin-bottom:10px;
+                    color:var(--pink);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🧠 BIZU: NE i NE
+                </div>
+
+                <div style="
+                    display:grid;
+                    grid-template-columns:repeat(3,minmax(0,1fr));
+                    gap:7px;
+                    text-align:center;
+                ">
+
+                    <div style="
+                        padding:8px 5px;
+                        border-radius:8px;
+                        background:rgba(239,68,68,.10);
+                        border:1px solid rgba(239,68,68,.20);
+                        color:var(--red);
+                        font-size:.72rem;
+                        font-weight:900;
+                    ">
+                        1️⃣ NEga
+                    </div>
+
+                    <div style="
+                        padding:8px 5px;
+                        border-radius:8px;
+                        background:rgba(250,204,21,.10);
+                        border:1px solid rgba(250,204,21,.20);
+                        color:var(--yellow);
+                        font-size:.72rem;
+                        font-weight:900;
+                    ">
+                        2️⃣ INverte
+                    </div>
+
+                    <div style="
+                        padding:8px 5px;
+                        border-radius:8px;
+                        background:rgba(239,68,68,.10);
+                        border:1px solid rgba(239,68,68,.20);
+                        color:var(--red);
+                        font-size:.72rem;
+                        font-weight:900;
+                    ">
+                        3️⃣ NEga
+                    </div>
+
+                </div>
+
+                <div style="
+                    margin-top:9px;
+                    text-align:center;
+                    color:var(--text-muted);
+                    font-size:.80rem;
+                    line-height:1.6;
+                ">
+                    Nega a segunda → inverte as posições → nega a primeira.
+                </div>
+
+            </div>
+
+
+            <!-- EXEMPLO -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--pink);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    📌 Exemplo
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(0,0,0,.16);
+                    color:var(--text);
+                    font-size:.86rem;
+                    line-height:1.6;
+                ">
+                    <strong>
+                        “Se estudo, então passo.”
+                    </strong>
+                </div>
+
+            </div>
+
+
+            <!-- TRANSFORMAÇÃO -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:12px;
+                    color:var(--pink);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🔬 Como transformar
+                </div>
+
+
+                <!-- ETAPA 1 -->
+                <div style="
+                    display:flex;
+                    align-items:flex-start;
+                    gap:10px;
+                    margin-bottom:9px;
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(239,68,68,.07);
+                    border:1px solid rgba(239,68,68,.18);
+                ">
+
+                    <span style="
+                        width:28px;
+                        height:28px;
+                        min-width:28px;
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                        border-radius:8px;
+                        background:rgba(239,68,68,.15);
+                        color:var(--red);
+                        font-size:.75rem;
+                        font-weight:900;
+                    ">
+                        1
+                    </span>
+
+                    <div style="
+                        color:var(--text-muted);
+                        font-size:.80rem;
+                        line-height:1.6;
+                    ">
+
+                        <strong style="color:var(--red);">
+                            NEga a segunda
+                        </strong>
+
+                        <br>
+
+                        PASSO →
+
+                        <strong style="color:var(--red);">
+                            NÃO PASSO
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div style="
+                    text-align:center;
+                    margin:2px 0 6px;
+                    color:var(--yellow);
+                    font-weight:900;
+                ">
+                    ↓
+                </div>
+
+
+                <!-- ETAPA 2 -->
+                <div style="
+                    display:flex;
+                    align-items:flex-start;
+                    gap:10px;
+                    margin-bottom:9px;
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(250,204,21,.07);
+                    border:1px solid rgba(250,204,21,.18);
+                ">
+
+                    <span style="
+                        width:28px;
+                        height:28px;
+                        min-width:28px;
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                        border-radius:8px;
+                        background:rgba(250,204,21,.15);
+                        color:var(--yellow);
+                        font-size:.75rem;
+                        font-weight:900;
+                    ">
+                        2
+                    </span>
+
+                    <div style="
+                        color:var(--text-muted);
+                        font-size:.80rem;
+                        line-height:1.6;
+                    ">
+
+                        <strong style="color:var(--yellow);">
+                            INverte
+                        </strong>
+
+                        <br>
+
+                        O que estava depois vai para frente.
+
+                        <br>
+
+                        “Se estudo, então não passo”
+                        →
+
+                        <strong style="color:var(--yellow);">
+                            “Se não passo, então estudo”
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div style="
+                    text-align:center;
+                    margin:2px 0 6px;
+                    color:var(--yellow);
+                    font-weight:900;
+                ">
+                    ↓
+                </div>
+
+
+                <!-- ETAPA 3 -->
+                <div style="
+                    display:flex;
+                    align-items:flex-start;
+                    gap:10px;
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(239,68,68,.07);
+                    border:1px solid rgba(239,68,68,.18);
+                ">
+
+                    <span style="
+                        width:28px;
+                        height:28px;
+                        min-width:28px;
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                        border-radius:8px;
+                        background:rgba(239,68,68,.15);
+                        color:var(--red);
+                        font-size:.75rem;
+                        font-weight:900;
+                    ">
+                        3
+                    </span>
+
+                    <div style="
+                        color:var(--text-muted);
+                        font-size:.80rem;
+                        line-height:1.6;
+                    ">
+
+                        <strong style="color:var(--red);">
+                            NEga a primeira
+                        </strong>
+
+                        <br>
+
+                        ESTUDO →
+
+                        <strong style="color:var(--red);">
+                            NÃO ESTUDO
+                        </strong>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- RESULTADO -->
+            <div style="
+                padding:14px;
+                border-radius:11px;
+                background:linear-gradient(
+                    135deg,
+                    rgba(34,197,94,.08),
+                    rgba(244,114,182,.05)
+                );
+                border:1px solid rgba(34,197,94,.20);
+                text-align:center;
+            ">
+
+                <div style="
+                    margin-bottom:6px;
+                    color:var(--green);
+                    font-size:.64rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    ✅ Resultado
+                </div>
+
+                <div style="
+                    color:var(--text);
+                    font-size:.88rem;
+                    font-weight:900;
+                    line-height:1.7;
+                ">
+                    “Se estudo, então passo.”
+                    <br>
+                    <span style="
+                        color:var(--yellow);
+                        font-size:1rem;
+                    ">
+                        ≡
+                    </span>
+                    <br>
+                    <span style="color:var(--green);">
+                        “Se não passo, então não estudo.”
+                    </span>
+                </div>
+
+            </div>
+
+
+            <!-- BIZU FINAL -->
+            <div style="
+                margin-top:12px;
+                padding:10px;
+                border-radius:9px;
+                background:rgba(244,114,182,.05);
+                border:1px dashed rgba(244,114,182,.22);
+                text-align:center;
+                color:var(--pink);
+                font-size:.78rem;
+                font-weight:900;
+            ">
+                🧠 NE i NE = NEga + INverte + NEga
+            </div>
+
+        </article>
+
+
+
+        <!-- ====================================================
+             CARD 03 — BICONDICIONAL
+             ==================================================== -->
+
+        <article
+            class="equivalence-card eq-bicondicional"
+            style="
+                position:relative;
+                overflow:hidden;
+                padding:22px;
+                border-radius:18px;
+                background:
+                    linear-gradient(
+                        145deg,
+                        rgba(34,211,238,.09),
+                        rgba(34,211,238,.025)
+                    );
+                border:1px solid rgba(34,211,238,.28);
+                border-left:4px solid var(--cyan);
+                box-shadow:0 12px 30px rgba(0,0,0,.16);
+            "
+        >
+
+            <div style="
+                position:absolute;
+                top:-45px;
+                right:-45px;
+                width:110px;
+                height:110px;
+                border-radius:50%;
+                background:rgba(34,211,238,.07);
+                pointer-events:none;
+            "></div>
+
+
+            <!-- TÍTULO -->
+            <div style="
+                display:flex;
+                align-items:flex-start;
+                gap:12px;
+                margin-bottom:18px;
+            ">
+
+                <div style="
+                    width:44px;
+                    height:44px;
+                    min-width:44px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    border-radius:12px;
+                    background:rgba(34,211,238,.12);
+                    border:1px solid rgba(34,211,238,.25);
+                    font-size:1.15rem;
+                ">
+                    🔗
+                </div>
+
+                <div>
+
+                    <div style="
+                        margin-bottom:4px;
+                        color:var(--cyan);
+                        font-size:.65rem;
+                        font-weight:900;
+                        text-transform:uppercase;
+                        letter-spacing:.08em;
+                    ">
+                        3ª Equivalência
+                    </div>
+
+                    <h3 style="
+                        margin:0;
+                        color:var(--text);
+                        font-size:1.08rem;
+                        font-weight:900;
+                    ">
+                        Bicondicional
+                    </h3>
+
+                </div>
+
+            </div>
+
+
+            <!-- FÓRMULA -->
+            <div style="
+                margin-bottom:15px;
+                padding:15px;
+                border-radius:12px;
+                background:rgba(0,0,0,.20);
+                border:1px solid rgba(34,211,238,.18);
+                text-align:center;
+            ">
+
+                <div style="
+                    margin-bottom:7px;
+                    color:var(--text-muted);
+                    font-size:.62rem;
+                    font-weight:800;
+                    text-transform:uppercase;
+                    letter-spacing:.08em;
+                ">
+                    Equivalência
+                </div>
+
+                <div style="
+                    color:var(--cyan);
+                    font-family:'Courier New',monospace;
+                    font-size:1rem;
+                    font-weight:900;
+                ">
+                    P ↔ Q ≡ (P → Q) ∧ (Q → P)
+                </div>
+
+            </div>
+
+
+            <!-- CONCEITO -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(34,211,238,.05);
+                border:1px dashed rgba(34,211,238,.24);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--cyan);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🧠 BIZU
+                </div>
+
+                <div style="
+                    color:var(--text);
+                    font-size:.92rem;
+                    font-weight:900;
+                    line-height:1.6;
+                ">
+                    VAI → E VOLTA
+                </div>
+
+                <div style="
+                    margin-top:7px;
+                    color:var(--text-muted);
+                    font-size:.81rem;
+                    line-height:1.6;
+                ">
+                    O bicondicional representa duas condicionais:
+                    uma em cada direção.
+                </div>
+
+            </div>
+
+
+            <!-- EXEMPLO -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--cyan);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    📌 Exemplo
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:9px;
+                    background:rgba(0,0,0,.16);
+                    color:var(--text);
+                    font-size:.86rem;
+                    line-height:1.6;
+                ">
+                    <strong>
+                        “Estudo se, e somente se, tenho tempo.”
+                    </strong>
+                </div>
+
+            </div>
+
+
+            <!-- TRANSFORMAÇÃO -->
+            <div style="
+                margin-bottom:15px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:12px;
+                    color:var(--cyan);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🔄 Transformação
+                </div>
+
+                <div style="
+                    display:grid;
+                    gap:9px;
+                ">
+
+                    <div style="
+                        padding:11px;
+                        border-radius:9px;
+                        background:rgba(34,211,238,.06);
+                        border:1px solid rgba(34,211,238,.17);
+                        color:var(--text-muted);
+                        font-size:.81rem;
+                        line-height:1.6;
+                    ">
+                        <strong style="color:var(--cyan);">
+                            1ª direção:
+                        </strong>
+
+                        Se estudo, então tenho tempo.
+                    </div>
+
+                    <div style="
+                        padding:11px;
+                        border-radius:9px;
+                        background:rgba(34,211,238,.06);
+                        border:1px solid rgba(34,211,238,.17);
+                        color:var(--text-muted);
+                        font-size:.81rem;
+                        line-height:1.6;
+                    ">
+                        <strong style="color:var(--cyan);">
+                            2ª direção:
+                        </strong>
+
+                        Se tenho tempo, então estudo.
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- RESULTADO -->
+            <div style="
+                padding:14px;
+                border-radius:11px;
+                background:rgba(34,197,94,.06);
+                border:1px solid rgba(34,197,94,.18);
+                text-align:center;
+            ">
+
+                <div style="
+                    color:var(--green);
+                    font-size:.64rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    ✅ Resultado
+                </div>
+
+                <div style="
+                    margin-top:7px;
+                    color:var(--text);
+                    font-size:.86rem;
+                    font-weight:800;
+                    line-height:1.7;
+                ">
+                    “Estudo se, e somente se, tenho tempo.”
+
+                    <br>
+
+                    equivale a:
+
+                    <br>
+
+                    <span style="color:var(--cyan);">
+                        “Se estudo, então tenho tempo E
+                        se tenho tempo, então estudo.”
+                    </span>
+                </div>
+
+            </div>
+
+        </article>
+
+
+
+        <!-- ====================================================
+             CARD 04 — OU EXCLUSIVO / EXCLUDENTE
+             ==================================================== -->
+
+        <article
+            class="equivalence-card eq-excludente"
+            style="
+                position:relative;
+                overflow:hidden;
+                padding:22px;
+                border-radius:18px;
+                background:
+                    linear-gradient(
+                        145deg,
+                        rgba(168,85,247,.10),
+                        rgba(168,85,247,.025)
+                    );
+                border:1px solid rgba(168,85,247,.30);
+                border-left:4px solid var(--purple);
+                box-shadow:0 12px 30px rgba(0,0,0,.16);
+            "
+        >
+
+            <div style="
+                position:absolute;
+                top:-45px;
+                right:-45px;
+                width:110px;
+                height:110px;
+                border-radius:50%;
+                background:rgba(168,85,247,.08);
+                pointer-events:none;
+            "></div>
+
+
+            <!-- TÍTULO -->
+            <div style="
+                display:flex;
+                align-items:flex-start;
+                gap:12px;
+                margin-bottom:18px;
+            ">
+
+                <div style="
+                    width:44px;
+                    height:44px;
+                    min-width:44px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    border-radius:12px;
+                    background:rgba(168,85,247,.12);
+                    border:1px solid rgba(168,85,247,.25);
+                    font-size:1.15rem;
+                ">
+                    ⚡
+                </div>
+
+                <div>
+
+                    <div style="
+                        margin-bottom:4px;
+                        color:var(--purple);
+                        font-size:.65rem;
+                        font-weight:900;
+                        text-transform:uppercase;
+                        letter-spacing:.08em;
+                    ">
+                        4ª Equivalência
+                    </div>
+
+                    <h3 style="
+                        margin:0;
+                        color:var(--text);
+                        font-size:1.08rem;
+                        font-weight:900;
+                    ">
+                        OU Exclusivo — Excludente
+                    </h3>
+
+                </div>
+
+            </div>
+
+
+            <!-- FÓRMULA -->
+            <div style="
+                margin-bottom:15px;
+                padding:15px;
+                border-radius:12px;
+                background:rgba(0,0,0,.20);
+                border:1px solid rgba(168,85,247,.18);
+                text-align:center;
+            ">
+
+                <div style="
+                    margin-bottom:7px;
+                    color:var(--text-muted);
+                    font-size:.62rem;
+                    font-weight:800;
+                    text-transform:uppercase;
+                    letter-spacing:.08em;
+                ">
+                    Relação fundamental
+                </div>
+
+                <div style="
+                    color:var(--purple);
+                    font-family:'Courier New',monospace;
+                    font-size:1.08rem;
+                    font-weight:900;
+                ">
+                    P ⊕ Q ≡ ¬(P ↔ Q)
+                </div>
+
+            </div>
+
+
+            <!-- BIZU -->
+            <div style="
+                margin-bottom:15px;
+                padding:15px;
+                border-radius:11px;
+                background:rgba(168,85,247,.055);
+                border:1px dashed rgba(168,85,247,.26);
+            ">
+
+                <div style="
+                    margin-bottom:9px;
+                    color:var(--purple);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🧠 BIZU
+                </div>
+
+                <div style="
+                    display:grid;
+                    grid-template-columns:repeat(2,minmax(0,1fr));
+                    gap:8px;
+                ">
+
+                    <div style="
+                        padding:9px;
+                        border-radius:9px;
+                        background:rgba(34,197,94,.09);
+                        border:1px solid rgba(34,197,94,.20);
+                        color:var(--green);
+                        text-align:center;
+                        font-size:.79rem;
+                        font-weight:900;
+                    ">
+                        DIFERENTES → V
+                    </div>
+
+                    <div style="
+                        padding:9px;
+                        border-radius:9px;
+                        background:rgba(239,68,68,.09);
+                        border:1px solid rgba(239,68,68,.20);
+                        color:var(--red);
+                        text-align:center;
+                        font-size:.79rem;
+                        font-weight:900;
+                    ">
+                        IGUAIS → F
+                    </div>
+
+                </div>
+
+                <div style="
+                    margin-top:10px;
+                    color:var(--text);
+                    text-align:center;
+                    font-size:.85rem;
+                    font-weight:900;
+                    line-height:1.6;
+                ">
+                    “UM OU OUTRO, MAS NÃO OS DOIS.”
+                </div>
+
+            </div>
+
+
+            <!-- EXEMPLO 01 -->
+            <div style="
+                margin-bottom:10px;
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--purple);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    📌 Exemplo 01
+                </div>
+
+                <div style="
+                    color:var(--text);
+                    font-size:.84rem;
+                    line-height:1.7;
+                ">
+                    <strong>
+                        “João vai ao cinema ou vai ao teatro,
+                        mas não aos dois.”
+                    </strong>
+                </div>
+
+                <div style="
+                    margin-top:8px;
+                    padding-top:8px;
+                    border-top:1px solid var(--border);
+                    color:var(--text-muted);
+                    font-size:.80rem;
+                    line-height:1.6;
+                ">
+                    Significa:
+                    <strong style="color:var(--purple);">
+                        João vai a apenas um dos dois lugares.
+                    </strong>
+                </div>
+
+            </div>
+
+
+            <!-- EXEMPLO 02 -->
+            <div style="
+                padding:14px;
+                border-radius:11px;
+                background:rgba(255,255,255,.025);
+                border:1px solid var(--border);
+            ">
+
+                <div style="
+                    margin-bottom:8px;
+                    color:var(--purple);
+                    font-size:.65rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    📌 Exemplo 02
+                </div>
+
+                <div style="
+                    color:var(--text);
+                    font-size:.84rem;
+                    line-height:1.7;
+                ">
+                    <strong>
+                        “Maria estuda ou trabalha,
+                        mas não faz as duas coisas.”
+                    </strong>
+                </div>
+
+                <div style="
+                    margin-top:8px;
+                    padding-top:8px;
+                    border-top:1px solid var(--border);
+                    color:var(--text-muted);
+                    font-size:.80rem;
+                    line-height:1.6;
+                ">
+                    Significa:
+                    <strong style="color:var(--purple);">
+                        Maria faz apenas uma das duas atividades.
+                    </strong>
+                </div>
+
+            </div>
+
+
+            <!-- RELAÇÃO COM BICONDICIONAL -->
+            <div style="
+                margin-top:12px;
+                padding:13px;
+                border-radius:10px;
+                background:rgba(168,85,247,.06);
+                border:1px solid rgba(168,85,247,.18);
+            ">
+
+                <div style="
+                    margin-bottom:6px;
+                    color:var(--purple);
+                    font-size:.63rem;
+                    font-weight:900;
+                    text-transform:uppercase;
+                    letter-spacing:.07em;
+                ">
+                    🔗 Relação
+                </div>
+
+                <div style="
+                    color:var(--text-muted);
+                    font-size:.80rem;
+                    line-height:1.6;
+                ">
+                    O bicondicional é verdadeiro quando P e Q são iguais.
+                    Sua negação é verdadeira quando são diferentes.
+                </div>
+
+                <div style="
+                    margin-top:8px;
+                    text-align:center;
+                    color:var(--purple);
+                    font-family:'Courier New',monospace;
+                    font-size:.90rem;
+                    font-weight:900;
+                ">
+                    ¬(P ↔ Q) ≡ P ⊕ Q
+                </div>
+
+            </div>
+
+        </article>
+
+    </div>
+
+
+
+    <!-- ========================================================
+         DICA DE OURO
+         ======================================================== -->
+
+    <div
+        class="bizu-box"
+        style="
+            margin-top:20px;
+            padding:18px;
+            border-radius:14px;
+            background:
+                linear-gradient(
+                    135deg,
+                    rgba(59,130,246,.08),
+                    rgba(168,85,247,.08)
+                );
+            border:1px solid rgba(99,102,241,.22);
+            box-shadow:0 10px 28px rgba(0,0,0,.12);
+        "
+    >
+
+        <span
+            class="bizu-icon"
+            style="
+                font-size:1.4rem;
+            "
+        >
+            💡
+        </span>
+
+        <span
+            class="bizu-text"
+            style="
+                line-height:1.9;
+            "
+        >
+
+            <strong>
+                Dica de ouro:
+            </strong>
+
+            Memorize assim:
+
+            <br>
+
+            <strong style="color:var(--orange);">
+                NE y MA
+            </strong>
+            =
+            <strong>
+                NEga + MAntém
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--pink);">
+                NE i NE
+            </strong>
+            =
+            <strong>
+                NEga + INverte + NEga
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--cyan);">
+                ↔
+            </strong>
+            =
+            <strong>
+                Dupla condicional
+            </strong>
+
+            <br>
+
+            <strong style="color:var(--purple);">
+                ⊕
+            </strong>
+            =
+            <strong>
+                Excludente
+            </strong>
+            =
+            <strong style="color:var(--green);">
+                Diferentes = V
+            </strong>
+            /
+            <strong style="color:var(--red);">
+                Iguais = F
+            </strong>
+
+        </span>
+
+    </div>
+
+
+
+    <!-- ========================================================
+         BIZU FINAL
+         ======================================================== -->
+
+    <div style="
+        margin-top:16px;
+        padding:16px;
+        border-radius:13px;
+        background:rgba(255,255,255,.025);
+        border:1px solid var(--border);
+        text-align:center;
+    ">
+
+        <div style="
+            margin-bottom:8px;
+            color:var(--yellow);
+            font-size:.65rem;
+            font-weight:900;
+            text-transform:uppercase;
+            letter-spacing:.08em;
+        ">
+            🏆 Para decorar antes da prova
+        </div>
+
+        <div style="
+            display:grid;
+            grid-template-columns:repeat(4,minmax(0,1fr));
+            gap:8px;
+        ">
+
+            <div style="
+                padding:10px 6px;
+                border-radius:9px;
+                background:rgba(251,146,60,.07);
+                color:var(--orange);
+                font-size:.75rem;
+                font-weight:900;
+            ">
+                NE y MA
+            </div>
+
+            <div style="
+                padding:10px 6px;
+                border-radius:9px;
+                background:rgba(244,114,182,.07);
+                color:var(--pink);
+                font-size:.75rem;
+                font-weight:900;
+            ">
+                NE i NE
+            </div>
+
+            <div style="
+                padding:10px 6px;
+                border-radius:9px;
+                background:rgba(34,211,238,.07);
+                color:var(--cyan);
+                font-size:.75rem;
+                font-weight:900;
+            ">
+                ↔ DUPLA
+            </div>
+
+            <div style="
+                padding:10px 6px;
+                border-radius:9px;
+                background:rgba(168,85,247,.07);
+                color:var(--purple);
+                font-size:.75rem;
+                font-weight:900;
+            ">
+                ⊕ DIFERENTES
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ============================================================
+     RESPONSIVIDADE DO GRID
+     ============================================================ -->
+
+<style>
+
+    /* Tablet */
+    @media (max-width: 900px) {
+
+        #kit .equivalence-grid {
+            grid-template-columns:1fr !important;
+        }
+
+    }
+
+
+    /* Celular */
+    @media (max-width: 560px) {
+
+        #kit .equivalence-grid {
+            grid-template-columns:1fr !important;
+            gap:15px !important;
+        }
+
+        #kit .equivalence-card {
+            padding:17px !important;
+        }
+
+        #kit .equivalence-card h3 {
+            font-size:1rem !important;
+        }
+
+        #kit .equivalence-card .eq-symbol {
+            font-size:.90rem !important;
+        }
+
+        #kit .eq-contrapositiva [style*="grid-template-columns:repeat(3"] {
+            grid-template-columns:1fr !important;
+        }
+
+        #kit [style*="grid-template-columns:repeat(4"] {
+            grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+        }
+
+    }
+
+</style>
+
+
+
+</section>
 
         <!-- FOOTER -->
         <footer class="footer">
@@ -716,75 +3858,240 @@
 
     </div>
 
-    <script>
-        // ===== EXPLORADOR INTERATIVO =====
-        let p2 = true;
-        let q2 = true;
+<script>
+document.addEventListener('DOMContentLoaded', () => {
 
-        const pV2 = document.getElementById('pV2');
-        const pF2 = document.getElementById('pF2');
-        const qV2 = document.getElementById('qV2');
-        const qF2 = document.getElementById('qF2');
+    /* ============================================================
+       ESTADO INICIAL
+       ============================================================ */
 
-        const resCond2 = document.getElementById('resCondicional2');
-        const resEq1 = document.getElementById('resEquiv1');
-        const resContra = document.getElementById('resContrapos');
-        const resNegCond = document.getElementById('resNegCond');
+    const state = {
+        p: true,
+        q: true
+    };
 
-        function updateToggleButtons2() {
-            pV2.classList.toggle('active', p2 === true);
-            pF2.classList.toggle('active', p2 === false);
-            qV2.classList.toggle('active', q2 === true);
-            qF2.classList.toggle('active', q2 === false);
-        }
 
-        function updateResults2() {
-            const p = p2,
-                q = q2;
-            const cond = !(p === true && q === false);
-            const equiv1 = (!p) || q;
-            const notQ = !q;
-            const notP = !p;
-            const contraposVal = !(notQ === true && notP === false);
-            const negCond = p && !q;
+    /* ============================================================
+       ELEMENTOS
+       ============================================================ */
 
-            setResultValue2(resCond2, cond);
-            setResultValue2(resEq1, equiv1);
-            setResultValue2(resContra, contraposVal);
-            setResultValue2(resNegCond, negCond);
-        }
+    const buttons = document.querySelectorAll(
+        '#explorador .toggle-btn'
+    );
 
-        function setResultValue2(element, value) {
-            if (value) {
-                element.textContent = 'V';
-                element.className = 'result-value val-V';
-            } else {
-                element.textContent = 'F';
-                element.className = 'result-value val-F';
+    const resultConditional =
+        document.getElementById('resCondicional2');
+
+    const resultEquivalent =
+        document.getElementById('resEquiv1');
+
+    const resultContrapositive =
+        document.getElementById('resContrapos');
+
+    const resultNegation =
+        document.getElementById('resNegCond');
+
+
+    /* ============================================================
+       VERIFICAÇÃO
+       ============================================================ */
+
+    if (
+        !resultConditional ||
+        !resultEquivalent ||
+        !resultContrapositive ||
+        !resultNegation
+    ) {
+        console.error(
+            'Explorador Interativo: elementos de resultado não encontrados.'
+        );
+
+        return;
+    }
+
+
+    /* ============================================================
+       ATUALIZA BOTÕES
+       ============================================================ */
+
+    function updateButtons() {
+
+        buttons.forEach(button => {
+
+            const variable = button.dataset.variable;
+            const value = button.dataset.value;
+
+            const isSelected =
+                (variable === 'p' && state.p === (value === 'V')) ||
+                (variable === 'q' && state.q === (value === 'V'));
+
+            button.classList.toggle(
+                'active',
+                isSelected
+            );
+
+            button.setAttribute(
+                'aria-pressed',
+                String(isSelected)
+            );
+
+        });
+
+    }
+
+
+    /* ============================================================
+       ATUALIZA RESULTADOS
+       ============================================================ */
+
+    function updateResult(element, value) {
+
+        element.textContent = value ? 'V' : 'F';
+
+        element.classList.remove(
+            'val-V',
+            'val-F'
+        );
+
+        element.classList.add(
+            value ? 'val-V' : 'val-F'
+        );
+
+        element.setAttribute(
+            'aria-label',
+            value ? 'Verdadeiro' : 'Falso'
+        );
+
+    }
+
+
+    /* ============================================================
+       CALCULA TODAS AS EXPRESSÕES
+       ============================================================ */
+
+    function updateResults() {
+
+        const p = state.p;
+        const q = state.q;
+
+
+        /*
+         * P → Q
+         *
+         * FALSA somente quando:
+         *
+         * P = V
+         * Q = F
+         */
+
+        const conditional =
+            !p || q;
+
+
+        /*
+         * ¬P ∨ Q
+         *
+         * Equivalência do condicional
+         */
+
+        const equivalent =
+            !p || q;
+
+
+        /*
+         * ¬Q → ¬P
+         *
+         * Contrapositiva
+         */
+
+        const contrapositive =
+            q || !p;
+
+
+        /*
+         * ¬(P → Q)
+         *
+         * Equivale a:
+         *
+         * P ∧ ¬Q
+         */
+
+        const negation =
+            p && !q;
+
+
+        updateResult(
+            resultConditional,
+            conditional
+        );
+
+        updateResult(
+            resultEquivalent,
+            equivalent
+        );
+
+        updateResult(
+            resultContrapositive,
+            contrapositive
+        );
+
+        updateResult(
+            resultNegation,
+            negation
+        );
+
+    }
+
+
+    /* ============================================================
+       CLIQUE DOS BOTÕES
+       ============================================================ */
+
+    buttons.forEach(button => {
+
+        button.addEventListener('click', () => {
+
+            const variable =
+                button.dataset.variable;
+
+            const value =
+                button.dataset.value === 'V';
+
+
+            /*
+             * Atualiza P ou Q
+             */
+
+            if (variable === 'p') {
+                state.p = value;
             }
-        }
 
-        pV2.addEventListener('click', () => { p2 = true;
-            updateToggleButtons2();
-            updateResults2(); });
-        pF2.addEventListener('click', () => { p2 = false;
-            updateToggleButtons2();
-            updateResults2(); });
-        qV2.addEventListener('click', () => { q2 = true;
-            updateToggleButtons2();
-            updateResults2(); });
-        qF2.addEventListener('click', () => { q2 = false;
-            updateToggleButtons2();
-            updateResults2(); });
+            if (variable === 'q') {
+                state.q = value;
+            }
 
-        updateToggleButtons2();
-        updateResults2();
 
-        // ===== SE ESTIVER DENTRO DE IFRAME =====
-        if (window.self !== window.top) {
-            document.body.classList.add('iframe-mode');
-        }
-    </script>
+            /*
+             * Atualiza a interface
+             */
+
+            updateButtons();
+            updateResults();
+
+        });
+
+    });
+
+
+    /* ============================================================
+       INICIALIZAÇÃO
+       ============================================================ */
+
+    updateButtons();
+    updateResults();
+
+});
+</script>
 
 </body>
 </html>
