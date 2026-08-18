@@ -349,24 +349,7 @@
         </div>
     </section>
 
-    <!-- SEÇÃO 7: EQUIVALÊNCIAS -->
-    <section class="section sec-equivalencias" id="equivalencias">
-        <div class="section-header">
-            <div class="icon-circle">⚖️</div>
-            <h2>Equivalências Lógicas Importantes<span class="highlight">Sempre as mesmas tabelas-verdade</span></h2>
-        </div>
-        <div class="card card-accent-orange">
-            <p>Duas proposições são equivalentes quando possuem exatamente a mesma tabela-verdade. As mais cobradas envolvem o Condicional (p → q):</p>
-            <div class="formula-box">
-                <span class="formula-label">Contrapositiva (inverte e nega tudo)</span>
-                p → q ≡ ¬q → ¬p
-            </div>
-            <div class="formula-box">
-                <span class="formula-label">Regra do "NEyMAr" (Nega a 1ª, troca por OU, Mantém a 2ª)</span>
-                p → q ≡ ¬p ∨ q
-            </div>
-        </div>
-    </section>
+
 
     <!-- SEÇÃO 8: CLASSIFICAÇÃO -->
     <section class="section sec-classificacao" id="classificacao">
@@ -602,83 +585,1792 @@
         </div>
     </section>
 
-    <!-- NOVA SEÇÃO: QUESTÕES RESOLVIDAS PASSO A PASSO (adicionada) -->
-    <section class="section sec-questoes" id="questoes">
-        <div class="section-header">
-            <div class="icon-circle">🧾</div>
-            <h2>Questões Resolvidas Passo a Passo<span class="highlight">Aplique a teoria na prática</span></h2>
+ <!-- =========================================================
+     QUESTÕES RESOLVIDAS PASSO A PASSO
+     TODO O VISUAL ESTÁ INLINE
+     ========================================================= -->
+
+<section
+    class="section sec-questoes"
+    id="questoes"
+    style="
+        position:relative;
+        padding:45px 0 35px;
+        border-bottom:1px solid var(--border);
+    "
+>
+
+    <!-- =========================
+         CABEÇALHO DA SEÇÃO
+         ========================= -->
+    <div
+        class="section-header"
+        style="
+            display:flex;
+            align-items:center;
+            gap:14px;
+            margin-bottom:30px;
+        "
+    >
+
+        <div
+            class="icon-circle"
+            style="
+                width:50px;
+                height:50px;
+                min-width:50px;
+                border-radius:15px;
+                display:flex;
+                align-items:center;
+                justify-content:center;
+                font-size:1.35rem;
+                border:2px solid var(--blue);
+                background:rgba(96,165,250,0.08);
+                color:var(--blue);
+                box-shadow:0 0 24px rgba(96,165,250,0.25);
+            "
+        >
+            🧾
         </div>
 
-        <!-- Questão 1 (Fundatec) -->
-        <div class="card card-accent-blue" style="margin-bottom: 24px;">
-            <h3>📌 Questão 1 (Banca Fundatec)</h3>
-            <p><strong>Contexto:</strong> As proposições simples A, B e C são todas <strong>FALSAS</strong>. Determine o valor lógico da expressão:</p>
-            <div class="formula-box" style="background: rgba(0,102,204,0.08); border-color: var(--blue);">
-                (~A ∧ B) ∨ (C ∧ ~B)
-            </div>
+        <h2
+            style="
+                margin:0;
+                color:var(--blue);
+                font-family:var(--font-heading);
+                font-size:clamp(1.35rem,2.8vw,2rem);
+                font-weight:800;
+                line-height:1.2;
+                letter-spacing:-0.01em;
+            "
+        >
+            Questões Resolvidas Passo a Passo
 
-            <h4 style="margin-top: 16px;">🔍 Resolução passo a passo</h4>
-            <ol style="padding-left: 20px; line-height: 1.8;">
-                <li><strong>Atribuir e inverter:</strong> A = F, B = F, C = F → ~A = V, ~B = V, ~C = V.</li>
-                <li><strong>Primeiro parêntese (~A ∧ B):</strong> V ∧ F = <strong style="color: var(--red);">F</strong> (regra do E: basta um F).</li>
-                <li><strong>Segundo parêntese (C ∧ ~B):</strong> F ∧ V = <strong style="color: var(--red);">F</strong>.</li>
-                <li><strong>Junção com OU:</strong> F ∨ F = <strong style="color: var(--red);">F</strong> (regra do OU: só é V se pelo menos um for V).</li>
-            </ol>
-            <div class="example-result res-F" style="margin-top: 10px; font-size: 1.2rem;">Resultado final: Falso (F)</div>
-            <div class="alert-box" style="margin-top: 12px;">
-                <span class="alert-icon">💡</span>
-                <span class="alert-text"><strong>Dica do professor:</strong> Em questões de valor lógico, a resposta é sempre V ou F. Elimine alternativas como "impossível determinar" ou "neutro".</span>
-            </div>
-        </div>
+            <span
+                class="highlight"
+                style="
+                    display:block;
+                    margin-top:4px;
+                    color:var(--text-muted);
+                    font-size:.7rem;
+                    font-weight:600;
+                    text-transform:uppercase;
+                    letter-spacing:.08em;
+                "
+            >
+                Aplique a teoria na prática
+            </span>
+        </h2>
 
-        <!-- Questão 2 (Dedalus) -->
-        <div class="card card-accent-green" style="margin-bottom: 24px;">
-            <h3>📌 Questão 2 (Banca Dedalus)</h3>
-            <p><strong>Contexto:</strong> Avalie os quatro itens abaixo, que misturam operações matemáticas com conectivos lógicos, e determine a sequência correta de valores lógicos.</p>
+    </div>
 
-            <div style="margin: 16px 0;">
-                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
-                    <strong>Item 1:</strong> (7 − 2/2 = 5) ∨ (3 > 2)
+
+    <!-- =====================================================
+         CONTAINER DAS QUESTÕES
+         ===================================================== -->
+    <div
+        style="
+            display:flex;
+            flex-direction:column;
+            gap:28px;
+        "
+    >
+
+
+        <!-- =================================================
+             QUESTÃO 1
+             ================================================= -->
+        <article
+            style="
+                position:relative;
+                overflow:hidden;
+                margin:0;
+                padding:0;
+                background:linear-gradient(
+                    145deg,
+                    rgba(14,14,26,.98),
+                    rgba(20,20,38,.98)
+                );
+                border:1px solid var(--border-strong);
+                border-radius:var(--radius);
+                box-shadow:var(--shadow-card);
+                transition:var(--transition);
+            "
+        >
+
+            <!-- Barra superior -->
+            <div
+                style="
+                    height:4px;
+                    width:100%;
+                    background:linear-gradient(
+                        90deg,
+                        var(--blue),
+                        var(--cyan)
+                    );
+                "
+            ></div>
+
+
+            <!-- Cabeçalho da questão -->
+            <div
+                style="
+                    display:flex;
+                    align-items:center;
+                    justify-content:space-between;
+                    gap:16px;
+                    flex-wrap:wrap;
+                    padding:22px 24px;
+                    background:rgba(255,255,255,.025);
+                    border-bottom:1px solid var(--border);
+                "
+            >
+
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        gap:12px;
+                    "
+                >
+
+                    <!-- Número -->
+                    <div
+                        style="
+                            width:44px;
+                            height:44px;
+                            min-width:44px;
+                            border-radius:12px;
+                            display:flex;
+                            align-items:center;
+                            justify-content:center;
+                            background:linear-gradient(
+                                135deg,
+                                var(--blue),
+                                #3b82f6
+                            );
+                            color:#fff;
+                            font-size:1rem;
+                            font-weight:900;
+                            box-shadow:0 6px 18px rgba(96,165,250,.25);
+                        "
+                    >
+                        01
+                    </div>
+
+                    <div>
+                        <h3
+                            style="
+                                margin:0;
+                                color:var(--blue);
+                                font-family:var(--font-heading);
+                                font-size:1.12rem;
+                                font-weight:800;
+                            "
+                        >
+                            Questão de Valor Lógico
+                        </h3>
+
+                        <span
+                            style="
+                                display:block;
+                                margin-top:3px;
+                                color:var(--text-muted);
+                                font-size:.78rem;
+                            "
+                        >
+                            Análise de proposições simples
+                        </span>
+                    </div>
+
                 </div>
-                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
-                    <strong>Item 2:</strong> (2 + 3 = 4) ↔ (1 > 3)
+
+
+                <!-- Banca -->
+                <span
+                    style="
+                        display:inline-flex;
+                        align-items:center;
+                        gap:6px;
+                        padding:7px 11px;
+                        border:1px solid var(--border-strong);
+                        border-radius:999px;
+                        background:rgba(255,255,255,.04);
+                        color:var(--text-muted);
+                        font-size:.68rem;
+                        font-weight:700;
+                        text-transform:uppercase;
+                        letter-spacing:.05em;
+                    "
+                >
+                    📚 Fundatec
+                </span>
+
+            </div>
+
+
+            <!-- Corpo -->
+            <div
+                style="
+                    padding:24px;
+                "
+            >
+
+                <!-- ================= CONTEXTO ================= -->
+                <div
+                    style="
+                        margin-bottom:20px;
+                    "
+                >
+
+                    <div
+                        style="
+                            display:flex;
+                            align-items:center;
+                            gap:8px;
+                            margin-bottom:9px;
+                            color:var(--blue);
+                            font-size:.7rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.07em;
+                        "
+                    >
+                        <span
+                            style="
+                                width:7px;
+                                height:7px;
+                                border-radius:50%;
+                                background:var(--blue);
+                                box-shadow:0 0 10px var(--blue);
+                            "
+                        ></span>
+
+                        Contexto da questão
+                    </div>
+
+                    <p
+                        style="
+                            margin:0;
+                            color:var(--text-muted);
+                            font-size:.94rem;
+                            line-height:1.75;
+                        "
+                    >
+                        As proposições simples
+                        <strong style="color:var(--text);">A</strong>,
+                        <strong style="color:var(--text);">B</strong> e
+                        <strong style="color:var(--text);">C</strong>
+                        são todas
+                        <strong style="color:var(--red);">FALSAS</strong>.
+                        Determine o valor lógico da expressão abaixo.
+                    </p>
+
                 </div>
-                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
-                    <strong>Item 3:</strong> (3 × 5 + 6 = 21) → (18/3 − 1 = 7)
+
+
+                <!-- ================= EXPRESSÃO ================= -->
+                <div
+                    style="
+                        position:relative;
+                        margin:20px 0 28px;
+                        padding:19px 20px;
+                        border-radius:var(--radius-sm);
+                        background:rgba(0,0,0,.22);
+                        border:1px solid var(--border-strong);
+                        border-left:4px solid var(--blue);
+                        box-shadow:inset 0 0 30px rgba(96,165,250,.04);
+                        overflow-x:auto;
+                    "
+                >
+
+                    <div
+                        style="
+                            margin-bottom:10px;
+                            color:var(--text-muted);
+                            font-size:.65rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.08em;
+                        "
+                    >
+                        Expressão lógica
+                    </div>
+
+                    <code
+                        style="
+                            display:block;
+                            color:var(--text);
+                            font-family:'Courier New',monospace;
+                            font-size:1.1rem;
+                            font-weight:700;
+                            white-space:nowrap;
+                        "
+                    >
+                        (~A ∧ B) ∨ (C ∧ ~B)
+                    </code>
+
                 </div>
-                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 10px;">
-                    <strong>Item 4:</strong> (4 × 4 + 3 = 19) ∧ (9 − 2 = 7)
+
+
+                <!-- ================= RESOLUÇÃO ================= -->
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        justify-content:space-between;
+                        gap:12px;
+                        margin-bottom:15px;
+                    "
+                >
+
+                    <h4
+                        style="
+                            margin:0;
+                            color:var(--text);
+                            font-family:var(--font-heading);
+                            font-size:1rem;
+                            font-weight:800;
+                        "
+                    >
+                        🔍 Resolução passo a passo
+                    </h4>
+
+                    <span
+                        style="
+                            padding:5px 10px;
+                            border-radius:999px;
+                            background:rgba(255,255,255,.04);
+                            border:1px solid var(--border);
+                            color:var(--text-muted);
+                            font-size:.65rem;
+                            font-weight:700;
+                            text-transform:uppercase;
+                        "
+                    >
+                        4 etapas
+                    </span>
+
                 </div>
+
+
+                <!-- ================= PASSOS ================= -->
+                <div
+                    style="
+                        display:flex;
+                        flex-direction:column;
+                        gap:12px;
+                    "
+                >
+
+                    <!-- PASSO 1 -->
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:40px minmax(0,1fr);
+                            gap:14px;
+                            align-items:flex-start;
+                            padding:16px;
+                            border:1px solid var(--border);
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                        "
+                    >
+
+                        <div
+                            style="
+                                width:40px;
+                                height:40px;
+                                border-radius:11px;
+                                display:flex;
+                                align-items:center;
+                                justify-content:center;
+                                background:linear-gradient(
+                                    135deg,
+                                    var(--cyan),
+                                    var(--purple)
+                                );
+                                color:#fff;
+                                font-size:.8rem;
+                                font-weight:900;
+                                box-shadow:0 5px 14px rgba(34,211,238,.2);
+                            "
+                        >
+                            01
+                        </div>
+
+                        <div>
+
+                            <h5
+                                style="
+                                    margin:0 0 5px;
+                                    color:var(--text);
+                                    font-size:.84rem;
+                                    font-weight:800;
+                                "
+                            >
+                                Atribuir os valores lógicos
+                            </h5>
+
+                            <p
+                                style="
+                                    margin:0;
+                                    color:var(--text-muted);
+                                    font-size:.88rem;
+                                    line-height:1.65;
+                                "
+                            >
+                                Temos
+                                <strong style="color:var(--text);">A = F</strong>,
+                                <strong style="color:var(--text);">B = F</strong>
+                                e
+                                <strong style="color:var(--text);">C = F</strong>.
+                                Ao negar, temos:
+                            </p>
+
+                            <div
+                                style="
+                                    display:inline-block;
+                                    margin-top:9px;
+                                    padding:8px 12px;
+                                    border-radius:8px;
+                                    background:rgba(0,0,0,.22);
+                                    border:1px dashed var(--border-strong);
+                                    color:var(--text);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.82rem;
+                                    font-weight:700;
+                                "
+                            >
+                                ~A = V &nbsp; | &nbsp;
+                                ~B = V &nbsp; | &nbsp;
+                                ~C = V
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- PASSO 2 -->
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:40px minmax(0,1fr);
+                            gap:14px;
+                            align-items:flex-start;
+                            padding:16px;
+                            border:1px solid var(--border);
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                        "
+                    >
+
+                        <div
+                            style="
+                                width:40px;
+                                height:40px;
+                                border-radius:11px;
+                                display:flex;
+                                align-items:center;
+                                justify-content:center;
+                                background:linear-gradient(
+                                    135deg,
+                                    var(--cyan),
+                                    var(--purple)
+                                );
+                                color:#fff;
+                                font-size:.8rem;
+                                font-weight:900;
+                            "
+                        >
+                            02
+                        </div>
+
+                        <div>
+
+                            <h5
+                                style="
+                                    margin:0 0 5px;
+                                    color:var(--text);
+                                    font-size:.84rem;
+                                    font-weight:800;
+                                "
+                            >
+                                Resolver o primeiro parêntese
+                            </h5>
+
+                            <p
+                                style="
+                                    margin:0;
+                                    color:var(--text-muted);
+                                    font-size:.88rem;
+                                    line-height:1.65;
+                                "
+                            >
+                                Temos:
+                                <strong style="color:var(--text);">(~A ∧ B)</strong>
+                            </p>
+
+                            <div
+                                style="
+                                    display:inline-block;
+                                    margin-top:9px;
+                                    padding:8px 12px;
+                                    border-radius:8px;
+                                    background:rgba(248,113,113,.06);
+                                    border:1px dashed rgba(248,113,113,.25);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.82rem;
+                                    font-weight:700;
+                                    color:var(--text);
+                                "
+                            >
+                                V ∧ F =
+                                <strong style="color:var(--red);">F</strong>
+                            </div>
+
+                            <p
+                                style="
+                                    margin:9px 0 0;
+                                    color:var(--text-muted);
+                                    font-size:.82rem;
+                                    line-height:1.6;
+                                "
+                            >
+                                No conectivo
+                                <strong style="color:var(--green);">E (∧)</strong>,
+                                basta um valor falso para o resultado ser falso.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- PASSO 3 -->
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:40px minmax(0,1fr);
+                            gap:14px;
+                            align-items:flex-start;
+                            padding:16px;
+                            border:1px solid var(--border);
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                        "
+                    >
+
+                        <div
+                            style="
+                                width:40px;
+                                height:40px;
+                                border-radius:11px;
+                                display:flex;
+                                align-items:center;
+                                justify-content:center;
+                                background:linear-gradient(
+                                    135deg,
+                                    var(--cyan),
+                                    var(--purple)
+                                );
+                                color:#fff;
+                                font-size:.8rem;
+                                font-weight:900;
+                            "
+                        >
+                            03
+                        </div>
+
+                        <div>
+
+                            <h5
+                                style="
+                                    margin:0 0 5px;
+                                    color:var(--text);
+                                    font-size:.84rem;
+                                    font-weight:800;
+                                "
+                            >
+                                Resolver o segundo parêntese
+                            </h5>
+
+                            <p
+                                style="
+                                    margin:0;
+                                    color:var(--text-muted);
+                                    font-size:.88rem;
+                                    line-height:1.65;
+                                "
+                            >
+                                Agora temos:
+                                <strong style="color:var(--text);">(C ∧ ~B)</strong>
+                            </p>
+
+                            <div
+                                style="
+                                    display:inline-block;
+                                    margin-top:9px;
+                                    padding:8px 12px;
+                                    border-radius:8px;
+                                    background:rgba(248,113,113,.06);
+                                    border:1px dashed rgba(248,113,113,.25);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.82rem;
+                                    font-weight:700;
+                                    color:var(--text);
+                                "
+                            >
+                                F ∧ V =
+                                <strong style="color:var(--red);">F</strong>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- PASSO 4 -->
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:40px minmax(0,1fr);
+                            gap:14px;
+                            align-items:flex-start;
+                            padding:16px;
+                            border:1px solid var(--border);
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                        "
+                    >
+
+                        <div
+                            style="
+                                width:40px;
+                                height:40px;
+                                border-radius:11px;
+                                display:flex;
+                                align-items:center;
+                                justify-content:center;
+                                background:linear-gradient(
+                                    135deg,
+                                    var(--cyan),
+                                    var(--purple)
+                                );
+                                color:#fff;
+                                font-size:.8rem;
+                                font-weight:900;
+                            "
+                        >
+                            04
+                        </div>
+
+                        <div>
+
+                            <h5
+                                style="
+                                    margin:0 0 5px;
+                                    color:var(--text);
+                                    font-size:.84rem;
+                                    font-weight:800;
+                                "
+                            >
+                                Aplicar o conectivo OU
+                            </h5>
+
+                            <p
+                                style="
+                                    margin:0;
+                                    color:var(--text-muted);
+                                    font-size:.88rem;
+                                    line-height:1.65;
+                                "
+                            >
+                                Juntando os resultados dos dois parênteses:
+                            </p>
+
+                            <div
+                                style="
+                                    display:inline-block;
+                                    margin-top:9px;
+                                    padding:9px 13px;
+                                    border-radius:8px;
+                                    background:rgba(248,113,113,.06);
+                                    border:1px dashed rgba(248,113,113,.25);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.85rem;
+                                    font-weight:800;
+                                "
+                            >
+                                F ∨ F =
+                                <strong style="color:var(--red);">F</strong>
+                            </div>
+
+                            <p
+                                style="
+                                    margin:9px 0 0;
+                                    color:var(--text-muted);
+                                    font-size:.82rem;
+                                    line-height:1.6;
+                                "
+                            >
+                                No
+                                <strong style="color:var(--yellow);">OU (∨)</strong>,
+                                o resultado é falso somente quando os dois valores são falsos.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- ================= RESULTADO ================= -->
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        justify-content:space-between;
+                        gap:15px;
+                        flex-wrap:wrap;
+                        margin-top:22px;
+                        padding:17px 18px;
+                        border-radius:var(--radius-sm);
+                        background:rgba(248,113,113,.07);
+                        border:1px solid rgba(248,113,113,.25);
+                    "
+                >
+
+                    <span
+                        style="
+                            color:var(--text-muted);
+                            font-size:.75rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.06em;
+                        "
+                    >
+                        Resultado final
+                    </span>
+
+                    <span
+                        style="
+                            color:var(--red);
+                            font-family:var(--font-heading);
+                            font-size:1.15rem;
+                            font-weight:900;
+                        "
+                    >
+                        ❌ Falso (F)
+                    </span>
+
+                </div>
+
+
+                <!-- ================= DICA ================= -->
+                <div
+                    style="
+                        display:grid;
+                        grid-template-columns:42px minmax(0,1fr);
+                        gap:12px;
+                        align-items:flex-start;
+                        margin-top:14px;
+                        padding:15px 16px;
+                        border-radius:var(--radius-sm);
+                        background:rgba(251,191,36,.06);
+                        border:1px solid rgba(251,191,36,.22);
+                    "
+                >
+
+                    <div
+                        style="
+                            width:42px;
+                            height:42px;
+                            display:flex;
+                            align-items:center;
+                            justify-content:center;
+                            border-radius:11px;
+                            background:rgba(251,191,36,.12);
+                            font-size:1.1rem;
+                        "
+                    >
+                        💡
+                    </div>
+
+                    <div>
+
+                        <strong
+                            style="
+                                display:block;
+                                margin-bottom:4px;
+                                color:var(--yellow);
+                                font-size:.77rem;
+                                text-transform:uppercase;
+                                letter-spacing:.05em;
+                            "
+                        >
+                            Dica do professor
+                        </strong>
+
+                        <p
+                            style="
+                                margin:0;
+                                color:var(--text-muted);
+                                font-size:.85rem;
+                                line-height:1.6;
+                            "
+                        >
+                            Em questões de valor lógico, a resposta será
+                            <strong style="color:var(--text);">V</strong> ou
+                            <strong style="color:var(--text);">F</strong>.
+                            Analise cada operação separadamente antes de juntar os resultados.
+                        </p>
+
+                    </div>
+
+                </div>
+
             </div>
 
-            <h4 style="margin-top: 16px;">🔍 Resolução passo a passo</h4>
+        </article>
 
-            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--yellow); background: rgba(255,215,0,0.05);">
-                <p><strong>Item 1:</strong> 7 − 2/2 = 6 → Falso (F) | 3 > 2 → Verdadeiro (V) → <strong>F ∨ V = V</strong></p>
-            </div>
-            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--purple); background: rgba(160,80,255,0.05);">
-                <p><strong>Item 2:</strong> 2 + 3 = 5 → Falso (F) | 1 > 3 → Falso (F) → <strong>F ↔ F = V</strong> (regra da balança: valores iguais)</p>
-            </div>
-            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--orange); background: rgba(255,140,0,0.05);">
-                <p><strong>Item 3:</strong> 3×5+6 = 21 → Verdadeiro (V) | 18/3−1 = 5 → Falso (F) → <strong>V → F = F</strong> (Vera Fischer falsa)</p>
-            </div>
-            <div style="margin: 12px 0; padding: 12px; border-left: 3px solid var(--green); background: rgba(46,204,113,0.05);">
-                <p><strong>Item 4:</strong> 4×4+3 = 19 → Verdadeiro (V) | 9−2 = 7 → Verdadeiro (V) → <strong>V ∧ V = V</strong></p>
+
+
+        <!-- =================================================
+             QUESTÃO 2
+             ================================================= -->
+        <article
+            style="
+                position:relative;
+                overflow:hidden;
+                margin:0;
+                padding:0;
+                background:linear-gradient(
+                    145deg,
+                    rgba(14,14,26,.98),
+                    rgba(20,20,38,.98)
+                );
+                border:1px solid var(--border-strong);
+                border-radius:var(--radius);
+                box-shadow:var(--shadow-card);
+            "
+        >
+
+            <!-- Barra superior -->
+            <div
+                style="
+                    height:4px;
+                    width:100%;
+                    background:linear-gradient(
+                        90deg,
+                        var(--green),
+                        var(--cyan)
+                    );
+                "
+            ></div>
+
+
+            <!-- Cabeçalho -->
+            <div
+                style="
+                    display:flex;
+                    align-items:center;
+                    justify-content:space-between;
+                    gap:16px;
+                    flex-wrap:wrap;
+                    padding:22px 24px;
+                    background:rgba(255,255,255,.025);
+                    border-bottom:1px solid var(--border);
+                "
+            >
+
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        gap:12px;
+                    "
+                >
+
+                    <div
+                        style="
+                            width:44px;
+                            height:44px;
+                            min-width:44px;
+                            border-radius:12px;
+                            display:flex;
+                            align-items:center;
+                            justify-content:center;
+                            background:linear-gradient(
+                                135deg,
+                                var(--green),
+                                #16a34a
+                            );
+                            color:#fff;
+                            font-size:1rem;
+                            font-weight:900;
+                            box-shadow:0 6px 18px rgba(74,222,128,.25);
+                        "
+                    >
+                        02
+                    </div>
+
+                    <div>
+
+                        <h3
+                            style="
+                                margin:0;
+                                color:var(--green);
+                                font-family:var(--font-heading);
+                                font-size:1.12rem;
+                                font-weight:800;
+                            "
+                        >
+                            Questão com Operações e Conectivos
+                        </h3>
+
+                        <span
+                            style="
+                                display:block;
+                                margin-top:3px;
+                                color:var(--text-muted);
+                                font-size:.78rem;
+                            "
+                        >
+                            Matemática + lógica proposicional
+                        </span>
+
+                    </div>
+
+                </div>
+
+                <span
+                    style="
+                        display:inline-flex;
+                        align-items:center;
+                        gap:6px;
+                        padding:7px 11px;
+                        border:1px solid var(--border-strong);
+                        border-radius:999px;
+                        background:rgba(255,255,255,.04);
+                        color:var(--text-muted);
+                        font-size:.68rem;
+                        font-weight:700;
+                        text-transform:uppercase;
+                        letter-spacing:.05em;
+                    "
+                >
+                    📚 Dedalus
+                </span>
+
             </div>
 
-            <div class="example-result res-V" style="margin-top: 10px; font-size: 1.2rem;">Sequência correta: V, V, F, V → alternativa A</div>
-            <div class="alert-box" style="margin-top: 12px;">
-                <span class="alert-icon">📌</span>
-                <span class="alert-text"><strong>Macetes usados:</strong> Regra do OU (basta um V), Regra da balança (↔ com valores iguais), Vera Fischer (V→F é F), e Regra do E (só V se ambos forem V).</span>
-            </div>
-        </div>
-    </section>
 
+            <!-- Corpo -->
+            <div
+                style="
+                    padding:24px;
+                "
+            >
+
+                <!-- Contexto -->
+                <div style="margin-bottom:22px;">
+
+                    <div
+                        style="
+                            display:flex;
+                            align-items:center;
+                            gap:8px;
+                            margin-bottom:9px;
+                            color:var(--green);
+                            font-size:.7rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.07em;
+                        "
+                    >
+                        <span
+                            style="
+                                width:7px;
+                                height:7px;
+                                border-radius:50%;
+                                background:var(--green);
+                                box-shadow:0 0 10px var(--green);
+                            "
+                        ></span>
+
+                        Contexto da questão
+                    </div>
+
+                    <p
+                        style="
+                            margin:0;
+                            color:var(--text-muted);
+                            font-size:.94rem;
+                            line-height:1.75;
+                        "
+                    >
+                        Avalie os quatro itens abaixo, que misturam operações
+                        matemáticas com conectivos lógicos, e determine a sequência
+                        correta dos valores lógicos.
+                    </p>
+
+                </div>
+
+
+                <!-- ITENS -->
+                <div
+                    style="
+                        margin-bottom:26px;
+                    "
+                >
+
+                    <div
+                        style="
+                            margin-bottom:12px;
+                            color:var(--green);
+                            font-size:.7rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.07em;
+                        "
+                    >
+                        📋 Itens da questão
+                    </div>
+
+
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:repeat(2,minmax(0,1fr));
+                            gap:14px;
+                        "
+                    >
+
+                        <!-- ITEM 1 -->
+                        <div
+                            style="
+                                padding:16px;
+                                border-radius:var(--radius-sm);
+                                background:rgba(255,255,255,.025);
+                                border:1px solid var(--border);
+                                border-left:3px solid var(--yellow);
+                            "
+                        >
+
+                            <div
+                                style="
+                                    display:flex;
+                                    justify-content:space-between;
+                                    align-items:center;
+                                    margin-bottom:10px;
+                                "
+                            >
+
+                                <strong
+                                    style="
+                                        color:var(--yellow);
+                                        font-size:.72rem;
+                                        text-transform:uppercase;
+                                    "
+                                >
+                                    Item 01
+                                </strong>
+
+                                <span style="color:var(--yellow);font-weight:900;">
+                                    ∨
+                                </span>
+
+                            </div>
+
+                            <code
+                                style="
+                                    display:block;
+                                    color:var(--text);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.84rem;
+                                    line-height:1.6;
+                                    overflow-x:auto;
+                                "
+                            >
+                                (7 − 2/2 = 5) ∨ (3 &gt; 2)
+                            </code>
+
+                        </div>
+
+
+                        <!-- ITEM 2 -->
+                        <div
+                            style="
+                                padding:16px;
+                                border-radius:var(--radius-sm);
+                                background:rgba(255,255,255,.025);
+                                border:1px solid var(--border);
+                                border-left:3px solid var(--purple);
+                            "
+                        >
+
+                            <div
+                                style="
+                                    display:flex;
+                                    justify-content:space-between;
+                                    align-items:center;
+                                    margin-bottom:10px;
+                                "
+                            >
+
+                                <strong
+                                    style="
+                                        color:var(--purple);
+                                        font-size:.72rem;
+                                        text-transform:uppercase;
+                                    "
+                                >
+                                    Item 02
+                                </strong>
+
+                                <span style="color:var(--purple);font-weight:900;">
+                                    ↔
+                                </span>
+
+                            </div>
+
+                            <code
+                                style="
+                                    display:block;
+                                    color:var(--text);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.84rem;
+                                    line-height:1.6;
+                                "
+                            >
+                                (2 + 3 = 4) ↔ (1 &gt; 3)
+                            </code>
+
+                        </div>
+
+
+                        <!-- ITEM 3 -->
+                        <div
+                            style="
+                                padding:16px;
+                                border-radius:var(--radius-sm);
+                                background:rgba(255,255,255,.025);
+                                border:1px solid var(--border);
+                                border-left:3px solid var(--orange);
+                            "
+                        >
+
+                            <div
+                                style="
+                                    display:flex;
+                                    justify-content:space-between;
+                                    align-items:center;
+                                    margin-bottom:10px;
+                                "
+                            >
+
+                                <strong
+                                    style="
+                                        color:var(--orange);
+                                        font-size:.72rem;
+                                        text-transform:uppercase;
+                                    "
+                                >
+                                    Item 03
+                                </strong>
+
+                                <span style="color:var(--orange);font-weight:900;">
+                                    →
+                                </span>
+
+                            </div>
+
+                            <code
+                                style="
+                                    display:block;
+                                    color:var(--text);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.84rem;
+                                    line-height:1.6;
+                                "
+                            >
+                                (3 × 5 + 6 = 21) → (18/3 − 1 = 7)
+                            </code>
+
+                        </div>
+
+
+                        <!-- ITEM 4 -->
+                        <div
+                            style="
+                                padding:16px;
+                                border-radius:var(--radius-sm);
+                                background:rgba(255,255,255,.025);
+                                border:1px solid var(--border);
+                                border-left:3px solid var(--green);
+                            "
+                        >
+
+                            <div
+                                style="
+                                    display:flex;
+                                    justify-content:space-between;
+                                    align-items:center;
+                                    margin-bottom:10px;
+                                "
+                            >
+
+                                <strong
+                                    style="
+                                        color:var(--green);
+                                        font-size:.72rem;
+                                        text-transform:uppercase;
+                                    "
+                                >
+                                    Item 04
+                                </strong>
+
+                                <span style="color:var(--green);font-weight:900;">
+                                    ∧
+                                </span>
+
+                            </div>
+
+                            <code
+                                style="
+                                    display:block;
+                                    color:var(--text);
+                                    font-family:'Courier New',monospace;
+                                    font-size:.84rem;
+                                    line-height:1.6;
+                                "
+                            >
+                                (4 × 4 + 3 = 19) ∧ (9 − 2 = 7)
+                            </code>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- RESOLUÇÃO -->
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        justify-content:space-between;
+                        margin-bottom:15px;
+                    "
+                >
+
+                    <h4
+                        style="
+                            margin:0;
+                            color:var(--text);
+                            font-family:var(--font-heading);
+                            font-size:1rem;
+                            font-weight:800;
+                        "
+                    >
+                        🔍 Resolução dos itens
+                    </h4>
+
+                    <span
+                        style="
+                            padding:5px 10px;
+                            border-radius:999px;
+                            background:rgba(255,255,255,.04);
+                            border:1px solid var(--border);
+                            color:var(--text-muted);
+                            font-size:.65rem;
+                            font-weight:700;
+                        "
+                    >
+                        4 análises
+                    </span>
+
+                </div>
+
+
+                <div
+                    style="
+                        display:flex;
+                        flex-direction:column;
+                        gap:12px;
+                    "
+                >
+
+                    <!-- ITEM 1 RESOLVIDO -->
+                    <div
+                        style="
+                            padding:16px;
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                            border-left:4px solid var(--yellow);
+                        "
+                    >
+
+                        <div
+                            style="
+                                display:flex;
+                                justify-content:space-between;
+                                align-items:center;
+                                gap:10px;
+                                flex-wrap:wrap;
+                                margin-bottom:9px;
+                            "
+                        >
+
+                            <strong style="color:var(--yellow);">
+                                ITEM 01
+                            </strong>
+
+                            <span
+                                style="
+                                    padding:4px 9px;
+                                    border-radius:999px;
+                                    background:rgba(74,222,128,.1);
+                                    color:var(--green);
+                                    font-size:.65rem;
+                                    font-weight:800;
+                                "
+                            >
+                                V
+                            </span>
+
+                        </div>
+
+                        <p
+                            style="
+                                margin:0;
+                                color:var(--text-muted);
+                                font-size:.86rem;
+                                line-height:1.7;
+                            "
+                        >
+                            7 − 2/2 = 6 → <strong style="color:var(--red);">F</strong>
+                            <br>
+                            3 &gt; 2 → <strong style="color:var(--green);">V</strong>
+                        </p>
+
+                        <div
+                            style="
+                                margin-top:9px;
+                                color:var(--text);
+                                font-family:'Courier New',monospace;
+                                font-size:.84rem;
+                                font-weight:800;
+                            "
+                        >
+                            F ∨ V =
+                            <span style="color:var(--green);">V</span>
+                        </div>
+
+                    </div>
+
+
+                    <!-- ITEM 2 RESOLVIDO -->
+                    <div
+                        style="
+                            padding:16px;
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                            border-left:4px solid var(--purple);
+                        "
+                    >
+
+                        <div
+                            style="
+                                display:flex;
+                                justify-content:space-between;
+                                align-items:center;
+                                gap:10px;
+                                flex-wrap:wrap;
+                                margin-bottom:9px;
+                            "
+                        >
+
+                            <strong style="color:var(--purple);">
+                                ITEM 02
+                            </strong>
+
+                            <span
+                                style="
+                                    padding:4px 9px;
+                                    border-radius:999px;
+                                    background:rgba(74,222,128,.1);
+                                    color:var(--green);
+                                    font-size:.65rem;
+                                    font-weight:800;
+                                "
+                            >
+                                V
+                            </span>
+
+                        </div>
+
+                        <p
+                            style="
+                                margin:0;
+                                color:var(--text-muted);
+                                font-size:.86rem;
+                                line-height:1.7;
+                            "
+                        >
+                            2 + 3 = 5 → <strong style="color:var(--red);">F</strong>
+                            <br>
+                            1 &gt; 3 → <strong style="color:var(--red);">F</strong>
+                        </p>
+
+                        <div
+                            style="
+                                margin-top:9px;
+                                color:var(--text);
+                                font-family:'Courier New',monospace;
+                                font-size:.84rem;
+                                font-weight:800;
+                            "
+                        >
+                            F ↔ F =
+                            <span style="color:var(--green);">V</span>
+                        </div>
+
+                        <p
+                            style="
+                                margin:8px 0 0;
+                                color:var(--text-muted);
+                                font-size:.81rem;
+                            "
+                        >
+                            Valores iguais no bicondicional produzem V.
+                        </p>
+
+                    </div>
+
+
+                    <!-- ITEM 3 RESOLVIDO -->
+                    <div
+                        style="
+                            padding:16px;
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                            border-left:4px solid var(--orange);
+                        "
+                    >
+
+                        <div
+                            style="
+                                display:flex;
+                                justify-content:space-between;
+                                align-items:center;
+                                gap:10px;
+                                flex-wrap:wrap;
+                                margin-bottom:9px;
+                            "
+                        >
+
+                            <strong style="color:var(--orange);">
+                                ITEM 03
+                            </strong>
+
+                            <span
+                                style="
+                                    padding:4px 9px;
+                                    border-radius:999px;
+                                    background:rgba(248,113,113,.1);
+                                    color:var(--red);
+                                    font-size:.65rem;
+                                    font-weight:800;
+                                "
+                            >
+                                F
+                            </span>
+
+                        </div>
+
+                        <p
+                            style="
+                                margin:0;
+                                color:var(--text-muted);
+                                font-size:.86rem;
+                                line-height:1.7;
+                            "
+                        >
+                            3 × 5 + 6 = 21 → <strong style="color:var(--green);">V</strong>
+                            <br>
+                            18/3 − 1 = 5 → <strong style="color:var(--red);">F</strong>
+                        </p>
+
+                        <div
+                            style="
+                                margin-top:9px;
+                                color:var(--text);
+                                font-family:'Courier New',monospace;
+                                font-size:.84rem;
+                                font-weight:800;
+                            "
+                        >
+                            V → F =
+                            <span style="color:var(--red);">F</span>
+                        </div>
+
+                        <p
+                            style="
+                                margin:8px 0 0;
+                                color:var(--text-muted);
+                                font-size:.81rem;
+                            "
+                        >
+                            Macete: <strong style="color:var(--text);">V → F = F</strong>.
+                        </p>
+
+                    </div>
+
+
+                    <!-- ITEM 4 RESOLVIDO -->
+                    <div
+                        style="
+                            padding:16px;
+                            border-radius:var(--radius-sm);
+                            background:rgba(255,255,255,.025);
+                            border-left:4px solid var(--green);
+                        "
+                    >
+
+                        <div
+                            style="
+                                display:flex;
+                                justify-content:space-between;
+                                align-items:center;
+                                gap:10px;
+                                flex-wrap:wrap;
+                                margin-bottom:9px;
+                            "
+                        >
+
+                            <strong style="color:var(--green);">
+                                ITEM 04
+                            </strong>
+
+                            <span
+                                style="
+                                    padding:4px 9px;
+                                    border-radius:999px;
+                                    background:rgba(74,222,128,.1);
+                                    color:var(--green);
+                                    font-size:.65rem;
+                                    font-weight:800;
+                                "
+                            >
+                                V
+                            </span>
+
+                        </div>
+
+                        <p
+                            style="
+                                margin:0;
+                                color:var(--text-muted);
+                                font-size:.86rem;
+                                line-height:1.7;
+                            "
+                        >
+                            4 × 4 + 3 = 19 → <strong style="color:var(--green);">V</strong>
+                            <br>
+                            9 − 2 = 7 → <strong style="color:var(--green);">V</strong>
+                        </p>
+
+                        <div
+                            style="
+                                margin-top:9px;
+                                color:var(--text);
+                                font-family:'Courier New',monospace;
+                                font-size:.84rem;
+                                font-weight:800;
+                            "
+                        >
+                            V ∧ V =
+                            <span style="color:var(--green);">V</span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- RESULTADO -->
+                <div
+                    style="
+                        display:flex;
+                        align-items:center;
+                        justify-content:space-between;
+                        gap:15px;
+                        flex-wrap:wrap;
+                        margin-top:22px;
+                        padding:18px;
+                        border-radius:var(--radius-sm);
+                        background:rgba(74,222,128,.07);
+                        border:1px solid rgba(74,222,128,.25);
+                    "
+                >
+
+                    <span
+                        style="
+                            color:var(--text-muted);
+                            font-size:.75rem;
+                            font-weight:800;
+                            text-transform:uppercase;
+                            letter-spacing:.06em;
+                        "
+                    >
+                        Sequência correta
+                    </span>
+
+                    <span
+                        style="
+                            color:var(--green);
+                            font-family:var(--font-heading);
+                            font-size:1.1rem;
+                            font-weight:900;
+                        "
+                    >
+                        ✅ V, V, F, V → Alternativa A
+                    </span>
+
+                </div>
+
+
+                <!-- MACETES -->
+                <div
+                    style="
+                        margin-top:14px;
+                        padding:17px;
+                        border-radius:var(--radius-sm);
+                        background:rgba(251,191,36,.06);
+                        border:1px solid rgba(251,191,36,.22);
+                    "
+                >
+
+                    <div
+                        style="
+                            display:flex;
+                            align-items:center;
+                            gap:9px;
+                            margin-bottom:13px;
+                        "
+                    >
+
+                        <span style="font-size:1.1rem;">📌</span>
+
+                        <strong
+                            style="
+                                color:var(--yellow);
+                                font-size:.77rem;
+                                text-transform:uppercase;
+                                letter-spacing:.05em;
+                            "
+                        >
+                            Macetes para memorizar
+                        </strong>
+
+                    </div>
+
+
+                    <div
+                        style="
+                            display:grid;
+                            grid-template-columns:repeat(2,minmax(0,1fr));
+                            gap:10px;
+                        "
+                    >
+
+                        <div
+                            style="
+                                padding:12px 14px;
+                                border:1px solid var(--border);
+                                border-radius:10px;
+                                background:rgba(255,255,255,.025);
+                                color:var(--text-muted);
+                                font-size:.82rem;
+                                line-height:1.5;
+                            "
+                        >
+                            <strong style="color:var(--yellow);">
+                                OU (∨):
+                            </strong>
+                            basta um V.
+                        </div>
+
+                        <div
+                            style="
+                                padding:12px 14px;
+                                border:1px solid var(--border);
+                                border-radius:10px;
+                                background:rgba(255,255,255,.025);
+                                color:var(--text-muted);
+                                font-size:.82rem;
+                                line-height:1.5;
+                            "
+                        >
+                            <strong style="color:var(--purple);">
+                                ↔:
+                            </strong>
+                            valores iguais = V.
+                        </div>
+
+                        <div
+                            style="
+                                padding:12px 14px;
+                                border:1px solid var(--border);
+                                border-radius:10px;
+                                background:rgba(255,255,255,.025);
+                                color:var(--text-muted);
+                                font-size:.82rem;
+                                line-height:1.5;
+                            "
+                        >
+                            <strong style="color:var(--orange);">
+                                →:
+                            </strong>
+                            somente V → F = F.
+                        </div>
+
+                        <div
+                            style="
+                                padding:12px 14px;
+                                border:1px solid var(--border);
+                                border-radius:10px;
+                                background:rgba(255,255,255,.025);
+                                color:var(--text-muted);
+                                font-size:.82rem;
+                                line-height:1.5;
+                            "
+                        >
+                            <strong style="color:var(--green);">
+                                ∧:
+                            </strong>
+                            somente V ∧ V = V.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </article>
+
+    </div>
+
+</section>
     <!-- FOOTER -->
     <footer class="footer">
         <p>📚 Raciocínio Lógico — Proposições & Conectivos</p>
-        <p style="margin-top: 6px;">Feito com <span class="footer-heart">💜</span> para estudantes que querem dominar lógica de forma visual e interativa.</p>
-        <p style="margin-top: 4px; font-size: 0.7rem;">Estude, pratique e repita!</p>
     </footer>
 
 </div>
