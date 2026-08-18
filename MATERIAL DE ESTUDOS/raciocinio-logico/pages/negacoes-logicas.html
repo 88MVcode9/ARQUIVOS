@@ -310,74 +310,765 @@
             </div>
         </section>
 
-        <!-- SEÇÃO 4: NEGAÇÃO DE QUANTIFICADORES (TODO, NENHUM, ALGUM) -->
-        <section class="section sec-quantificadores" id="quantificadores">
-            <div class="section-header">
-                <div class="icon-circle">🌐</div>
-                <h2>Negar quantificadores<span class="highlight">Todo, Nenhum, Algum</span></h2>
-            </div>
-            <div class="card card-accent-purple">
-                <h3>Macetes para quantificadores</h3>
-                <div class="macete-box" style="border-color: var(--purple); background: rgba(167,139,250,0.06);">
-                    <div class="macete-titulo" style="color: var(--purple);">🔁 Regras</div>
-                    <div class="macete-regra" style="color: var(--purple);">TODO → PELO MENOS UM NÃO</div>
-                    <div class="macete-regra" style="color: var(--purple);">NENHUM → PELO MENOS UM</div>
-                    <div class="macete-regra" style="color: var(--purple);">ALGUM → NENHUM</div>
-                </div>
-                <div class="neg-grid">
-                    <div class="neg-card" style="border-left-color: var(--purple);">
-                        <div class="neg-original">"Todos os alunos estudam."</div>
-                        <div class="neg-seta">⬇️</div>
-                        <div class="neg-negada" style="color: var(--purple);">"Pelo menos um aluno não estuda."</div>
-                        <div class="neg-macete"><strong>Macete:</strong> TODO → PELO MENOS UM NÃO</div>
-                    </div>
-                    <div class="neg-card" style="border-left-color: var(--purple);">
-                        <div class="neg-original">"Nenhum aluno faltou."</div>
-                        <div class="neg-seta">⬇️</div>
-                        <div class="neg-negada" style="color: var(--purple);">"Pelo menos um aluno faltou."</div>
-                        <div class="neg-macete"><strong>Macete:</strong> NENHUM → PELO MENOS UM</div>
-                    </div>
-                    <div class="neg-card" style="border-left-color: var(--purple);">
-                        <div class="neg-original">"Algum aluno foi aprovado."</div>
-                        <div class="neg-seta">⬇️</div>
-                        <div class="neg-negada" style="color: var(--purple);">"Nenhum aluno foi aprovado."</div>
-                        <div class="neg-macete"><strong>Macete:</strong> ALGUM → NENHUM</div>
-                    </div>
-                </div>
-                <div class="alert-box" style="margin-top: 12px;">
-                    <span class="alert-icon">❗</span>
-                    <span class="alert-text"><strong>Não confunda:</strong> A negação de "Todo A é B" <strong style="color: var(--red);">não</strong> é "Nenhum A é B". É "Pelo menos um A não é B".</span>
-                </div>
-            </div>
-        </section>
+        <!-- SEÇÃO 4: NEGAÇÃO DE QUANTIFICADORES -->
+<section class="section sec-quantificadores" id="quantificadores">
 
-        <!-- SEÇÃO 5: NEGAÇÃO DE CONECTIVOS (E, OU, SE...ENTÃO, SE E SOMENTE SE) -->
-        <section class="section sec-conectivos" id="conectivos">
-            <div class="section-header">
-                <div class="icon-circle">🔗</div>
-                <h2>Negar conectivos lógicos<span class="highlight">E, OU, SE...ENTÃO, ↔</span></h2>
+    <div class="section-header">
+        <div class="icon-circle">🌐</div>
+        <h2>
+            Negação de Quantificadores
+            <span class="highlight">TQ • EPA • NENHUM</span>
+        </h2>
+    </div>
+
+    <!-- INTRODUÇÃO -->
+    <div class="card card-accent-purple">
+
+        <h3>🧠 Primeiro: conheça os 3 grupos</h3>
+
+        <p>
+            Antes de aprender a negar, descubra qual tipo de quantificador
+            aparece na frase.
+        </p>
+
+        <div style="
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+            gap:15px;
+            margin-top:20px;
+        ">
+
+            <!-- UNIVERSAL -->
+            <div style="
+                position:relative;
+                padding:22px 18px;
+                border-radius:20px;
+                text-align:center;
+                background:linear-gradient(145deg,rgba(59,130,246,.12),rgba(59,130,246,.025));
+                border:1px solid rgba(96,165,250,.35);
+                box-shadow:0 0 25px rgba(59,130,246,.08);
+            ">
+
+                <div style="font-size:38px;">🌎</div>
+
+                <div style="
+                    color:#60a5fa;
+                    font-size:12px;
+                    font-weight:900;
+                    letter-spacing:1.5px;
+                    margin-top:7px;
+                ">
+                    UNIVERSAL
+                </div>
+
+                <div style="
+                    color:#60a5fa;
+                    font-size:34px;
+                    font-weight:900;
+                    margin:5px 0 12px;
+                ">
+                    TQ
+                </div>
+
+                <div style="
+                    display:flex;
+                    justify-content:center;
+                    flex-wrap:wrap;
+                    gap:6px;
+                ">
+                    <span style="
+                        padding:5px 10px;
+                        border-radius:999px;
+                        font-size:10px;
+                        font-weight:800;
+                        background:rgba(96,165,250,.12);
+                        color:#93c5fd;
+                    ">TODO</span>
+
+                    <span style="
+                        padding:5px 10px;
+                        border-radius:999px;
+                        font-size:10px;
+                        font-weight:800;
+                        background:rgba(96,165,250,.12);
+                        color:#93c5fd;
+                    ">QUALQUER</span>
+                </div>
+
+                <div style="
+                    margin-top:14px;
+                    font-size:12px;
+                    opacity:.75;
+                ">
+                    Fala de <strong style="color:#60a5fa;">todos</strong>
+                    os elementos.
+                </div>
             </div>
 
-            <!-- E -->
-            <div class="card card-accent-cyan">
-                <h3>Negação da Conjunção (E)</h3>
-                <div class="formula-box">
-                    <span class="formula-label">Fórmula</span>
-                    ¬(P ∧ Q) ≡ ¬P ∨ ¬Q
+
+            <!-- EXISTENCIAL -->
+            <div style="
+                position:relative;
+                padding:22px 18px;
+                border-radius:20px;
+                text-align:center;
+                background:linear-gradient(145deg,rgba(34,197,94,.12),rgba(34,197,94,.025));
+                border:1px solid rgba(74,222,128,.35);
+                box-shadow:0 0 25px rgba(34,197,94,.08);
+            ">
+
+                <div style="font-size:38px;">👤</div>
+
+                <div style="
+                    color:#4ade80;
+                    font-size:12px;
+                    font-weight:900;
+                    letter-spacing:1.5px;
+                    margin-top:7px;
+                ">
+                    EXISTENCIAL
                 </div>
-                <p>Em português: a negação de <em>"P e Q"</em> é <em>"não P ou não Q"</em>.</p>
-                <div class="bizu-box">
-                    <span class="bizu-icon">🧠</span>
-                    <span class="bizu-text"><strong>Macete:</strong> E → OU (nega tudo e troca E por OU).</span>
+
+                <div style="
+                    color:#4ade80;
+                    font-size:34px;
+                    font-weight:900;
+                    margin:5px 0 12px;
+                ">
+                    EPA
                 </div>
-                <div class="example-box">
-                    <div class="example-label">Exemplo</div>
-                    <div class="example-text">"João estuda e trabalha."</div>
-                    <p style="margin-top: 6px;">Negação: <strong>"João não estuda ou não trabalha."</strong></p>
+
+                <div style="
+                    display:flex;
+                    justify-content:center;
+                    flex-wrap:wrap;
+                    gap:6px;
+                ">
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(74,222,128,.12);
+                        color:#86efac;
+                    ">EXISTE</span>
+
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(74,222,128,.12);
+                        color:#86efac;
+                    ">PELO MENOS UM</span>
+
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(74,222,128,.12);
+                        color:#86efac;
+                    ">ALGUM</span>
+                </div>
+
+                <div style="
+                    margin-top:14px;
+                    font-size:12px;
+                    opacity:.75;
+                ">
+                    Fala de <strong style="color:#4ade80;">um ou mais</strong>
+                    elementos.
                 </div>
             </div>
 
-            <!-- OU -->
+
+            <!-- NENHUM -->
+            <div style="
+                position:relative;
+                padding:22px 18px;
+                border-radius:20px;
+                text-align:center;
+                background:linear-gradient(145deg,rgba(244,63,94,.12),rgba(244,63,94,.025));
+                border:1px solid rgba(251,113,133,.35);
+                box-shadow:0 0 25px rgba(244,63,94,.08);
+            ">
+
+                <div style="font-size:38px;">🚫</div>
+
+                <div style="
+                    color:#fb7185;
+                    font-size:12px;
+                    font-weight:900;
+                    letter-spacing:1.5px;
+                    margin-top:7px;
+                ">
+                    NENHUM
+                </div>
+
+                <div style="
+                    color:#fb7185;
+                    font-size:34px;
+                    font-weight:900;
+                    margin:5px 0 12px;
+                ">
+                    0
+                </div>
+
+                <div style="
+                    display:flex;
+                    justify-content:center;
+                    flex-wrap:wrap;
+                    gap:6px;
+                ">
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(251,113,133,.12);
+                        color:#fda4af;
+                    ">NENHUM</span>
+
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(251,113,133,.12);
+                        color:#fda4af;
+                    ">NADA</span>
+
+                    <span style="
+                        padding:5px 9px;
+                        border-radius:999px;
+                        font-size:9px;
+                        font-weight:800;
+                        background:rgba(251,113,133,.12);
+                        color:#fda4af;
+                    ">NINGUÉM</span>
+                </div>
+
+                <div style="
+                    margin-top:14px;
+                    font-size:12px;
+                    opacity:.75;
+                ">
+                    Significa <strong style="color:#fb7185;">zero</strong>
+                    elementos.
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- MACETE PRINCIPAL -->
+    <div class="card card-accent-purple">
+
+        <h3>🔥 MACETE DA NEGAÇÃO</h3>
+
+        <div style="
+            margin-top:15px;
+            padding:18px;
+            border-radius:18px;
+            border:1px solid rgba(167,139,250,.35);
+            background:linear-gradient(
+                135deg,
+                rgba(167,139,250,.12),
+                rgba(167,139,250,.025)
+            );
+            box-shadow:0 0 25px rgba(167,139,250,.08);
+        ">
+
+            <div style="
+                text-align:center;
+                color:#c4b5fd;
+                font-weight:900;
+                font-size:13px;
+                letter-spacing:1px;
+                margin-bottom:12px;
+            ">
+                🧠 DECORE ASSIM
+            </div>
+
+            <div style="
+                display:grid;
+                gap:8px;
+            ">
+
+                <div style="
+                    padding:11px;
+                    border-radius:10px;
+                    background:rgba(255,255,255,.04);
+                    text-align:center;
+                    font-weight:800;
+                    font-size:13px;
+                ">
+                    🌎 TODO → <span style="color:#60a5fa;">
+                    PELO MENOS UM NÃO
+                    </span>
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:10px;
+                    background:rgba(255,255,255,.04);
+                    text-align:center;
+                    font-weight:800;
+                    font-size:13px;
+                ">
+                    🌎 QUALQUER → <span style="color:#60a5fa;">
+                    PELO MENOS UM NÃO
+                    </span>
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:10px;
+                    background:rgba(255,255,255,.04);
+                    text-align:center;
+                    font-weight:800;
+                    font-size:13px;
+                ">
+                    👤 ALGUM → <span style="color:#4ade80;">
+                    NENHUM
+                    </span>
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:10px;
+                    background:rgba(255,255,255,.04);
+                    text-align:center;
+                    font-weight:800;
+                    font-size:13px;
+                ">
+                    👤 EXISTE → <span style="color:#4ade80;">
+                    NENHUM
+                    </span>
+                </div>
+
+                <div style="
+                    padding:11px;
+                    border-radius:10px;
+                    background:rgba(255,255,255,.04);
+                    text-align:center;
+                    font-weight:800;
+                    font-size:13px;
+                ">
+                    🚫 NENHUM → <span style="color:#fb7185;">
+                    PELO MENOS UM
+                    </span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- UNIVERSAL -->
+    <div class="card card-accent-blue">
+
+        <h3>🌎 1. UNIVERSAL — TQ</h3>
+
+        <div class="formula-box">
+            <span class="formula-label">TQ =</span>
+            TODO • QUALQUER
+        </div>
+
+        <p>
+            A frase universal afirma que uma característica vale para
+            <strong>todos</strong>.
+        </p>
+
+        <div style="
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+            gap:14px;
+            margin-top:15px;
+        ">
+
+            <div style="
+                padding:18px;
+                border-radius:16px;
+                background:rgba(96,165,250,.05);
+                border-left:4px solid #60a5fa;
+            ">
+
+                <div style="font-weight:800;">
+                    "Todos os alunos estudam."
+                </div>
+
+                <div style="
+                    text-align:center;
+                    margin:12px 0;
+                    font-size:20px;
+                ">
+                    ⬇️
+                </div>
+
+                <div style="
+                    color:#60a5fa;
+                    font-weight:900;
+                ">
+                    "Pelo menos um aluno não estuda."
+                </div>
+
+                <div style="
+                    margin-top:12px;
+                    padding:8px;
+                    border-radius:8px;
+                    background:rgba(96,165,250,.08);
+                    font-size:11px;
+                ">
+                    TODO → PELO MENOS UM NÃO
+                </div>
+            </div>
+
+
+            <div style="
+                padding:18px;
+                border-radius:16px;
+                background:rgba(96,165,250,.05);
+                border-left:4px solid #60a5fa;
+            ">
+
+                <div style="font-weight:800;">
+                    "Qualquer funcionário pode participar."
+                </div>
+
+                <div style="
+                    text-align:center;
+                    margin:12px 0;
+                    font-size:20px;
+                ">
+                    ⬇️
+                </div>
+
+                <div style="
+                    color:#60a5fa;
+                    font-weight:900;
+                ">
+                    "Pelo menos um funcionário não pode participar."
+                </div>
+
+                <div style="
+                    margin-top:12px;
+                    padding:8px;
+                    border-radius:8px;
+                    background:rgba(96,165,250,.08);
+                    font-size:11px;
+                ">
+                    QUALQUER → PELO MENOS UM NÃO
+                </div>
+            </div>
+
+        </div>
+
+        <div class="bizu-box" style="margin-top:15px;">
+            <span class="bizu-icon">💡</span>
+            <span class="bizu-text">
+                <strong>Bizu:</strong>
+                Se TODO MUNDO faz algo, basta encontrar
+                <strong>UMA pessoa que não faça</strong>
+                para a afirmação ser falsa.
+            </span>
+        </div>
+
+    </div>
+
+
+    <!-- EXISTENCIAL -->
+    <div class="card card-accent-green">
+
+        <h3>👤 2. EXISTENCIAL — EPA</h3>
+
+        <div class="formula-box">
+            <span class="formula-label">EPA =</span>
+            EXISTE • PELO MENOS UM • ALGUM
+        </div>
+
+        <p>
+            Aqui basta existir <strong>um único elemento</strong>
+            que satisfaça a condição.
+        </p>
+
+        <div style="
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+            gap:14px;
+            margin-top:15px;
+        ">
+
+            <div style="
+                padding:18px;
+                border-radius:16px;
+                border-left:4px solid #4ade80;
+                background:rgba(74,222,128,.05);
+            ">
+                <strong>"Algum aluno estuda."</strong>
+
+                <div style="
+                    text-align:center;
+                    margin:12px 0;
+                ">⬇️</div>
+
+                <strong style="color:#4ade80;">
+                    "Nenhum aluno estuda."
+                </strong>
+
+                <div style="
+                    margin-top:10px;
+                    font-size:11px;
+                    color:#86efac;
+                ">
+                    ALGUM → NENHUM
+                </div>
+            </div>
+
+
+            <div style="
+                padding:18px;
+                border-radius:16px;
+                border-left:4px solid #4ade80;
+                background:rgba(74,222,128,.05);
+            ">
+                <strong>"Existe um funcionário ausente."</strong>
+
+                <div style="
+                    text-align:center;
+                    margin:12px 0;
+                ">⬇️</div>
+
+                <strong style="color:#4ade80;">
+                    "Nenhum funcionário está ausente."
+                </strong>
+
+                <div style="
+                    margin-top:10px;
+                    font-size:11px;
+                    color:#86efac;
+                ">
+                    EXISTE → NENHUM
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- NENHUM -->
+    <div class="card card-accent-red">
+
+        <h3>🚫 3. NENHUM — ZERO</h3>
+
+        <div class="formula-box">
+            <span class="formula-label">NENHUM =</span>
+            NENHUM • NADA • NINGUÉM
+        </div>
+
+        <p>
+            A ideia é:
+            <strong>ZERO</strong> elementos possuem aquela característica.
+        </p>
+
+        <div style="
+            margin-top:15px;
+            padding:20px;
+            border-radius:18px;
+            text-align:center;
+            background:linear-gradient(
+                135deg,
+                rgba(244,63,94,.10),
+                rgba(244,63,94,.025)
+            );
+            border:1px solid rgba(251,113,133,.3);
+        ">
+
+            <div style="
+                font-size:13px;
+                opacity:.7;
+                margin-bottom:8px;
+            ">
+                NENHUM
+            </div>
+
+            <div style="
+                font-size:28px;
+                font-weight:900;
+                color:#fb7185;
+            ">
+                0
+            </div>
+
+            <div style="
+                margin:8px 0;
+                font-size:20px;
+            ">
+                ↓
+            </div>
+
+            <div style="
+                font-size:16px;
+                font-weight:900;
+                color:#4ade80;
+            ">
+                PELO MENOS UM
+            </div>
+
+        </div>
+
+        <div class="neg-grid" style="margin-top:15px;">
+
+            <div class="neg-card" style="border-left-color:#fb7185;">
+                <div class="neg-original">
+                    "Nenhum aluno faltou."
+                </div>
+
+                <div class="neg-seta">⬇️</div>
+
+                <div class="neg-negada" style="color:#fb7185;">
+                    "Pelo menos um aluno faltou."
+                </div>
+
+                <div class="neg-macete">
+                    NENHUM → PELO MENOS UM
+                </div>
+            </div>
+
+
+            <div class="neg-card" style="border-left-color:#fb7185;">
+                <div class="neg-original">
+                    "Ninguém foi aprovado."
+                </div>
+
+                <div class="neg-seta">⬇️</div>
+
+                <div class="neg-negada" style="color:#fb7185;">
+                    "Pelo menos uma pessoa foi aprovada."
+                </div>
+
+                <div class="neg-macete">
+                    NINGUÉM → PELO MENOS UM
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- TABELA -->
+    <div class="card card-accent-yellow">
+
+        <h3>📌 TABELA DEFINITIVA</h3>
+
+        <div style="
+            overflow-x:auto;
+            margin-top:15px;
+            border-radius:15px;
+            border:1px solid rgba(255,255,255,.08);
+        ">
+
+            <table style="
+                width:100%;
+                min-width:620px;
+                border-collapse:collapse;
+                font-size:13px;
+            ">
+
+                <thead>
+                    <tr style="
+                        background:rgba(167,139,250,.12);
+                        text-align:left;
+                    ">
+                        <th style="padding:14px;">QUANTIFICADOR</th>
+                        <th style="padding:14px;">IDEIA</th>
+                        <th style="padding:14px;">NEGAÇÃO</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td style="padding:14px;">
+                            🌎 <strong>TODO / QUALQUER</strong>
+                        </td>
+
+                        <td style="padding:14px;">
+                            
+                    TODO
+                </strong>
+                <span style="font-size:11px;">↓</span>
+                <strong style="display:block;font-size:11px;">
+                    PELO MENOS UM NÃO
+                </strong>
+            </div>
+
+
+            <div style="
+                padding:15px;
+                text-align:center;
+                border-radius:15px;
+                background:rgba(74,222,128,.07);
+                border:1px solid rgba(74,222,128,.2);
+            ">
+                👤
+                <strong style="display:block;color:#4ade80;">
+                    EPA
+                </strong>
+                <span style="font-size:11px;">↓</span>
+                <strong style="display:block;font-size:11px;">
+                    NENHUM
+                </strong>
+            </div>
+
+
+            <div style="
+                padding:15px;
+                text-align:center;
+                border-radius:15px;
+                background:rgba(251,113,133,.07);
+                border:1px solid rgba(251,113,133,.2);
+            ">
+                🚫
+                <strong style="display:block;color:#fb7185;">
+                    NENHUM
+                </strong>
+                <span style="font-size:11px;">↓</span>
+                <strong style="display:block;font-size:11px;">
+                    PELO MENOS UM
+                </strong>
+            </div>
+
+        </div>
+
+        <div style="
+            margin-top:16px;
+            padding:14px;
+            text-align:center;
+            border-radius:13px;
+            background:rgba(167,139,250,.08);
+            border:1px solid rgba(167,139,250,.2);
+            color:#c4b5fd;
+            font-size:13px;
+            line-height:1.7;
+        ">
+            🧠
+            <strong>TQ → 1 NÃO</strong>
+            &nbsp; | &nbsp;
+            <strong>EPA → 0</strong>
+            &nbsp; | &nbsp;
+            <strong>0 → EPA</strong>
+        </div>
+
+    </div>
+
+</section>
+             
+                    <!-- OU -->
             <div class="card card-accent-cyan">
                 <h3>Negação da Disjunção (OU)</h3>
                 <div class="formula-box">
