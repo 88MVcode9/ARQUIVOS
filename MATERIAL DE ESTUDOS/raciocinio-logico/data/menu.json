@@ -5,5 +5,12 @@
     "icone": "puzzle-piece",
     "tipo": "pagina",
     "conteudo": "proposicoes"
+},
+{
+    "id": "equivalencias",
+    "nome": "Equivalências",
+    "icone": "exchange-alt",
+    "tipo": "pagina",
+    "conteudo": "equivalencias"
 }
 ]
