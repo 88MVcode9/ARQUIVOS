@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5" />
+    <title>🚫 Raciocínio Lógico — Negação de Proposições</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Poppins:wght@600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://88mvcode9.github.io/ARQUIVOS/ESTILOS/GMA/raciocinio-logico.css" />
+    <style>
+        /* complementos inline */
+        .sec-negacao .icon-circle {
+            border-color: var(--red);
+            background: rgba(248, 113, 113, 0.08);
+            color: var(--red);
+            box-shadow: 0 0 20px var(--glow-red);
+        }
+        .sec-negacao h2 {
+            color: var(--red);
+        }
+
+        .sec-simples .icon-circle {
+            border-color: var(--blue);
+            background: rgba(96, 165, 250, 0.08);
+            color: var(--blue);
+            box-shadow: 0 0 20px rgba(96, 165, 250, 0.25);
+        }
+        .sec-simples h2 {
+            color: var(--blue);
+        }
+
+        .sec-quantificadores .icon-circle {
+            border-color: var(--purple);
+            background: rgba(167, 139, 250, 0.08);
+            color: var(--purple);
+            box-shadow: 0 0 20px var(--glow-purple);
+        }
+        .sec-quantificadores h2 {
+            color: var(--purple);
+        }
+
+        .sec-conectivos .icon-circle {
+            border-color: var(--cyan);
+            background: rgba(34, 211, 238, 0.08);
+            color: var(--cyan);
+            box-shadow: 0 0 20px var(--glow-cyan);
+        }
+        .sec-conectivos h2 {
+            color: var(--cyan);
+        }
+
+        .sec-condicional .icon-circle {
+            border-color: var(--orange);
+            background: rgba(251, 146, 60, 0.08);
+            color: var(--orange);
+            box-shadow: 0 0 20px var(--glow-orange);
+        }
+        .sec-condicional h2 {
+            color: var(--orange);
+        }
+
+        .sec-desigualdades .icon-circle {
+            border-color: var(--yellow);
+            background: rgba(251, 191, 36, 0.08);
+            color: var(--yellow);
+            box-shadow: 0 0 20px var(--glow-yellow);
+        }
+        .sec-desigualdades h2 {
+            color: var(--yellow);
+        }
+
+        .sec-resumo .icon-circle {
+            border-color: var(--green);
+            background: rgba(74, 222, 128, 0.08);
+            color: var(--green);
+            box-shadow: 0 0 20px var(--glow-green);
+        }
+        .sec-resumo h2 {
+            color: var(--green);
+        }
+
+        .sec-macetes .icon-circle {
+            border-color: var(--pink);
+            background: rgba(244, 114, 182, 0.08);
+            color: var(--pink);
+            box-shadow: 0 0 20px var(--glow-pink);
+        }
+        .sec-macetes h2 {
+            color: var(--pink);
+        }
+
+        .sec-explorador .icon-circle {
+            border-color: var(--purple);
+            background: rgba(167, 139, 250, 0.08);
+            color: var(--purple);
+            box-shadow: 0 0 20px var(--glow-purple);
+        }
+        .sec-explorador h2 {
+            color: var(--purple);
+        }
+
+        .sec-estudar .icon-circle {
+            border-color: var(--orange);
+            background: rgba(251, 146, 60, 0.08);
+            color: var(--orange);
+            box-shadow: 0 0 20px var(--glow-orange);
+        }
+        .sec-estudar h2 {
+            color: var(--orange);
+        }
+
+        .macete-box {
+            background: rgba(244, 114, 182, 0.06);
+            border: 2px solid var(--pink);
+            border-radius: var(--radius);
+            padding: 18px 22px;
+            margin: 16px 0;
+            box-shadow: 0 0 24px var(--glow-pink);
+        }
+        .macete-box .macete-titulo {
+            font-family: var(--font-heading);
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: var(--pink);
+            margin-bottom: 6px;
+        }
+        .macete-box .macete-regra {
+            font-size: 1.2rem;
+            font-weight: 900;
+            font-family: 'Courier New', monospace;
+            color: var(--text);
+            margin: 6px 0;
+        }
+        .macete-box .macete-exemplo {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-top: 4px;
+        }
+        .macete-box .macete-exemplo strong {
+            color: var(--text);
+        }
+
+        .neg-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 16px;
+            margin: 16px 0;
+        }
+        .neg-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 18px 20px;
+            transition: var(--transition);
+            box-shadow: var(--shadow-card);
+            border-left: 4px solid var(--red);
+        }
+        .neg-card:hover {
+            border-color: var(--border-strong);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-card-hover);
+        }
+        .neg-card .neg-original {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text);
+        }
+        .neg-card .neg-seta {
+            color: var(--text-muted);
+            margin: 6px 0;
+            font-size: 1.2rem;
+        }
+        .neg-card .neg-negada {
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--red);
+        }
+        .neg-card .neg-macete {
+            background: rgba(255, 255, 255, 0.04);
+            border-radius: var(--radius-sm);
+            padding: 8px 12px;
+            margin-top: 10px;
+            border: 1px dashed var(--border-strong);
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        .neg-card .neg-macete strong {
+            color: var(--yellow);
+        }
+
+        .bizu-box {
+            background: rgba(251, 191, 36, 0.06);
+            border: 1px solid rgba(251, 191, 36, 0.3);
+            border-radius: var(--radius-sm);
+            padding: 14px 18px;
+            margin: 12px 0;
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+        .bizu-box .bizu-icon {
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+        .bizu-box .bizu-text {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+        .bizu-box .bizu-text strong {
+            color: var(--yellow);
+        }
+
+        .step-list .step-item .step-content p strong {
+            color: var(--text);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="content-wrapper">
+
+        <!-- HERO -->
+        <header class="hero">
+            <div class="hero-badge">🚫 Negação de Proposições</div>
+        </header>
+
+        <!-- SEÇÃO 1: O QUE É UMA PROPOSIÇÃO? (breve) -->
+        <section class="section sec-negacao" id="proposicao">
+            <div class="section-header">
+                <div class="icon-circle">📌</div>
+                <h2>O que é uma proposição?<span class="highlight">Fundamento essencial</span></h2>
+            </div>
+            <div class="card card-accent-red">
+                <p>Uma <strong style="color: var(--red);">proposição</strong> é uma frase declarativa que pode ser classificada como <strong style="color: var(--green);">Verdadeira (V)</strong> ou <strong style="color: var(--red);">Falsa (F)</strong>.</p>
+                <div class="example-box">
+                    <div class="example-label">Exemplo V</div>
+                    <div class="example-text">"O Brasil fica na América do Sul." → <strong style="color: var(--green);">V</strong></div>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo F</div>
+                    <div class="example-text">"2 + 2 = 5." → <strong style="color: var(--red);">F</strong></div>
+                </div>
+                <div class="alert-box" style="margin-top: 12px;">
+                    <span class="alert-icon">⚠️</span>
+                    <span class="alert-text"><strong>Não é proposição:</strong> "Feche a porta!" (ordem), "Que dia lindo!" (exclamação).</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 2: O QUE É NEGAÇÃO? -->
+        <section class="section sec-negacao" id="negacao">
+            <div class="section-header">
+                <div class="icon-circle">🔄</div>
+                <h2>O que é negação?<span class="highlight">Dizer o contrário</span></h2>
+            </div>
+            <div class="card card-accent-red">
+                <p><strong style="color: var(--red);">Negar</strong> uma proposição é afirmar exatamente o oposto do que ela diz.</p>
+                <div class="quote-block" style="border-left-color: var(--red); background: rgba(248,113,113,0.06);">
+                    "Negação = dizer o contrário. Troca V por F e F por V."
+                    <span class="quote-author">— Regra de ouro</span>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">P: "João está estudando."</div>
+                    <div class="example-result res-F" style="background:rgba(248,113,113,0.2); color:var(--red);">¬P: "João não está estudando."</div>
+                </div>
+                <div class="truth-table-wrapper" style="margin-top: 12px;">
+                    <table class="truth-table">
+                        <thead><tr><th>Proposição</th><th>Valor</th><th>Negação</th><th>Valor</th></tr></thead>
+                        <tbody>
+                            <tr><td>P</td><td class="val-V">V</td><td>¬P</td><td class="result-F">F</td></tr>
+                            <tr><td>P</td><td class="val-F">F</td><td>¬P</td><td class="result-V">V</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <p style="margin-top: 10px;">O símbolo da negação pode ser <strong style="color: var(--red);">¬P</strong>, <strong style="color: var(--red);">~P</strong> ou <strong style="color: var(--red);">P'</strong>.</p>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 3: NEGAÇÃO DE PROPOSIÇÕES SIMPLES -->
+        <section class="section sec-simples" id="simples">
+            <div class="section-header">
+                <div class="icon-circle">🔤</div>
+                <h2>Negar uma proposição simples<span class="highlight">Basta colocar "não"</span></h2>
+            </div>
+            <div class="card card-accent-blue">
+                <p>Para negar uma proposição simples, basta acrescentar o <strong style="color: var(--blue);">"não"</strong> antes do verbo (ou usar outra palavra de negação).</p>
+                <div class="neg-grid">
+                    <div class="neg-card">
+                        <div class="neg-original">P: "Carlos é alto."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada">¬P: "Carlos não é alto."</div>
+                    </div>
+                    <div class="neg-card">
+                        <div class="neg-original">P: "Ana estuda."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada">¬P: "Ana não estuda."</div>
+                    </div>
+                    <div class="neg-card">
+                        <div class="neg-original">P: "O carro é vermelho."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada">¬P: "O carro não é vermelho."</div>
+                    </div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Importante:</strong> A negação de uma proposição simples é a negação do predicado, não do sujeito.</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 4: NEGAÇÃO DE QUANTIFICADORES (TODO, NENHUM, ALGUM) -->
+        <section class="section sec-quantificadores" id="quantificadores">
+            <div class="section-header">
+                <div class="icon-circle">🌐</div>
+                <h2>Negar quantificadores<span class="highlight">Todo, Nenhum, Algum</span></h2>
+            </div>
+            <div class="card card-accent-purple">
+                <h3>Macetes para quantificadores</h3>
+                <div class="macete-box" style="border-color: var(--purple); background: rgba(167,139,250,0.06);">
+                    <div class="macete-titulo" style="color: var(--purple);">🔁 Regras</div>
+                    <div class="macete-regra" style="color: var(--purple);">TODO → PELO MENOS UM NÃO</div>
+                    <div class="macete-regra" style="color: var(--purple);">NENHUM → PELO MENOS UM</div>
+                    <div class="macete-regra" style="color: var(--purple);">ALGUM → NENHUM</div>
+                </div>
+                <div class="neg-grid">
+                    <div class="neg-card" style="border-left-color: var(--purple);">
+                        <div class="neg-original">"Todos os alunos estudam."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada" style="color: var(--purple);">"Pelo menos um aluno não estuda."</div>
+                        <div class="neg-macete"><strong>Macete:</strong> TODO → PELO MENOS UM NÃO</div>
+                    </div>
+                    <div class="neg-card" style="border-left-color: var(--purple);">
+                        <div class="neg-original">"Nenhum aluno faltou."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada" style="color: var(--purple);">"Pelo menos um aluno faltou."</div>
+                        <div class="neg-macete"><strong>Macete:</strong> NENHUM → PELO MENOS UM</div>
+                    </div>
+                    <div class="neg-card" style="border-left-color: var(--purple);">
+                        <div class="neg-original">"Algum aluno foi aprovado."</div>
+                        <div class="neg-seta">⬇️</div>
+                        <div class="neg-negada" style="color: var(--purple);">"Nenhum aluno foi aprovado."</div>
+                        <div class="neg-macete"><strong>Macete:</strong> ALGUM → NENHUM</div>
+                    </div>
+                </div>
+                <div class="alert-box" style="margin-top: 12px;">
+                    <span class="alert-icon">❗</span>
+                    <span class="alert-text"><strong>Não confunda:</strong> A negação de "Todo A é B" <strong style="color: var(--red);">não</strong> é "Nenhum A é B". É "Pelo menos um A não é B".</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 5: NEGAÇÃO DE CONECTIVOS (E, OU, SE...ENTÃO, SE E SOMENTE SE) -->
+        <section class="section sec-conectivos" id="conectivos">
+            <div class="section-header">
+                <div class="icon-circle">🔗</div>
+                <h2>Negar conectivos lógicos<span class="highlight">E, OU, SE...ENTÃO, ↔</span></h2>
+            </div>
+
+            <!-- E -->
+            <div class="card card-accent-cyan">
+                <h3>Negação da Conjunção (E)</h3>
+                <div class="formula-box">
+                    <span class="formula-label">Fórmula</span>
+                    ¬(P ∧ Q) ≡ ¬P ∨ ¬Q
+                </div>
+                <p>Em português: a negação de <em>"P e Q"</em> é <em>"não P ou não Q"</em>.</p>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Macete:</strong> E → OU (nega tudo e troca E por OU).</span>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"João estuda e trabalha."</div>
+                    <p style="margin-top: 6px;">Negação: <strong>"João não estuda ou não trabalha."</strong></p>
+                </div>
+            </div>
+
+            <!-- OU -->
+            <div class="card card-accent-cyan">
+                <h3>Negação da Disjunção (OU)</h3>
+                <div class="formula-box">
+                    <span class="formula-label">Fórmula</span>
+                    ¬(P ∨ Q) ≡ ¬P ∧ ¬Q
+                </div>
+                <p>Em português: a negação de <em>"P ou Q"</em> é <em>"não P e não Q"</em>.</p>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Macete:</strong> OU → E (nega tudo e troca OU por E).</span>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"João estuda ou trabalha."</div>
+                    <p style="margin-top: 6px;">Negação: <strong>"João não estuda e não trabalha."</strong></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 6: NEGAÇÃO DO SE...ENTÃO (destaque) -->
+        <section class="section sec-condicional" id="condicional">
+            <div class="section-header">
+                <div class="icon-circle">➡️</div>
+                <h2>Negar o "SE... ENTÃO"<span class="highlight">MANE: Mantém, Nega, E</span></h2>
+            </div>
+            <div class="card card-accent-orange">
+                <div class="formula-box">
+                    <span class="formula-label">Fórmula</span>
+                    ¬(P → Q) ≡ P ∧ ¬Q
+                </div>
+                <p>Em português: a negação de <em>"Se P, então Q"</em> é <em>"P e não Q"</em>.</p>
+                <div class="macete-box" style="border-color: var(--orange); background: rgba(251,146,60,0.06);">
+                    <div class="macete-titulo" style="color: var(--orange);">🔥 Macete MANE</div>
+                    <div class="macete-regra" style="color: var(--orange);">Mantém a primeira, Nega a segunda, troca por E.</div>
+                    <div class="macete-exemplo"><strong>Exemplo:</strong> "Se estudo, então passo." → "Estudo <strong style="color: var(--red);">e não</strong> passo."</div>
+                </div>
+                <div class="alert-box" style="margin-top: 12px;">
+                    <span class="alert-icon">🚨</span>
+                    <span class="alert-text"><strong>Pegadinha clássica:</strong> A banca oferece "Se não P, então não Q" como negação. <strong style="color: var(--red);">ERRADO!</strong> A negação correta é <strong style="color: var(--green);">P ∧ ¬Q</strong>.</span>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"Se chover, então eu estudo."</div>
+                    <p style="margin-top: 6px;">Negação: <strong>"Chove e eu não estudo."</strong></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 7: NEGAÇÃO DO BICONDICIONAL (SE E SOMENTE SE) -->
+        <section class="section sec-conectivos" id="bicondicional">
+            <div class="section-header">
+                <div class="icon-circle">🔁</div>
+                <h2>Negar o "SE E SOMENTE SE"<span class="highlight">Valores diferentes</span></h2>
+            </div>
+            <div class="card card-accent-cyan">
+                <div class="formula-box">
+                    <span class="formula-label">Fórmula</span>
+                    ¬(P ↔ Q) ≡ (P ∧ ¬Q) ∨ (¬P ∧ Q)
+                </div>
+                <p>Em português: a negação de <em>"P se, e somente se, Q"</em> é <em>"(P e não Q) ou (não P e Q)"</em>.</p>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Macete:</strong> A negação do bicondicional significa que P e Q têm valores <strong style="color: var(--text);">diferentes</strong>.</span>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"João estuda se e somente se Maria trabalha."</div>
+                    <p style="margin-top: 6px;">Negação: <strong>"João estuda e Maria não trabalha, ou João não estuda e Maria trabalha."</strong></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 8: NEGAÇÃO DE DESIGUALDADES -->
+        <section class="section sec-desigualdades" id="desigualdades">
+            <div class="section-header">
+                <div class="icon-circle">📊</div>
+                <h2>Negar desigualdades<span class="highlight">Maior, menor, igual</span></h2>
+            </div>
+            <div class="card card-accent-yellow">
+                <div class="truth-table-wrapper">
+                    <table class="truth-table summary-table">
+                        <thead>
+                            <tr><th>Original</th><th>Negação</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>x > 10</strong></td><td><strong style="color: var(--red);">x ≤ 10</strong></td></tr>
+                            <tr><td><strong>x < 10</strong></td><td><strong style="color: var(--red);">x ≥ 10</strong></td></tr>
+                            <tr><td><strong>x ≥ 10</strong></td><td><strong style="color: var(--red);">x < 10</strong></td></tr>
+                            <tr><td><strong>x ≤ 10</strong></td><td><strong style="color: var(--red);">x > 10</strong></td></tr>
+                            <tr><td><strong>x = 10</strong></td><td><strong style="color: var(--red);">x ≠ 10</strong></td></tr>
+                            <tr><td><strong>x ≠ 10</strong></td><td><strong style="color: var(--red);">x = 10</strong></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="bizu-box" style="margin-top: 12px;">
+                    <span class="bizu-icon">🔥</span>
+                    <span class="bizu-text"><strong>Macete:</strong> Inverta o sinal e, se houver "igual", remova ou adicione conforme o caso.</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 9: RESUMO GERAL -->
+        <section class="section sec-resumo" id="resumo">
+            <div class="section-header">
+                <div class="icon-circle">📋</div>
+                <h2>Resumo Geral – Negação<span class="highlight">Tabela completa</span></h2>
+            </div>
+            <div class="card" style="border-left: 4px solid var(--green);">
+                <div class="truth-table-wrapper">
+                    <table class="truth-table summary-table">
+                        <thead>
+                            <tr><th>Proposição</th><th>Negação</th><th>Macete</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>P (simples)</strong></td><td><span style="color: var(--red);">¬P</span></td><td>Coloca "não"</td></tr>
+                            <tr><td><strong>P ∧ Q</strong></td><td><span style="color: var(--red);">¬P ∨ ¬Q</span></td><td>E → OU</td></tr>
+                            <tr><td><strong>P ∨ Q</strong></td><td><span style="color: var(--red);">¬P ∧ ¬Q</span></td><td>OU → E</td></tr>
+                            <tr><td><strong>P → Q</strong></td><td><span style="color: var(--red);">P ∧ ¬Q</span></td><td><strong>MANE</strong></td></tr>
+                            <tr><td><strong>P ↔ Q</strong></td><td><span style="color: var(--red);">(P ∧ ¬Q) ∨ (¬P ∧ Q)</span></td><td>Valores diferentes</td></tr>
+                            <tr><td><strong>Todo</strong></td><td><span style="color: var(--red);">Pelo menos um não</span></td><td>TODO → PELO MENOS UM NÃO</td></tr>
+                            <tr><td><strong>Nenhum</strong></td><td><span style="color: var(--red);">Pelo menos um</span></td><td>NENHUM → PELO MENOS UM</td></tr>
+                            <tr><td><strong>Algum</strong></td><td><span style="color: var(--red);">Nenhum</span></td><td>ALGUM → NENHUM</td></tr>
+                            <tr><td><strong>x > 10</strong></td><td><span style="color: var(--red);">x ≤ 10</span></td><td>Inverte o sinal</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 10: MACETES PRINCIPAIS -->
+        <section class="section sec-macetes" id="macetes">
+            <div class="section-header">
+                <div class="icon-circle">🧩</div>
+                <h2>Macetes principais<span class="highlight">Decore estes</span></h2>
+            </div>
+            <div class="card" style="border-left: 4px solid var(--pink);">
+                <div class="macete-box" style="border-color: var(--pink); background: rgba(244,114,182,0.06);">
+                    <div class="macete-titulo" style="color: var(--pink);">🚀 Kit sobrevivência</div>
+                    <div class="macete-regra" style="color: var(--pink);">E → OU</div>
+                    <div class="macete-regra" style="color: var(--pink);">OU → E</div>
+                    <div class="macete-regra" style="color: var(--pink);">SE...ENTÃO → MANE</div>
+                    <div class="macete-regra" style="color: var(--pink);">TODO → PELO MENOS UM NÃO</div>
+                    <div class="macete-regra" style="color: var(--pink);">NENHUM → PELO MENOS UM</div>
+                    <div class="macete-regra" style="color: var(--pink);">ALGUM → NENHUM</div>
+                    <div class="macete-exemplo"><strong>Exemplo rápido:</strong> "Todos estudam e trabalham." → "Pelo menos um não estuda ou não trabalha."</div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">💡</span>
+                    <span class="bizu-text"><strong>Dica:</strong> Pense na negação como "o que precisa acontecer para a frase original ser falsa?"</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 11: EXPLORADOR INTERATIVO DE NEGAÇÃO -->
+        <section class="section sec-explorador" id="explorador">
+            <div class="section-header">
+                <div class="icon-circle">🎮</div>
+                <h2 style="color: var(--purple);">Explorador Interativo<span class="highlight">Teste a negação na prática</span></h2>
+            </div>
+            <div class="interactive-widget" style="border-color: var(--purple);">
+                <h3>🔬 Laboratório de Negação</h3>
+                <p class="widget-subtitle">Defina os valores de P e Q e veja a negação de cada conectivo em tempo real.</p>
+                <div class="toggle-row">
+                    <div class="toggle-group">
+                        <span class="label">P =</span>
+                        <button class="toggle-btn btn-V active" id="pV2">V</button>
+                        <button class="toggle-btn btn-F" id="pF2">F</button>
+                    </div>
+                    <div class="toggle-group">
+                        <span class="label">Q =</span>
+                        <button class="toggle-btn btn-V active" id="qV2">V</button>
+                        <button class="toggle-btn btn-F" id="qF2">F</button>
+                    </div>
+                </div>
+                <div class="results-grid">
+                    <div class="result-item res-negacao">
+                        <span class="result-symbol">¬(P ∧ Q)</span>
+                        <span class="result-label">Negação do E</span>
+                        <div class="result-value" id="resNegE">F</div>
+                    </div>
+                    <div class="result-item" style="border-left: 3px solid var(--cyan);">
+                        <span class="result-symbol" style="color: var(--cyan);">¬(P ∨ Q)</span>
+                        <span class="result-label">Negação do OU</span>
+                        <div class="result-value" id="resNegOu">F</div>
+                    </div>
+                    <div class="result-item" style="border-left: 3px solid var(--orange);">
+                        <span class="result-symbol" style="color: var(--orange);">¬(P → Q)</span>
+                        <span class="result-label">Negação do →</span>
+                        <div class="result-value" id="resNegCond">F</div>
+                    </div>
+                    <div class="result-item" style="border-left: 3px solid var(--green);">
+                        <span class="result-symbol" style="color: var(--green);">¬(P ↔ Q)</span>
+                        <span class="result-label">Negação do ↔</span>
+                        <div class="result-value" id="resNegBicond">F</div>
+                    </div>
+                </div>
+                <p style="margin-top: 16px; color: var(--text-muted); font-size: 0.85rem;">Compare os resultados com as regras: E → OU, OU → E, MANE, e bicondicional = valores diferentes.</p>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 12: COMO ESTUDAR / PASSO A PASSO -->
+        <section class="section sec-estudar" id="estudar">
+            <div class="section-header">
+                <div class="icon-circle">🧠</div>
+                <h2>Como estudar negação<span class="highlight">Método passo a passo</span></h2>
+            </div>
+            <div class="step-list">
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h4>Identifique a proposição</h4>
+                        <p>Exemplo: "Todos os alunos estudam e trabalham." → proposição composta com "Todos" e "E".</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h4>Descubra o conectivo/quantificador</h4>
+                        <p>Temos "Todos" e "E". Aplique as regras na ordem correta.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h4>Aplique os macetes</h4>
+                        <p>Todo → Pelo menos um não; E → OU. Negue as partes.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <h4>Escreva a negação</h4>
+                        <p>"Pelo menos um aluno não estuda ou não trabalha."</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">5</div>
+                    <div class="step-content">
+                        <h4>Verifique se faz sentido</h4>
+                        <p>Pergunte: "Isso realmente torna a frase original falsa?"</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 13: O QUE DOMINAR -->
+        <section class="section sec-resumo" id="dominar">
+            <div class="section-header">
+                <div class="icon-circle">🎯</div>
+                <h2>O que dominar primeiro<span class="highlight">Fundamentos essenciais</span></h2>
+            </div>
+            <div class="card" style="border-left: 4px solid var(--green);">
+                <p style="margin-bottom: 14px;">Antes de avançar para questões complexas, domine <strong style="color: var(--green);">muito bem</strong>:</p>
+                <ul class="master-list">
+                    <li><span class="num">1</span> Negação de proposições simples</li>
+                    <li><span class="num">2</span> Negação do "E" e do "OU"</li>
+                    <li><span class="num">3</span> Negação do "SE...ENTÃO" (MANE)</li>
+                    <li><span class="num">4</span> Negação de "TODO", "NENHUM", "ALGUM"</li>
+                    <li><span class="num">5</span> Negação de desigualdades</li>
+                    <li><span class="num">6</span> Negação do bicondicional</li>
+                    <li><span class="num">7</span> Combinar regras (ex: Todo + E)</li>
+                    <li><span class="num">8</span> Identificar pegadinhas comuns</li>
+                </ul>
+            </div>
+            <div class="quote-block" style="border-left-color: var(--green); background: rgba(74,222,128,0.06);">
+                "Dominar a negação é a base para resolver qualquer questão de Raciocínio Lógico."
+                <span class="quote-author">— Dica final</span>
+            </div>
+        </section>
+
+        <!-- FOOTER -->
+        <footer class="footer">
+            <p>🚫 Raciocínio Lógico — Negação de Proposições</p>
+        </footer>
+
+    </div>
+
+    <script>
+        // ===== EXPLORADOR INTERATIVO DE NEGAÇÃO =====
+        let p2 = true;
+        let q2 = true;
+
+        const pV2 = document.getElementById('pV2');
+        const pF2 = document.getElementById('pF2');
+        const qV2 = document.getElementById('qV2');
+        const qF2 = document.getElementById('qF2');
+
+        const resNegE = document.getElementById('resNegE');
+        const resNegOu = document.getElementById('resNegOu');
+        const resNegCond = document.getElementById('resNegCond');
+        const resNegBicond = document.getElementById('resNegBicond');
+
+        function updateToggleButtons2() {
+            pV2.classList.toggle('active', p2 === true);
+            pF2.classList.toggle('active', p2 === false);
+            qV2.classList.toggle('active', q2 === true);
+            qF2.classList.toggle('active', q2 === false);
+        }
+
+        function updateResults2() {
+            const p = p2,
+                q = q2;
+
+            // Negação do E: ¬(P ∧ Q) = ¬P ∨ ¬Q
+            const negE = !(p && q);
+            // Negação do OU: ¬(P ∨ Q) = ¬P ∧ ¬Q
+            const negOu = (!p) && (!q);
+            // Negação do condicional: ¬(P → Q) = P ∧ ¬Q
+            const negCond = p && !q;
+            // Negação do bicondicional: ¬(P ↔ Q) = (P ∧ ¬Q) ∨ (¬P ∧ Q)
+            const negBicond = (p && !q) || (!p && q);
+
+            setResultValue2(resNegE, negE);
+            setResultValue2(resNegOu, negOu);
+            setResultValue2(resNegCond, negCond);
+            setResultValue2(resNegBicond, negBicond);
+        }
+
+        function setResultValue2(element, value) {
+            if (value) {
+                element.textContent = 'V';
+                element.className = 'result-value val-V';
+            } else {
+                element.textContent = 'F';
+                element.className = 'result-value val-F';
+            }
+        }
+
+        pV2.addEventListener('click', () => { p2 = true;
+            updateToggleButtons2();
+            updateResults2(); });
+        pF2.addEventListener('click', () => { p2 = false;
+            updateToggleButtons2();
+            updateResults2(); });
+        qV2.addEventListener('click', () => { q2 = true;
+            updateToggleButtons2();
+            updateResults2(); });
+        qF2.addEventListener('click', () => { q2 = false;
+            updateToggleButtons2();
+            updateResults2(); });
+
+        updateToggleButtons2();
+        updateResults2();
+
+        // ===== SE ESTIVER DENTRO DE IFRAME =====
+        if (window.self !== window.top) {
+            document.body.classList.add('iframe-mode');
+        }
+    </script>
+
+</body>
+</html>
