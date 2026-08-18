@@ -742,9 +742,6 @@ body::before {
    ESTILOS EXCLUSIVOS PARA QUESTÕES E GABARITO
    ============================================================ */
 
-/* ---- Sidebar e estrutura (já definidos no HTML via classes) ---- */
-/* Mantido compatível com o HTML existente */
-
 /* ---- Wrapper de cada questão ---- */
 .questao-wrapper {
     background: var(--bg-card);
