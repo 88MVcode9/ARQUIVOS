@@ -19,5 +19,12 @@
     "id": "negacoes-logicas",
     "nome": "Negação de Proposições",
     "tipo": "pagina"
+},
+{
+    "conteudo": "argumento-e-diagrama",
+    "icone": "brain",
+    "id": "argumento-e-diagrama",
+    "nome": "Argumento e Diagrama",
+    "tipo": "pagina"
 }
 ]
