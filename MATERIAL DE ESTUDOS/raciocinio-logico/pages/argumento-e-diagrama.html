@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5" />
+    <title>🧠 Argumentação Lógica e Diagramas Lógicos </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Poppins:wght@600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://88mvcode9.github.io/ARQUIVOS/ESTILOS/GMA/raciocinio-logico.css" />
+    <style>
+        /* cores temáticas */
+        .sec-argumento .icon-circle {
+            border-color: var(--blue);
+            background: rgba(96, 165, 250, 0.08);
+            color: var(--blue);
+            box-shadow: 0 0 20px rgba(96, 165, 250, 0.25);
+        }
+        .sec-argumento h2 {
+            color: var(--blue);
+        }
+
+        .sec-premissa .icon-circle {
+            border-color: var(--green);
+            background: rgba(74, 222, 128, 0.08);
+            color: var(--green);
+            box-shadow: 0 0 20px var(--glow-green);
+        }
+        .sec-premissa h2 {
+            color: var(--green);
+        }
+
+        .sec-tipos .icon-circle {
+            border-color: var(--purple);
+            background: rgba(167, 139, 250, 0.08);
+            color: var(--purple);
+            box-shadow: 0 0 20px var(--glow-purple);
+        }
+        .sec-tipos h2 {
+            color: var(--purple);
+        }
+
+        .sec-validade .icon-circle {
+            border-color: var(--orange);
+            background: rgba(251, 146, 60, 0.08);
+            color: var(--orange);
+            box-shadow: 0 0 20px var(--glow-orange);
+        }
+        .sec-validade h2 {
+            color: var(--orange);
+        }
+
+        .sec-falacias .icon-circle {
+            border-color: var(--red);
+            background: rgba(248, 113, 113, 0.08);
+            color: var(--red);
+            box-shadow: 0 0 20px var(--glow-red);
+        }
+        .sec-falacias h2 {
+            color: var(--red);
+        }
+
+        .sec-estrutura .icon-circle {
+            border-color: var(--cyan);
+            background: rgba(34, 211, 238, 0.08);
+            color: var(--cyan);
+            box-shadow: 0 0 20px var(--glow-cyan);
+        }
+        .sec-estrutura h2 {
+            color: var(--cyan);
+        }
+
+        .sec-fluxo .icon-circle {
+            border-color: var(--yellow);
+            background: rgba(251, 191, 36, 0.08);
+            color: var(--yellow);
+            box-shadow: 0 0 20px var(--glow-yellow);
+        }
+        .sec-fluxo h2 {
+            color: var(--yellow);
+        }
+
+        .sec-exercicios .icon-circle {
+            border-color: var(--pink);
+            background: rgba(244, 114, 182, 0.08);
+            color: var(--pink);
+            box-shadow: 0 0 20px var(--glow-pink);
+        }
+        .sec-exercicios h2 {
+            color: var(--pink);
+        }
+
+        .sec-tabela .icon-circle {
+            border-color: var(--teal);
+            background: rgba(45, 212, 191, 0.08);
+            color: var(--teal);
+            box-shadow: 0 0 20px rgba(45, 212, 191, 0.25);
+        }
+        .sec-tabela h2 {
+            color: var(--teal);
+        }
+
+        .sec-estudo .icon-circle {
+            border-color: var(--orange);
+            background: rgba(251, 146, 60, 0.08);
+            color: var(--orange);
+            box-shadow: 0 0 20px var(--glow-orange);
+        }
+        .sec-estudo h2 {
+            color: var(--orange);
+        }
+
+        /* NOVA SEÇÃO: DIAGRAMAS LÓGICOS */
+        .sec-diagramas .icon-circle {
+            border-color: var(--blue);
+            background: rgba(96, 165, 250, 0.08);
+            color: var(--blue);
+            box-shadow: 0 0 20px rgba(96, 165, 250, 0.25);
+        }
+        .sec-diagramas h2 {
+            color: var(--blue);
+        }
+
+        /* cards */
+        .card-accent-blue {
+            border-left: 4px solid var(--blue);
+        }
+        .card-accent-green {
+            border-left: 4px solid var(--green);
+        }
+        .card-accent-purple {
+            border-left: 4px solid var(--purple);
+        }
+        .card-accent-orange {
+            border-left: 4px solid var(--orange);
+        }
+        .card-accent-red {
+            border-left: 4px solid var(--red);
+        }
+        .card-accent-cyan {
+            border-left: 4px solid var(--cyan);
+        }
+        .card-accent-yellow {
+            border-left: 4px solid var(--yellow);
+        }
+        .card-accent-pink {
+            border-left: 4px solid var(--pink);
+        }
+        .card-accent-teal {
+            border-left: 4px solid var(--teal);
+        }
+
+        .bizu-box {
+            background: rgba(251, 191, 36, 0.06);
+            border: 1px solid rgba(251, 191, 36, 0.3);
+            border-radius: var(--radius-sm);
+            padding: 14px 18px;
+            margin: 12px 0;
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+        .bizu-box .bizu-icon {
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+        .bizu-box .bizu-text {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+        .bizu-box .bizu-text strong {
+            color: var(--yellow);
+        }
+
+        .macete-box {
+            background: rgba(244, 114, 182, 0.06);
+            border: 2px solid var(--pink);
+            border-radius: var(--radius);
+            padding: 18px 22px;
+            margin: 16px 0;
+            box-shadow: 0 0 24px var(--glow-pink);
+        }
+        .macete-box .macete-titulo {
+            font-family: var(--font-heading);
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: var(--pink);
+            margin-bottom: 6px;
+        }
+        .macete-box .macete-regra {
+            font-size: 1.2rem;
+            font-weight: 900;
+            font-family: 'Courier New', monospace;
+            color: var(--text);
+            margin: 6px 0;
+        }
+        .macete-box .macete-exemplo {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-top: 4px;
+        }
+
+        .falacia-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 16px 18px;
+            transition: var(--transition);
+            box-shadow: var(--shadow-card);
+            border-left: 4px solid var(--red);
+        }
+        .falacia-card:hover {
+            border-color: var(--border-strong);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-card-hover);
+        }
+        .falacia-card .falacia-nome {
+            font-weight: 700;
+            color: var(--red);
+            font-size: 1.05rem;
+        }
+        .falacia-card .falacia-def {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin: 4px 0;
+        }
+        .falacia-card .falacia-ex {
+            font-size: 0.85rem;
+            background: rgba(255, 255, 255, 0.04);
+            padding: 6px 10px;
+            border-radius: var(--radius-sm);
+            border: 1px dashed var(--border-strong);
+            color: var(--text-muted);
+        }
+        .falacia-card .falacia-ex strong {
+            color: var(--yellow);
+        }
+
+        .arg-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 16px;
+            margin: 16px 0;
+        }
+        .arg-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 18px 20px;
+            transition: var(--transition);
+            box-shadow: var(--shadow-card);
+            border-left: 4px solid var(--blue);
+        }
+        .arg-card:hover {
+            border-color: var(--border-strong);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-card-hover);
+        }
+        .arg-card .arg-prem {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+        .arg-card .arg-prem strong {
+            color: var(--text);
+        }
+        .arg-card .arg-concl {
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--blue);
+            margin-top: 6px;
+            padding-top: 6px;
+            border-top: 1px dashed var(--border);
+        }
+        .arg-card .arg-tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 2px 10px;
+            border-radius: 20px;
+            margin-top: 8px;
+            background: rgba(74, 222, 128, 0.15);
+            color: var(--green);
+        }
+        .arg-card .arg-tag.invalido {
+            background: rgba(248, 113, 113, 0.15);
+            color: var(--red);
+        }
+
+        .step-list .step-item .step-content p strong {
+            color: var(--text);
+        }
+
+        .interactive-widget {
+            background: var(--bg-card);
+            border: 2px solid var(--border-strong);
+            border-radius: var(--radius);
+            padding: 24px 28px;
+            box-shadow: var(--shadow-card);
+            transition: var(--transition);
+        }
+        .interactive-widget:hover {
+            border-color: var(--border-strong);
+            box-shadow: var(--shadow-card-hover);
+        }
+        .interactive-widget h3 {
+            font-family: var(--font-heading);
+            font-size: 1.2rem;
+            font-weight: 800;
+            color: var(--text);
+            margin-bottom: 6px;
+        }
+        .interactive-widget .widget-subtitle {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 16px;
+        }
+
+        .toggle-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 12px 0 16px 0;
+        }
+        .toggle-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .toggle-group .label {
+            font-weight: 600;
+            color: var(--text);
+            font-size: 0.95rem;
+        }
+        .toggle-btn {
+            padding: 6px 18px;
+            border: 2px solid var(--border-strong);
+            border-radius: 30px;
+            background: transparent;
+            color: var(--text-muted);
+            font-weight: 700;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        .toggle-btn:hover {
+            border-color: var(--text);
+            color: var(--text);
+        }
+        .toggle-btn.active {
+            border-color: var(--blue);
+            background: rgba(96, 165, 250, 0.15);
+            color: var(--blue);
+        }
+        .toggle-btn.btn-V.active {
+            border-color: var(--green);
+            background: rgba(74, 222, 128, 0.15);
+            color: var(--green);
+        }
+        .toggle-btn.btn-F.active {
+            border-color: var(--red);
+            background: rgba(248, 113, 113, 0.15);
+            color: var(--red);
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 12px;
+            margin: 12px 0;
+        }
+        .result-item {
+            background: var(--bg);
+            border-radius: var(--radius-sm);
+            padding: 12px 14px;
+            border-left: 3px solid var(--blue);
+            text-align: center;
+        }
+        .result-item .result-symbol {
+            font-family: 'Courier New', monospace;
+            font-weight: 700;
+            font-size: 0.95rem;
+            color: var(--text);
+            display: block;
+        }
+        .result-item .result-label {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            display: block;
+            margin: 2px 0 4px;
+        }
+        .result-item .result-value {
+            font-size: 1.6rem;
+            font-weight: 900;
+        }
+        .result-item .result-value.val-V {
+            color: var(--green);
+        }
+        .result-item .result-value.val-F {
+            color: var(--red);
+        }
+
+        .mermaid-wrapper {
+            background: var(--bg);
+            border-radius: var(--radius-sm);
+            padding: 16px;
+            margin: 12px 0;
+            text-align: center;
+            border: 1px solid var(--border);
+            overflow-x: auto;
+        }
+        .mermaid-wrapper svg {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .summary-table td strong {
+            color: var(--text);
+        }
+        .summary-table td span.valido {
+            color: var(--green);
+        }
+        .summary-table td span.invalido {
+            color: var(--red);
+        }
+
+        /* Diagramas de Venn com SVG inline */
+        .venn-svg-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            margin: 20px 0;
+        }
+        .venn-item {
+            text-align: center;
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            padding: 16px;
+            border: 1px solid var(--border);
+            min-width: 180px;
+            max-width: 280px;
+        }
+        .venn-item svg {
+            max-width: 100%;
+            height: auto;
+        }
+        .venn-item .venn-label {
+            font-weight: 600;
+            color: var(--text);
+            margin-top: 8px;
+        }
+        .venn-item .venn-desc {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 600px) {
+            .results-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .interactive-widget {
+                padding: 16px;
+            }
+            .toggle-row {
+                flex-direction: column;
+                gap: 8px;
+            }
+            .venn-svg-container {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="content-wrapper">
+
+        <!-- HERO -->
+        <header class="hero">
+            <div class="hero-badge">🧠 Argumentação Lógica e Diagramas Lógicos </div>
+           
+        </header>
+
+        <!-- SEÇÃO 1: O QUE É ARGUMENTAÇÃO LÓGICA? -->
+        <section class="section sec-argumento" id="argumento">
+            <div class="section-header">
+                <div class="icon-circle">🧩</div>
+                <h2>O que é argumentação lógica?<span class="highlight">Fundamento essencial</span></h2>
+            </div>
+            <div class="card card-accent-blue">
+                <p>Um <strong style="color: var(--blue);">argumento lógico</strong> é um conjunto de <strong style="color: var(--green);">premissas</strong> (afirmações iniciais) que sustentam uma <strong style="color: var(--orange);">conclusão</strong> (afirmação final). A ideia é usar a razão para justificar uma posição.</p>
+                <div class="example-box">
+                    <div class="example-label">Exemplo clássico</div>
+                    <div class="example-text"><strong>Premissa 1:</strong> Todos os homens são mortais.</div>
+                    <div class="example-text"><strong>Premissa 2:</strong> Sócrates é homem.</div>
+                    <div class="example-text" style="margin-top: 6px; font-weight: 700; color: var(--blue);">Conclusão: Sócrates é mortal.</div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">💡</span>
+                    <span class="bizu-text"><strong>Analogia:</strong> Argumento é como uma receita. As premissas são os ingredientes, a conclusão é o prato final. Se os ingredientes são bons e a receita é seguida, o prato fica bom.</span>
+                </div>
+                <div class="alert-box" style="margin-top: 12px;">
+                    <span class="alert-icon">⚠️</span>
+                    <span class="alert-text"><strong>Não é argumento:</strong> "Feche a porta!" (ordem), "Que dia lindo!" (exclamação). Argumentos exigem justificação.</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 2: PREMISSAS E CONCLUSÃO -->
+        <section class="section sec-premissa" id="premissa">
+            <div class="section-header">
+                <div class="icon-circle">📌</div>
+                <h2>Premissas e Conclusão<span class="highlight">A estrutura básica</span></h2>
+            </div>
+            <div class="card card-accent-green">
+                <p><strong style="color: var(--green);">Premissa</strong> = afirmação apresentada como evidência. <strong style="color: var(--orange);">Conclusão</strong> = afirmação apoiada pelas premissas.</p>
+                <div class="arg-grid">
+                    <div class="arg-card">
+                        <div class="arg-prem"><strong>P1:</strong> Se chove, a rua fica molhada.</div>
+                        <div class="arg-prem"><strong>P2:</strong> Está chovendo.</div>
+                        <div class="arg-concl">Conclusão: A rua está molhada.</div>
+                        <span class="arg-tag">Válido</span>
+                    </div>
+                    <div class="arg-card">
+                        <div class="arg-prem"><strong>P1:</strong> Todos os gatos são mamíferos.</div>
+                        <div class="arg-prem"><strong>P2:</strong> Bola é um gato.</div>
+                        <div class="arg-concl">Conclusão: Bola é mamífero.</div>
+                        <span class="arg-tag">Válido</span>
+                    </div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🔎</span>
+                    <span class="bizu-text"><strong>Dica:</strong> Identifique as premissas procurando por palavras como "porque", "já que", "dado que". A conclusão geralmente vem após "logo", "portanto", "assim".</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 3: TIPOS DE RACIOCÍNIO -->
+        <section class="section sec-tipos" id="tipos">
+            <div class="section-header">
+                <div class="icon-circle">🔄</div>
+                <h2>Tipos de raciocínio<span class="highlight">Dedutivo vs. Indutivo</span></h2>
+            </div>
+            <div class="card card-accent-purple">
+                <h3>Raciocínio Dedutivo</h3>
+                <p>Parte de premissas gerais para uma conclusão específica. Se as premissas são verdadeiras, a conclusão <strong style="color: var(--green);">necessariamente</strong> é verdadeira.</p>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"Todo ser humano respira. João é humano. Logo, João respira."</div>
+                </div>
+                <hr style="border-color: var(--border); margin: 16px 0;" />
+                <h3>Raciocínio Indutivo</h3>
+                <p>Parte de casos específicos para uma conclusão geral. A conclusão é <strong style="color: var(--orange);">provável</strong>, mas não garantida.</p>
+                <div class="example-box">
+                    <div class="example-label">Exemplo</div>
+                    <div class="example-text">"Observei 100 cisnes brancos. Logo, todos os cisnes são brancos." (conclusão provável, mas pode haver cisne preto)</div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">⚖️</span>
+                    <span class="bizu-text"><strong>Comparação:</strong> Dedutivo = certeza (se premissas verdadeiras). Indutivo = probabilidade (baseado em evidências).</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 4: VALIDADE E SOLIDEZ -->
+        <section class="section sec-validade" id="validade">
+            <div class="section-header">
+                <div class="icon-circle">✅</div>
+                <h2>Validade e Solidez<span class="highlight">Forma versus conteúdo</span></h2>
+            </div>
+            <div class="card card-accent-orange">
+                <p><strong style="color: var(--orange);">Argumento válido</strong> = a conclusão segue obrigatoriamente das premissas (coerência lógica). <strong style="color: var(--green);">Argumento sólido</strong> = válido + premissas verdadeiras no mundo real.</p>
+                <div class="arg-grid">
+                    <div class="arg-card" style="border-left-color: var(--orange);">
+                        <div class="arg-prem"><strong>P1:</strong> Todos os mamíferos voam.</div>
+                        <div class="arg-prem"><strong>P2:</strong> Homens são mamíferos.</div>
+                        <div class="arg-concl" style="color: var(--orange);">Conclusão: Homens voam.</div>
+                        <span class="arg-tag" style="background: rgba(251,146,60,0.15); color: var(--orange);">Válido (mas falso)</span>
+                    </div>
+                    <div class="arg-card" style="border-left-color: var(--green);">
+                        <div class="arg-prem"><strong>P1:</strong> Todos os mamíferos respiram.</div>
+                        <div class="arg-prem"><strong>P2:</strong> Homens são mamíferos.</div>
+                        <div class="arg-concl" style="color: var(--green);">Conclusão: Homens respiram.</div>
+                        <span class="arg-tag" style="background: rgba(74,222,128,0.15); color: var(--green);">Sólido (válido + verdadeiro)</span>
+                    </div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Macete:</strong> Validade = estrutura. Solidez = estrutura + verdade. Uma frase pode ser válida, mas absurda se as premissas forem falsas.</span>
+                </div>
+                <div class="alert-box" style="margin-top: 12px;">
+                    <span class="alert-icon">🚨</span>
+                    <span class="alert-text"><strong>Pegadinha:</strong> "Se estudo, passo. Passei, logo estudei." — <strong style="color: var(--red);">INVÁLIDO</strong> (falácia da afirmação do consequente).</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 5: FALÁCIAS COMUNS -->
+        <section class="section sec-falacias" id="falacias">
+            <div class="section-header">
+                <div class="icon-circle">⚠️</div>
+                <h2>Falácias comuns<span class="highlight">Erros que enfraquecem um argumento</span></h2>
+            </div>
+            <div class="card card-accent-red">
+                <div class="falacia-card">
+                    <div class="falacia-nome">Ad Hominem</div>
+                    <div class="falacia-def">Atacar a pessoa em vez do argumento.</div>
+                    <div class="falacia-ex"><strong>Ex:</strong> "Você não pode defender a reciclagem porque você não é ecologista."</div>
+                </div>
+                <div class="falacia-card" style="border-left-color: var(--orange);">
+                    <div class="falacia-nome" style="color: var(--orange);">Apelo à Emoção</div>
+                    <div class="falacia-def">Usar emoção (medo, piedade) no lugar de prova lógica.</div>
+                    <div class="falacia-ex"><strong>Ex:</strong> "Doe para esta causa, senão essas crianças vão sofrer."</div>
+                </div>
+                <div class="falacia-card" style="border-left-color: var(--purple);">
+                    <div class="falacia-nome" style="color: var(--purple);">Falsa Dicotomia</div>
+                    <div class="falacia-def">Apresentar apenas duas opções, ignorando alternativas.</div>
+                    <div class="falacia-ex"><strong>Ex:</strong> "Ou você está comigo, ou contra mim."</div>
+                </div>
+                <div class="falacia-card" style="border-left-color: var(--cyan);">
+                    <div class="falacia-nome" style="color: var(--cyan);">Afirmação do Consequente</div>
+                    <div class="falacia-def">Concluir a causa a partir do efeito.</div>
+                    <div class="falacia-ex"><strong>Ex:</strong> "Se estudo, passo. Passei, logo estudei."</div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🔍</span>
+                    <span class="bizu-text"><strong>Dica:</strong> Sempre questione: "A conclusão realmente decorre das premissas? Há alguma suposição escondida?"</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 6: ESTRUTURA DE ARGUMENTOS -->
+        <section class="section sec-estrutura" id="estrutura">
+            <div class="section-header">
+                <div class="icon-circle">🏗️</div>
+                <h2>Estrutura de argumentos<span class="highlight">Como organizar</span></h2>
+            </div>
+            <div class="card card-accent-cyan">
+                <p>Um argumento bem estruturado segue um formato claro:</p>
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; margin: 12px 0; border: 1px solid var(--border);">
+                    <p style="font-family: 'Courier New', monospace; font-weight: 700; color: var(--text);">
+                        Premissa 1 → Premissa 2 → ... → Conclusão
+                    </p>
+                </div>
+                <div class="example-box">
+                    <div class="example-label">Exemplo completo</div>
+                    <div class="example-text"><strong>P1:</strong> Se chove, então a rua fica molhada.</div>
+                    <div class="example-text"><strong>P2:</strong> Está chovendo.</div>
+                    <div class="example-text" style="font-weight: 700; color: var(--cyan);">Conclusão: A rua está molhada.</div>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">🧠</span>
+                    <span class="bizu-text"><strong>Macete:</strong> Use conectivos lógicos para testar a validade: <strong style="color: var(--text);">Se P então Q; P; logo Q</strong> (Modus Ponens).</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== SEÇÃO DE DIAGRAMAS LÓGICOS (REVISADA) ===== -->
+        <section class="section sec-diagramas" id="diagramas">
+            <div class="section-header">
+                <div class="icon-circle">🔵</div>
+                <h2>Diagramas Lógicos<span class="highlight">Visualize com círculos</span></h2>
+            </div>
+
+            <!-- O que são -->
+            <div class="card card-accent-blue">
+                <h3>O que são diagramas lógicos?</h3>
+                <p>Imagine que você tem caixas (ou círculos) para guardar coisas. Cada caixa representa um grupo: a caixa dos <strong>cachorros</strong>, a caixa dos <strong>animais</strong>, a caixa dos <strong>gatos</strong>. Os diagramas lógicos são desenhos que mostram como essas caixas se relacionam: uma dentro da outra, separadas, ou se sobrepondo.</p>
+                <p>Eles servem para resolver questões de concurso que falam de <strong>"Todo", "Nenhum", "Algum"</strong>. Em vez de ficar imaginando, você desenha e vê a resposta.</p>
+                <div class="bizu-box">
+                    <span class="bizu-icon">💡</span>
+                    <span class="bizu-text"><strong>Dica:</strong> Os círculos representam conjuntos. A posição deles mostra a relação entre os grupos. Depois de desenhar, fica muito mais fácil saber o que é verdade ou mentira.</span>
+                </div>
+            </div>
+
+            <!-- Tradução das premissas para diagramas -->
+            <div class="card card-accent-green">
+                <h3>Os 3 desenhos que você precisa saber</h3>
+                <p>Existem três frases básicas que caem em prova. Veja como desenhar cada uma:</p>
+
+                <div class="venn-svg-container">
+                    <!-- TODO A é B -->
+                    <div class="venn-item">
+                        <svg width="180" height="150" viewBox="0 0 180 150" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Círculo maior (B) -->
+                            <circle cx="90" cy="75" r="55" fill="rgba(96,165,250,0.1)" stroke="rgba(96,165,250,0.8)" stroke-width="2"/>
+                            <text x="125" y="80" font-size="14" font-weight="bold" fill="var(--text)">B</text>
+                            <!-- Círculo menor (A) dentro de B -->
+                            <circle cx="90" cy="75" r="30" fill="rgba(74,222,128,0.2)" stroke="rgba(74,222,128,0.8)" stroke-width="2"/>
+                            <text x="82" y="78" font-size="14" font-weight="bold" fill="var(--text)">A</text>
+                        </svg>
+                        <div class="venn-label" style="color: var(--green);">Todo A é B</div>
+                        <div class="venn-desc">O círculo A está <strong>inteiramente dentro</strong> do círculo B.</div>
+                        <div class="example-box" style="margin-top: 8px;">
+                            <div class="example-label">Exemplo</div>
+                            <div class="example-text">"Todo cachorro é animal." (cachorro dentro de animal)</div>
+                        </div>
+                        <div class="alert-box" style="margin-top: 6px;">
+                            <span class="alert-icon">⚠️</span>
+                            <span class="alert-text"><strong>Cuidado:</strong> Não vale ao contrário! "Todo A é B" não significa que "Todo B é A". Nem todo animal é cachorro.</span>
+                        </div>
+                    </div>
+
+                    <!-- NENHUM A é B -->
+                    <div class="venn-item">
+                        <svg width="180" height="150" viewBox="0 0 180 150" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Círculo A -->
+                            <circle cx="60" cy="75" r="40" fill="rgba(248,113,113,0.1)" stroke="rgba(248,113,113,0.8)" stroke-width="2"/>
+                            <text x="40" y="80" font-size="14" font-weight="bold" fill="var(--text)">A</text>
+                            <!-- Círculo B -->
+                            <circle cx="120" cy="75" r="40" fill="rgba(96,165,250,0.1)" stroke="rgba(96,165,250,0.8)" stroke-width="2"/>
+                            <text x="105" y="80" font-size="14" font-weight="bold" fill="var(--text)">B</text>
+                        </svg>
+                        <div class="venn-label" style="color: var(--red);">Nenhum A é B</div>
+                        <div class="venn-desc">Os círculos estão <strong>separados</strong>, sem interseção.</div>
+                        <div class="example-box" style="margin-top: 8px;">
+                            <div class="example-label">Exemplo</div>
+                            <div class="example-text">"Nenhum peixe é mamífero." (peixes e mamíferos não se misturam)</div>
+                        </div>
+                    </div>
+
+                    <!-- ALGUM A é B -->
+                    <div class="venn-item">
+                        <svg width="180" height="150" viewBox="0 0 180 150" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Círculo A -->
+                            <circle cx="70" cy="75" r="45" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.8)" stroke-width="2"/>
+                            <text x="40" y="80" font-size="14" font-weight="bold" fill="var(--text)">A</text>
+                            <!-- Círculo B -->
+                            <circle cx="110" cy="75" r="45" fill="rgba(96,165,250,0.1)" stroke="rgba(96,165,250,0.8)" stroke-width="2"/>
+                            <text x="135" y="80" font-size="14" font-weight="bold" fill="var(--text)">B</text>
+                            <!-- Área de interseção -->
+                            <ellipse cx="90" cy="75" rx="12" ry="30" fill="rgba(74,222,128,0.4)" stroke="rgba(74,222,128,0.8)" stroke-width="2"/>
+                        </svg>
+                        <div class="venn-label" style="color: var(--purple);">Algum A é B</div>
+                        <div class="venn-desc">Existe uma <strong>interseção</strong> entre os círculos (pelo menos um elemento em comum).</div>
+                        <div class="example-box" style="margin-top: 8px;">
+                            <div class="example-label">Exemplo</div>
+                            <div class="example-text">"Algum médico é professor." (existe pelo menos uma pessoa que é as duas coisas)</div>
+                        </div>
+                        <div class="bizu-box" style="margin-top: 6px;">
+                            <span class="bizu-icon">📌</span>
+                            <span class="bizu-text"><strong>Nota:</strong> "Algum" significa "pelo menos um". Pode ser que todos sejam, mas o mínimo é a interseção.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Passo a passo -->
+            <div class="card card-accent-orange">
+                <h3>Como resolver questões com diagramas (passo a passo)</h3>
+                <div class="step-list">
+                    <div class="step-item">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h4>Ignore o mundo real</h4>
+                            <p>Na lógica de concursos, só vale o que a questão diz. Se ela afirmar "Todo gato voa", aceite e desenhe isso, mesmo que na vida real não seja verdade.</p>
+                        </div>
+                    </div>
+                    <div class="step-item">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h4>Desenhe primeiro as certezas</h4>
+                            <p>Comece pelos <strong>"Todos"</strong> e <strong>"Nenhuns"</strong>, pois eles fixam a posição dos círculos de forma definitiva.</p>
+                        </div>
+                    </div>
+                    <div class="step-item">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h4>Depois encaixe os "Alguns"</h4>
+                            <p>Os "Alguns" são mais flexíveis. Desenhe a interseção de forma que fique de acordo com as outras informações. Se houver mais de uma possibilidade, considere todas.</p>
+                        </div>
+                    </div>
+                    <div class="step-item">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <h4>Analise as alternativas</h4>
+                            <p>Elimine as opções que são falsas em <strong>pelo menos um dos desenhos possíveis</strong>. A resposta correta é aquela que é <strong>sempre verdadeira</strong>, em qualquer configuração.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Exemplo prático -->
+            <div class="card card-accent-pink">
+                <h3>Exemplo prático de concurso</h3>
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; margin-bottom: 16px; border: 1px solid var(--border);">
+                    <p style="font-weight: 700; color: var(--text);">Enunciado:</p>
+                    <p>"Sabendo que <strong style="color: var(--blue);">todo gato é felino</strong> e que <strong style="color: var(--purple);">algum felino é preto</strong>, é correto afirmar que..."</p>
+                </div>
+                <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+                    <div style="flex: 1; min-width: 200px;">
+                        <svg width="200" height="180" viewBox="0 0 200 180" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Gato dentro de Felino -->
+                            <circle cx="90" cy="90" r="50" fill="rgba(96,165,250,0.1)" stroke="rgba(96,165,250,0.8)" stroke-width="2"/>
+                            <text x="115" y="95" font-size="14" font-weight="bold" fill="var(--text)">Felino</text>
+                            <circle cx="90" cy="90" r="25" fill="rgba(74,222,128,0.2)" stroke="rgba(74,222,128,0.8)" stroke-width="2"/>
+                            <text x="80" y="93" font-size="12" font-weight="bold" fill="var(--text)">Gato</text>
+                            <!-- Preto intersectando Felino -->
+                            <circle cx="140" cy="70" r="40" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.8)" stroke-width="2"/>
+                            <text x="165" y="70" font-size="14" font-weight="bold" fill="var(--text)">Preto</text>
+                            <!-- Interseção Preto-Felino -->
+                            <path d="M 120 50 A 30 30 0 0 1 150 40" fill="none" stroke="rgba(74,222,128,0.8)" stroke-width="2" stroke-dasharray="4"/>
+                        </svg>
+                        <p style="font-size: 0.8rem; color: var(--text-muted); text-align: center;">Gato dentro de Felino, e Felino intersecta Preto (pode haver gato preto ou não).</p>
+                    </div>
+                    <div style="flex: 2; min-width: 200px;">
+                        <p><strong style="color: var(--red);">Alternativas falsas (pegadinhas):</strong></p>
+                        <ul style="list-style: none; padding: 0;">
+                            <li style="padding: 4px 0;">❌ "Todo gato é preto" — o círculo do gato pode não tocar o preto.</li>
+                            <li style="padding: 4px 0;">❌ "Nenhum gato é preto" — pode haver gato na interseção felino-preto.</li>
+                            <li style="padding: 4px 0;">❌ "Todo felino é preto" — o círculo do felino é maior que o preto, nem tudo é preto.</li>
+                        </ul>
+                        <p style="margin-top: 12px;"><strong style="color: var(--green);">Alternativa correta:</strong> aquela que é <strong style="color: var(--text);">garantida</strong>, como "Existe felino que é gato" ou "Algum felino é gato".</p>
+                    </div>
+                </div>
+                <div class="bizu-box" style="margin-top: 16px;">
+                    <span class="bizu-icon">🎯</span>
+                    <span class="bizu-text"><strong>Macete:</strong> Em questões com "Todo", "Nenhum" e "Algum", a conclusão correta é aquela que <strong style="color: var(--text);">não pode ser falsa</strong> em nenhum desenho possível.</span>
+                </div>
+            </div>
+
+            <!-- Tabela resumo -->
+            <div class="card card-accent-teal" style="margin-top: 16px;">
+                <h3>Resumo dos 3 desenhos</h3>
+                <div class="truth-table-wrapper">
+                    <table class="truth-table summary-table">
+                        <thead>
+                            <tr><th>Frase</th><th>Desenho</th><th>Significado</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Todo A é B</strong></td>
+                                <td>A dentro de B</td>
+                                <td>Todo elemento de A também está em B. Não vale o contrário.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Nenhum A é B</strong></td>
+                                <td>Círculos separados</td>
+                                <td>Não há elemento em comum entre A e B.</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Algum A é B</strong></td>
+                                <td>Círculos com interseção</td>
+                                <td>Existe pelo menos um elemento que pertence aos dois grupos.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+        <!-- FIM DA SEÇÃO DE DIAGRAMAS LÓGICOS -->
+
+        <!-- SEÇÃO 7: FLUXOGRAMAS (MERMAID) -->
+        <section class="section sec-fluxo" id="fluxo">
+            <div class="section-header">
+                <div class="icon-circle">📊</div>
+                <h2>Fluxogramas lógicos<span class="highlight">Visualize a argumentação</span></h2>
+            </div>
+            <div class="card card-accent-yellow">
+                <p>Represente visualmente um argumento com fluxogramas. Veja o exemplo do <strong style="color: var(--yellow);">Modus Ponens</strong>:</p>
+                <div class="mermaid-wrapper">
+                    <pre class="mermaid" style="text-align: center; background: transparent; border: none; padding: 0; margin: 0;">
+                        flowchart LR
+                        A["Premissa 1: Se chove, então levo guarda-chuva."] --> B{"Está chovendo?"}
+                        B -- Sim --> C["Conclusão: Vou levar guarda-chuva."]
+                        B -- Não --> D["Não preciso do guarda-chuva."]
+                    </pre>
+                </div>
+                <div class="mermaid-wrapper">
+                    <pre class="mermaid" style="text-align: center; background: transparent; border: none; padding: 0; margin: 0;">
+                        flowchart TD
+                        P1["Premissa 1: Todos os homens são mortais."] --> Concl["Conclusão: Sócrates é mortal."]
+                        P2["Premissa 2: Sócrates é homem."] --> Concl
+                    </pre>
+                </div>
+                <div class="bizu-box">
+                    <span class="bizu-icon">📐</span>
+                    <span class="bizu-text"><strong>Dica:</strong> Fluxogramas ajudam a enxergar como as premissas se conectam à conclusão. Use para analisar argumentos complexos.</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 8: EXPLORADOR INTERATIVO -->
+        <section class="section sec-tipos" id="explorador">
+            <div class="section-header">
+                <div class="icon-circle">🎮</div>
+                <h2 style="color: var(--purple);">Validador interativo<span class="highlight">Teste a validade de argumentos</span></h2>
+            </div>
+            <div class="interactive-widget" style="border-color: var(--purple);">
+                <h3>🔬 Laboratório de Argumentos</h3>
+                <p class="widget-subtitle">Defina P e Q e veja se o argumento é válido (V) ou inválido (F) para cada estrutura.</p>
+                <div class="toggle-row">
+                    <div class="toggle-group">
+                        <span class="label">P =</span>
+                        <button class="toggle-btn btn-V active" id="pV">V</button>
+                        <button class="toggle-btn btn-F" id="pF">F</button>
+                    </div>
+                    <div class="toggle-group">
+                        <span class="label">Q =</span>
+                        <button class="toggle-btn btn-V active" id="qV">V</button>
+                        <button class="toggle-btn btn-F" id="qF">F</button>
+                    </div>
+                </div>
+                <div class="results-grid">
+                    <div class="result-item" style="border-left-color: var(--green);">
+                        <span class="result-symbol" style="color: var(--green);">P → Q, P ⊢ Q</span>
+                        <span class="result-label">Modus Ponens</span>
+                        <div class="result-value" id="resModusPonens">V</div>
+                    </div>
+                    <div class="result-item" style="border-left-color: var(--red);">
+                        <span class="result-symbol" style="color: var(--red);">P → Q, Q ⊢ P</span>
+                        <span class="result-label">Afirmação do Consequente</span>
+                        <div class="result-value" id="resAfirmConseq">F</div>
+                    </div>
+                    <div class="result-item" style="border-left-color: var(--orange);">
+                        <span class="result-symbol" style="color: var(--orange);">P → Q, ¬Q ⊢ ¬P</span>
+                        <span class="result-label">Modus Tollens</span>
+                        <div class="result-value" id="resModusTollens">V</div>
+                    </div>
+                    <div class="result-item" style="border-left-color: var(--cyan);">
+                        <span class="result-symbol" style="color: var(--cyan);">P ∨ Q, ¬P ⊢ Q</span>
+                        <span class="result-label">Silogismo Disjuntivo</span>
+                        <div class="result-value" id="resSilogDisj">V</div>
+                    </div>
+                </div>
+                <p style="margin-top: 16px; color: var(--text-muted); font-size: 0.85rem;">Compare com as regras: Modus Ponens (válido), Afirmação do Consequente (inválido), Modus Tollens (válido), Silogismo Disjuntivo (válido).</p>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 9: EXERCÍCIOS COM GABARITO -->
+        <section class="section sec-exercicios" id="exercicios">
+            <div class="section-header">
+                <div class="icon-circle">✍️</div>
+                <h2>Exercícios com gabarito<span class="highlight">Pratique agora</span></h2>
+            </div>
+            <div class="card card-accent-pink">
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; margin-bottom: 16px; border: 1px solid var(--border);">
+                    <p style="font-weight: 700; color: var(--text);">1. Classifique como válido ou inválido:</p>
+                    <p>"Todos os pássaros têm asas. João é pássaro. Portanto, João tem asas."</p>
+                    <details style="margin-top: 8px;">
+                        <summary style="cursor: pointer; font-weight: 600; color: var(--blue);">Ver resposta</summary>
+                        <p style="margin-top: 6px; color: var(--green);"><strong>Válido</strong> — a conclusão segue das premissas.</p>
+                    </details>
+                </div>
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; margin-bottom: 16px; border: 1px solid var(--border);">
+                    <p style="font-weight: 700; color: var(--text);">2. Qual a falácia?</p>
+                    <p>"Você não pode confiar no estudo sobre reciclagem porque quem defende reciclagem só quer parecer ecológico."</p>
+                    <details style="margin-top: 8px;">
+                        <summary style="cursor: pointer; font-weight: 600; color: var(--blue);">Ver resposta</summary>
+                        <p style="margin-top: 6px; color: var(--red);"><strong>Ad Hominem</strong> — ataca a pessoa em vez do argumento.</p>
+                    </details>
+                </div>
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; margin-bottom: 16px; border: 1px solid var(--border);">
+                    <p style="font-weight: 700; color: var(--text);">3. Complete o argumento:</p>
+                    <p>Premissa 1: "Se como muito, então ___."</p>
+                    <p>Premissa 2: "___."</p>
+                    <p>Conclusão: "Logo, estou satisfeito."</p>
+                    <details style="margin-top: 8px;">
+                        <summary style="cursor: pointer; font-weight: 600; color: var(--blue);">Ver resposta</summary>
+                        <p style="margin-top: 6px; color: var(--green);"><strong>P1:</strong> "Se como muito, então fico satisfeito." <strong>P2:</strong> "Comi muito."</p>
+                    </details>
+                </div>
+                <div style="background: var(--bg); border-radius: var(--radius-sm); padding: 16px 20px; border: 1px solid var(--border);">
+                    <p style="font-weight: 700; color: var(--text);">4. Identifique o erro:</p>
+                    <p>"Ou você é a favor da pena de morte, ou é contra a justiça."</p>
+                    <details style="margin-top: 8px;">
+                        <summary style="cursor: pointer; font-weight: 600; color: var(--blue);">Ver resposta</summary>
+                        <p style="margin-top: 6px; color: var(--purple);"><strong>Falsa Dicotomia</strong> — apresenta apenas duas opções, ignorando outras possibilidades.</p>
+                    </details>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 10: TABELA COMPARATIVA -->
+        <section class="section sec-tabela" id="tabela">
+            <div class="section-header">
+                <div class="icon-circle">📋</div>
+                <h2>Tabela comparativa<span class="highlight">Conceitos de uma olhada</span></h2>
+            </div>
+            <div class="card card-accent-teal">
+                <div class="truth-table-wrapper">
+                    <table class="truth-table summary-table">
+                        <thead>
+                            <tr><th>Conceito</th><th>Exemplo</th><th>Erro comum</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>Argumento</strong></td><td>"Se estudo, passo. Estudo. Logo, passo."</td><td>Falso dilema (apenas duas opções)</td></tr>
+                            <tr><td><strong>Válido</strong></td><td>"Todos gatos são mamíferos. Bola é gato. → Bola é mamífero."</td><td>Confundir validade com verdade</td></tr>
+                            <tr><td><strong>Inválido</strong></td><td>"Se como, engordo. Engordei. → Comi."</td><td>Afirmação do consequente</td></tr>
+                            <tr><td><strong>Ad Hominem</strong></td><td>Atacar a credibilidade da pessoa</td><td>Debates emocionais</td></tr>
+                            <tr><td><strong>Apelo à emoção</strong></td><td>"Doe porque estou chorando."</td><td>Evidência emocional, não lógica</td></tr>
+                            <tr><td><strong>Todo A é B</strong></td><td>A dentro de B</td><td>Confundir com "Todo B é A"</td></tr>
+                            <tr><td><strong>Nenhum A é B</strong></td><td>Círculos separados</td><td>Achar que pode haver interseção</td></tr>
+                            <tr><td><strong>Algum A é B</strong></td><td>Círculos com interseção</td><td>Interpretar como "apenas alguns"</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEÇÃO 11: COMO ESTUDAR / SEQUÊNCIA -->
+        <section class="section sec-estudo" id="estudo">
+            <div class="section-header">
+                <div class="icon-circle">📚</div>
+                <h2>Como estudar argumentação<span class="highlight">Roteiro passo a passo</span></h2>
+            </div>
+            <div class="step-list">
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h4>Conceitos básicos</h4>
+                        <p>Entenda o que é um argumento (premissas + conclusão).</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h4>Tipos de raciocínio</h4>
+                        <p>Diferencie dedutivo (certeza) de indutivo (probabilidade).</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h4>Validade e solidez</h4>
+                        <p>Pratique identificar argumentos válidos e inválidos.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <h4>Falácias comuns</h4>
+                        <p>Estude ad hominem, apelo à emoção, falsa dicotomia, etc.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">5</div>
+                    <div class="step-content">
+                        <h4>Diagramas lógicos</h4>
+                        <p>Aprenda a desenhar e interpretar diagramas de Venn para silogismos.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">6</div>
+                    <div class="step-content">
+                        <h4>Aplicação prática</h4>
+                        <p>Analise notícias, debates e textos do dia a dia.</p>
+                    </div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">7</div>
+                    <div class="step-content">
+                        <h4>Exercícios</h4>
+                        <p>Resolva questões de concursos e provas de raciocínio lógico.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="quote-block" style="border-left-color: var(--orange); background: rgba(251,146,60,0.06); margin-top: 16px;">
+                "Dominar a argumentação lógica é a base para qualquer decisão racional e para se comunicar com clareza e persuasão."
+                <span class="quote-author">— Dica final</span>
+            </div>
+        </section>
+
+        <!-- FOOTER -->
+        <footer class="footer">
+            <p>🧠 Argumentação Lógica e Diagramas Lógicos</p>
+        </footer>
+
+    </div>
+
+    <!-- MERMAID CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <script>
+        // ===== INICIALIZA MERMAID =====
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof mermaid !== 'undefined') {
+                mermaid.initialize({
+                    startOnLoad: true,
+                    theme: 'dark',
+                    themeVariables: {
+                        background: '#0f1117',
+                        primaryColor: '#60a5fa',
+                        primaryTextColor: '#e2e8f0',
+                        primaryBorderColor: '#1e293b',
+                        lineColor: '#475569',
+                        secondaryColor: '#1e293b',
+                        tertiaryColor: '#0f1117'
+                    }
+                });
+                setTimeout(() => {
+                    mermaid.run({
+                        nodes: document.querySelectorAll('.mermaid')
+                    });
+                }, 400);
+            }
+        });
+
+        // ===== VALIDADOR INTERATIVO =====
+        let p = true;
+        let q = true;
+
+        const pV = document.getElementById('pV');
+        const pF = document.getElementById('pF');
+        const qV = document.getElementById('qV');
+        const qF = document.getElementById('qF');
+
+        const resModusPonens = document.getElementById('resModusPonens');
+        const resAfirmConseq = document.getElementById('resAfirmConseq');
+        const resModusTollens = document.getElementById('resModusTollens');
+        const resSilogDisj = document.getElementById('resSilogDisj');
+
+        function updateToggleButtons() {
+            pV.classList.toggle('active', p === true);
+            pF.classList.toggle('active', p === false);
+            qV.classList.toggle('active', q === true);
+            qF.classList.toggle('active', q === false);
+        }
+
+        function updateResults() {
+            const mp = (!p || q) && p;
+            const mpValido = mp ? (q === true) : false;
+            const ac = (!p || q) && q;
+            const acValido = ac ? (p === true) : false;
+            const mt = (!p || q) && !q;
+            const mtValido = mt ? (p === false) : false;
+            const sd = (p || q) && !p;
+            const sdValido = sd ? (q === true) : false;
+
+            setResult(resModusPonens, mpValido);
+            setResult(resAfirmConseq, acValido);
+            setResult(resModusTollens, mtValido);
+            setResult(resSilogDisj, sdValido);
+        }
+
+        function setResult(element, value) {
+            if (value) {
+                element.textContent = 'V';
+                element.className = 'result-value val-V';
+            } else {
+                element.textContent = 'F';
+                element.className = 'result-value val-F';
+            }
+        }
+
+        pV.addEventListener('click', () => { p = true;
+            updateToggleButtons();
+            updateResults(); });
+        pF.addEventListener('click', () => { p = false;
+            updateToggleButtons();
+            updateResults(); });
+        qV.addEventListener('click', () => { q = true;
+            updateToggleButtons();
+            updateResults(); });
+        qF.addEventListener('click', () => { q = false;
+            updateToggleButtons();
+            updateResults(); });
+
+        updateToggleButtons();
+        updateResults();
+
+        // ===== IFRAME MODE =====
+        if (window.self !== window.top) {
+            document.body.classList.add('iframe-mode');
+        }
+    </script>
+
+</body>
+</html>
