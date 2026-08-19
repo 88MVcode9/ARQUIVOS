@@ -15,7 +15,7 @@
     },
 {
     "conteudo": "negacoes-logicas",
-    "icone": "exchange-alt",
+    "icone": "not-equal",
     "id": "negacoes-logicas",
     "nome": "Negação de Proposições",
     "tipo": "pagina"
