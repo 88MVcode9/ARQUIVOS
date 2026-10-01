@@ -1,4 +1,4 @@
-## No CHATGPT ## */doubleexposure*
+## No CHATGPT */doubleexposure*
 
 
 
