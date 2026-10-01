@@ -1,5 +1,5 @@
-## No CHATGPT */doubleexposure*
-
+## No CHATGPT:
+*/doubleexposure*
 
 
 ## EM OUTRAS IAS ##
