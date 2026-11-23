@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -6,127 +7,253 @@
 <meta name="theme-color" content="#17251d">
 <title>Códigos Q — Guia de Comunicação Rádio</title>
 <style>
-:root{--bg:#0c1410;--panel:#17231b;--panel2:#1e2e23;--line:#354b39;--text:#edf2e9;--muted:#aab8a8;--olive:#a8c76a;--lime:#d1e58b;--red:#e64b4b;--gold:#e5b75d;--blue:#73b8e8;--shadow:0 18px 48px #0005}
-*{box-sizing:border-box}
-body{margin:0;background:radial-gradient(ellipse at 15% 0%,#293c2b 0,transparent 38%),radial-gradient(ellipse at 100% 25%,#30251b 0,transparent 30%),var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-.wrap{max-width:1180px;margin:auto;padding:28px 20px 54px}
-header{position:relative;overflow:hidden;border:1px solid #526548;border-radius:26px;padding:34px clamp(22px,5vw,54px);background:linear-gradient(125deg,#263b2aee,#17241cee 68%,#35271fee);box-shadow:var(--shadow)}
-header:after{content:"";position:absolute;width:260px;height:260px;right:-65px;top:-90px;border:34px solid #ffffff0b;border-radius:50%;box-shadow:0 0 0 28px #ffffff08,0 0 0 58px #ffffff05}
-.kicker{display:inline-flex;align-items:center;gap:9px;text-transform:uppercase;letter-spacing:.16em;font-size:.75rem;font-weight:800;color:var(--lime)}
-.kicker:before{content:"";width:25px;height:3px;background:var(--red);border-radius:3px}
-h1{font-size:clamp(2rem,5vw,3.65rem);line-height:1.05;letter-spacing:-.04em;margin:15px 0 12px;max-width:720px}
-h1 span{color:var(--lime)}
-.lead{color:#c3d0c1;max-width:700px;margin:0;font-size:1.05rem}
-.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px}
-.stat{padding:8px 13px;border:1px solid #ffffff22;background:#ffffff0a;border-radius:10px;color:#dce8d5;font-size:.84rem}
-.stat strong{color:var(--lime);margin-right:5px}
-.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:26px 0 17px}
-.search{flex:1;min-width:220px;position:relative}
-.search input{width:100%;background:#111c15;border:1px solid var(--line);border-radius:13px;padding:14px 16px 14px 45px;color:var(--text);font:inherit;outline:none}
-.search input:focus{border-color:var(--olive);box-shadow:0 0 0 3px #a8c76a20}
-.search:before{content:"⌕";position:absolute;left:16px;top:7px;font-size:1.8rem;color:var(--olive)}
-button{font:inherit;cursor:pointer}
-.action{border:1px solid #617a4e;background:#a8c76a;color:#172218;font-weight:800;padding:13px 17px;border-radius:12px;transition:.2s}
-.action:hover{transform:translateY(-2px);background:#d1e58b}
-.filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 22px}
-.filter{border:1px solid var(--line);background:#17231b;color:#b9c8b5;padding:8px 13px;border-radius:999px;font-size:.85rem}
-.filter.active{background:#a8c76a;color:#172218;border-color:#a8c76a;font-weight:800}
-.section-head{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:25px 0 14px}
-.section-head h2{font-size:1.25rem;margin:0;letter-spacing:-.02em}
-.section-head p{margin:0;color:var(--muted);font-size:.88rem}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:13px}
-.card{position:relative;min-height:145px;padding:17px 18px 18px;border:1px solid #344638;border-radius:17px;background:linear-gradient(145deg,#1b2a20,#142018);box-shadow:0 8px 20px #0002;transition:transform .18s,border-color .18s}
-.card:hover{transform:translateY(-3px);border-color:#78935a}
-.card-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.code{font-size:1.65rem;font-weight:900;letter-spacing:.025em;color:var(--lime);line-height:1.1}
-.tag{font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:#c1d4a0;border:1px solid #536a45;border-radius:7px;padding:4px 7px}
-.meaning{font-size:1.02rem;font-weight:700;margin:13px 0 5px;color:#f3f5ed}
-.detail{font-size:.85rem;color:#aebdad;margin:0}
-.card:before{content:"";position:absolute;left:0;top:18px;bottom:18px;width:3px;border-radius:0 4px 4px 0;background:var(--red);opacity:.9}
-.no-results{display:none;padding:28px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:16px}
-.note{margin-top:25px;padding:17px 19px;border:1px solid #5a4a2b;background:#2a2418;border-radius:15px;color:#e4d5b2;font-size:.9rem}
-.note strong{color:var(--gold)}
-footer{margin-top:30px;padding-top:18px;border-top:1px solid #29372c;color:#879888;font-size:.8rem;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
-@media(max-width:600px){.wrap{padding:14px 12px 35px}header{padding:25px 21px;border-radius:20px}.toolbar{align-items:stretch}.action{width:100%}.section-head{align-items:start;flex-direction:column}.card{min-height:125px}}
-@media print{body{background:#fff;color:#111}.wrap{max-width:none;padding:0}header{background:#fff;color:#111;box-shadow:none;border:1px solid #aaa}h1 span,.kicker,.code{color:#273d25}.lead,.stat,.section-head p,.detail,footer{color:#333}.stat{border-color:#aaa;background:#fff}.toolbar,.filters{display:none}.grid{grid-template-columns:repeat(3,1fr);gap:8px}.card{background:#fff;color:#111;border:1px solid #aaa;box-shadow:none;break-inside:avoid;min-height:110px}.meaning{color:#111}.tag{color:#333;border-color:#aaa}.note{background:#fff;color:#333;border-color:#aaa}}
+:root {
+  --bg: #0c1410;
+  --panel: #17231b;
+  --panel2: #1e2e23;
+  --line: #354b39;
+  --text: #edf2e9;
+  --muted: #aab8a8;
+  --olive: #a8c76a;
+  --lime: #d1e58b;
+  --red: #e64b4b;
+  --gold: #e5b75d;
+  --blue: #73b8e8;
+  --shadow: 0 18px 48px #0005;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(ellipse at 15% 0%, #293c2b 0, transparent 38%),
+              radial-gradient(ellipse at 100% 25%, #30251b 0, transparent 30%),
+              var(--bg);
+  color: var(--text);
+  font: 16px/1.55 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.wrap {
+  max-width: 1180px;
+  margin: auto;
+  padding: 28px 20px 54px;
+}
+
+/* Barra de pesquisa */
+.toolbar {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin: 0 0 24px;
+}
+
+.search {
+  flex: 1;
+  position: relative;
+}
+
+.search input {
+  width: 100%;
+  background: #111c15;
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  padding: 15px 16px 15px 46px;
+  color: var(--text);
+  font: inherit;
+  outline: none;
+  box-shadow: 0 8px 24px #0003;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.search input:focus {
+  border-color: var(--olive);
+  box-shadow: 0 0 0 3px #a8c76a25, 0 8px 24px #0004;
+}
+
+.search:before {
+  content: "⌕";
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  font-size: 1.8rem;
+  color: var(--olive);
+  pointer-events: none;
+}
+
+/* Grade e cartões dos códigos */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+  gap: 13px;
+}
+
+.card {
+  position: relative;
+  min-height: 145px;
+  padding: 17px 18px 18px;
+  border: 1px solid #344638;
+  border-radius: 17px;
+  background: linear-gradient(145deg, #1b2a20, #142018);
+  box-shadow: 0 8px 20px #0002;
+  transition: transform 0.18s, border-color 0.18s;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: #78935a;
+}
+
+.card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.code {
+  font-size: 1.65rem;
+  font-weight: 900;
+  letter-spacing: 0.025em;
+  color: var(--lime);
+  line-height: 1.1;
+}
+
+.tag {
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #c1d4a0;
+  border: 1px solid #536a45;
+  border-radius: 7px;
+  padding: 4px 7px;
+}
+
+.meaning {
+  font-size: 1.02rem;
+  font-weight: 700;
+  margin: 13px 0 5px;
+  color: #f3f5ed;
+}
+
+.detail {
+  font-size: 0.85rem;
+  color: #aebdad;
+  margin: 0;
+}
+
+.card:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 18px;
+  bottom: 18px;
+  width: 3px;
+  border-radius: 0 4px 4px 0;
+  background: var(--red);
+  opacity: 0.9;
+}
+
+.no-results {
+  display: none;
+  padding: 28px;
+  text-align: center;
+  color: var(--muted);
+  border: 1px dashed var(--line);
+  border-radius: 16px;
+}
+
+@media (max-width: 600px) {
+  .wrap {
+    padding: 16px 12px 35px;
+  }
+  .card {
+    min-height: 125px;
+  }
+}
 </style>
 </head>
 <body>
 <div class="wrap">
-<header>
-  <div class="kicker">Manual de comunicação • referência rápida</div>
-  <h1>CÓDIGOS <span>Q</span><br>de rádio</h1>
-  <p class="lead">Guia visual de códigos e abreviações usados na comunicação via rádio. Consulte, pesquise e revise os significados em poucos segundos.</p>
-  <div class="stats"><div class="stat"><strong id="total">—</strong> códigos catalogados</div><div class="stat"><strong>01</strong> guia de consulta</div><div class="stat">Padrão visual tático</div></div>
-</header>
-<div class="toolbar">
-  <div class="search"><input id="search" type="search" placeholder="Pesquisar código ou significado (ex.: QTH, localização)…" aria-label="Pesquisar código ou significado"></div>
-  <button class="action" onclick="window.print()">⤓ Salvar / imprimir em PDF</button>
+  <!-- Barra de pesquisa isolada -->
+  <div class="toolbar">
+    <div class="search">
+      <input id="search" type="search" placeholder="Pesquisar código ou significado (ex.: QSL, QTH, localização)…" aria-label="Pesquisar código ou significado">
+    </div>
+  </div>
+
+  <!-- Grade de cartões -->
+  <div class="grid" id="grid"></div>
+  <div class="no-results" id="empty">Nenhum código encontrado. Tente outra palavra ou código.</div>
 </div>
-<div class="filters" id="filters">
-  <button class="filter active" data-filter="all">Todos</button>
-  <button class="filter" data-filter="Q">Códigos Q</button>
-  <button class="filter" data-filter="radio">Comunicação</button>
-  <button class="filter" data-filter="operacional">Operacional</button>
-  <button class="filter" data-filter="apoio">Apoio / outros</button>
-</div>
-<div class="section-head"><h2>Lista de códigos</h2><p id="count">Mostrando todos os códigos</p></div>
-<div class="grid" id="grid"></div>
-<div class="no-results" id="empty">Nenhum código encontrado. Tente outra palavra ou código.</div>
-<div class="note"><strong>Nota de referência:</strong> alguns códigos aparecem com significados diferentes nas imagens enviadas, conforme o contexto ou a tabela utilizada. Quando houver variação, ela foi indicada no cartão. Em serviço real, siga o padrão e os procedimentos adotados pela sua instituição.</div>
-<footer><span>GUIA DE BOLSO • COMUNICAÇÃO RÁDIO</span><span>Material de consulta baseado nas imagens fornecidas</span></footer>
-</div>
+
 <script>
-const entries=[
-["QAP","Na escuta; fique na escuta.","Manter-se atento ao canal.","radio"],
-["QAR","Desligar / abandonar a escuta.","Encerrar a escuta do canal.","radio"],
-["QRA","Qual é o seu nome? / nome.","Identificação do operador.","radio"],
-["QRX","Aguarde um instante / aguardar.","Pausa breve antes de continuar.","radio"],
-["QRL","Estou ocupado; não interfira.","A imagem indica: quase não usado.","radio"],
-["QRZ","Quem me chama?","Pergunta sobre a estação chamadora.","radio"],
-["QSO","Contato / comunicação com outra estação.","Solicitar permissão para falar com alguém; “fazer QSO”.","radio"],
-["QRV","Estou pronto / às ordens.","Também aparece como “tenho QTC para você” ou “estou à disposição”.","radio"],
-["QTC","Mensagem; tenho mensagem para você.","Informação ou mensagem a transmitir.","radio"],
-["QTH","Local onde você está? / local, endereço.","Usado para perguntar ou informar localização.","operacional"],
-["QSL","Positivo; entendido; recebi.","Confirmação de recebimento/compreensão.","radio"],
-["QRU","Nada mais tenho a transmitir.","Em outra tabela: novidade ou problema. O sentido pode variar conforme o padrão local.","radio"],
-["QTA","Cancele tudo o que falei / cancelar última informação.","Na primeira imagem: “última forma”.","radio"],
-["QTO","Banheiro / sanitário.","Local de necessidade fisiológica.","operacional"],
-["QRF","Finalizando transmissão.","Conforme a primeira imagem enviada.","radio"],
-["QSZ","Repita a QTC, uma vez.","Solicitação para repetir a mensagem.","radio"],
-["QRS","Transmita mais devagar.","Reduzir a velocidade da transmissão.","radio"],
-["QRQ","Transmita mais depressa.","Aumentar a velocidade da transmissão.","radio"],
-["QSY","Mudança de frequência de rádio.","Mudar para outra frequência.","radio"],
-["QRT","Desligar rádio / encerrar transmissão.","Também descrito como informar que a comunicação está sendo encerrada.","radio"],
-["QSP","Ponte; transmita esta QTC para…","Retransmitir mensagem a outra estação.","radio"],
-["QTI","Deslocamento; para onde devo ir?","Indicação/pergunta sobre destino.","operacional"],
-["QNT","A que horas você saiu de…","Horário de saída de um local.","operacional"],
-["QTJ","Qual é a sua velocidade?","Pergunta sobre velocidade.","operacional"],
-["QSA","Inteligibilidade do sinal (compreensão).","Avaliação da compreensão do sinal.","radio"],
-["QRK","Intensidade do som (está audível).","Avaliação da audibilidade/clareza do sinal.","radio"],
-["QSM","Devo repetir minha última QTC? / repetir.","Na primeira imagem: “Devo repetir minha última QTC?”; na segunda: “Repetir”.","radio"],
-["QSV (VTR)","Viatura.","Abreviação indicada na segunda imagem.","operacional"],
-["QTR","Horário exato.","Indicação de hora exata.","operacional"],
-["QTU","Horário.","Indicação de horário.","operacional"],
-["QTY","A caminho.","Indica deslocamento a caminho.","operacional"],
-["NIL / NIHil","Nada.","Código apresentado na segunda imagem.","apoio"],
-["TKS","Obrigado.","Agradecimento.","apoio"],
-["QSJ","Dinheiro.","Abreviação indicada na primeira imagem.","apoio"],
-["KMI","Kilometragem inicial.","Registro de quilometragem no início.","operacional"],
-["KMF","Kilometragem final.","Registro de quilometragem no fim.","operacional"]
+// Lista completa de códigos Q e abreviações
+const entries = [
+  ["QAP", "Na escuta; fique na escuta.", "Manter-se atento ao canal.", "radio"],
+  ["QAR", "Desligar / abandonar a escuta.", "Encerrar a escuta do canal.", "radio"],
+  ["QRA", "Qual é o seu nome? / nome.", "Identificação do operador.", "radio"],
+  ["QRX", "Aguarde um instante / aguardar.", "Pausa breve antes de continuar.", "radio"],
+  ["QRL", "Estou ocupado; não interfira.", "A imagem indica: quase não usado.", "radio"],
+  ["QRZ", "Quem me chama?", "Pergunta sobre a estação chamadora.", "radio"],
+  ["QSO", "Contato / comunicação com outra estação.", "Solicitar permissão para falar com alguém; “fazer QSO”.", "radio"],
+  ["QRV", "Estou pronto / às ordens.", "Também aparece como “tenho QTC para você” ou “estou à disposição”.", "radio"],
+  ["QTC", "Mensagem; tenho mensagem para você.", "Informação ou mensagem a transmitir.", "radio"],
+  ["QTH", "Local onde você está? / local, endereço.", "Usado para perguntar ou informar localização.", "operacional"],
+  ["QSL", "Positivo; entendido; recebi.", 'QSL significa "entendido" ou "mensagem recebida e compreendida".', "radio"],
+  ["QRU", "Nada mais tenho a transmitir.", "Em outra tabela: novidade ou problema. O sentido pode variar conforme o padrão local.", "radio"],
+  ["QTA", "Cancele tudo o que falei / cancelar última informação.", "Na primeira imagem: “última forma”.", "radio"],
+  ["QTO", "Banheiro / sanitário.", "Local de necessidade fisiológica.", "operacional"],
+  ["QRF", "Finalizando transmissão.", "Conforme a primeira imagem enviada.", "radio"],
+  ["QSZ", "Repita a QTC, uma vez.", "Solicitação para repetir a mensagem.", "radio"],
+  ["QRS", "Transmita mais devagar.", "Reduzir a velocidade da transmissão.", "radio"],
+  ["QRQ", "Transmita mais depressa.", "Aumentar a velocidade da transmissão.", "radio"],
+  ["QSY", "Mudança de frequência de rádio.", "Mudar para outra frequência.", "radio"],
+  ["QRT", "Desligar rádio / encerrar transmissão.", "Também descrito como informar que a comunicação está sendo encerrada.", "radio"],
+  ["QSP", "Ponte; transmita esta QTC para…", "Retransmitir mensagem a outra estação.", "radio"],
+  ["QTI", "Deslocamento; para onde devo ir?", "Indicação/pergunta sobre destino.", "operacional"],
+  ["QNT", "A que horas você saiu de…", "Horário de saída de um local.", "operacional"],
+  ["QTJ", "Qual é a sua velocidade?", "Pergunta sobre velocidade.", "operacional"],
+  ["QSA", "Inteligibilidade do sinal (compreensão).", "Avaliação da compreensão do sinal.", "radio"],
+  ["QRK", "Intensidade do som (está audível).", "Avaliação da audibilidade/clareza do sinal.", "radio"],
+  ["QSM", "Devo repetir minha última QTC? / repetir.", "Na primeira imagem: “Devo repetir minha última QTC?”; na segunda: “Repetir”.", "radio"],
+  ["QSV (VTR)", "Viatura.", "Abreviação indicada na segunda imagem.", "operacional"],
+  ["QTR", "Horário exato.", "Indicação de hora exata.", "operacional"],
+  ["QTU", "Horário.", "Indicação de horário.", "operacional"],
+  ["QTY", "A caminho.", "Indica deslocamento a caminho.", "operacional"],
+  ["NIL / NIHil", "Nada.", "Código apresentado na segunda imagem.", "apoio"],
+  ["TKS", "Obrigado.", "Agradecimento.", "apoio"],
+  ["QSJ", "Dinheiro.", "Abreviação indicada na primeira imagem.", "apoio"],
+  ["KMI", "Kilometragem inicial.", "Registro de quilometragem no início.", "operacional"],
+  ["KMF", "Kilometragem final.", "Registro de quilometragem no fim.", "operacional"]
 ];
-const grid=document.getElementById('grid'), search=document.getElementById('search'), count=document.getElementById('count'), empty=document.getElementById('empty');
-let filter='all';
-document.getElementById('total').textContent=entries.length;
-function render(){
- const q=search.value.trim().toLowerCase();
- const shown=entries.filter(e=>(filter==='all'||filter==='Q'||e[3]===filter)&&(filter!=='Q'||e[0].startsWith('Q'))&&e.slice(0,3).join(' ').toLowerCase().includes(q));
- grid.innerHTML=shown.map(e=>`<article class="card"><div class="card-top"><div class="code">${e[0]}</div><span class="tag">${e[3]==='radio'?'Rádio':e[3]==='operacional'?'Operacional':'Apoio'}</span></div><div class="meaning">${e[1]}</div><p class="detail">${e[2]}</p></article>`).join('');
- count.textContent=`Exibindo ${shown.length} de ${entries.length} códigos`;
- empty.style.display=shown.length?'none':'block';
+
+const grid = document.getElementById('grid');
+const search = document.getElementById('search');
+const empty = document.getElementById('empty');
+
+// Renderiza e filtra os cartões em tempo real conforme a busca
+function render() {
+  const q = search.value.trim().toLowerCase();
+  const shown = entries.filter(e => e.slice(0, 3).join(' ').toLowerCase().includes(q));
+
+  grid.innerHTML = shown.map(e => `
+    <article class="card">
+      <div class="card-top">
+        <div class="code">${e[0]}</div>
+        <span class="tag">${e[3] === 'radio' ? 'Rádio' : e[3] === 'operacional' ? 'Operacional' : 'Apoio'}</span>
+      </div>
+      <div class="meaning">${e[1]}</div>
+      <p class="detail">${e[2]}</p>
+    </article>
+  `).join('');
+
+  empty.style.display = shown.length ? 'none' : 'block';
 }
-search.addEventListener('input',render);
-document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{filter=b.dataset.filter;document.querySelectorAll('.filter').forEach(x=>x.classList.toggle('active',x===b));render()}));
+
+search.addEventListener('input', render);
 render();
 </script>
 </body>
