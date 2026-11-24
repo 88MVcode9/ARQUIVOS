@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cronograma PMPE 2026</title>
+<style>
+:root{--bg:#f3f5f1;--card:#fff;--ink:#1c2a22;--mute:#5d6b63;--line:#d9dfd8;--acc:#1f4d3a;--accb:#e3efe8;--done:#8a978f;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121915;--card:#1b251f;--ink:#e6ede8;--mute:#9aa8a0;--line:#2c3a32;--acc:#7fd0a6;--accb:#203a2d;--done:#6b7a71;color-scheme:dark}}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Georgia,"Times New Roman",serif}
+main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:1.5rem;margin:0 0 4px}
+.sub{color:var(--mute);font:0.9rem system-ui,sans-serif;margin:0 0 16px}
+.bar{height:8px;background:var(--line);border-radius:4px;overflow:hidden;margin:0 0 4px}
+.bar i{display:block;height:100%;width:0;background:var(--acc);transition:width .3s}
+.pct{font:0.8rem system-ui,sans-serif;color:var(--mute);margin:0 0 16px}
+nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:8px;margin-bottom:12px}
+nav button{flex:none;min-width:44px;min-height:44px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;font:600 0.9rem system-ui,sans-serif;cursor:pointer}
+nav button[aria-selected="true"]{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+button:focus-visible,input:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+h2{font-size:1.15rem;margin:8px 0 10px}
+ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+li label{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px;cursor:pointer}
+li input{width:22px;height:22px;margin-top:2px;flex:none;accent-color:var(--acc)}
+li b{display:block;font:700 0.8rem system-ui,sans-serif;color:var(--acc)}
+li span{display:block}
+li.d label{background:var(--accb)}
+li.d span{color:var(--done);text-decoration:line-through}
+li.p label{border-color:var(--acc)}
+</style>
+</head>
+<body>
+<main>
+<h1>Cronograma PMPE 2026</h1>
+<p class="sub">Prova em 21/02/2027 · 1 matéria por dia · Edital 001/2026, Instituto AOCP</p>
+<div class="bar"><i id="fill"></i></div>
+<p class="pct" id="pct"></p>
+<nav id="tabs" role="tablist" aria-label="Semanas"></nav>
+<h2 id="wt"></h2>
+<ul id="list"></ul>
+</main>
+<script>
+var D=["Seg · Português","Ter · Dir. Constitucional","Qua · Raciocínio Lógico","Qui · História de PE","Sex · Direitos Humanos","Sáb · Informática","Dom · Redação"];
+var W=[
+["Interpretação de texto; tipologias e gêneros textuais","Direitos fundamentais: Art. 5º, incisos I a XL (vida, igualdade, liberdade, domicílio, sigilos)","Proposições simples e compostas; conectivos lógicos; tabela-verdade","Capitania de Duarte Coelho; economia açucareira e escravidão","Teoria geral dos Direitos Humanos; gerações/dimensões; DUDH (1948)","Hardware e software; Windows 10/11; pastas e arquivos","Estrutura dissertativa de 20 linhas; Redação 01; revisão"],
+["Ortografia oficial; acentuação gráfica; formação de palavras","Direitos fundamentais: Art. 5º, incisos XLI a LXXIX (garantias penais, extradição, remédios constitucionais)","Tautologia, contradição e contingência; negação de proposições compostas (De Morgan)","Invasões holandesas; Maurício de Nassau; Insurreição Pernambucana","Hierarquia dos tratados de DH (Art. 5º, §§ 2º e 3º); Lei de Tortura (9.455/97)","Segurança da informação: princípios (CID); malwares (vírus, worm, trojan, ransomware)","Revisão das semanas 1–2; Simulado 01; Redação 02"],
+["Classes variáveis: substantivo, adjetivo, artigo, numeral, pronomes pessoais e demonstrativos","Direitos sociais (Arts. 6º a 11); Nacionalidade (Arts. 12 e 13)","Equivalências lógicas (contrapositiva e disjuntiva da condicional)","Crise do sistema colonial; Guerra dos Mascates (1710–1711)","Lei de Drogas (11.343/06), arts. 28 a 47","Ataques virtuais (phishing, spoofing, engenharia social, DoS/DDoS); firewall; antivírus; backup","Revisão de Constitucional e Drogas; Redação 03"],
+["Pronomes relativos; verbos (tempos, modos, vozes verbais)","Direitos políticos (Arts. 14 a 16); partidos políticos (Art. 17)","Validade de argumentos; silogismos; diagramas lógicos (Todo, Algum, Nenhum)","Revolução Pernambucana de 1817","Estatuto do Desarmamento (10.826/03)","Microsoft Word: atalhos, guias, mala direta, cabeçalho/rodapé, controle de alterações","Revisão do 1º mês; Simulado 02; Redação 04 (50 min)"],
+["Advérbio; preposição; conjunções coordenativas e subordinativas","Administração Pública: Art. 37 (princípios LIMPE, cargos, acumulação, concursos)","Negação de quantificadores; raciocínio sequencial e associação lógica","Independência em PE; Confederação do Equador (1824)","Lei Maria da Penha (11.340/06)","Excel: referências relativas/absolutas; SOMA, MÉDIA, MÁXIMO, MÍNIMO, SE, CONT.SE","Revisão de conjunções e tabelas-verdade; Redação 05"],
+["Sintaxe da oração: sujeito e predicado; termos integrantes e acessórios","Militares dos Estados (Art. 42); organização dos Poderes","Conjuntos numéricos; operações com conjuntos; problemas com diagramas","Revolução Praieira (1848)","Lei de Abuso de Autoridade (13.869/19)","Redes; Internet, Intranet e Extranet; protocolos (HTTP/HTTPS, TCP/IP, DNS); navegadores","Revisão das leis especiais; Simulado 03; Redação 06"],
+["Período composto: orações coordenadas e subordinadas (substantivas, adjetivas, adverbiais)","Segurança Pública: Art. 144 (PM, PC, PF, PRF, Polícias Penais, Guardas)","Análise combinatória: contagem, permutação, arranjo, combinação","Primeira República: Coronelismo; Recife; Cangaço (Lampião)","ECA (8.069/90): ato infracional, direitos individuais, medidas socioeducativas","Correio eletrônico (CC/CCO); computação em nuvem (IaaS, PaaS, SaaS)","Revisão do Art. 144 e da História republicana; Redação 07"],
+["Pontuação (vírgula); crase; concordância verbal e nominal","Revisão dos Arts. 5º, 12, 14, 37, 42 e 144","Probabilidade básica; razão e proporção; regra de três simples e composta","Pernambuco contemporâneo: Era Vargas; Movimento Armorial (Ariano Suassuna); cultura pernambucana","Crimes Hediondos (8.072/90); Estatuto dos Militares de PE (Lei 6.783/74)","Revisão de atalhos (Windows, Word, Excel, navegadores)","Simulado 04; Redação 08 em condições reais"],
+["Regência verbal e nominal; colocação pronominal; funções do “QUE” e do “SE”","Revisão do Art. 5º e remédios constitucionais","Revisão de equivalências, negações e diagramas (refazer erros das semanas 1–8)","Revisão comparativa: Pernambuco Holandês, Insurreição e revoluções (1710, 1817, 1824, 1848)","Revisão: Drogas, Desarmamento, Maria da Penha","Revisão de segurança da informação (malwares e ataques); fórmulas do Excel","Esqueleto de redação (3 temas em 15 min); Redação 09"],
+["Reescrita de frases; paralelismo sintático; coesão e coerência","Revisão: Nacionalidade, Direitos Políticos, Art. 37, Art. 42, Art. 144","Revisão: análise combinatória, probabilidade e porcentagem","Revisão de História de PE na República + questões de concursos de Pernambuco","Revisão: Tortura, Abuso de Autoridade, ECA, Hediondos, Estatuto dos Militares de PE","Simulado temático (Windows, Office, Redes, Nuvem)","Simulado 05; Redação 10; análise de desempenho por bloco"],
+["Revisão de vírgula, crase, concordância e conjunções; 2 provas completas da AOCP","Caderno de erros; incisos mais cobrados do Art. 5º","2 provas completas de RLM da AOCP (3 min por questão)","Resumos esquematizados de História de PE","Caderno de erros de Legislação Extravagante e DH (penas e prazos)","Caderno de erros; extensões de arquivos e atalhos","Simulado Final 06; Redação 11"],
+["Revisão leve de conjunções e crase","Leitura calma do Art. 5º (remédios e garantias) e do Art. 144","Folha-resumo de tabelas-verdade, negações e equivalências","Linha do tempo de Pernambuco (1534 a 1970)","Anotações das leis especiais (Drogas, Desarmamento, Maria da Penha, Abuso)","Véspera: revisão leve do esqueleto da redação; resto do dia livre","PROVA (21/02/2027)"]
+];
+var KEY="pmpe2026",S={},cur=0,tabs=document.getElementById("tabs"),list=document.getElementById("list");
+try{S=JSON.parse(localStorage.getItem(KEY)||"{}")||{}}catch(e){S={}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+function prog(){var n=0;for(var k in S)if(S[k])n++;var t=W.length*7;document.getElementById("fill").style.width=(n/t*100)+"%";document.getElementById("pct").textContent=n+" de "+t+" dias concluídos"}
+function weekDone(w){for(var d=0;d<7;d++)if(!S[w+"-"+d])return false;return true}
+function render(){
+document.getElementById("wt").textContent="Semana "+(cur+1)+(cur==11?" — semana da prova":"");
+list.innerHTML="";
+W[cur].forEach(function(t,d){
+var id=cur+"-"+d,li=document.createElement("li");
+if(S[id])li.className="d";
+var lb=document.createElement("label"),cb=document.createElement("input");
+cb.type="checkbox";cb.checked=!!S[id];
+cb.onchange=function(){S[id]=cb.checked;save();li.className=cb.checked?"d":"";prog();tabsRender()};
+var box=document.createElement("div"),b=document.createElement("b"),s=document.createElement("span");
+b.textContent=D[d];s.textContent=t;box.appendChild(b);box.appendChild(s);
+lb.appendChild(cb);lb.appendChild(box);li.appendChild(lb);list.appendChild(li)});
+prog();tabsRender()}
+function tabsRender(){
+tabs.innerHTML="";
+W.forEach(function(_,i){
+var b=document.createElement("button");
+b.textContent=weekDone(i)?(i+1)+" ✓":(i+1);
+b.setAttribute("role","tab");b.setAttribute("aria-selected",i==cur);
+b.setAttribute("aria-label","Semana "+(i+1));
+b.onclick=function(){cur=i;render()};tabs.appendChild(b)})}
+render();
+</script>
+</body>
+</html>
